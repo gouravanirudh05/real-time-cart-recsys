@@ -1,0 +1,151 @@
+restaurant_id,name,cuisine,price_range,city,zone,rating,is_chain,top_dish_families,avg_delivery_time_min,total_orders_last_30d
+R0001,Biryani Place 1,Biryani,mid,Hyderabad,Hyderabad_Z1,3.8,False,Gulab Jamun|Biryani|Kebab|Salan|Raita,28,1113
+R0002,Fast Food Place 2,Fast Food,budget,Kolkata,Kolkata_Z5,4.6,True,Fries|Soft Drink|Milkshake|Wrap|Burger,59,564
+R0003,Street Food Place 3,Street Food,premium,Delhi,Delhi_Z4,3.8,True,Samosa|Bhel Puri|Chaat|Vada Pav|Pav Bhaji,21,2467
+R0004,Fast Food Place 4,Fast Food,premium,Delhi,Delhi_Z2,4.1,False,Burger|Soft Drink|Milkshake|Nuggets|Wrap,34,2197
+R0005,South Indian Place 5,South Indian,budget,Hyderabad,Hyderabad_Z5,4.7,False,Rice|Filter Coffee|Dosa|Idli|Sambar,39,1286
+R0006,South Indian Place 6,South Indian,premium,Chennai,Chennai_Z3,3.6,False,Rasam|Filter Coffee|Rice|Chutney|Dosa,30,57
+R0007,Healthy Place 7,Healthy,budget,Pune,Pune_Z5,4.6,True,Oats|Fruit Bowl|Wrap|Salad|Quinoa Bowl,29,1401
+R0008,Street Food Place 8,Street Food,mid,Hyderabad,Hyderabad_Z1,3.5,True,Samosa|Pani Puri|Vada Pav|Pav Bhaji|Chaat,51,1579
+R0009,Italian Place 9,Italian,mid,Bangalore,Bangalore_Z3,4.4,False,Pasta|Garlic Bread|Pizza|Risotto|Tiramisu,21,1098
+R0010,Beverages Place 10,Beverages,mid,Pune,Pune_Z5,4.5,False,Soft Drink|Lassi|Coffee|Chai|Juice,42,642
+R0011,North Indian Place 11,North Indian,premium,Chennai,Chennai_Z3,4.1,False,Pickle|Curry|Bread|Raita|Dal,22,2687
+R0012,Italian Place 12,Italian,mid,Chennai,Chennai_Z3,4.1,False,Pizza|Garlic Bread|Risotto|Pasta|Tiramisu,56,1827
+R0013,Healthy Place 13,Healthy,budget,Pune,Pune_Z5,3.6,False,Quinoa Bowl|Salad|Fruit Bowl|Wrap|Oats,46,2802
+R0014,Biryani Place 14,Biryani,mid,Delhi,Delhi_Z2,3.7,False,Salan|Biryani|Raita|Kebab|Shorba,54,2363
+R0015,Healthy Place 15,Healthy,budget,Chennai,Chennai_Z4,3.9,True,Wrap|Oats|Quinoa Bowl|Salad|Smoothie,38,1145
+R0016,Biryani Place 16,Biryani,mid,Delhi,Delhi_Z2,3.8,True,Salan|Raita|Gulab Jamun|Shorba|Biryani,24,2667
+R0017,Beverages Place 17,Beverages,mid,Delhi,Delhi_Z5,4.1,True,Coffee|Juice|Water|Soft Drink|Chai,56,1539
+R0018,Street Food Place 18,Street Food,budget,Pune,Pune_Z3,4.1,True,Pani Puri|Vada Pav|Pav Bhaji|Bhel Puri|Samosa,30,869
+R0019,South Indian Place 19,South Indian,mid,Kolkata,Kolkata_Z5,4.9,False,Filter Coffee|Dosa|Idli|Rasam|Rice,53,1252
+R0020,Fast Food Place 20,Fast Food,budget,Kolkata,Kolkata_Z5,4.6,True,Nuggets|Wrap|Burger|Soft Drink|Fries,51,867
+R0021,Street Food Place 21,Street Food,mid,Hyderabad,Hyderabad_Z1,4.4,False,Pav Bhaji|Pani Puri|Bhel Puri|Vada Pav|Samosa,45,1321
+R0022,North Indian Place 22,North Indian,budget,Delhi,Delhi_Z2,3.6,False,Dal|Paneer Dish|Pickle|Rice|Raita,29,1168
+R0023,Healthy Place 23,Healthy,premium,Chennai,Chennai_Z1,4.8,False,Fruit Bowl|Quinoa Bowl|Wrap|Oats|Smoothie,43,1100
+R0024,North Indian Place 24,North Indian,mid,Delhi,Delhi_Z1,4.6,False,Rice|Bread|Paneer Dish|Dal|Curry,44,675
+R0025,Italian Place 25,Italian,mid,Kolkata,Kolkata_Z3,4.9,False,Tiramisu|Risotto|Pizza|Garlic Bread|Pasta,43,1465
+R0026,Desserts Place 26,Desserts,budget,Delhi,Delhi_Z1,5.0,True,Brownie|Cake|Kheer|Gulab Jamun|Ice Cream,56,1721
+R0027,Street Food Place 27,Street Food,mid,Bangalore,Bangalore_Z2,4.1,True,Pani Puri|Samosa|Bhel Puri|Vada Pav|Pav Bhaji,42,931
+R0028,North Indian Place 28,North Indian,mid,Mumbai,Mumbai_Z3,4.9,False,Rice|Curry|Raita|Paneer Dish|Bread,50,1660
+R0029,South Indian Place 29,South Indian,premium,Hyderabad,Hyderabad_Z3,4.4,True,Sambar|Dosa|Filter Coffee|Chutney|Rasam,54,1008
+R0030,Beverages Place 30,Beverages,mid,Delhi,Delhi_Z4,4.8,False,Chai|Soft Drink|Lassi|Water|Coffee,44,2072
+R0031,Street Food Place 31,Street Food,budget,Mumbai,Mumbai_Z2,4.9,False,Bhel Puri|Chaat|Vada Pav|Pani Puri|Samosa,32,1780
+R0032,Desserts Place 32,Desserts,mid,Delhi,Delhi_Z1,4.5,True,Brownie|Gulab Jamun|Cake|Pastry|Ice Cream,34,1355
+R0033,South Indian Place 33,South Indian,budget,Pune,Pune_Z4,3.8,False,Rice|Sambar|Chutney|Dosa|Filter Coffee,24,1566
+R0034,Biryani Place 34,Biryani,budget,Delhi,Delhi_Z4,3.6,False,Salan|Gulab Jamun|Raita|Biryani|Kebab,26,1486
+R0035,Chinese Place 35,Chinese,budget,Kolkata,Kolkata_Z3,4.3,False,Soup|Noodles|Dimsum|Manchurian|Fried Rice,37,2338
+R0036,Healthy Place 36,Healthy,premium,Delhi,Delhi_Z2,4.8,False,Salad|Fruit Bowl|Smoothie|Quinoa Bowl|Oats,53,381
+R0037,Street Food Place 37,Street Food,mid,Hyderabad,Hyderabad_Z3,4.9,True,Bhel Puri|Pav Bhaji|Vada Pav|Pani Puri|Samosa,53,860
+R0038,Desserts Place 38,Desserts,premium,Kolkata,Kolkata_Z4,3.5,False,Brownie|Pastry|Cake|Gulab Jamun|Kheer,29,2120
+R0039,North Indian Place 39,North Indian,budget,Delhi,Delhi_Z5,3.8,False,Bread|Raita|Paneer Dish|Pickle|Rice,36,71
+R0040,Fast Food Place 40,Fast Food,mid,Delhi,Delhi_Z3,3.7,True,Nuggets|Burger|Fries|Milkshake|Wrap,51,2414
+R0041,Healthy Place 41,Healthy,budget,Hyderabad,Hyderabad_Z4,3.6,False,Wrap|Salad|Smoothie|Quinoa Bowl|Fruit Bowl,58,819
+R0042,North Indian Place 42,North Indian,mid,Delhi,Delhi_Z5,4.1,False,Curry|Pickle|Raita|Dal|Rice,37,2687
+R0043,Beverages Place 43,Beverages,budget,Chennai,Chennai_Z5,4.2,False,Soft Drink|Lassi|Water|Coffee|Chai,24,1222
+R0044,Desserts Place 44,Desserts,mid,Chennai,Chennai_Z2,3.8,True,Gulab Jamun|Kheer|Brownie|Cake|Ice Cream,52,1475
+R0045,Biryani Place 45,Biryani,mid,Hyderabad,Hyderabad_Z1,4.2,False,Gulab Jamun|Kebab|Shorba|Biryani|Raita,45,2409
+R0046,Italian Place 46,Italian,budget,Mumbai,Mumbai_Z1,4.6,False,Risotto|Pasta|Pizza|Garlic Bread|Tiramisu,41,1574
+R0047,South Indian Place 47,South Indian,mid,Delhi,Delhi_Z4,4.1,False,Sambar|Chutney|Rasam|Rice|Filter Coffee,45,1985
+R0048,Desserts Place 48,Desserts,mid,Mumbai,Mumbai_Z2,4.0,True,Ice Cream|Cake|Pastry|Brownie|Gulab Jamun,23,2592
+R0049,Chinese Place 49,Chinese,mid,Hyderabad,Hyderabad_Z5,5.0,True,Noodles|Fried Rice|Soup|Dimsum|Spring Roll,24,966
+R0050,Biryani Place 50,Biryani,premium,Chennai,Chennai_Z2,4.8,True,Raita|Shorba|Gulab Jamun|Kebab|Salan,34,2508
+R0051,Fast Food Place 51,Fast Food,mid,Pune,Pune_Z3,3.8,True,Fries|Burger|Nuggets|Wrap|Milkshake,38,1002
+R0052,Chinese Place 52,Chinese,budget,Mumbai,Mumbai_Z4,4.3,False,Noodles|Soup|Dimsum|Spring Roll|Manchurian,45,777
+R0053,Desserts Place 53,Desserts,mid,Pune,Pune_Z3,3.8,False,Brownie|Kheer|Pastry|Cake|Ice Cream,22,943
+R0054,Biryani Place 54,Biryani,mid,Chennai,Chennai_Z3,4.4,False,Shorba|Biryani|Raita|Gulab Jamun|Kebab,24,2354
+R0055,South Indian Place 55,South Indian,mid,Bangalore,Bangalore_Z5,4.6,False,Chutney|Sambar|Filter Coffee|Rasam|Idli,32,2133
+R0056,Desserts Place 56,Desserts,mid,Mumbai,Mumbai_Z1,4.7,False,Cake|Pastry|Kheer|Ice Cream|Gulab Jamun,49,172
+R0057,Healthy Place 57,Healthy,mid,Mumbai,Mumbai_Z1,4.0,True,Wrap|Smoothie|Salad|Quinoa Bowl|Oats,44,2779
+R0058,Street Food Place 58,Street Food,mid,Pune,Pune_Z5,3.9,True,Samosa|Vada Pav|Chaat|Pani Puri|Pav Bhaji,28,2354
+R0059,Biryani Place 59,Biryani,budget,Kolkata,Kolkata_Z4,3.7,True,Kebab|Gulab Jamun|Raita|Biryani|Salan,43,536
+R0060,Beverages Place 60,Beverages,premium,Mumbai,Mumbai_Z3,4.1,True,Juice|Soft Drink|Coffee|Lassi|Chai,33,1575
+R0061,Chinese Place 61,Chinese,budget,Kolkata,Kolkata_Z3,4.5,True,Spring Roll|Noodles|Fried Rice|Manchurian|Soup,38,2208
+R0062,Street Food Place 62,Street Food,premium,Hyderabad,Hyderabad_Z2,4.6,True,Bhel Puri|Chaat|Pani Puri|Vada Pav|Pav Bhaji,44,141
+R0063,Healthy Place 63,Healthy,budget,Bangalore,Bangalore_Z1,4.4,False,Wrap|Smoothie|Quinoa Bowl|Salad|Fruit Bowl,26,2217
+R0064,Chinese Place 64,Chinese,premium,Delhi,Delhi_Z2,4.5,False,Spring Roll|Fried Rice|Manchurian|Soup|Dimsum,55,1746
+R0065,Biryani Place 65,Biryani,budget,Hyderabad,Hyderabad_Z1,3.7,True,Biryani|Gulab Jamun|Shorba|Salan|Kebab,40,595
+R0066,Biryani Place 66,Biryani,mid,Pune,Pune_Z2,4.2,False,Biryani|Kebab|Raita|Salan|Shorba,28,2212
+R0067,North Indian Place 67,North Indian,budget,Hyderabad,Hyderabad_Z3,4.1,True,Dal|Paneer Dish|Curry|Pickle|Bread,45,1143
+R0068,Fast Food Place 68,Fast Food,premium,Kolkata,Kolkata_Z2,4.3,False,Wrap|Fries|Nuggets|Soft Drink|Milkshake,25,755
+R0069,Beverages Place 69,Beverages,budget,Kolkata,Kolkata_Z5,4.5,False,Coffee|Water|Soft Drink|Lassi|Juice,55,1019
+R0070,Chinese Place 70,Chinese,budget,Chennai,Chennai_Z5,4.2,False,Dimsum|Noodles|Fried Rice|Spring Roll|Soup,40,167
+R0071,Healthy Place 71,Healthy,mid,Mumbai,Mumbai_Z3,4.1,False,Salad|Fruit Bowl|Smoothie|Oats|Wrap,25,1664
+R0072,North Indian Place 72,North Indian,mid,Pune,Pune_Z1,4.4,False,Rice|Dal|Paneer Dish|Raita|Pickle,42,2902
+R0073,Beverages Place 73,Beverages,budget,Bangalore,Bangalore_Z4,4.7,True,Water|Lassi|Chai|Juice|Soft Drink,22,1199
+R0074,Chinese Place 74,Chinese,budget,Kolkata,Kolkata_Z2,5.0,False,Noodles|Spring Roll|Manchurian|Dimsum|Soup,47,259
+R0075,Italian Place 75,Italian,budget,Kolkata,Kolkata_Z4,4.0,False,Garlic Bread|Pasta|Tiramisu|Risotto|Pizza,21,2153
+R0076,Beverages Place 76,Beverages,mid,Bangalore,Bangalore_Z3,4.2,False,Water|Chai|Coffee|Lassi|Soft Drink,51,2437
+R0077,Beverages Place 77,Beverages,budget,Bangalore,Bangalore_Z5,4.9,False,Soft Drink|Water|Juice|Lassi|Coffee,53,1132
+R0078,Beverages Place 78,Beverages,mid,Bangalore,Bangalore_Z4,4.2,False,Lassi|Coffee|Juice|Chai|Soft Drink,45,1919
+R0079,Street Food Place 79,Street Food,budget,Kolkata,Kolkata_Z4,4.3,False,Chaat|Vada Pav|Bhel Puri|Samosa|Pav Bhaji,21,312
+R0080,Healthy Place 80,Healthy,mid,Bangalore,Bangalore_Z4,4.6,False,Smoothie|Quinoa Bowl|Salad|Fruit Bowl|Wrap,37,1078
+R0081,Desserts Place 81,Desserts,premium,Hyderabad,Hyderabad_Z4,3.9,True,Pastry|Brownie|Cake|Ice Cream|Gulab Jamun,34,2108
+R0082,Beverages Place 82,Beverages,mid,Delhi,Delhi_Z1,3.8,False,Chai|Soft Drink|Juice|Lassi|Water,34,935
+R0083,Italian Place 83,Italian,mid,Mumbai,Mumbai_Z4,4.7,False,Risotto|Pasta|Tiramisu|Pizza|Garlic Bread,56,413
+R0084,Beverages Place 84,Beverages,budget,Pune,Pune_Z5,5.0,True,Chai|Soft Drink|Water|Coffee|Lassi,56,1084
+R0085,Chinese Place 85,Chinese,budget,Delhi,Delhi_Z4,4.7,False,Spring Roll|Manchurian|Soup|Noodles|Dimsum,42,189
+R0086,Street Food Place 86,Street Food,budget,Chennai,Chennai_Z5,4.9,True,Chaat|Pav Bhaji|Pani Puri|Bhel Puri|Vada Pav,34,1632
+R0087,Street Food Place 87,Street Food,budget,Hyderabad,Hyderabad_Z5,4.0,True,Chaat|Vada Pav|Bhel Puri|Pani Puri|Pav Bhaji,29,1415
+R0088,Desserts Place 88,Desserts,mid,Hyderabad,Hyderabad_Z5,4.7,True,Cake|Pastry|Gulab Jamun|Ice Cream|Kheer,35,1061
+R0089,Healthy Place 89,Healthy,mid,Chennai,Chennai_Z3,4.4,False,Wrap|Smoothie|Quinoa Bowl|Salad|Oats,46,2969
+R0090,North Indian Place 90,North Indian,mid,Kolkata,Kolkata_Z5,3.6,True,Rice|Bread|Paneer Dish|Pickle|Dal,49,671
+R0091,Healthy Place 91,Healthy,mid,Delhi,Delhi_Z1,4.3,False,Fruit Bowl|Quinoa Bowl|Salad|Smoothie|Oats,45,2252
+R0092,South Indian Place 92,South Indian,budget,Delhi,Delhi_Z2,4.1,True,Sambar|Dosa|Chutney|Rasam|Filter Coffee,35,1450
+R0093,Biryani Place 93,Biryani,mid,Delhi,Delhi_Z3,4.2,True,Kebab|Raita|Salan|Gulab Jamun|Biryani,48,636
+R0094,Biryani Place 94,Biryani,mid,Chennai,Chennai_Z3,3.9,False,Gulab Jamun|Salan|Kebab|Shorba|Biryani,36,1575
+R0095,Chinese Place 95,Chinese,mid,Chennai,Chennai_Z5,4.8,False,Dimsum|Manchurian|Soup|Spring Roll|Fried Rice,36,1686
+R0096,Fast Food Place 96,Fast Food,budget,Mumbai,Mumbai_Z5,4.6,False,Wrap|Nuggets|Soft Drink|Milkshake|Burger,30,60
+R0097,Healthy Place 97,Healthy,budget,Mumbai,Mumbai_Z3,3.8,True,Smoothie|Oats|Fruit Bowl|Wrap|Salad,48,2207
+R0098,Street Food Place 98,Street Food,budget,Bangalore,Bangalore_Z1,3.9,False,Bhel Puri|Samosa|Vada Pav|Pav Bhaji|Chaat,49,2805
+R0099,Street Food Place 99,Street Food,mid,Chennai,Chennai_Z1,3.7,False,Vada Pav|Samosa|Pav Bhaji|Pani Puri|Bhel Puri,25,1201
+R0100,Biryani Place 100,Biryani,premium,Pune,Pune_Z1,3.7,False,Shorba|Gulab Jamun|Kebab|Salan|Biryani,29,1022
+R0101,Street Food Place 101,Street Food,mid,Pune,Pune_Z1,4.7,False,Bhel Puri|Pani Puri|Pav Bhaji|Vada Pav|Chaat,35,356
+R0102,Healthy Place 102,Healthy,budget,Bangalore,Bangalore_Z1,4.2,False,Wrap|Fruit Bowl|Quinoa Bowl|Salad|Oats,37,198
+R0103,Chinese Place 103,Chinese,budget,Pune,Pune_Z5,3.7,False,Dimsum|Manchurian|Fried Rice|Noodles|Soup,21,2074
+R0104,Beverages Place 104,Beverages,mid,Chennai,Chennai_Z5,4.0,False,Soft Drink|Water|Juice|Chai|Coffee,58,1588
+R0105,Biryani Place 105,Biryani,mid,Bangalore,Bangalore_Z4,4.1,False,Shorba|Gulab Jamun|Raita|Salan|Kebab,37,1655
+R0106,North Indian Place 106,North Indian,mid,Kolkata,Kolkata_Z1,3.9,False,Bread|Pickle|Dal|Rice|Paneer Dish,20,1953
+R0107,Biryani Place 107,Biryani,budget,Mumbai,Mumbai_Z5,3.5,False,Gulab Jamun|Biryani|Kebab|Raita|Shorba,40,667
+R0108,Fast Food Place 108,Fast Food,mid,Chennai,Chennai_Z2,4.3,False,Fries|Milkshake|Nuggets|Burger|Wrap,58,384
+R0109,Desserts Place 109,Desserts,mid,Mumbai,Mumbai_Z4,4.2,True,Ice Cream|Kheer|Brownie|Pastry|Gulab Jamun,43,1654
+R0110,Italian Place 110,Italian,mid,Chennai,Chennai_Z2,3.9,False,Risotto|Tiramisu|Garlic Bread|Pasta|Pizza,42,819
+R0111,Italian Place 111,Italian,budget,Chennai,Chennai_Z5,4.5,False,Risotto|Tiramisu|Pasta|Pizza|Garlic Bread,58,2679
+R0112,Street Food Place 112,Street Food,budget,Mumbai,Mumbai_Z4,3.6,True,Bhel Puri|Pani Puri|Pav Bhaji|Samosa|Vada Pav,38,2218
+R0113,Desserts Place 113,Desserts,premium,Hyderabad,Hyderabad_Z1,4.0,True,Ice Cream|Gulab Jamun|Brownie|Kheer|Pastry,32,1596
+R0114,Biryani Place 114,Biryani,premium,Hyderabad,Hyderabad_Z5,3.9,False,Salan|Kebab|Biryani|Shorba|Gulab Jamun,24,1929
+R0115,Beverages Place 115,Beverages,budget,Bangalore,Bangalore_Z2,4.5,False,Juice|Chai|Water|Lassi|Soft Drink,43,800
+R0116,Fast Food Place 116,Fast Food,mid,Kolkata,Kolkata_Z1,3.8,True,Burger|Nuggets|Milkshake|Fries|Wrap,50,1039
+R0117,Italian Place 117,Italian,premium,Kolkata,Kolkata_Z3,3.8,False,Risotto|Pizza|Tiramisu|Pasta|Garlic Bread,40,655
+R0118,Street Food Place 118,Street Food,mid,Chennai,Chennai_Z2,3.9,False,Bhel Puri|Chaat|Pani Puri|Pav Bhaji|Samosa,58,2103
+R0119,Street Food Place 119,Street Food,premium,Mumbai,Mumbai_Z3,4.6,False,Vada Pav|Samosa|Pani Puri|Pav Bhaji|Chaat,58,1470
+R0120,Desserts Place 120,Desserts,mid,Bangalore,Bangalore_Z1,3.6,False,Kheer|Brownie|Gulab Jamun|Pastry|Cake,29,2561
+R0121,Beverages Place 121,Beverages,mid,Hyderabad,Hyderabad_Z3,3.9,False,Soft Drink|Chai|Lassi|Coffee|Juice,55,1593
+R0122,Healthy Place 122,Healthy,premium,Bangalore,Bangalore_Z2,4.6,True,Quinoa Bowl|Smoothie|Oats|Salad|Wrap,33,246
+R0123,Fast Food Place 123,Fast Food,mid,Delhi,Delhi_Z5,4.7,False,Nuggets|Milkshake|Burger|Soft Drink|Fries,27,2622
+R0124,Italian Place 124,Italian,mid,Mumbai,Mumbai_Z1,3.9,True,Pasta|Risotto|Pizza|Garlic Bread|Tiramisu,29,722
+R0125,Healthy Place 125,Healthy,premium,Bangalore,Bangalore_Z1,3.5,False,Oats|Wrap|Smoothie|Quinoa Bowl|Fruit Bowl,56,759
+R0126,Fast Food Place 126,Fast Food,mid,Mumbai,Mumbai_Z5,4.3,False,Wrap|Nuggets|Soft Drink|Fries|Milkshake,45,1993
+R0127,Beverages Place 127,Beverages,budget,Mumbai,Mumbai_Z3,4.5,True,Soft Drink|Chai|Water|Lassi|Coffee,56,595
+R0128,Healthy Place 128,Healthy,budget,Pune,Pune_Z4,4.4,False,Wrap|Smoothie|Salad|Quinoa Bowl|Oats,41,414
+R0129,Beverages Place 129,Beverages,mid,Chennai,Chennai_Z4,4.0,True,Soft Drink|Juice|Coffee|Water|Lassi,45,1111
+R0130,Chinese Place 130,Chinese,premium,Bangalore,Bangalore_Z5,3.5,False,Fried Rice|Dimsum|Spring Roll|Manchurian|Noodles,52,1032
+R0131,Street Food Place 131,Street Food,budget,Delhi,Delhi_Z4,3.8,False,Bhel Puri|Pav Bhaji|Pani Puri|Vada Pav|Samosa,45,522
+R0132,Italian Place 132,Italian,budget,Delhi,Delhi_Z2,3.9,True,Garlic Bread|Pasta|Tiramisu|Pizza|Risotto,38,1022
+R0133,Beverages Place 133,Beverages,budget,Pune,Pune_Z2,4.0,False,Lassi|Soft Drink|Coffee|Juice|Water,27,1475
+R0134,North Indian Place 134,North Indian,budget,Mumbai,Mumbai_Z4,4.2,False,Bread|Raita|Dal|Curry|Paneer Dish,58,1162
+R0135,Healthy Place 135,Healthy,budget,Pune,Pune_Z3,3.6,False,Quinoa Bowl|Smoothie|Salad|Wrap|Fruit Bowl,52,2606
+R0136,Fast Food Place 136,Fast Food,mid,Kolkata,Kolkata_Z5,4.7,False,Soft Drink|Milkshake|Burger|Wrap|Nuggets,25,2865
+R0137,Biryani Place 137,Biryani,mid,Hyderabad,Hyderabad_Z2,3.9,False,Salan|Kebab|Shorba|Gulab Jamun|Raita,34,1150
+R0138,Beverages Place 138,Beverages,mid,Chennai,Chennai_Z1,4.3,True,Soft Drink|Coffee|Lassi|Water|Juice,53,1456
+R0139,Fast Food Place 139,Fast Food,mid,Bangalore,Bangalore_Z1,4.7,False,Nuggets|Burger|Soft Drink|Fries|Wrap,49,2827
+R0140,Biryani Place 140,Biryani,budget,Kolkata,Kolkata_Z2,3.7,True,Gulab Jamun|Raita|Shorba|Biryani|Kebab,28,448
+R0141,Street Food Place 141,Street Food,budget,Chennai,Chennai_Z4,4.1,False,Bhel Puri|Samosa|Pani Puri|Pav Bhaji|Vada Pav,47,1013
+R0142,North Indian Place 142,North Indian,budget,Delhi,Delhi_Z2,4.6,False,Pickle|Raita|Rice|Paneer Dish|Dal,50,844
+R0143,Healthy Place 143,Healthy,mid,Bangalore,Bangalore_Z3,4.4,False,Smoothie|Salad|Wrap|Quinoa Bowl|Fruit Bowl,42,1940
+R0144,Italian Place 144,Italian,budget,Bangalore,Bangalore_Z2,3.5,False,Risotto|Tiramisu|Pasta|Pizza|Garlic Bread,59,808
+R0145,Italian Place 145,Italian,budget,Pune,Pune_Z1,4.3,False,Garlic Bread|Pasta|Risotto|Pizza|Tiramisu,36,2929
+R0146,Biryani Place 146,Biryani,mid,Bangalore,Bangalore_Z5,4.6,False,Salan|Gulab Jamun|Kebab|Shorba|Raita,45,382
+R0147,Chinese Place 147,Chinese,budget,Pune,Pune_Z4,4.6,False,Soup|Noodles|Fried Rice|Dimsum|Manchurian,30,275
+R0148,Chinese Place 148,Chinese,budget,Bangalore,Bangalore_Z3,4.9,False,Dimsum|Spring Roll|Soup|Manchurian|Noodles,44,269
+R0149,Fast Food Place 149,Fast Food,mid,Bangalore,Bangalore_Z2,3.9,True,Soft Drink|Nuggets|Milkshake|Fries|Burger,29,1763
+R0150,North Indian Place 150,North Indian,mid,Hyderabad,Hyderabad_Z1,3.7,False,Curry|Paneer Dish|Dal|Bread|Raita,32,2279

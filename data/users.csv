@@ -1,0 +1,2001 @@
+user_id,segment,city,delivery_zone,preferred_cuisines,is_veg,avg_monthly_orders,price_sensitivity,account_age_days
+U00001,regular,Hyderabad,Hyderabad_Z3,South Indian|Italian|Desserts,False,8,high,678
+U00002,occasional,Kolkata,Kolkata_Z2,North Indian|Beverages|Desserts|Italian,False,2,medium,578
+U00003,premium,Delhi,Delhi_Z4,Italian|Desserts|Healthy,False,25,low,865
+U00004,regular,Kolkata,Kolkata_Z4,Beverages|Fast Food|Italian|Street Food,True,12,low,743
+U00005,budget,Hyderabad,Hyderabad_Z4,Street Food|Biryani,True,7,medium,775
+U00006,budget,Pune,Pune_Z1,Desserts|Chinese,False,5,high,126
+U00007,budget,Mumbai,Mumbai_Z1,Street Food|Italian,False,7,high,992
+U00008,premium,Pune,Pune_Z1,North Indian|Chinese|South Indian|Italian,True,21,low,276
+U00009,regular,Kolkata,Kolkata_Z5,Chinese|Beverages|Street Food,True,9,high,663
+U00010,premium,Mumbai,Mumbai_Z2,Fast Food|Desserts|Biryani|Street Food,True,20,low,147
+U00011,budget,Bangalore,Bangalore_Z4,Desserts|Italian|Fast Food|South Indian,True,5,medium,170
+U00012,occasional,Chennai,Chennai_Z1,Biryani|Italian|Chinese,False,1,medium,343
+U00013,premium,Pune,Pune_Z1,South Indian|Italian|Street Food|Desserts,False,27,medium,445
+U00014,budget,Hyderabad,Hyderabad_Z2,Italian|Chinese,True,5,high,747
+U00015,budget,Bangalore,Bangalore_Z5,Italian|Desserts|Healthy|Beverages,False,5,high,589
+U00016,budget,Chennai,Chennai_Z2,South Indian|Chinese|Fast Food,False,4,high,364
+U00017,regular,Hyderabad,Hyderabad_Z4,North Indian|Italian,False,11,low,508
+U00018,regular,Delhi,Delhi_Z3,Biryani|Fast Food|Chinese|Beverages,True,8,medium,898
+U00019,regular,Hyderabad,Hyderabad_Z5,South Indian|Biryani|Beverages,True,8,low,931
+U00020,budget,Mumbai,Mumbai_Z5,Beverages|Street Food|Biryani,False,5,low,711
+U00021,regular,Mumbai,Mumbai_Z5,Street Food|Italian,False,9,medium,236
+U00022,budget,Delhi,Delhi_Z1,Desserts|Beverages|North Indian,False,4,low,707
+U00023,budget,Bangalore,Bangalore_Z3,Street Food|Beverages|Desserts,True,4,high,417
+U00024,regular,Chennai,Chennai_Z4,Biryani|South Indian|Chinese,True,12,high,620
+U00025,regular,Hyderabad,Hyderabad_Z5,Italian|Street Food|Beverages,True,10,high,922
+U00026,premium,Mumbai,Mumbai_Z3,South Indian|Biryani|Italian|North Indian,True,25,high,979
+U00027,budget,Bangalore,Bangalore_Z3,Street Food|Italian|Healthy,False,5,medium,237
+U00028,regular,Delhi,Delhi_Z5,South Indian|Beverages,False,12,low,305
+U00029,regular,Kolkata,Kolkata_Z3,Healthy|Street Food|Biryani|North Indian,False,11,high,199
+U00030,budget,Pune,Pune_Z4,Fast Food|North Indian|Beverages,True,4,low,600
+U00031,regular,Kolkata,Kolkata_Z1,Fast Food|Healthy,False,8,high,683
+U00032,budget,Kolkata,Kolkata_Z2,Healthy|Street Food|Fast Food,False,5,medium,863
+U00033,budget,Mumbai,Mumbai_Z5,North Indian|Desserts,False,4,medium,955
+U00034,occasional,Delhi,Delhi_Z1,Biryani|South Indian|Italian|Street Food,True,1,medium,660
+U00035,occasional,Hyderabad,Hyderabad_Z1,Chinese|South Indian|Biryani|North Indian,False,1,low,552
+U00036,premium,Kolkata,Kolkata_Z2,Fast Food|North Indian|Beverages,False,19,medium,837
+U00037,regular,Kolkata,Kolkata_Z4,Desserts|Healthy|North Indian|Chinese,False,11,low,115
+U00038,budget,Chennai,Chennai_Z4,Fast Food|North Indian|Italian|Chinese,False,7,low,221
+U00039,regular,Mumbai,Mumbai_Z2,South Indian|Desserts|Healthy,True,8,medium,210
+U00040,regular,Mumbai,Mumbai_Z2,Desserts|Street Food,True,14,medium,708
+U00041,budget,Hyderabad,Hyderabad_Z5,Biryani|Street Food,False,7,medium,240
+U00042,regular,Pune,Pune_Z4,Biryani|Fast Food|Desserts|North Indian,True,8,high,419
+U00043,budget,Bangalore,Bangalore_Z3,Street Food|South Indian,True,7,low,763
+U00044,occasional,Chennai,Chennai_Z3,Desserts|Chinese|Italian|Healthy,False,3,high,105
+U00045,budget,Mumbai,Mumbai_Z1,Healthy|Biryani|Chinese|South Indian,True,4,medium,967
+U00046,regular,Chennai,Chennai_Z2,South Indian|Chinese,True,9,low,760
+U00047,regular,Mumbai,Mumbai_Z5,Desserts|Italian|North Indian|Biryani,False,12,low,31
+U00048,regular,Chennai,Chennai_Z2,Biryani|Italian|Chinese|Street Food,False,14,medium,496
+U00049,regular,Delhi,Delhi_Z4,Biryani|Chinese|North Indian|Beverages,False,13,high,73
+U00050,budget,Kolkata,Kolkata_Z3,Chinese|Biryani|Street Food|Fast Food,False,7,high,297
+U00051,occasional,Mumbai,Mumbai_Z1,Biryani|Italian|South Indian|Fast Food,False,3,high,371
+U00052,premium,Chennai,Chennai_Z2,Beverages|South Indian|Italian,True,17,low,133
+U00053,occasional,Bangalore,Bangalore_Z3,Desserts|Street Food|Beverages|Fast Food,False,2,low,328
+U00054,premium,Delhi,Delhi_Z4,Beverages|Biryani|Fast Food,True,25,high,967
+U00055,regular,Delhi,Delhi_Z2,Desserts|Fast Food,True,11,low,404
+U00056,occasional,Bangalore,Bangalore_Z5,Italian|Healthy,False,2,low,181
+U00057,budget,Chennai,Chennai_Z5,Beverages|Biryani|South Indian|Fast Food,False,6,medium,169
+U00058,budget,Hyderabad,Hyderabad_Z4,Italian|Fast Food|Street Food|Beverages,False,7,low,475
+U00059,budget,Bangalore,Bangalore_Z5,North Indian|Street Food,False,7,low,930
+U00060,regular,Chennai,Chennai_Z1,North Indian|Biryani|Street Food|Beverages,False,10,medium,167
+U00061,regular,Bangalore,Bangalore_Z1,Biryani|Street Food,False,10,high,890
+U00062,budget,Bangalore,Bangalore_Z5,Healthy|Street Food,False,7,low,474
+U00063,premium,Mumbai,Mumbai_Z5,North Indian|Biryani|Chinese,True,18,low,926
+U00064,regular,Chennai,Chennai_Z5,Fast Food|Italian|Chinese|Beverages,True,10,low,37
+U00065,budget,Hyderabad,Hyderabad_Z1,Desserts|Italian,True,7,high,851
+U00066,regular,Kolkata,Kolkata_Z5,Desserts|Street Food|Biryani|South Indian,False,9,low,34
+U00067,budget,Mumbai,Mumbai_Z2,Chinese|Fast Food|Desserts,True,7,low,48
+U00068,premium,Bangalore,Bangalore_Z3,Healthy|Fast Food|South Indian|Desserts,True,22,medium,174
+U00069,budget,Kolkata,Kolkata_Z3,Healthy|Street Food|Biryani,True,6,low,837
+U00070,occasional,Pune,Pune_Z3,Healthy|Street Food|North Indian,True,3,high,400
+U00071,premium,Kolkata,Kolkata_Z2,Italian|Street Food,False,26,low,411
+U00072,budget,Bangalore,Bangalore_Z5,Desserts|Chinese|North Indian|Healthy,False,5,high,453
+U00073,budget,Bangalore,Bangalore_Z2,Street Food|North Indian,False,6,medium,838
+U00074,premium,Chennai,Chennai_Z3,Fast Food|Desserts,False,27,high,544
+U00075,premium,Chennai,Chennai_Z1,Italian|Fast Food|Healthy|Desserts,False,19,low,285
+U00076,premium,Mumbai,Mumbai_Z1,Fast Food|Chinese|Italian,True,23,low,384
+U00077,premium,Hyderabad,Hyderabad_Z4,Italian|Desserts|North Indian,True,28,high,873
+U00078,budget,Mumbai,Mumbai_Z1,Italian|Healthy|Fast Food,False,7,low,393
+U00079,regular,Delhi,Delhi_Z3,Fast Food|North Indian|Healthy|Chinese,False,14,low,916
+U00080,budget,Bangalore,Bangalore_Z4,Chinese|Healthy,False,4,low,429
+U00081,premium,Kolkata,Kolkata_Z2,Beverages|South Indian|North Indian|Desserts,True,19,medium,314
+U00082,regular,Pune,Pune_Z4,Chinese|North Indian,True,9,low,859
+U00083,regular,Bangalore,Bangalore_Z5,Biryani|Beverages|South Indian,False,14,high,38
+U00084,budget,Bangalore,Bangalore_Z4,Beverages|Healthy|Street Food,True,7,low,839
+U00085,regular,Mumbai,Mumbai_Z1,Street Food|Fast Food|Healthy,False,14,medium,863
+U00086,regular,Pune,Pune_Z3,Desserts|Healthy|Beverages,False,14,low,356
+U00087,premium,Pune,Pune_Z2,Biryani|Street Food|Fast Food|Desserts,False,24,high,137
+U00088,regular,Pune,Pune_Z3,North Indian|Healthy|Biryani,False,13,medium,685
+U00089,premium,Mumbai,Mumbai_Z2,Desserts|Chinese|Healthy,True,22,medium,583
+U00090,regular,Bangalore,Bangalore_Z5,Beverages|Fast Food|Desserts,False,9,medium,102
+U00091,budget,Mumbai,Mumbai_Z4,Biryani|Fast Food|Chinese,False,5,low,700
+U00092,premium,Chennai,Chennai_Z1,North Indian|Chinese|Desserts,False,22,low,157
+U00093,premium,Chennai,Chennai_Z2,Chinese|South Indian|North Indian,False,18,medium,323
+U00094,regular,Mumbai,Mumbai_Z3,South Indian|Desserts|North Indian|Beverages,False,12,low,829
+U00095,premium,Pune,Pune_Z4,Beverages|Street Food,False,25,low,72
+U00096,regular,Bangalore,Bangalore_Z1,South Indian|Healthy,False,13,high,636
+U00097,regular,Mumbai,Mumbai_Z2,Biryani|South Indian,True,14,high,954
+U00098,regular,Mumbai,Mumbai_Z2,Biryani|Street Food|Beverages|Healthy,False,11,medium,58
+U00099,budget,Mumbai,Mumbai_Z3,Desserts|South Indian,False,7,medium,816
+U00100,budget,Delhi,Delhi_Z3,Desserts|North Indian,True,7,high,781
+U00101,budget,Chennai,Chennai_Z3,South Indian|North Indian|Fast Food,True,5,low,552
+U00102,regular,Kolkata,Kolkata_Z2,Desserts|Street Food|Fast Food|South Indian,False,10,low,972
+U00103,regular,Pune,Pune_Z3,Desserts|North Indian|Fast Food|Chinese,False,12,low,918
+U00104,regular,Hyderabad,Hyderabad_Z5,South Indian|Fast Food,False,10,low,244
+U00105,occasional,Kolkata,Kolkata_Z5,Italian|Beverages|Desserts|Chinese,True,3,medium,302
+U00106,budget,Pune,Pune_Z3,Fast Food|Healthy|Street Food,False,7,medium,349
+U00107,regular,Hyderabad,Hyderabad_Z1,Chinese|Fast Food|Italian,False,12,low,849
+U00108,premium,Delhi,Delhi_Z1,Desserts|Street Food,False,28,low,218
+U00109,budget,Mumbai,Mumbai_Z3,North Indian|Desserts,False,5,low,442
+U00110,budget,Delhi,Delhi_Z3,Healthy|Beverages|Chinese|Street Food,False,5,medium,95
+U00111,budget,Delhi,Delhi_Z4,Biryani|Street Food|Beverages,False,4,medium,73
+U00112,budget,Kolkata,Kolkata_Z3,Chinese|Italian,False,6,medium,275
+U00113,occasional,Bangalore,Bangalore_Z5,Street Food|Chinese|Beverages|Biryani,False,3,medium,451
+U00114,premium,Kolkata,Kolkata_Z5,Beverages|Biryani|Fast Food,False,26,high,455
+U00115,regular,Chennai,Chennai_Z1,South Indian|North Indian|Beverages|Street Food,False,9,low,445
+U00116,premium,Hyderabad,Hyderabad_Z5,Italian|North Indian|Biryani|Healthy,False,25,low,368
+U00117,premium,Mumbai,Mumbai_Z2,South Indian|Beverages,False,21,low,204
+U00118,budget,Kolkata,Kolkata_Z4,Biryani|South Indian|North Indian|Italian,True,4,low,44
+U00119,premium,Hyderabad,Hyderabad_Z2,Desserts|Street Food,False,22,low,335
+U00120,regular,Pune,Pune_Z4,Beverages|South Indian,False,10,medium,687
+U00121,premium,Hyderabad,Hyderabad_Z3,Desserts|South Indian|Biryani|Fast Food,True,16,low,951
+U00122,premium,Pune,Pune_Z5,Chinese|North Indian,True,29,high,524
+U00123,regular,Kolkata,Kolkata_Z5,North Indian|Biryani|Italian,False,11,medium,734
+U00124,budget,Chennai,Chennai_Z3,North Indian|Fast Food|Beverages|Italian,False,6,medium,569
+U00125,budget,Kolkata,Kolkata_Z3,Healthy|Street Food,False,7,high,557
+U00126,regular,Pune,Pune_Z4,Street Food|Chinese|North Indian|Italian,False,13,low,93
+U00127,premium,Hyderabad,Hyderabad_Z3,Healthy|Italian|Chinese|Biryani,True,26,low,912
+U00128,premium,Hyderabad,Hyderabad_Z3,Healthy|Fast Food|Street Food,False,19,medium,141
+U00129,budget,Pune,Pune_Z5,Chinese|South Indian,False,4,medium,326
+U00130,regular,Delhi,Delhi_Z3,Beverages|North Indian,False,8,low,175
+U00131,regular,Chennai,Chennai_Z1,Healthy|South Indian,True,9,high,767
+U00132,budget,Bangalore,Bangalore_Z5,Street Food|Italian|South Indian|Fast Food,True,7,low,468
+U00133,budget,Mumbai,Mumbai_Z2,Desserts|Beverages|Chinese,False,5,medium,785
+U00134,regular,Hyderabad,Hyderabad_Z2,Chinese|Street Food,True,8,high,276
+U00135,occasional,Mumbai,Mumbai_Z5,Chinese|Biryani|Desserts|North Indian,True,3,low,395
+U00136,regular,Bangalore,Bangalore_Z1,Healthy|Biryani|North Indian,False,11,medium,337
+U00137,regular,Kolkata,Kolkata_Z2,Chinese|North Indian|Italian,False,14,medium,463
+U00138,premium,Mumbai,Mumbai_Z4,Beverages|Desserts|Chinese|Biryani,False,17,low,915
+U00139,regular,Bangalore,Bangalore_Z4,South Indian|Fast Food,True,10,high,974
+U00140,occasional,Pune,Pune_Z3,Fast Food|South Indian|Healthy,True,2,low,529
+U00141,occasional,Delhi,Delhi_Z3,Fast Food|Beverages|Biryani,True,2,medium,950
+U00142,budget,Hyderabad,Hyderabad_Z1,Street Food|North Indian|Desserts,True,5,low,595
+U00143,regular,Bangalore,Bangalore_Z3,South Indian|Beverages|Street Food|Healthy,True,13,low,408
+U00144,regular,Mumbai,Mumbai_Z3,South Indian|Fast Food|Healthy,False,12,medium,604
+U00145,budget,Hyderabad,Hyderabad_Z4,Desserts|Street Food,False,6,high,346
+U00146,budget,Delhi,Delhi_Z1,North Indian|Italian|Desserts|Fast Food,True,6,low,588
+U00147,regular,Pune,Pune_Z5,Street Food|Chinese,True,14,low,918
+U00148,regular,Kolkata,Kolkata_Z5,Healthy|Chinese|Italian,False,9,low,630
+U00149,budget,Hyderabad,Hyderabad_Z5,Desserts|Beverages,False,5,low,161
+U00150,budget,Kolkata,Kolkata_Z5,Street Food|Italian|Chinese|Healthy,False,4,medium,726
+U00151,occasional,Bangalore,Bangalore_Z2,Street Food|Fast Food,False,1,medium,990
+U00152,budget,Delhi,Delhi_Z1,North Indian|Biryani,False,5,low,257
+U00153,budget,Mumbai,Mumbai_Z4,Biryani|Chinese|Healthy,True,4,medium,218
+U00154,regular,Delhi,Delhi_Z2,North Indian|Healthy,False,9,high,325
+U00155,occasional,Delhi,Delhi_Z2,Beverages|Biryani,False,3,medium,464
+U00156,budget,Chennai,Chennai_Z3,South Indian|Street Food|Healthy,True,6,low,857
+U00157,regular,Delhi,Delhi_Z3,Beverages|Desserts|Healthy,False,9,low,302
+U00158,premium,Delhi,Delhi_Z1,Healthy|Fast Food|South Indian|Italian,False,15,high,506
+U00159,budget,Hyderabad,Hyderabad_Z5,Biryani|South Indian,True,7,low,641
+U00160,premium,Mumbai,Mumbai_Z2,Street Food|South Indian|Biryani|Beverages,False,18,medium,45
+U00161,regular,Hyderabad,Hyderabad_Z3,Desserts|Chinese|Biryani,False,8,low,530
+U00162,regular,Hyderabad,Hyderabad_Z2,Desserts|Italian|Street Food,False,9,medium,577
+U00163,regular,Bangalore,Bangalore_Z5,Beverages|Biryani|Chinese|Italian,False,13,medium,576
+U00164,regular,Hyderabad,Hyderabad_Z3,Desserts|Fast Food|Biryani|Italian,False,8,low,299
+U00165,budget,Chennai,Chennai_Z4,Fast Food|Chinese|Healthy,True,5,high,711
+U00166,premium,Chennai,Chennai_Z3,Fast Food|Biryani,True,26,low,476
+U00167,regular,Kolkata,Kolkata_Z2,Italian|Desserts,False,12,high,381
+U00168,budget,Bangalore,Bangalore_Z1,Biryani|Chinese|Street Food,False,4,medium,724
+U00169,budget,Kolkata,Kolkata_Z5,Desserts|Chinese|Street Food,False,4,medium,367
+U00170,regular,Kolkata,Kolkata_Z3,Beverages|Street Food|North Indian|Biryani,True,11,medium,509
+U00171,regular,Pune,Pune_Z5,Desserts|Beverages|Fast Food|Biryani,True,10,medium,695
+U00172,budget,Mumbai,Mumbai_Z3,Chinese|North Indian,True,5,low,173
+U00173,regular,Mumbai,Mumbai_Z2,Healthy|Fast Food,True,9,low,753
+U00174,budget,Hyderabad,Hyderabad_Z3,Fast Food|Chinese,False,5,low,639
+U00175,regular,Hyderabad,Hyderabad_Z4,Biryani|Street Food|Healthy,False,13,low,159
+U00176,budget,Pune,Pune_Z4,Fast Food|Biryani|North Indian|Healthy,True,7,low,47
+U00177,regular,Hyderabad,Hyderabad_Z4,South Indian|Healthy|North Indian|Street Food,True,14,high,552
+U00178,regular,Mumbai,Mumbai_Z3,Healthy|Italian|South Indian,False,12,high,451
+U00179,occasional,Kolkata,Kolkata_Z2,North Indian|Street Food,True,2,low,663
+U00180,budget,Delhi,Delhi_Z1,Biryani|Healthy,False,4,high,226
+U00181,regular,Chennai,Chennai_Z3,Healthy|Italian|Street Food,True,9,medium,680
+U00182,budget,Delhi,Delhi_Z4,Chinese|Biryani,False,5,low,690
+U00183,occasional,Delhi,Delhi_Z4,Fast Food|Chinese|Healthy,True,2,low,404
+U00184,premium,Mumbai,Mumbai_Z2,Desserts|Fast Food|Street Food,True,23,low,830
+U00185,budget,Delhi,Delhi_Z3,Fast Food|North Indian|Desserts,False,7,high,54
+U00186,regular,Pune,Pune_Z3,Beverages|Chinese|Street Food|Desserts,True,12,low,832
+U00187,premium,Bangalore,Bangalore_Z3,Chinese|Desserts|Healthy,False,25,high,247
+U00188,regular,Hyderabad,Hyderabad_Z4,Biryani|Street Food,True,10,low,862
+U00189,regular,Bangalore,Bangalore_Z4,Biryani|Chinese|Italian,True,12,low,645
+U00190,budget,Kolkata,Kolkata_Z3,Beverages|Fast Food|Biryani,False,6,medium,311
+U00191,budget,Chennai,Chennai_Z2,Italian|South Indian|Chinese|North Indian,False,4,low,207
+U00192,premium,Hyderabad,Hyderabad_Z2,Street Food|Biryani|North Indian|South Indian,True,24,high,692
+U00193,occasional,Delhi,Delhi_Z5,South Indian|Street Food,True,2,high,382
+U00194,regular,Chennai,Chennai_Z4,Desserts|Street Food,True,14,high,397
+U00195,regular,Hyderabad,Hyderabad_Z2,Chinese|South Indian|Desserts,False,10,medium,707
+U00196,regular,Pune,Pune_Z5,North Indian|Fast Food,False,8,medium,639
+U00197,premium,Pune,Pune_Z4,Italian|North Indian,False,16,medium,801
+U00198,premium,Pune,Pune_Z5,Healthy|Beverages,False,25,high,715
+U00199,premium,Pune,Pune_Z2,South Indian|Fast Food|Chinese,False,21,low,501
+U00200,premium,Delhi,Delhi_Z3,Fast Food|Chinese|Healthy|Biryani,False,25,low,989
+U00201,regular,Bangalore,Bangalore_Z4,Healthy|Street Food|Fast Food,False,11,medium,853
+U00202,budget,Hyderabad,Hyderabad_Z4,South Indian|Chinese|North Indian|Healthy,True,5,high,432
+U00203,budget,Delhi,Delhi_Z5,South Indian|North Indian|Biryani,True,7,medium,735
+U00204,premium,Pune,Pune_Z5,North Indian|Chinese|Italian|Biryani,False,17,medium,222
+U00205,regular,Kolkata,Kolkata_Z4,Chinese|South Indian,True,14,medium,325
+U00206,budget,Bangalore,Bangalore_Z3,Healthy|Street Food|Biryani|Beverages,False,5,low,124
+U00207,budget,Kolkata,Kolkata_Z1,North Indian|Chinese,False,4,low,559
+U00208,regular,Chennai,Chennai_Z1,Desserts|Italian,False,8,medium,84
+U00209,budget,Kolkata,Kolkata_Z4,Street Food|Healthy,False,4,medium,304
+U00210,budget,Chennai,Chennai_Z3,Desserts|Healthy|Fast Food|Street Food,False,4,high,402
+U00211,regular,Chennai,Chennai_Z3,Biryani|Chinese|South Indian|Healthy,False,12,low,336
+U00212,regular,Pune,Pune_Z5,Desserts|Fast Food|Beverages,True,8,low,281
+U00213,regular,Chennai,Chennai_Z1,South Indian|Street Food|North Indian|Italian,True,8,low,408
+U00214,budget,Mumbai,Mumbai_Z3,Fast Food|North Indian|Street Food,False,5,high,851
+U00215,premium,Hyderabad,Hyderabad_Z2,Beverages|Healthy|Fast Food|Desserts,True,17,high,418
+U00216,budget,Hyderabad,Hyderabad_Z4,Healthy|Fast Food|Chinese,False,6,low,922
+U00217,regular,Pune,Pune_Z4,Chinese|Fast Food|Biryani|South Indian,True,13,medium,900
+U00218,premium,Mumbai,Mumbai_Z2,Fast Food|South Indian|Beverages,False,21,medium,739
+U00219,regular,Kolkata,Kolkata_Z2,Beverages|Healthy|Fast Food,True,13,medium,592
+U00220,premium,Delhi,Delhi_Z3,Biryani|Beverages,True,19,medium,934
+U00221,regular,Kolkata,Kolkata_Z3,North Indian|South Indian,True,13,low,85
+U00222,regular,Delhi,Delhi_Z4,Desserts|Healthy,True,10,medium,799
+U00223,budget,Chennai,Chennai_Z1,Fast Food|North Indian,True,6,low,471
+U00224,regular,Bangalore,Bangalore_Z4,Chinese|South Indian,False,9,low,69
+U00225,budget,Delhi,Delhi_Z5,North Indian|Biryani|Desserts|Italian,False,6,low,616
+U00226,budget,Bangalore,Bangalore_Z5,Fast Food|Chinese|Healthy|Street Food,False,6,low,586
+U00227,occasional,Hyderabad,Hyderabad_Z3,Fast Food|Street Food|Chinese,True,1,medium,318
+U00228,regular,Bangalore,Bangalore_Z2,Chinese|Italian|Beverages|North Indian,True,9,low,664
+U00229,premium,Hyderabad,Hyderabad_Z4,Healthy|Fast Food|Italian,False,25,high,121
+U00230,regular,Mumbai,Mumbai_Z5,Street Food|Healthy|Desserts|North Indian,True,9,high,216
+U00231,premium,Mumbai,Mumbai_Z5,Biryani|Beverages|Healthy|Italian,False,17,low,923
+U00232,regular,Pune,Pune_Z3,Desserts|Fast Food,False,13,low,193
+U00233,regular,Pune,Pune_Z3,Street Food|Fast Food|Healthy|Biryani,False,11,low,80
+U00234,regular,Chennai,Chennai_Z2,Healthy|Chinese|Beverages,False,11,low,114
+U00235,budget,Delhi,Delhi_Z1,Street Food|Beverages|Italian|Healthy,False,6,low,613
+U00236,premium,Chennai,Chennai_Z5,Desserts|Biryani|South Indian,False,24,low,387
+U00237,budget,Hyderabad,Hyderabad_Z1,Healthy|South Indian|Chinese|Italian,False,7,high,293
+U00238,budget,Chennai,Chennai_Z2,Chinese|Italian|Desserts,True,7,low,578
+U00239,regular,Bangalore,Bangalore_Z1,South Indian|Chinese,False,12,low,976
+U00240,budget,Hyderabad,Hyderabad_Z1,Healthy|Chinese|North Indian|Italian,False,5,medium,914
+U00241,occasional,Pune,Pune_Z3,Street Food|Healthy,False,2,low,111
+U00242,occasional,Mumbai,Mumbai_Z2,South Indian|Beverages|Chinese,True,1,medium,524
+U00243,occasional,Pune,Pune_Z3,Chinese|Healthy|Street Food,True,3,high,513
+U00244,regular,Delhi,Delhi_Z3,Fast Food|Italian,False,11,medium,512
+U00245,budget,Hyderabad,Hyderabad_Z5,Fast Food|Beverages|Italian,False,7,low,567
+U00246,occasional,Hyderabad,Hyderabad_Z1,Chinese|Fast Food,True,1,low,85
+U00247,regular,Bangalore,Bangalore_Z3,Fast Food|Healthy|Street Food,True,13,medium,138
+U00248,occasional,Delhi,Delhi_Z4,Street Food|Chinese,True,2,medium,50
+U00249,occasional,Mumbai,Mumbai_Z4,Beverages|Healthy|Street Food|Chinese,False,1,low,785
+U00250,premium,Kolkata,Kolkata_Z3,Fast Food|North Indian,False,19,high,417
+U00251,budget,Hyderabad,Hyderabad_Z4,Biryani|Healthy,False,4,high,391
+U00252,regular,Hyderabad,Hyderabad_Z1,Chinese|Desserts,False,14,low,711
+U00253,premium,Bangalore,Bangalore_Z5,Biryani|Beverages|Fast Food|Chinese,False,16,medium,349
+U00254,regular,Chennai,Chennai_Z5,Biryani|Beverages|Chinese,False,11,high,841
+U00255,budget,Mumbai,Mumbai_Z2,Chinese|Beverages,False,5,low,672
+U00256,regular,Pune,Pune_Z2,Street Food|Fast Food,False,10,high,422
+U00257,occasional,Delhi,Delhi_Z2,Chinese|North Indian,False,2,low,359
+U00258,regular,Hyderabad,Hyderabad_Z3,Italian|Street Food|Beverages|North Indian,False,12,low,217
+U00259,regular,Hyderabad,Hyderabad_Z2,Biryani|Healthy,False,11,low,307
+U00260,budget,Pune,Pune_Z5,Healthy|Fast Food|Biryani|Italian,False,6,low,240
+U00261,regular,Mumbai,Mumbai_Z3,Beverages|Biryani|Street Food,False,14,high,676
+U00262,occasional,Chennai,Chennai_Z2,Italian|Desserts,True,3,medium,776
+U00263,budget,Hyderabad,Hyderabad_Z2,Chinese|Street Food|Italian,False,5,medium,245
+U00264,regular,Mumbai,Mumbai_Z2,Biryani|Chinese|Street Food|Desserts,True,13,medium,681
+U00265,premium,Pune,Pune_Z3,Street Food|Healthy|Italian,True,21,low,108
+U00266,premium,Bangalore,Bangalore_Z4,Italian|North Indian|Fast Food,True,25,medium,461
+U00267,regular,Chennai,Chennai_Z1,Healthy|Fast Food|Street Food|Beverages,True,11,medium,120
+U00268,premium,Delhi,Delhi_Z4,Italian|North Indian|Biryani|Beverages,False,27,low,684
+U00269,regular,Hyderabad,Hyderabad_Z4,Biryani|Italian|Fast Food|Desserts,False,10,medium,570
+U00270,budget,Mumbai,Mumbai_Z3,Desserts|Italian|Street Food,False,4,low,312
+U00271,premium,Bangalore,Bangalore_Z2,South Indian|Chinese|Fast Food|North Indian,False,24,high,105
+U00272,premium,Delhi,Delhi_Z4,South Indian|Italian|Chinese,True,15,low,956
+U00273,premium,Kolkata,Kolkata_Z1,Desserts|Biryani|Street Food|South Indian,False,21,medium,87
+U00274,occasional,Mumbai,Mumbai_Z5,Chinese|Beverages,False,2,medium,352
+U00275,regular,Mumbai,Mumbai_Z1,South Indian|Biryani,False,12,medium,900
+U00276,regular,Delhi,Delhi_Z5,Healthy|North Indian,True,9,medium,45
+U00277,premium,Bangalore,Bangalore_Z2,Chinese|Fast Food,True,27,high,556
+U00278,regular,Kolkata,Kolkata_Z4,Chinese|Italian,False,12,low,557
+U00279,premium,Pune,Pune_Z3,Street Food|Chinese|Italian,False,25,high,427
+U00280,premium,Bangalore,Bangalore_Z5,Italian|Beverages|Biryani,True,27,medium,560
+U00281,premium,Chennai,Chennai_Z3,Healthy|Street Food|Desserts,False,25,low,247
+U00282,regular,Hyderabad,Hyderabad_Z5,Biryani|Fast Food,False,11,low,317
+U00283,regular,Delhi,Delhi_Z1,Chinese|Desserts|Fast Food,False,13,low,596
+U00284,budget,Pune,Pune_Z1,Italian|Chinese,False,5,high,572
+U00285,regular,Kolkata,Kolkata_Z3,Desserts|Healthy|Beverages|Chinese,False,11,medium,943
+U00286,budget,Delhi,Delhi_Z5,North Indian|Desserts|Street Food,True,6,medium,808
+U00287,regular,Delhi,Delhi_Z1,South Indian|Healthy|Biryani|North Indian,False,9,low,113
+U00288,regular,Bangalore,Bangalore_Z4,Italian|North Indian|Healthy,False,10,medium,468
+U00289,budget,Hyderabad,Hyderabad_Z2,South Indian|Beverages|Street Food,False,7,low,324
+U00290,regular,Chennai,Chennai_Z1,Healthy|North Indian,False,11,low,997
+U00291,budget,Mumbai,Mumbai_Z1,Desserts|Italian,True,6,low,547
+U00292,budget,Mumbai,Mumbai_Z3,Biryani|Healthy,False,7,low,445
+U00293,premium,Delhi,Delhi_Z3,North Indian|Healthy|Italian,True,26,low,392
+U00294,regular,Hyderabad,Hyderabad_Z4,Italian|Healthy|North Indian|Street Food,True,9,low,761
+U00295,budget,Kolkata,Kolkata_Z2,Desserts|South Indian|Biryani,True,6,medium,311
+U00296,regular,Kolkata,Kolkata_Z1,Fast Food|North Indian,True,11,low,393
+U00297,premium,Pune,Pune_Z1,North Indian|Healthy|Beverages|Desserts,False,22,high,804
+U00298,budget,Bangalore,Bangalore_Z5,Biryani|Fast Food|Italian|Desserts,True,5,low,432
+U00299,regular,Hyderabad,Hyderabad_Z3,North Indian|South Indian|Biryani,True,9,medium,51
+U00300,budget,Hyderabad,Hyderabad_Z3,Desserts|Biryani,False,4,medium,378
+U00301,budget,Bangalore,Bangalore_Z1,Healthy|Street Food|Chinese,True,7,high,509
+U00302,regular,Kolkata,Kolkata_Z3,Chinese|Desserts,True,10,high,492
+U00303,regular,Kolkata,Kolkata_Z5,Desserts|Beverages|Biryani,False,14,medium,590
+U00304,regular,Kolkata,Kolkata_Z5,Biryani|Healthy|Chinese|Fast Food,False,12,low,473
+U00305,premium,Delhi,Delhi_Z1,Desserts|Beverages,True,29,low,551
+U00306,occasional,Hyderabad,Hyderabad_Z1,Biryani|Beverages,False,2,low,82
+U00307,regular,Mumbai,Mumbai_Z2,Fast Food|Chinese|South Indian,True,12,medium,899
+U00308,regular,Bangalore,Bangalore_Z3,Healthy|South Indian|North Indian|Chinese,False,10,low,36
+U00309,premium,Kolkata,Kolkata_Z3,Biryani|Italian|Chinese|Street Food,True,22,high,159
+U00310,budget,Pune,Pune_Z5,Fast Food|Chinese|Healthy|Biryani,True,7,high,888
+U00311,regular,Kolkata,Kolkata_Z1,Italian|North Indian,True,10,low,128
+U00312,budget,Kolkata,Kolkata_Z3,Beverages|Healthy|Chinese,False,5,medium,267
+U00313,budget,Chennai,Chennai_Z3,Desserts|Italian|Healthy|South Indian,False,7,low,579
+U00314,occasional,Delhi,Delhi_Z5,Beverages|North Indian,True,3,medium,425
+U00315,premium,Bangalore,Bangalore_Z1,North Indian|Fast Food|Beverages|Healthy,False,23,low,239
+U00316,regular,Chennai,Chennai_Z1,Beverages|Fast Food|North Indian,True,13,medium,162
+U00317,regular,Chennai,Chennai_Z1,Healthy|North Indian|Fast Food,False,10,medium,190
+U00318,budget,Pune,Pune_Z3,Beverages|Italian|Chinese,True,5,high,157
+U00319,budget,Hyderabad,Hyderabad_Z4,Street Food|Desserts|Biryani,False,7,high,701
+U00320,budget,Pune,Pune_Z2,Fast Food|Beverages|Desserts|Italian,True,5,high,581
+U00321,regular,Hyderabad,Hyderabad_Z3,Healthy|North Indian|Desserts|Italian,True,8,medium,167
+U00322,premium,Hyderabad,Hyderabad_Z1,Chinese|Beverages,False,21,low,40
+U00323,regular,Bangalore,Bangalore_Z1,Beverages|Biryani|Desserts|South Indian,True,8,high,484
+U00324,budget,Kolkata,Kolkata_Z3,Fast Food|Beverages|Italian|Biryani,False,7,medium,834
+U00325,occasional,Bangalore,Bangalore_Z1,Street Food|Italian,False,1,low,644
+U00326,premium,Delhi,Delhi_Z3,Biryani|Beverages|Street Food,True,21,high,766
+U00327,regular,Hyderabad,Hyderabad_Z1,Beverages|Street Food|Desserts|Fast Food,False,11,low,747
+U00328,regular,Chennai,Chennai_Z3,Healthy|Chinese,False,13,low,705
+U00329,regular,Kolkata,Kolkata_Z4,Healthy|Chinese,False,12,high,779
+U00330,budget,Mumbai,Mumbai_Z4,Fast Food|Italian,True,5,medium,142
+U00331,regular,Delhi,Delhi_Z3,Desserts|Biryani,False,10,high,635
+U00332,premium,Bangalore,Bangalore_Z3,South Indian|Biryani|Chinese|Desserts,False,24,low,921
+U00333,budget,Pune,Pune_Z4,Beverages|Italian|Healthy|Biryani,True,5,medium,694
+U00334,budget,Delhi,Delhi_Z5,Desserts|Italian|North Indian|South Indian,False,5,high,808
+U00335,budget,Delhi,Delhi_Z4,Street Food|Fast Food|North Indian,False,5,low,742
+U00336,budget,Kolkata,Kolkata_Z5,Italian|North Indian,True,6,medium,657
+U00337,premium,Delhi,Delhi_Z4,Chinese|Fast Food|North Indian,False,18,low,695
+U00338,premium,Delhi,Delhi_Z2,Fast Food|Biryani,True,18,low,819
+U00339,regular,Mumbai,Mumbai_Z4,South Indian|Healthy|Desserts,False,12,low,567
+U00340,budget,Pune,Pune_Z2,South Indian|Fast Food|Italian,True,6,low,314
+U00341,regular,Pune,Pune_Z3,Healthy|Street Food|Beverages|Desserts,True,14,low,422
+U00342,regular,Pune,Pune_Z2,Biryani|South Indian|Beverages,False,13,low,903
+U00343,budget,Hyderabad,Hyderabad_Z3,South Indian|Italian|Desserts|Beverages,False,4,low,221
+U00344,regular,Chennai,Chennai_Z2,Fast Food|Healthy|Chinese,False,11,medium,618
+U00345,regular,Pune,Pune_Z1,Biryani|Italian,False,9,high,626
+U00346,regular,Delhi,Delhi_Z1,Beverages|Biryani|Italian|Street Food,True,8,low,931
+U00347,regular,Delhi,Delhi_Z2,Biryani|Beverages|South Indian|Desserts,False,9,high,449
+U00348,budget,Pune,Pune_Z5,North Indian|Chinese|Desserts|South Indian,False,7,low,130
+U00349,regular,Kolkata,Kolkata_Z5,Italian|Beverages|Biryani|Chinese,False,8,high,139
+U00350,regular,Pune,Pune_Z1,South Indian|Beverages|Chinese,True,14,low,648
+U00351,regular,Delhi,Delhi_Z1,Italian|Desserts,True,12,low,508
+U00352,premium,Hyderabad,Hyderabad_Z1,Biryani|Chinese|Beverages|Desserts,False,23,high,489
+U00353,regular,Bangalore,Bangalore_Z2,North Indian|Chinese|Fast Food,False,12,low,335
+U00354,budget,Bangalore,Bangalore_Z5,North Indian|Desserts|Italian|Chinese,False,4,low,945
+U00355,budget,Pune,Pune_Z5,Italian|Fast Food|Chinese,False,7,medium,355
+U00356,regular,Mumbai,Mumbai_Z4,Italian|Street Food|Biryani,False,13,high,104
+U00357,budget,Pune,Pune_Z2,Biryani|Fast Food|Street Food,False,5,medium,614
+U00358,regular,Kolkata,Kolkata_Z4,Biryani|North Indian,False,13,low,709
+U00359,occasional,Pune,Pune_Z2,Fast Food|Beverages,False,2,low,942
+U00360,regular,Bangalore,Bangalore_Z3,Street Food|Biryani|Beverages,False,9,high,239
+U00361,regular,Delhi,Delhi_Z1,North Indian|South Indian|Fast Food|Healthy,True,8,high,550
+U00362,regular,Pune,Pune_Z5,North Indian|South Indian,False,14,high,589
+U00363,regular,Delhi,Delhi_Z3,Biryani|South Indian,False,12,medium,439
+U00364,regular,Delhi,Delhi_Z2,Italian|Street Food,False,9,medium,746
+U00365,occasional,Mumbai,Mumbai_Z2,Healthy|Biryani,True,2,low,72
+U00366,regular,Delhi,Delhi_Z4,Street Food|South Indian|Healthy|Beverages,False,10,high,879
+U00367,occasional,Bangalore,Bangalore_Z4,Healthy|Chinese|Street Food,False,2,low,186
+U00368,occasional,Hyderabad,Hyderabad_Z1,Street Food|Desserts|Fast Food,True,1,low,84
+U00369,budget,Hyderabad,Hyderabad_Z5,Healthy|South Indian,False,5,high,751
+U00370,budget,Chennai,Chennai_Z1,South Indian|Italian|Fast Food,False,6,medium,405
+U00371,budget,Kolkata,Kolkata_Z5,South Indian|Healthy|Street Food|North Indian,False,6,medium,52
+U00372,budget,Pune,Pune_Z3,Street Food|Fast Food,False,4,medium,650
+U00373,budget,Kolkata,Kolkata_Z3,Biryani|Fast Food|Desserts,False,6,high,431
+U00374,regular,Bangalore,Bangalore_Z4,Desserts|South Indian,False,14,low,657
+U00375,budget,Delhi,Delhi_Z1,South Indian|Italian|Desserts,False,5,medium,173
+U00376,regular,Hyderabad,Hyderabad_Z1,Chinese|Street Food|Biryani,True,14,low,101
+U00377,premium,Kolkata,Kolkata_Z2,Fast Food|Beverages|Healthy,False,15,low,604
+U00378,budget,Bangalore,Bangalore_Z1,Healthy|Chinese,True,4,medium,216
+U00379,premium,Hyderabad,Hyderabad_Z2,Desserts|Fast Food,True,27,low,323
+U00380,budget,Delhi,Delhi_Z1,Street Food|North Indian|Healthy,True,5,medium,282
+U00381,budget,Kolkata,Kolkata_Z4,Biryani|Healthy|North Indian,True,6,low,903
+U00382,regular,Hyderabad,Hyderabad_Z5,Desserts|Italian|North Indian|Fast Food,True,8,low,904
+U00383,regular,Pune,Pune_Z2,Fast Food|Italian|North Indian|Chinese,False,14,medium,727
+U00384,premium,Pune,Pune_Z3,Healthy|Chinese|Street Food|Biryani,False,20,medium,382
+U00385,premium,Chennai,Chennai_Z4,Italian|Street Food|Desserts|Healthy,False,23,medium,895
+U00386,premium,Chennai,Chennai_Z2,Beverages|Biryani|Italian,True,27,low,105
+U00387,budget,Hyderabad,Hyderabad_Z3,North Indian|Healthy|Biryani|Desserts,False,4,low,73
+U00388,budget,Bangalore,Bangalore_Z5,Beverages|Biryani,False,6,low,175
+U00389,premium,Pune,Pune_Z1,Biryani|South Indian,True,17,low,388
+U00390,premium,Bangalore,Bangalore_Z2,Italian|Street Food|South Indian,False,23,high,138
+U00391,occasional,Bangalore,Bangalore_Z1,Desserts|Street Food|South Indian|Biryani,True,1,high,889
+U00392,regular,Hyderabad,Hyderabad_Z5,Desserts|Fast Food,False,9,medium,572
+U00393,regular,Bangalore,Bangalore_Z4,Fast Food|Italian,False,14,medium,821
+U00394,premium,Pune,Pune_Z3,Street Food|Chinese,False,16,high,424
+U00395,regular,Delhi,Delhi_Z2,Biryani|Chinese|Healthy|Street Food,True,8,medium,234
+U00396,occasional,Chennai,Chennai_Z5,North Indian|Chinese|Healthy|Beverages,True,2,high,955
+U00397,premium,Delhi,Delhi_Z5,Italian|Chinese,False,19,low,187
+U00398,regular,Bangalore,Bangalore_Z1,Chinese|Street Food,True,8,low,775
+U00399,premium,Delhi,Delhi_Z3,Fast Food|Street Food,False,26,high,672
+U00400,premium,Pune,Pune_Z3,Healthy|Biryani,True,18,low,666
+U00401,budget,Pune,Pune_Z2,Chinese|Desserts,False,5,high,243
+U00402,occasional,Bangalore,Bangalore_Z2,Biryani|Italian,True,3,high,849
+U00403,regular,Hyderabad,Hyderabad_Z1,Healthy|Desserts|South Indian|Chinese,False,13,medium,909
+U00404,premium,Delhi,Delhi_Z3,Desserts|Biryani|Beverages|Healthy,True,24,low,599
+U00405,regular,Hyderabad,Hyderabad_Z4,Beverages|Chinese,False,10,medium,393
+U00406,premium,Hyderabad,Hyderabad_Z3,South Indian|Fast Food|Biryani,True,27,medium,883
+U00407,regular,Mumbai,Mumbai_Z2,Italian|Fast Food,True,14,medium,717
+U00408,budget,Bangalore,Bangalore_Z4,Fast Food|Desserts,False,7,medium,915
+U00409,occasional,Chennai,Chennai_Z5,Fast Food|Healthy|Desserts|Beverages,False,1,high,562
+U00410,budget,Pune,Pune_Z4,Beverages|Desserts|Healthy,True,7,medium,80
+U00411,regular,Pune,Pune_Z5,Italian|Fast Food|Healthy|Street Food,True,14,high,542
+U00412,occasional,Bangalore,Bangalore_Z3,Healthy|South Indian|Beverages|Biryani,False,1,low,760
+U00413,occasional,Kolkata,Kolkata_Z1,South Indian|Biryani|Street Food,False,1,medium,323
+U00414,regular,Kolkata,Kolkata_Z3,Biryani|Street Food,False,8,low,73
+U00415,regular,Kolkata,Kolkata_Z1,South Indian|Street Food,True,14,medium,587
+U00416,regular,Chennai,Chennai_Z1,Desserts|Street Food,True,11,low,650
+U00417,budget,Pune,Pune_Z5,Healthy|Street Food,False,4,medium,315
+U00418,regular,Bangalore,Bangalore_Z4,Chinese|South Indian|Biryani,False,11,high,958
+U00419,regular,Pune,Pune_Z1,Street Food|Fast Food,False,8,low,557
+U00420,premium,Hyderabad,Hyderabad_Z5,Chinese|Fast Food,False,26,low,678
+U00421,premium,Delhi,Delhi_Z2,Italian|Street Food|Desserts|North Indian,False,16,low,668
+U00422,premium,Delhi,Delhi_Z5,Beverages|Desserts|South Indian|Street Food,False,23,high,304
+U00423,budget,Pune,Pune_Z4,Fast Food|Street Food|Chinese,False,5,medium,989
+U00424,regular,Mumbai,Mumbai_Z1,Beverages|Desserts|Biryani|South Indian,False,10,medium,612
+U00425,budget,Chennai,Chennai_Z1,Chinese|Street Food|Fast Food|South Indian,False,7,low,39
+U00426,regular,Kolkata,Kolkata_Z4,South Indian|Desserts|Street Food|Biryani,False,8,low,237
+U00427,regular,Chennai,Chennai_Z2,Beverages|Desserts,True,10,high,165
+U00428,premium,Chennai,Chennai_Z3,Street Food|Italian|Beverages,False,27,medium,813
+U00429,regular,Hyderabad,Hyderabad_Z1,Street Food|South Indian|North Indian|Italian,True,12,high,374
+U00430,budget,Chennai,Chennai_Z5,Fast Food|Beverages,False,4,high,641
+U00431,budget,Delhi,Delhi_Z5,North Indian|Healthy,True,4,low,595
+U00432,premium,Hyderabad,Hyderabad_Z2,Biryani|Italian,False,18,medium,917
+U00433,regular,Bangalore,Bangalore_Z2,South Indian|Healthy,False,8,medium,36
+U00434,budget,Chennai,Chennai_Z5,Desserts|Beverages,False,4,high,76
+U00435,budget,Chennai,Chennai_Z3,Desserts|Chinese|Healthy,True,6,low,769
+U00436,premium,Bangalore,Bangalore_Z3,Italian|Desserts|North Indian|Street Food,True,15,medium,761
+U00437,budget,Chennai,Chennai_Z1,South Indian|Fast Food|Beverages|Desserts,False,7,low,106
+U00438,premium,Bangalore,Bangalore_Z1,North Indian|Beverages,False,29,high,82
+U00439,premium,Hyderabad,Hyderabad_Z5,North Indian|Healthy|Italian,False,27,low,153
+U00440,budget,Delhi,Delhi_Z3,Healthy|Italian,False,7,low,872
+U00441,budget,Bangalore,Bangalore_Z1,North Indian|Italian|Healthy,False,4,low,252
+U00442,occasional,Mumbai,Mumbai_Z3,Chinese|Beverages|Biryani,True,1,high,284
+U00443,regular,Bangalore,Bangalore_Z4,Beverages|Desserts|Chinese,True,14,high,598
+U00444,regular,Chennai,Chennai_Z1,Italian|Beverages|Healthy,True,9,low,743
+U00445,premium,Kolkata,Kolkata_Z3,Healthy|Italian,True,22,low,692
+U00446,occasional,Kolkata,Kolkata_Z3,Street Food|South Indian|Beverages,False,3,medium,768
+U00447,occasional,Hyderabad,Hyderabad_Z4,Fast Food|South Indian|Chinese,False,2,low,873
+U00448,premium,Pune,Pune_Z5,Fast Food|Biryani,False,29,medium,921
+U00449,regular,Hyderabad,Hyderabad_Z2,Beverages|Italian,False,12,medium,865
+U00450,budget,Pune,Pune_Z1,Street Food|Desserts|South Indian,False,5,high,347
+U00451,premium,Kolkata,Kolkata_Z3,Biryani|North Indian|Italian,False,23,low,262
+U00452,regular,Kolkata,Kolkata_Z4,Beverages|Biryani|Italian|Chinese,True,9,low,457
+U00453,regular,Bangalore,Bangalore_Z1,Fast Food|Biryani|Chinese,False,10,medium,139
+U00454,occasional,Delhi,Delhi_Z5,Healthy|Desserts|Fast Food,False,3,low,531
+U00455,budget,Mumbai,Mumbai_Z3,Street Food|Healthy|Italian|Chinese,False,5,medium,388
+U00456,regular,Hyderabad,Hyderabad_Z5,Biryani|Street Food|Beverages,False,14,low,272
+U00457,budget,Chennai,Chennai_Z5,South Indian|North Indian,False,4,low,442
+U00458,regular,Pune,Pune_Z2,South Indian|Beverages|Fast Food|Chinese,True,8,low,786
+U00459,budget,Chennai,Chennai_Z1,South Indian|Beverages|Biryani,False,4,medium,493
+U00460,budget,Delhi,Delhi_Z2,Fast Food|Chinese|South Indian,False,6,medium,799
+U00461,budget,Pune,Pune_Z4,North Indian|Fast Food|Italian|Street Food,True,5,high,762
+U00462,regular,Hyderabad,Hyderabad_Z4,North Indian|Street Food|Chinese|South Indian,True,13,medium,699
+U00463,premium,Bangalore,Bangalore_Z3,Chinese|South Indian|Italian|Beverages,True,20,low,250
+U00464,regular,Chennai,Chennai_Z3,Healthy|Desserts|North Indian|Chinese,False,14,medium,499
+U00465,occasional,Delhi,Delhi_Z5,Beverages|Biryani|Fast Food|Italian,True,2,low,699
+U00466,regular,Hyderabad,Hyderabad_Z2,Fast Food|Chinese|South Indian,False,9,high,801
+U00467,budget,Kolkata,Kolkata_Z1,Healthy|Fast Food,False,6,medium,999
+U00468,premium,Kolkata,Kolkata_Z5,Healthy|Desserts,False,25,low,495
+U00469,budget,Hyderabad,Hyderabad_Z3,North Indian|Italian|Beverages,True,7,low,478
+U00470,occasional,Hyderabad,Hyderabad_Z2,South Indian|Desserts|Beverages,False,3,medium,624
+U00471,budget,Hyderabad,Hyderabad_Z1,Desserts|Beverages,True,7,high,792
+U00472,occasional,Pune,Pune_Z5,Desserts|Fast Food,False,2,medium,607
+U00473,budget,Hyderabad,Hyderabad_Z5,Fast Food|North Indian|Beverages|Chinese,False,4,medium,558
+U00474,premium,Chennai,Chennai_Z4,Fast Food|Street Food,True,18,low,106
+U00475,regular,Delhi,Delhi_Z4,Desserts|Street Food|Healthy,False,10,high,361
+U00476,occasional,Pune,Pune_Z1,Biryani|Healthy|Fast Food|Street Food,False,2,low,979
+U00477,budget,Hyderabad,Hyderabad_Z3,Fast Food|Healthy|Desserts,False,7,low,402
+U00478,regular,Mumbai,Mumbai_Z5,Beverages|Street Food|South Indian|Chinese,False,10,medium,233
+U00479,occasional,Mumbai,Mumbai_Z2,South Indian|Desserts|North Indian,False,3,low,666
+U00480,regular,Delhi,Delhi_Z2,Italian|Desserts,False,14,low,216
+U00481,regular,Kolkata,Kolkata_Z3,North Indian|Fast Food|Biryani,True,13,medium,210
+U00482,regular,Bangalore,Bangalore_Z3,Italian|Desserts|Fast Food,True,11,medium,311
+U00483,regular,Bangalore,Bangalore_Z3,Italian|South Indian|Beverages|Fast Food,True,14,low,264
+U00484,regular,Kolkata,Kolkata_Z3,Healthy|Chinese,False,11,low,335
+U00485,regular,Pune,Pune_Z5,Beverages|Healthy|South Indian,False,9,low,231
+U00486,occasional,Pune,Pune_Z5,Beverages|Fast Food|Chinese,False,1,medium,430
+U00487,budget,Pune,Pune_Z4,Street Food|North Indian|Italian,True,6,medium,768
+U00488,budget,Bangalore,Bangalore_Z1,Chinese|South Indian|Beverages,True,7,low,98
+U00489,occasional,Mumbai,Mumbai_Z4,Italian|Healthy|Fast Food,False,3,low,514
+U00490,premium,Bangalore,Bangalore_Z3,North Indian|Street Food|Fast Food|South Indian,False,15,high,845
+U00491,regular,Chennai,Chennai_Z1,North Indian|Italian|Desserts|South Indian,True,9,medium,945
+U00492,regular,Hyderabad,Hyderabad_Z5,Healthy|Street Food,False,11,medium,752
+U00493,budget,Pune,Pune_Z1,Beverages|Desserts,False,5,medium,937
+U00494,budget,Mumbai,Mumbai_Z5,Chinese|Desserts|Healthy,False,5,low,838
+U00495,regular,Delhi,Delhi_Z5,Desserts|Chinese|South Indian|North Indian,False,14,medium,372
+U00496,regular,Delhi,Delhi_Z2,Desserts|Biryani|North Indian|Fast Food,True,14,medium,516
+U00497,regular,Hyderabad,Hyderabad_Z1,Italian|South Indian|Healthy,False,12,high,388
+U00498,budget,Mumbai,Mumbai_Z5,Beverages|Biryani|Healthy,False,6,low,714
+U00499,occasional,Bangalore,Bangalore_Z3,Beverages|South Indian|Chinese|Healthy,False,2,high,145
+U00500,occasional,Bangalore,Bangalore_Z1,Desserts|Italian|South Indian,True,1,low,621
+U00501,regular,Chennai,Chennai_Z5,Chinese|Fast Food,True,8,medium,827
+U00502,regular,Chennai,Chennai_Z1,North Indian|Fast Food|Italian|Healthy,False,10,medium,74
+U00503,regular,Bangalore,Bangalore_Z3,Healthy|South Indian|Chinese|Desserts,False,13,high,624
+U00504,premium,Delhi,Delhi_Z4,Street Food|Desserts|South Indian|North Indian,False,27,medium,772
+U00505,regular,Pune,Pune_Z5,Biryani|Street Food|Beverages,False,14,medium,631
+U00506,budget,Delhi,Delhi_Z4,Street Food|North Indian|South Indian|Desserts,False,5,medium,80
+U00507,occasional,Chennai,Chennai_Z3,Desserts|Beverages,True,3,medium,780
+U00508,premium,Hyderabad,Hyderabad_Z3,Desserts|Chinese,True,15,medium,164
+U00509,occasional,Bangalore,Bangalore_Z1,Italian|Beverages|Biryani|Street Food,True,3,medium,581
+U00510,premium,Chennai,Chennai_Z1,Italian|North Indian|Street Food,True,26,low,733
+U00511,regular,Chennai,Chennai_Z3,Italian|Chinese,True,14,low,376
+U00512,regular,Pune,Pune_Z4,Chinese|Healthy,False,12,high,184
+U00513,occasional,Bangalore,Bangalore_Z1,South Indian|Healthy|Street Food,False,2,medium,664
+U00514,premium,Pune,Pune_Z3,Beverages|South Indian|Chinese,False,21,medium,98
+U00515,budget,Bangalore,Bangalore_Z4,Biryani|Beverages,False,4,medium,484
+U00516,budget,Pune,Pune_Z2,South Indian|Street Food|North Indian,True,6,medium,454
+U00517,regular,Delhi,Delhi_Z5,Chinese|Biryani,False,10,medium,833
+U00518,premium,Hyderabad,Hyderabad_Z4,Healthy|Beverages|Chinese|Italian,False,25,low,646
+U00519,occasional,Hyderabad,Hyderabad_Z5,Desserts|South Indian|Beverages|Street Food,False,1,medium,761
+U00520,budget,Bangalore,Bangalore_Z1,Street Food|North Indian|Desserts,True,4,low,697
+U00521,regular,Mumbai,Mumbai_Z2,South Indian|Fast Food|Desserts,False,8,medium,716
+U00522,regular,Kolkata,Kolkata_Z3,South Indian|Beverages|Healthy|North Indian,False,8,low,94
+U00523,occasional,Chennai,Chennai_Z3,Chinese|Healthy|North Indian|Italian,False,3,low,359
+U00524,premium,Chennai,Chennai_Z4,Street Food|Italian,False,26,medium,58
+U00525,premium,Bangalore,Bangalore_Z5,Street Food|Desserts,True,26,low,997
+U00526,regular,Pune,Pune_Z3,Italian|Desserts|Chinese,False,10,medium,684
+U00527,regular,Mumbai,Mumbai_Z3,South Indian|Chinese|Biryani|North Indian,False,12,high,30
+U00528,budget,Delhi,Delhi_Z4,Biryani|Healthy|North Indian,False,7,low,685
+U00529,budget,Pune,Pune_Z2,Italian|Street Food,False,6,high,812
+U00530,premium,Pune,Pune_Z2,Healthy|Fast Food|North Indian,False,21,low,362
+U00531,premium,Bangalore,Bangalore_Z3,Healthy|Street Food|Fast Food|Beverages,True,16,medium,711
+U00532,occasional,Bangalore,Bangalore_Z1,Desserts|Beverages|Healthy,False,2,medium,131
+U00533,occasional,Chennai,Chennai_Z1,Beverages|South Indian,False,2,medium,146
+U00534,regular,Bangalore,Bangalore_Z3,Street Food|South Indian|Healthy,False,8,medium,927
+U00535,premium,Bangalore,Bangalore_Z4,Biryani|Fast Food,False,22,low,869
+U00536,occasional,Bangalore,Bangalore_Z1,North Indian|Street Food|Biryani|Beverages,False,2,medium,489
+U00537,premium,Chennai,Chennai_Z1,Biryani|Street Food|Beverages|Italian,True,28,high,83
+U00538,budget,Delhi,Delhi_Z2,Street Food|Healthy|Chinese|South Indian,True,6,high,286
+U00539,regular,Delhi,Delhi_Z5,Beverages|Biryani,False,13,low,887
+U00540,budget,Kolkata,Kolkata_Z5,Desserts|Street Food,False,4,low,338
+U00541,occasional,Kolkata,Kolkata_Z3,Healthy|Chinese|Desserts,False,1,low,250
+U00542,regular,Bangalore,Bangalore_Z3,Street Food|Chinese|Healthy,False,14,medium,184
+U00543,budget,Kolkata,Kolkata_Z4,Biryani|South Indian,False,7,high,756
+U00544,regular,Chennai,Chennai_Z2,Healthy|South Indian|Street Food|Desserts,False,14,medium,989
+U00545,regular,Delhi,Delhi_Z5,Chinese|Desserts,False,11,medium,560
+U00546,regular,Pune,Pune_Z2,Beverages|Italian|Biryani,False,13,low,148
+U00547,budget,Delhi,Delhi_Z5,North Indian|Fast Food|Beverages|Biryani,False,7,medium,410
+U00548,regular,Delhi,Delhi_Z5,Beverages|Biryani|Healthy|North Indian,False,10,low,263
+U00549,regular,Chennai,Chennai_Z5,Desserts|Chinese|Fast Food,False,14,low,349
+U00550,premium,Kolkata,Kolkata_Z4,Biryani|Street Food|Fast Food,False,21,medium,617
+U00551,regular,Pune,Pune_Z1,Biryani|Beverages|North Indian,False,9,low,469
+U00552,premium,Chennai,Chennai_Z2,South Indian|Desserts|Biryani,False,23,high,195
+U00553,regular,Bangalore,Bangalore_Z3,Fast Food|South Indian,False,13,medium,925
+U00554,regular,Hyderabad,Hyderabad_Z2,Biryani|Desserts|Chinese,False,10,low,372
+U00555,premium,Delhi,Delhi_Z5,Street Food|Healthy|North Indian|South Indian,False,21,low,292
+U00556,regular,Hyderabad,Hyderabad_Z5,North Indian|Street Food,True,14,medium,648
+U00557,budget,Chennai,Chennai_Z2,Biryani|Italian,True,4,medium,812
+U00558,budget,Chennai,Chennai_Z1,Fast Food|Chinese|Beverages,False,4,high,246
+U00559,premium,Chennai,Chennai_Z2,Italian|Healthy|Biryani|Beverages,True,21,medium,348
+U00560,regular,Hyderabad,Hyderabad_Z4,Chinese|Desserts,False,12,medium,748
+U00561,premium,Chennai,Chennai_Z2,South Indian|Desserts|Fast Food,True,28,low,624
+U00562,budget,Bangalore,Bangalore_Z1,Italian|Beverages,False,7,medium,625
+U00563,budget,Chennai,Chennai_Z3,North Indian|Beverages|Street Food,False,5,medium,346
+U00564,budget,Mumbai,Mumbai_Z4,Chinese|Desserts|Beverages,True,4,high,735
+U00565,regular,Kolkata,Kolkata_Z4,North Indian|Street Food,False,14,low,595
+U00566,regular,Hyderabad,Hyderabad_Z1,Street Food|North Indian,False,14,low,45
+U00567,regular,Mumbai,Mumbai_Z2,Italian|Beverages|Street Food,False,14,medium,297
+U00568,regular,Chennai,Chennai_Z1,Italian|Healthy,False,8,low,34
+U00569,occasional,Bangalore,Bangalore_Z4,North Indian|Chinese|Desserts|Biryani,False,1,high,729
+U00570,regular,Delhi,Delhi_Z1,Street Food|North Indian|Fast Food|Chinese,False,13,low,693
+U00571,regular,Pune,Pune_Z1,Healthy|Desserts,False,14,medium,350
+U00572,premium,Kolkata,Kolkata_Z3,Street Food|North Indian|Healthy,False,15,high,296
+U00573,regular,Pune,Pune_Z2,Chinese|South Indian|Fast Food|Healthy,False,11,low,441
+U00574,regular,Chennai,Chennai_Z1,North Indian|Biryani|Healthy|Italian,False,9,medium,181
+U00575,premium,Kolkata,Kolkata_Z3,Beverages|Chinese|Italian|Biryani,False,18,low,872
+U00576,occasional,Kolkata,Kolkata_Z5,Desserts|Chinese|Biryani,False,2,low,729
+U00577,budget,Bangalore,Bangalore_Z3,Italian|South Indian,False,7,high,302
+U00578,occasional,Kolkata,Kolkata_Z5,South Indian|Italian|Biryani|Desserts,True,1,medium,678
+U00579,regular,Hyderabad,Hyderabad_Z3,Biryani|South Indian,False,8,high,696
+U00580,budget,Mumbai,Mumbai_Z4,Healthy|Desserts|Fast Food,False,5,medium,411
+U00581,regular,Mumbai,Mumbai_Z3,Beverages|Street Food|Chinese|Italian,True,13,medium,880
+U00582,occasional,Mumbai,Mumbai_Z5,Biryani|Desserts|Healthy,False,3,high,425
+U00583,regular,Hyderabad,Hyderabad_Z3,North Indian|Biryani,True,10,low,696
+U00584,regular,Pune,Pune_Z5,Healthy|North Indian|Beverages,False,13,low,555
+U00585,regular,Bangalore,Bangalore_Z1,Biryani|North Indian|South Indian|Chinese,False,13,low,758
+U00586,budget,Kolkata,Kolkata_Z4,South Indian|Fast Food|Desserts|Italian,True,5,low,613
+U00587,budget,Hyderabad,Hyderabad_Z5,South Indian|Chinese|Street Food|Healthy,False,7,medium,579
+U00588,budget,Mumbai,Mumbai_Z5,Chinese|North Indian|South Indian,True,4,high,284
+U00589,budget,Chennai,Chennai_Z2,Healthy|South Indian,False,4,high,613
+U00590,budget,Delhi,Delhi_Z5,Fast Food|Healthy|Desserts,False,4,medium,209
+U00591,budget,Kolkata,Kolkata_Z5,Biryani|Healthy|South Indian|Italian,False,5,high,928
+U00592,regular,Hyderabad,Hyderabad_Z3,Healthy|Fast Food|Italian,True,12,low,893
+U00593,budget,Hyderabad,Hyderabad_Z4,Healthy|Desserts,False,7,medium,717
+U00594,regular,Bangalore,Bangalore_Z3,Beverages|South Indian|Desserts|Street Food,True,14,low,185
+U00595,premium,Bangalore,Bangalore_Z5,Fast Food|Street Food|Italian,False,19,low,793
+U00596,regular,Hyderabad,Hyderabad_Z4,North Indian|Beverages|Chinese|Desserts,False,12,medium,311
+U00597,regular,Mumbai,Mumbai_Z4,Healthy|Desserts|Biryani|Beverages,False,14,medium,548
+U00598,budget,Delhi,Delhi_Z3,Healthy|North Indian,False,5,low,667
+U00599,budget,Kolkata,Kolkata_Z3,Fast Food|Street Food|Healthy,False,4,medium,462
+U00600,budget,Bangalore,Bangalore_Z1,Chinese|Beverages,False,5,medium,589
+U00601,budget,Kolkata,Kolkata_Z5,Italian|Healthy,False,6,medium,298
+U00602,budget,Mumbai,Mumbai_Z1,Biryani|North Indian,False,5,low,970
+U00603,budget,Kolkata,Kolkata_Z5,Fast Food|Beverages|Chinese,False,5,low,555
+U00604,budget,Chennai,Chennai_Z4,Fast Food|South Indian,False,6,high,622
+U00605,budget,Bangalore,Bangalore_Z1,Healthy|Chinese|Desserts|Street Food,False,4,high,538
+U00606,regular,Mumbai,Mumbai_Z5,Desserts|Healthy|Chinese|South Indian,False,14,high,294
+U00607,budget,Mumbai,Mumbai_Z2,Desserts|Biryani,False,4,low,529
+U00608,regular,Delhi,Delhi_Z5,Biryani|North Indian|South Indian|Chinese,False,13,medium,324
+U00609,regular,Delhi,Delhi_Z5,Desserts|Chinese,True,13,medium,643
+U00610,regular,Chennai,Chennai_Z3,Biryani|Desserts,True,13,low,519
+U00611,budget,Mumbai,Mumbai_Z5,Chinese|North Indian|Street Food|Healthy,False,5,low,283
+U00612,premium,Pune,Pune_Z4,South Indian|Fast Food,True,21,low,713
+U00613,regular,Mumbai,Mumbai_Z2,Street Food|North Indian|Chinese|Italian,False,10,medium,827
+U00614,budget,Delhi,Delhi_Z2,Chinese|Healthy,False,4,medium,690
+U00615,premium,Pune,Pune_Z3,Fast Food|Healthy|Biryani,True,29,medium,531
+U00616,occasional,Bangalore,Bangalore_Z2,Beverages|Italian|Desserts,True,2,high,629
+U00617,budget,Bangalore,Bangalore_Z3,North Indian|Chinese|Desserts,False,5,low,395
+U00618,budget,Kolkata,Kolkata_Z2,Desserts|South Indian,True,5,medium,966
+U00619,premium,Hyderabad,Hyderabad_Z5,Fast Food|Beverages|North Indian|Desserts,True,26,low,56
+U00620,premium,Delhi,Delhi_Z1,Italian|Healthy|Chinese,False,29,low,150
+U00621,budget,Hyderabad,Hyderabad_Z5,Italian|South Indian,True,4,medium,95
+U00622,budget,Pune,Pune_Z3,North Indian|Italian,True,7,low,325
+U00623,regular,Delhi,Delhi_Z2,Beverages|Italian|Healthy,True,14,medium,105
+U00624,regular,Chennai,Chennai_Z2,North Indian|Biryani|Chinese|Italian,False,13,medium,871
+U00625,regular,Mumbai,Mumbai_Z4,Fast Food|Italian|Street Food|Desserts,False,12,medium,483
+U00626,regular,Chennai,Chennai_Z5,Beverages|North Indian|Chinese|Healthy,False,14,medium,366
+U00627,regular,Pune,Pune_Z4,Street Food|Fast Food,False,13,medium,460
+U00628,premium,Delhi,Delhi_Z2,Biryani|South Indian|North Indian,True,21,low,81
+U00629,budget,Pune,Pune_Z3,Italian|Chinese|Healthy|Beverages,True,7,low,207
+U00630,budget,Mumbai,Mumbai_Z5,Biryani|Street Food|South Indian,False,5,high,997
+U00631,premium,Bangalore,Bangalore_Z5,Desserts|Healthy|Chinese,False,28,high,304
+U00632,premium,Bangalore,Bangalore_Z2,South Indian|North Indian|Beverages|Street Food,False,29,medium,211
+U00633,regular,Pune,Pune_Z5,North Indian|Street Food,False,10,low,286
+U00634,regular,Hyderabad,Hyderabad_Z1,South Indian|Street Food,False,10,high,509
+U00635,budget,Delhi,Delhi_Z5,Fast Food|Biryani|Italian|Desserts,False,6,medium,325
+U00636,regular,Delhi,Delhi_Z4,Beverages|Chinese,False,11,medium,402
+U00637,regular,Bangalore,Bangalore_Z3,Biryani|Chinese,False,13,high,790
+U00638,budget,Kolkata,Kolkata_Z5,Street Food|Desserts|Fast Food|South Indian,False,5,medium,676
+U00639,budget,Chennai,Chennai_Z2,Desserts|Fast Food,False,6,high,694
+U00640,regular,Kolkata,Kolkata_Z3,North Indian|Chinese|Healthy,False,12,medium,559
+U00641,budget,Mumbai,Mumbai_Z2,Biryani|Chinese,True,5,low,429
+U00642,regular,Chennai,Chennai_Z1,Beverages|Street Food|Desserts,True,14,medium,761
+U00643,budget,Chennai,Chennai_Z1,North Indian|Chinese|Beverages,True,6,low,898
+U00644,regular,Pune,Pune_Z1,Chinese|Beverages,True,12,low,136
+U00645,budget,Bangalore,Bangalore_Z4,Fast Food|Beverages|North Indian,True,5,high,373
+U00646,premium,Kolkata,Kolkata_Z2,Street Food|Healthy|Chinese,False,29,high,92
+U00647,regular,Kolkata,Kolkata_Z5,Street Food|Biryani|North Indian,False,9,high,106
+U00648,regular,Bangalore,Bangalore_Z5,Healthy|Italian,False,13,low,85
+U00649,premium,Kolkata,Kolkata_Z1,Desserts|Healthy|Italian,True,25,high,333
+U00650,regular,Bangalore,Bangalore_Z5,Biryani|Desserts,False,14,medium,589
+U00651,budget,Pune,Pune_Z4,Biryani|Chinese,True,7,high,366
+U00652,regular,Hyderabad,Hyderabad_Z4,North Indian|Chinese,False,9,medium,123
+U00653,regular,Chennai,Chennai_Z2,Fast Food|North Indian|Biryani|Beverages,False,8,low,522
+U00654,premium,Pune,Pune_Z2,Chinese|Healthy,True,27,low,655
+U00655,regular,Delhi,Delhi_Z3,Biryani|Beverages|Healthy,False,14,medium,993
+U00656,budget,Mumbai,Mumbai_Z4,Beverages|South Indian|Fast Food|Italian,False,7,high,150
+U00657,budget,Hyderabad,Hyderabad_Z3,Beverages|Chinese|Fast Food,True,6,medium,577
+U00658,regular,Delhi,Delhi_Z2,South Indian|Beverages,False,8,high,984
+U00659,regular,Chennai,Chennai_Z2,North Indian|Chinese|Italian|South Indian,True,14,high,357
+U00660,regular,Kolkata,Kolkata_Z2,South Indian|Street Food|Beverages|Fast Food,False,12,high,823
+U00661,regular,Bangalore,Bangalore_Z4,South Indian|Chinese|Beverages|Healthy,True,14,medium,728
+U00662,occasional,Chennai,Chennai_Z5,South Indian|Biryani|Street Food|Healthy,False,2,low,667
+U00663,regular,Pune,Pune_Z2,Biryani|Beverages|Chinese|Desserts,False,13,high,49
+U00664,budget,Mumbai,Mumbai_Z2,Street Food|North Indian|Healthy|Biryani,False,5,medium,672
+U00665,budget,Pune,Pune_Z1,Fast Food|Beverages|Chinese,True,7,medium,317
+U00666,budget,Hyderabad,Hyderabad_Z4,Chinese|Beverages,False,5,medium,436
+U00667,budget,Hyderabad,Hyderabad_Z1,Fast Food|South Indian|Beverages,True,4,medium,251
+U00668,budget,Mumbai,Mumbai_Z3,Fast Food|Healthy,True,5,low,836
+U00669,budget,Delhi,Delhi_Z3,Desserts|Healthy|Chinese|Fast Food,True,4,medium,70
+U00670,budget,Delhi,Delhi_Z4,Healthy|North Indian,False,4,low,957
+U00671,budget,Hyderabad,Hyderabad_Z4,Biryani|North Indian|Desserts,True,7,medium,57
+U00672,premium,Hyderabad,Hyderabad_Z5,Fast Food|South Indian|Biryani,False,20,high,924
+U00673,budget,Kolkata,Kolkata_Z1,Fast Food|Desserts|Chinese|Italian,False,5,medium,976
+U00674,regular,Bangalore,Bangalore_Z5,North Indian|Fast Food|Italian|Healthy,False,14,high,68
+U00675,regular,Kolkata,Kolkata_Z4,Street Food|Healthy|South Indian|Fast Food,True,11,medium,845
+U00676,occasional,Kolkata,Kolkata_Z5,North Indian|South Indian|Street Food|Desserts,False,3,low,592
+U00677,budget,Delhi,Delhi_Z2,South Indian|North Indian,True,7,high,251
+U00678,regular,Mumbai,Mumbai_Z5,Chinese|Healthy|South Indian,False,10,low,714
+U00679,occasional,Delhi,Delhi_Z5,Biryani|Desserts,False,3,medium,931
+U00680,premium,Bangalore,Bangalore_Z4,Italian|Biryani,False,25,low,291
+U00681,premium,Pune,Pune_Z1,Street Food|Biryani|Beverages|North Indian,True,22,low,391
+U00682,budget,Hyderabad,Hyderabad_Z2,Street Food|North Indian,False,6,medium,74
+U00683,budget,Hyderabad,Hyderabad_Z1,Street Food|Beverages|Desserts|South Indian,False,7,medium,880
+U00684,regular,Bangalore,Bangalore_Z5,Street Food|Biryani|North Indian,False,13,medium,599
+U00685,occasional,Kolkata,Kolkata_Z1,Biryani|Street Food|Chinese,False,2,low,444
+U00686,regular,Mumbai,Mumbai_Z3,Beverages|Desserts,False,10,high,992
+U00687,regular,Hyderabad,Hyderabad_Z2,Beverages|North Indian|Biryani,False,8,low,581
+U00688,budget,Chennai,Chennai_Z3,Italian|Chinese|South Indian,False,5,low,388
+U00689,premium,Kolkata,Kolkata_Z2,Chinese|Street Food|Beverages,True,16,low,649
+U00690,budget,Hyderabad,Hyderabad_Z1,Chinese|Healthy|North Indian,False,7,high,639
+U00691,regular,Chennai,Chennai_Z2,Fast Food|Biryani|Beverages,True,12,medium,823
+U00692,regular,Bangalore,Bangalore_Z4,Fast Food|Street Food|Italian|South Indian,False,13,low,429
+U00693,regular,Bangalore,Bangalore_Z4,South Indian|Beverages,True,12,low,144
+U00694,budget,Kolkata,Kolkata_Z4,Desserts|Italian|Fast Food,True,5,low,242
+U00695,budget,Hyderabad,Hyderabad_Z4,Beverages|Chinese|Biryani|Italian,True,4,medium,181
+U00696,regular,Delhi,Delhi_Z1,Biryani|Fast Food|Italian,True,13,low,69
+U00697,budget,Chennai,Chennai_Z1,Chinese|South Indian|Biryani|Street Food,False,6,medium,120
+U00698,regular,Mumbai,Mumbai_Z3,Beverages|Healthy|Desserts|North Indian,True,10,high,655
+U00699,budget,Hyderabad,Hyderabad_Z4,Healthy|Desserts,False,7,medium,567
+U00700,regular,Mumbai,Mumbai_Z3,Desserts|North Indian|Italian|Fast Food,False,8,low,883
+U00701,regular,Hyderabad,Hyderabad_Z2,Street Food|Beverages|Italian|Fast Food,True,13,low,678
+U00702,budget,Delhi,Delhi_Z5,North Indian|South Indian,False,6,low,591
+U00703,regular,Delhi,Delhi_Z1,Healthy|Desserts|Fast Food|Beverages,False,10,medium,548
+U00704,budget,Kolkata,Kolkata_Z5,Beverages|Street Food|Healthy|Biryani,True,6,low,753
+U00705,budget,Kolkata,Kolkata_Z5,Beverages|Healthy|Desserts|Italian,False,6,low,358
+U00706,occasional,Delhi,Delhi_Z5,Healthy|Italian,False,3,low,610
+U00707,regular,Pune,Pune_Z1,Fast Food|South Indian|North Indian,False,10,medium,41
+U00708,premium,Delhi,Delhi_Z3,Chinese|Beverages,False,19,low,528
+U00709,budget,Bangalore,Bangalore_Z2,Healthy|South Indian,True,5,medium,988
+U00710,regular,Bangalore,Bangalore_Z5,Desserts|North Indian|South Indian|Beverages,False,14,low,532
+U00711,premium,Pune,Pune_Z3,Biryani|Healthy|Chinese,True,20,medium,70
+U00712,regular,Chennai,Chennai_Z1,Desserts|Fast Food,False,11,high,77
+U00713,regular,Mumbai,Mumbai_Z4,Biryani|Chinese|Fast Food|Italian,True,8,low,896
+U00714,regular,Hyderabad,Hyderabad_Z4,Beverages|Healthy|North Indian|South Indian,False,10,low,315
+U00715,regular,Hyderabad,Hyderabad_Z4,Chinese|Healthy|Desserts,False,14,high,72
+U00716,occasional,Pune,Pune_Z5,South Indian|Beverages|Italian|North Indian,False,1,high,577
+U00717,premium,Bangalore,Bangalore_Z4,North Indian|Desserts|Fast Food,True,20,medium,605
+U00718,occasional,Kolkata,Kolkata_Z4,Biryani|Chinese|North Indian,False,3,medium,76
+U00719,budget,Hyderabad,Hyderabad_Z3,Desserts|Chinese,False,6,medium,856
+U00720,premium,Bangalore,Bangalore_Z5,Fast Food|Healthy|Beverages|Biryani,True,29,medium,55
+U00721,occasional,Chennai,Chennai_Z5,Desserts|Italian|Healthy,True,2,medium,52
+U00722,budget,Mumbai,Mumbai_Z1,Healthy|South Indian|Fast Food|Biryani,False,7,low,310
+U00723,budget,Chennai,Chennai_Z1,Italian|Chinese|Healthy|Fast Food,False,7,high,857
+U00724,premium,Pune,Pune_Z2,Healthy|North Indian|Street Food,True,18,low,798
+U00725,regular,Delhi,Delhi_Z1,Street Food|Italian|Beverages|North Indian,True,8,high,207
+U00726,premium,Delhi,Delhi_Z1,Chinese|Desserts|Fast Food,False,24,medium,319
+U00727,budget,Delhi,Delhi_Z5,Chinese|South Indian|Fast Food|Biryani,False,6,high,470
+U00728,premium,Chennai,Chennai_Z3,Desserts|Healthy,True,22,low,133
+U00729,budget,Hyderabad,Hyderabad_Z3,Street Food|Chinese|Beverages,False,7,low,827
+U00730,budget,Mumbai,Mumbai_Z2,Street Food|South Indian,False,4,high,996
+U00731,budget,Delhi,Delhi_Z1,Street Food|Beverages,False,4,low,640
+U00732,premium,Pune,Pune_Z5,Healthy|Desserts,False,24,low,113
+U00733,regular,Pune,Pune_Z3,Chinese|South Indian,True,12,low,151
+U00734,regular,Delhi,Delhi_Z4,Italian|Healthy|Beverages,False,14,low,649
+U00735,regular,Delhi,Delhi_Z3,Street Food|Biryani|Desserts,False,10,medium,252
+U00736,premium,Mumbai,Mumbai_Z5,Biryani|North Indian,False,20,medium,198
+U00737,regular,Delhi,Delhi_Z3,South Indian|North Indian,True,13,medium,294
+U00738,premium,Mumbai,Mumbai_Z5,Street Food|Biryani|Fast Food|Chinese,True,21,medium,783
+U00739,regular,Pune,Pune_Z2,Street Food|Beverages|North Indian|Italian,True,13,low,108
+U00740,regular,Delhi,Delhi_Z3,Desserts|Fast Food|Chinese,True,9,medium,107
+U00741,regular,Chennai,Chennai_Z2,Fast Food|Chinese|Beverages,False,11,medium,939
+U00742,regular,Kolkata,Kolkata_Z4,North Indian|Healthy,False,11,low,170
+U00743,premium,Chennai,Chennai_Z2,Desserts|Healthy,True,21,low,757
+U00744,regular,Pune,Pune_Z1,Chinese|South Indian|Fast Food,False,12,high,872
+U00745,budget,Mumbai,Mumbai_Z3,North Indian|Fast Food,False,5,medium,812
+U00746,premium,Chennai,Chennai_Z2,Biryani|Healthy|Fast Food,False,27,low,224
+U00747,regular,Mumbai,Mumbai_Z3,Chinese|Beverages,True,8,low,399
+U00748,regular,Chennai,Chennai_Z3,Italian|North Indian,False,11,low,253
+U00749,occasional,Chennai,Chennai_Z1,Healthy|Beverages,False,1,medium,305
+U00750,regular,Mumbai,Mumbai_Z2,Desserts|North Indian|Chinese|Fast Food,False,10,low,449
+U00751,budget,Hyderabad,Hyderabad_Z2,Chinese|North Indian|Fast Food,False,7,medium,124
+U00752,occasional,Chennai,Chennai_Z4,Beverages|South Indian|Italian|Chinese,False,1,high,765
+U00753,regular,Delhi,Delhi_Z3,Street Food|South Indian|Italian|North Indian,False,14,low,364
+U00754,regular,Kolkata,Kolkata_Z2,Italian|Fast Food|Beverages|Street Food,False,8,low,807
+U00755,budget,Pune,Pune_Z5,Beverages|Fast Food|Chinese|North Indian,True,7,low,86
+U00756,premium,Hyderabad,Hyderabad_Z1,Beverages|Fast Food|South Indian,True,27,high,371
+U00757,regular,Mumbai,Mumbai_Z4,Healthy|Street Food|Chinese|South Indian,True,12,low,364
+U00758,regular,Hyderabad,Hyderabad_Z1,Italian|Chinese|Street Food,True,9,medium,380
+U00759,premium,Bangalore,Bangalore_Z1,Street Food|Chinese|Italian,False,25,medium,306
+U00760,premium,Bangalore,Bangalore_Z4,Fast Food|North Indian|Chinese|Beverages,False,27,high,448
+U00761,budget,Chennai,Chennai_Z5,Street Food|South Indian|Chinese|North Indian,True,6,medium,932
+U00762,regular,Chennai,Chennai_Z1,Desserts|North Indian,False,11,low,148
+U00763,budget,Delhi,Delhi_Z1,North Indian|Italian|South Indian|Beverages,False,7,medium,318
+U00764,premium,Kolkata,Kolkata_Z4,South Indian|Chinese|Desserts|Biryani,True,19,low,336
+U00765,budget,Pune,Pune_Z5,Beverages|Chinese|Healthy|South Indian,False,5,low,288
+U00766,regular,Hyderabad,Hyderabad_Z2,North Indian|Beverages|Chinese,False,9,medium,867
+U00767,premium,Bangalore,Bangalore_Z4,Street Food|Biryani,False,23,low,817
+U00768,premium,Chennai,Chennai_Z3,Italian|Street Food|North Indian|Biryani,False,15,low,884
+U00769,regular,Pune,Pune_Z4,Italian|South Indian|Chinese|Fast Food,False,9,high,373
+U00770,premium,Hyderabad,Hyderabad_Z4,Healthy|South Indian|Biryani,False,23,medium,275
+U00771,budget,Chennai,Chennai_Z2,Beverages|Italian|Chinese|Fast Food,True,7,low,227
+U00772,premium,Chennai,Chennai_Z4,Biryani|Chinese,False,20,high,610
+U00773,budget,Bangalore,Bangalore_Z3,Desserts|Healthy,False,6,low,205
+U00774,regular,Bangalore,Bangalore_Z5,Street Food|Italian|Healthy,False,14,medium,714
+U00775,premium,Chennai,Chennai_Z3,South Indian|Italian|Biryani,False,29,low,243
+U00776,budget,Mumbai,Mumbai_Z2,Beverages|South Indian|Healthy|Desserts,True,4,medium,658
+U00777,budget,Chennai,Chennai_Z5,South Indian|Italian|Desserts|Healthy,False,4,low,957
+U00778,premium,Pune,Pune_Z3,South Indian|Street Food,True,18,high,184
+U00779,premium,Chennai,Chennai_Z5,North Indian|Desserts|Chinese,True,25,low,404
+U00780,regular,Delhi,Delhi_Z3,North Indian|Italian|Fast Food|Street Food,False,12,high,183
+U00781,regular,Kolkata,Kolkata_Z2,Biryani|Fast Food|North Indian|Beverages,False,12,medium,692
+U00782,regular,Delhi,Delhi_Z5,Fast Food|Chinese|Italian|South Indian,True,9,medium,171
+U00783,budget,Delhi,Delhi_Z4,South Indian|Healthy,False,5,low,390
+U00784,regular,Mumbai,Mumbai_Z2,Biryani|Healthy|South Indian|Street Food,False,12,medium,390
+U00785,budget,Mumbai,Mumbai_Z1,Fast Food|Biryani|Italian,False,4,low,442
+U00786,occasional,Chennai,Chennai_Z4,Beverages|Healthy,False,2,high,361
+U00787,regular,Delhi,Delhi_Z4,Fast Food|Biryani|Beverages|South Indian,False,12,low,846
+U00788,regular,Mumbai,Mumbai_Z4,North Indian|Desserts|Fast Food|Biryani,True,10,low,876
+U00789,regular,Bangalore,Bangalore_Z3,Beverages|Chinese|Italian|South Indian,True,9,medium,761
+U00790,occasional,Chennai,Chennai_Z4,Desserts|Fast Food,False,3,medium,30
+U00791,budget,Pune,Pune_Z5,Desserts|Biryani,False,6,low,428
+U00792,regular,Kolkata,Kolkata_Z2,Chinese|Healthy|Street Food|Biryani,False,12,medium,260
+U00793,regular,Hyderabad,Hyderabad_Z1,Chinese|North Indian|Fast Food|Desserts,False,12,low,292
+U00794,regular,Chennai,Chennai_Z1,Beverages|Italian|Biryani|North Indian,False,9,low,709
+U00795,budget,Hyderabad,Hyderabad_Z1,South Indian|Chinese,True,4,high,275
+U00796,premium,Delhi,Delhi_Z2,Italian|Desserts|Healthy,False,27,low,789
+U00797,occasional,Kolkata,Kolkata_Z3,Beverages|Chinese|Street Food|Biryani,False,2,medium,106
+U00798,regular,Hyderabad,Hyderabad_Z1,Desserts|Beverages|Biryani|Chinese,False,13,high,145
+U00799,regular,Delhi,Delhi_Z3,Chinese|Desserts,True,11,low,779
+U00800,occasional,Bangalore,Bangalore_Z5,Fast Food|North Indian|Biryani|Desserts,False,2,high,180
+U00801,premium,Hyderabad,Hyderabad_Z1,Beverages|Desserts|South Indian,False,19,low,392
+U00802,budget,Kolkata,Kolkata_Z4,Street Food|Chinese|Fast Food|Desserts,True,6,low,223
+U00803,regular,Chennai,Chennai_Z3,South Indian|Biryani,False,14,low,525
+U00804,regular,Delhi,Delhi_Z2,Italian|Desserts|Beverages,True,12,low,765
+U00805,regular,Chennai,Chennai_Z3,Biryani|Fast Food|Chinese,True,11,medium,463
+U00806,premium,Kolkata,Kolkata_Z1,Healthy|Street Food,False,29,low,668
+U00807,occasional,Mumbai,Mumbai_Z5,Beverages|Italian|Biryani|Desserts,False,1,low,926
+U00808,occasional,Delhi,Delhi_Z4,Beverages|Biryani|Street Food|South Indian,False,2,medium,403
+U00809,regular,Hyderabad,Hyderabad_Z3,Italian|North Indian|Biryani,False,14,high,120
+U00810,budget,Delhi,Delhi_Z5,Healthy|South Indian,True,5,low,724
+U00811,occasional,Chennai,Chennai_Z5,Biryani|Italian|Fast Food|North Indian,False,2,low,827
+U00812,premium,Bangalore,Bangalore_Z5,Healthy|Desserts|Beverages|Italian,False,29,low,693
+U00813,budget,Delhi,Delhi_Z2,Healthy|Chinese|Beverages|Fast Food,False,6,low,739
+U00814,occasional,Hyderabad,Hyderabad_Z1,Beverages|Chinese|Street Food,False,3,high,103
+U00815,premium,Mumbai,Mumbai_Z2,Italian|North Indian,False,16,low,622
+U00816,regular,Pune,Pune_Z2,North Indian|South Indian|Chinese|Biryani,False,12,low,643
+U00817,regular,Bangalore,Bangalore_Z3,South Indian|Italian,False,9,medium,275
+U00818,regular,Mumbai,Mumbai_Z3,Street Food|Desserts,False,11,low,822
+U00819,budget,Delhi,Delhi_Z2,Chinese|Beverages,False,7,low,900
+U00820,regular,Chennai,Chennai_Z5,South Indian|North Indian|Biryani|Healthy,False,9,low,428
+U00821,premium,Kolkata,Kolkata_Z2,Street Food|Biryani,False,16,low,726
+U00822,budget,Chennai,Chennai_Z5,Italian|Chinese,False,6,low,209
+U00823,regular,Hyderabad,Hyderabad_Z2,Biryani|Italian,False,11,medium,754
+U00824,regular,Chennai,Chennai_Z5,Healthy|Biryani|Desserts,False,14,low,752
+U00825,regular,Bangalore,Bangalore_Z1,Street Food|Beverages,True,14,low,225
+U00826,occasional,Chennai,Chennai_Z4,Healthy|Chinese,False,2,high,993
+U00827,regular,Hyderabad,Hyderabad_Z5,Italian|Fast Food|South Indian|Street Food,False,11,low,354
+U00828,regular,Pune,Pune_Z2,Healthy|Biryani|North Indian,False,14,low,934
+U00829,premium,Delhi,Delhi_Z1,Desserts|Chinese,False,15,low,43
+U00830,regular,Kolkata,Kolkata_Z3,Biryani|Healthy|Beverages|Fast Food,False,8,low,453
+U00831,budget,Delhi,Delhi_Z5,North Indian|South Indian|Biryani,True,7,medium,724
+U00832,regular,Chennai,Chennai_Z2,Chinese|Street Food,False,14,low,810
+U00833,budget,Mumbai,Mumbai_Z5,North Indian|Chinese|Italian|Fast Food,False,5,high,891
+U00834,budget,Delhi,Delhi_Z2,Italian|Chinese|Street Food|Beverages,False,6,medium,717
+U00835,regular,Pune,Pune_Z3,Desserts|Beverages|Street Food|Italian,True,13,low,99
+U00836,regular,Chennai,Chennai_Z1,Desserts|Beverages,False,12,medium,571
+U00837,occasional,Kolkata,Kolkata_Z2,Beverages|Healthy|Biryani|Chinese,False,1,low,977
+U00838,regular,Hyderabad,Hyderabad_Z2,South Indian|Healthy,False,8,medium,831
+U00839,regular,Pune,Pune_Z3,South Indian|Healthy,False,10,medium,567
+U00840,regular,Chennai,Chennai_Z3,Desserts|North Indian|Biryani|Chinese,False,11,medium,405
+U00841,budget,Pune,Pune_Z4,Healthy|North Indian,True,6,low,831
+U00842,regular,Delhi,Delhi_Z5,Street Food|Beverages|Chinese,True,14,medium,303
+U00843,budget,Kolkata,Kolkata_Z3,Biryani|South Indian,False,4,low,395
+U00844,occasional,Hyderabad,Hyderabad_Z2,South Indian|Healthy|Chinese,True,1,low,333
+U00845,budget,Chennai,Chennai_Z5,Desserts|Biryani|North Indian|Beverages,False,7,high,962
+U00846,regular,Bangalore,Bangalore_Z3,South Indian|Beverages|Street Food|Desserts,False,8,medium,636
+U00847,budget,Hyderabad,Hyderabad_Z1,Healthy|Chinese|Beverages|Desserts,False,6,low,305
+U00848,occasional,Bangalore,Bangalore_Z3,South Indian|Beverages|Italian,False,3,high,554
+U00849,regular,Pune,Pune_Z2,South Indian|Fast Food|Desserts,True,8,low,391
+U00850,regular,Mumbai,Mumbai_Z2,Fast Food|Street Food,False,14,high,535
+U00851,budget,Hyderabad,Hyderabad_Z2,North Indian|Healthy|Chinese,True,7,low,892
+U00852,premium,Pune,Pune_Z3,Healthy|Fast Food|Street Food,False,25,low,96
+U00853,budget,Bangalore,Bangalore_Z2,North Indian|Italian|Healthy|Street Food,False,6,high,402
+U00854,premium,Delhi,Delhi_Z2,Fast Food|South Indian|Beverages|Healthy,True,20,medium,482
+U00855,budget,Delhi,Delhi_Z3,Biryani|Fast Food|Italian,False,6,medium,879
+U00856,budget,Mumbai,Mumbai_Z5,Street Food|Italian|South Indian|Fast Food,False,4,high,519
+U00857,budget,Hyderabad,Hyderabad_Z1,Beverages|Italian|Fast Food|Street Food,False,5,low,74
+U00858,regular,Hyderabad,Hyderabad_Z1,Beverages|Italian|Street Food,True,9,high,503
+U00859,regular,Hyderabad,Hyderabad_Z5,Beverages|Healthy|Fast Food,False,9,low,753
+U00860,budget,Pune,Pune_Z4,Beverages|Healthy|Chinese|Italian,False,6,high,616
+U00861,premium,Kolkata,Kolkata_Z5,Fast Food|Street Food|Biryani,False,22,low,959
+U00862,regular,Kolkata,Kolkata_Z4,Desserts|Italian,False,8,medium,934
+U00863,regular,Mumbai,Mumbai_Z5,Beverages|Italian|Biryani,True,8,medium,870
+U00864,regular,Hyderabad,Hyderabad_Z1,Fast Food|South Indian,True,14,medium,371
+U00865,regular,Pune,Pune_Z2,Street Food|Fast Food|Beverages,False,13,medium,835
+U00866,regular,Delhi,Delhi_Z2,Italian|Fast Food|Healthy,True,14,medium,158
+U00867,budget,Bangalore,Bangalore_Z4,Desserts|Street Food,False,4,high,966
+U00868,budget,Pune,Pune_Z5,Desserts|Chinese|South Indian|Italian,False,6,medium,586
+U00869,premium,Kolkata,Kolkata_Z2,Chinese|South Indian|Healthy|Italian,False,21,high,415
+U00870,occasional,Kolkata,Kolkata_Z3,Italian|Street Food,True,2,low,470
+U00871,regular,Delhi,Delhi_Z1,Street Food|Desserts|Fast Food,True,11,low,144
+U00872,budget,Delhi,Delhi_Z4,North Indian|Desserts,False,5,high,103
+U00873,regular,Bangalore,Bangalore_Z4,South Indian|Desserts|Beverages,True,14,medium,94
+U00874,regular,Delhi,Delhi_Z1,Healthy|South Indian|Street Food|Chinese,False,8,medium,615
+U00875,budget,Mumbai,Mumbai_Z3,Chinese|Beverages|Desserts|South Indian,False,7,medium,567
+U00876,budget,Bangalore,Bangalore_Z2,South Indian|Healthy,False,7,medium,172
+U00877,premium,Delhi,Delhi_Z3,Fast Food|Chinese|Healthy,True,25,low,538
+U00878,regular,Chennai,Chennai_Z5,Italian|Biryani|Fast Food,False,12,high,845
+U00879,budget,Pune,Pune_Z3,Biryani|Chinese|Street Food,False,6,medium,571
+U00880,budget,Delhi,Delhi_Z5,North Indian|Biryani|Italian|Healthy,False,6,high,307
+U00881,budget,Mumbai,Mumbai_Z4,Italian|Beverages|North Indian,True,5,high,420
+U00882,regular,Hyderabad,Hyderabad_Z3,Street Food|Biryani,True,8,high,143
+U00883,budget,Delhi,Delhi_Z1,Beverages|Biryani|Street Food|Desserts,False,5,medium,721
+U00884,budget,Kolkata,Kolkata_Z2,Desserts|Italian|Fast Food|North Indian,False,6,low,894
+U00885,premium,Kolkata,Kolkata_Z1,Biryani|South Indian,False,29,high,913
+U00886,budget,Kolkata,Kolkata_Z3,Italian|Healthy|Chinese,False,7,low,158
+U00887,regular,Hyderabad,Hyderabad_Z1,Fast Food|Beverages,False,11,medium,622
+U00888,budget,Kolkata,Kolkata_Z5,Biryani|Fast Food|Italian|Street Food,True,6,low,610
+U00889,budget,Chennai,Chennai_Z3,Biryani|North Indian|South Indian|Healthy,False,4,low,328
+U00890,budget,Delhi,Delhi_Z2,Healthy|Chinese,False,7,medium,958
+U00891,premium,Kolkata,Kolkata_Z2,Healthy|Fast Food,True,18,high,940
+U00892,premium,Bangalore,Bangalore_Z4,Street Food|Healthy|North Indian,False,23,low,798
+U00893,premium,Hyderabad,Hyderabad_Z4,North Indian|Fast Food,False,16,low,49
+U00894,regular,Chennai,Chennai_Z4,Italian|Healthy|Beverages,False,10,low,227
+U00895,regular,Bangalore,Bangalore_Z2,Fast Food|South Indian|Street Food,False,12,high,582
+U00896,budget,Bangalore,Bangalore_Z3,Beverages|Street Food|Fast Food,True,7,medium,864
+U00897,budget,Bangalore,Bangalore_Z2,North Indian|Desserts|Biryani|Italian,True,7,low,847
+U00898,premium,Bangalore,Bangalore_Z1,Healthy|Beverages,True,24,low,699
+U00899,budget,Delhi,Delhi_Z5,Healthy|Italian,False,5,medium,363
+U00900,budget,Kolkata,Kolkata_Z3,North Indian|Biryani|Beverages|Chinese,True,5,low,737
+U00901,budget,Pune,Pune_Z5,South Indian|Healthy,False,5,high,829
+U00902,budget,Delhi,Delhi_Z2,South Indian|Chinese,True,7,medium,595
+U00903,budget,Delhi,Delhi_Z2,Beverages|North Indian|Italian|South Indian,False,4,high,697
+U00904,regular,Chennai,Chennai_Z4,Italian|South Indian|Beverages,True,10,medium,698
+U00905,regular,Chennai,Chennai_Z1,Street Food|Biryani|North Indian|Italian,False,11,high,272
+U00906,premium,Kolkata,Kolkata_Z5,North Indian|South Indian|Biryani,False,29,low,111
+U00907,premium,Pune,Pune_Z1,Street Food|South Indian|Fast Food|Healthy,False,18,high,848
+U00908,regular,Chennai,Chennai_Z1,Street Food|South Indian,True,13,low,679
+U00909,budget,Kolkata,Kolkata_Z1,Healthy|Chinese,False,7,low,577
+U00910,regular,Kolkata,Kolkata_Z1,Desserts|Beverages|South Indian,False,11,medium,777
+U00911,regular,Mumbai,Mumbai_Z5,Italian|Chinese|South Indian,False,12,low,106
+U00912,budget,Pune,Pune_Z5,Desserts|Healthy|Chinese,True,6,high,764
+U00913,regular,Chennai,Chennai_Z2,Healthy|North Indian|Desserts|Street Food,False,13,high,974
+U00914,regular,Pune,Pune_Z5,Italian|Chinese|Biryani,False,13,low,357
+U00915,regular,Delhi,Delhi_Z5,Biryani|Healthy,False,10,medium,409
+U00916,regular,Delhi,Delhi_Z4,Fast Food|Chinese|Healthy|Beverages,True,11,low,249
+U00917,budget,Pune,Pune_Z3,Italian|Street Food|Fast Food|Chinese,True,7,low,825
+U00918,occasional,Mumbai,Mumbai_Z2,Italian|South Indian|Healthy|Beverages,True,1,medium,98
+U00919,premium,Mumbai,Mumbai_Z4,Italian|Desserts,True,22,low,957
+U00920,budget,Pune,Pune_Z2,Biryani|Beverages,True,6,medium,922
+U00921,premium,Chennai,Chennai_Z1,Desserts|Fast Food|Chinese,False,15,low,660
+U00922,regular,Hyderabad,Hyderabad_Z5,Desserts|Chinese,False,11,medium,762
+U00923,premium,Mumbai,Mumbai_Z5,South Indian|Biryani,False,21,medium,32
+U00924,premium,Bangalore,Bangalore_Z5,Beverages|North Indian|Italian,False,21,low,759
+U00925,regular,Delhi,Delhi_Z5,Street Food|Biryani|South Indian|Beverages,False,11,medium,394
+U00926,budget,Pune,Pune_Z1,Italian|Healthy|South Indian,True,6,medium,928
+U00927,budget,Bangalore,Bangalore_Z2,Chinese|Healthy,False,4,medium,83
+U00928,regular,Pune,Pune_Z3,Desserts|Chinese|Biryani,True,12,high,593
+U00929,regular,Kolkata,Kolkata_Z1,South Indian|Chinese|Healthy,True,9,low,593
+U00930,budget,Delhi,Delhi_Z4,North Indian|South Indian|Beverages|Biryani,False,5,high,538
+U00931,budget,Delhi,Delhi_Z4,Biryani|South Indian|Fast Food,False,4,high,850
+U00932,premium,Mumbai,Mumbai_Z2,Beverages|Healthy|South Indian,False,21,medium,888
+U00933,occasional,Mumbai,Mumbai_Z1,North Indian|Healthy|Italian|Chinese,False,1,medium,562
+U00934,regular,Bangalore,Bangalore_Z3,Fast Food|Biryani|Chinese|Italian,False,11,medium,684
+U00935,budget,Kolkata,Kolkata_Z2,Chinese|Fast Food|Healthy,True,5,low,479
+U00936,budget,Pune,Pune_Z3,Street Food|Fast Food,False,7,medium,977
+U00937,budget,Kolkata,Kolkata_Z2,Beverages|Street Food,False,5,high,349
+U00938,occasional,Delhi,Delhi_Z4,Desserts|North Indian,False,2,medium,844
+U00939,budget,Bangalore,Bangalore_Z5,North Indian|Healthy|Chinese,False,6,medium,686
+U00940,regular,Hyderabad,Hyderabad_Z1,Street Food|Fast Food|Healthy,True,12,high,214
+U00941,budget,Bangalore,Bangalore_Z4,Street Food|South Indian,True,4,low,234
+U00942,regular,Chennai,Chennai_Z4,Desserts|Street Food|South Indian,False,9,medium,131
+U00943,regular,Bangalore,Bangalore_Z1,Chinese|North Indian|Desserts|Biryani,False,14,medium,516
+U00944,premium,Kolkata,Kolkata_Z1,Desserts|Chinese,True,23,low,142
+U00945,budget,Chennai,Chennai_Z2,Street Food|Fast Food|South Indian|Healthy,False,4,low,209
+U00946,budget,Chennai,Chennai_Z4,Desserts|South Indian|Fast Food|Italian,True,5,high,618
+U00947,budget,Chennai,Chennai_Z2,North Indian|Beverages,False,7,high,502
+U00948,occasional,Hyderabad,Hyderabad_Z2,South Indian|Healthy,False,3,medium,92
+U00949,premium,Bangalore,Bangalore_Z4,North Indian|Fast Food,False,16,low,959
+U00950,regular,Kolkata,Kolkata_Z1,South Indian|Healthy|Italian|Chinese,False,12,medium,988
+U00951,regular,Bangalore,Bangalore_Z1,South Indian|Desserts|North Indian|Chinese,False,13,high,203
+U00952,regular,Hyderabad,Hyderabad_Z5,North Indian|Desserts|Fast Food,True,11,medium,915
+U00953,budget,Delhi,Delhi_Z2,Street Food|Desserts|Chinese|Biryani,True,6,high,954
+U00954,occasional,Mumbai,Mumbai_Z5,Fast Food|Chinese,False,2,medium,635
+U00955,regular,Kolkata,Kolkata_Z4,Desserts|North Indian|Beverages|Healthy,True,11,medium,974
+U00956,regular,Kolkata,Kolkata_Z4,Biryani|Healthy|Street Food,False,9,low,979
+U00957,regular,Bangalore,Bangalore_Z5,South Indian|Italian|Healthy|Fast Food,True,13,medium,672
+U00958,budget,Mumbai,Mumbai_Z1,Beverages|North Indian|Desserts,True,5,high,588
+U00959,budget,Pune,Pune_Z1,Fast Food|Biryani|North Indian,False,7,medium,159
+U00960,premium,Pune,Pune_Z5,South Indian|Street Food|Desserts|Beverages,False,27,low,228
+U00961,budget,Hyderabad,Hyderabad_Z3,Desserts|Fast Food|Chinese|Street Food,True,4,medium,323
+U00962,regular,Pune,Pune_Z2,Fast Food|Chinese|Street Food,False,10,low,274
+U00963,budget,Kolkata,Kolkata_Z5,Beverages|North Indian|Chinese|Biryani,False,4,high,411
+U00964,regular,Pune,Pune_Z5,North Indian|Beverages|South Indian,False,8,low,183
+U00965,budget,Delhi,Delhi_Z5,Beverages|Desserts,False,6,medium,477
+U00966,regular,Delhi,Delhi_Z4,Street Food|Fast Food,False,12,medium,195
+U00967,premium,Delhi,Delhi_Z1,Healthy|North Indian|South Indian|Fast Food,True,25,low,70
+U00968,budget,Pune,Pune_Z4,Fast Food|Street Food|Beverages,False,7,medium,741
+U00969,regular,Hyderabad,Hyderabad_Z2,Biryani|Street Food|Desserts,True,14,high,338
+U00970,regular,Chennai,Chennai_Z2,Beverages|Biryani|Italian,False,14,high,730
+U00971,regular,Chennai,Chennai_Z3,Biryani|Healthy|Street Food,False,11,low,244
+U00972,occasional,Mumbai,Mumbai_Z3,North Indian|Fast Food|Chinese|Beverages,True,2,low,229
+U00973,premium,Chennai,Chennai_Z2,Street Food|Fast Food,False,28,low,757
+U00974,budget,Chennai,Chennai_Z1,Street Food|Fast Food|North Indian|Italian,False,6,medium,662
+U00975,budget,Delhi,Delhi_Z2,Desserts|Biryani,False,6,medium,759
+U00976,budget,Delhi,Delhi_Z2,Italian|Chinese,True,5,high,141
+U00977,regular,Pune,Pune_Z4,Chinese|Street Food|North Indian,True,9,low,927
+U00978,budget,Mumbai,Mumbai_Z1,Italian|Biryani|Fast Food|Chinese,False,7,medium,451
+U00979,regular,Bangalore,Bangalore_Z3,Desserts|North Indian|Beverages|Italian,True,12,medium,341
+U00980,regular,Kolkata,Kolkata_Z5,Italian|Healthy,False,9,high,298
+U00981,regular,Mumbai,Mumbai_Z3,Fast Food|Healthy|Chinese,False,8,low,150
+U00982,premium,Mumbai,Mumbai_Z4,Italian|Fast Food,False,16,low,669
+U00983,budget,Hyderabad,Hyderabad_Z5,Chinese|North Indian,False,4,medium,556
+U00984,budget,Pune,Pune_Z1,Italian|Beverages,False,5,medium,969
+U00985,premium,Hyderabad,Hyderabad_Z1,Chinese|Desserts|Healthy|Street Food,True,24,medium,773
+U00986,regular,Mumbai,Mumbai_Z1,Chinese|Fast Food|Biryani,False,13,low,638
+U00987,regular,Mumbai,Mumbai_Z4,Chinese|Healthy,False,10,high,710
+U00988,regular,Mumbai,Mumbai_Z3,Street Food|Desserts,True,9,low,843
+U00989,budget,Chennai,Chennai_Z1,Italian|Chinese|South Indian,False,6,medium,947
+U00990,premium,Kolkata,Kolkata_Z1,Desserts|Biryani,False,21,low,363
+U00991,premium,Kolkata,Kolkata_Z2,Healthy|North Indian|South Indian,False,25,low,689
+U00992,regular,Hyderabad,Hyderabad_Z1,Italian|South Indian|North Indian|Desserts,False,11,low,633
+U00993,budget,Mumbai,Mumbai_Z3,Italian|Chinese,True,5,medium,845
+U00994,regular,Kolkata,Kolkata_Z3,Street Food|Desserts|Fast Food,False,12,medium,326
+U00995,regular,Delhi,Delhi_Z5,Fast Food|Chinese|Desserts|Biryani,False,9,low,902
+U00996,budget,Kolkata,Kolkata_Z3,North Indian|Desserts|Fast Food,False,4,low,948
+U00997,occasional,Pune,Pune_Z1,Desserts|Biryani|Healthy|Fast Food,True,2,high,778
+U00998,budget,Pune,Pune_Z1,Fast Food|North Indian|Beverages|Biryani,False,4,medium,71
+U00999,occasional,Kolkata,Kolkata_Z5,Desserts|Italian|Healthy|Biryani,False,2,high,726
+U01000,regular,Delhi,Delhi_Z2,Biryani|Street Food|Healthy|South Indian,True,8,medium,766
+U01001,budget,Pune,Pune_Z1,North Indian|Biryani|South Indian|Street Food,False,5,medium,695
+U01002,regular,Chennai,Chennai_Z4,Beverages|Fast Food|Healthy|Biryani,True,10,low,685
+U01003,premium,Kolkata,Kolkata_Z4,Street Food|Healthy|North Indian|Fast Food,False,18,medium,543
+U01004,premium,Chennai,Chennai_Z1,North Indian|Fast Food|South Indian,False,21,low,945
+U01005,premium,Kolkata,Kolkata_Z3,Street Food|Healthy|Beverages|South Indian,True,29,high,306
+U01006,regular,Bangalore,Bangalore_Z3,Italian|Beverages|Street Food,False,12,medium,241
+U01007,regular,Bangalore,Bangalore_Z1,Healthy|Fast Food,False,13,medium,821
+U01008,premium,Bangalore,Bangalore_Z4,Street Food|South Indian|Italian|Desserts,False,27,medium,231
+U01009,budget,Pune,Pune_Z3,North Indian|Healthy|Street Food,True,6,medium,107
+U01010,regular,Chennai,Chennai_Z4,Chinese|South Indian,True,10,high,548
+U01011,budget,Chennai,Chennai_Z1,Chinese|Beverages|Street Food,False,4,low,942
+U01012,occasional,Chennai,Chennai_Z2,Fast Food|Italian|Biryani,False,1,medium,564
+U01013,occasional,Delhi,Delhi_Z2,Desserts|Biryani,False,1,low,322
+U01014,budget,Chennai,Chennai_Z4,Street Food|Healthy|Italian|Desserts,False,6,high,301
+U01015,premium,Delhi,Delhi_Z3,Street Food|Beverages|South Indian,True,24,low,274
+U01016,occasional,Bangalore,Bangalore_Z5,South Indian|Chinese|Desserts,False,2,medium,199
+U01017,budget,Bangalore,Bangalore_Z5,Biryani|Street Food|North Indian,False,7,medium,195
+U01018,regular,Pune,Pune_Z4,Fast Food|Italian,False,13,low,848
+U01019,occasional,Kolkata,Kolkata_Z2,Italian|Chinese|Biryani|Beverages,False,2,medium,164
+U01020,budget,Bangalore,Bangalore_Z5,Desserts|Fast Food,False,4,low,241
+U01021,regular,Kolkata,Kolkata_Z3,North Indian|Beverages,False,8,medium,440
+U01022,budget,Kolkata,Kolkata_Z1,Fast Food|Chinese,False,5,high,831
+U01023,occasional,Pune,Pune_Z3,Fast Food|Street Food,True,3,medium,921
+U01024,occasional,Mumbai,Mumbai_Z3,Street Food|North Indian|Fast Food,False,3,high,961
+U01025,occasional,Mumbai,Mumbai_Z1,North Indian|Desserts,False,1,medium,710
+U01026,regular,Hyderabad,Hyderabad_Z1,Fast Food|Beverages|Biryani,False,11,high,108
+U01027,premium,Pune,Pune_Z1,Biryani|North Indian|Healthy,False,19,medium,359
+U01028,premium,Hyderabad,Hyderabad_Z1,Biryani|Fast Food,False,25,medium,250
+U01029,regular,Hyderabad,Hyderabad_Z2,North Indian|Italian|Chinese|Biryani,True,12,medium,172
+U01030,premium,Mumbai,Mumbai_Z5,South Indian|Beverages,True,22,high,985
+U01031,budget,Pune,Pune_Z3,Chinese|Healthy|Street Food,True,5,medium,250
+U01032,regular,Mumbai,Mumbai_Z1,Desserts|Fast Food|Beverages,False,8,low,728
+U01033,budget,Hyderabad,Hyderabad_Z2,Fast Food|Biryani,False,6,low,788
+U01034,budget,Pune,Pune_Z4,Desserts|Street Food,False,6,low,168
+U01035,budget,Hyderabad,Hyderabad_Z2,North Indian|Street Food,True,6,high,964
+U01036,regular,Chennai,Chennai_Z2,Biryani|Beverages|Fast Food,False,12,low,424
+U01037,regular,Kolkata,Kolkata_Z1,Beverages|Desserts,False,11,low,156
+U01038,premium,Pune,Pune_Z5,Italian|Biryani,False,23,high,977
+U01039,budget,Pune,Pune_Z4,Fast Food|South Indian,True,6,medium,476
+U01040,regular,Kolkata,Kolkata_Z4,Italian|Desserts|Street Food,True,9,low,754
+U01041,regular,Hyderabad,Hyderabad_Z2,South Indian|Beverages|Italian|Fast Food,True,13,low,129
+U01042,premium,Chennai,Chennai_Z5,Beverages|Street Food|Healthy|Biryani,True,25,medium,325
+U01043,regular,Delhi,Delhi_Z2,Beverages|Street Food,False,9,low,707
+U01044,regular,Kolkata,Kolkata_Z1,Street Food|North Indian|Italian,True,10,low,953
+U01045,premium,Mumbai,Mumbai_Z2,Fast Food|South Indian,False,23,low,859
+U01046,regular,Hyderabad,Hyderabad_Z2,Beverages|Healthy,True,8,medium,535
+U01047,budget,Kolkata,Kolkata_Z1,South Indian|Biryani|Street Food,True,7,low,789
+U01048,budget,Kolkata,Kolkata_Z5,Italian|Chinese,True,6,high,847
+U01049,premium,Pune,Pune_Z4,Beverages|North Indian,False,15,low,709
+U01050,budget,Mumbai,Mumbai_Z5,Desserts|Chinese|Biryani|Healthy,False,5,medium,606
+U01051,premium,Mumbai,Mumbai_Z3,Chinese|Healthy|South Indian,True,22,medium,132
+U01052,regular,Mumbai,Mumbai_Z4,Street Food|Biryani|Desserts,False,11,low,672
+U01053,occasional,Kolkata,Kolkata_Z4,Italian|North Indian|Biryani,False,1,low,211
+U01054,premium,Delhi,Delhi_Z1,Healthy|North Indian|Italian,False,17,medium,524
+U01055,occasional,Bangalore,Bangalore_Z4,Healthy|Street Food|Fast Food|Chinese,True,1,medium,235
+U01056,regular,Hyderabad,Hyderabad_Z1,North Indian|Fast Food|South Indian,False,9,low,454
+U01057,premium,Bangalore,Bangalore_Z3,Italian|Beverages|Healthy,True,21,medium,988
+U01058,regular,Kolkata,Kolkata_Z1,Italian|Beverages|Fast Food|Biryani,False,9,medium,464
+U01059,regular,Bangalore,Bangalore_Z1,North Indian|South Indian|Desserts|Chinese,False,11,low,685
+U01060,regular,Kolkata,Kolkata_Z5,Street Food|Healthy,True,13,medium,705
+U01061,premium,Bangalore,Bangalore_Z3,Biryani|Healthy|Desserts|Fast Food,True,17,medium,897
+U01062,occasional,Mumbai,Mumbai_Z1,Healthy|Chinese|Street Food,True,3,high,854
+U01063,premium,Chennai,Chennai_Z2,Fast Food|North Indian|Beverages|South Indian,True,23,high,725
+U01064,regular,Mumbai,Mumbai_Z1,Fast Food|South Indian,True,8,medium,312
+U01065,regular,Mumbai,Mumbai_Z5,Street Food|Beverages,False,12,medium,289
+U01066,premium,Pune,Pune_Z4,Biryani|Fast Food|Street Food,False,23,low,256
+U01067,budget,Pune,Pune_Z2,North Indian|Healthy,True,6,low,269
+U01068,budget,Bangalore,Bangalore_Z3,South Indian|Healthy|Street Food,False,7,low,153
+U01069,regular,Kolkata,Kolkata_Z5,Beverages|South Indian,True,8,high,144
+U01070,budget,Mumbai,Mumbai_Z1,Street Food|Italian,True,6,low,716
+U01071,budget,Bangalore,Bangalore_Z2,Italian|Desserts,False,4,low,813
+U01072,budget,Pune,Pune_Z2,Desserts|Chinese|Fast Food|Healthy,False,5,high,808
+U01073,budget,Chennai,Chennai_Z4,Chinese|North Indian|Desserts|Healthy,False,7,high,251
+U01074,budget,Hyderabad,Hyderabad_Z1,Fast Food|Italian,True,4,high,480
+U01075,occasional,Bangalore,Bangalore_Z1,Fast Food|Biryani|South Indian,False,3,high,685
+U01076,regular,Chennai,Chennai_Z2,Italian|Street Food|Desserts|South Indian,False,14,high,462
+U01077,regular,Hyderabad,Hyderabad_Z4,Fast Food|South Indian|Street Food,False,10,medium,644
+U01078,regular,Delhi,Delhi_Z2,Desserts|Biryani,False,14,low,839
+U01079,budget,Bangalore,Bangalore_Z1,Desserts|South Indian|Fast Food|Italian,False,4,low,137
+U01080,occasional,Bangalore,Bangalore_Z5,Chinese|Desserts|Street Food|Fast Food,True,2,low,708
+U01081,premium,Delhi,Delhi_Z4,South Indian|Street Food|North Indian,False,20,medium,164
+U01082,budget,Delhi,Delhi_Z1,Beverages|South Indian,False,4,medium,607
+U01083,regular,Bangalore,Bangalore_Z4,Italian|North Indian|Fast Food|Beverages,False,10,medium,476
+U01084,premium,Delhi,Delhi_Z2,Street Food|Desserts,True,29,low,626
+U01085,occasional,Mumbai,Mumbai_Z4,North Indian|Beverages|Desserts,False,3,high,239
+U01086,regular,Hyderabad,Hyderabad_Z3,North Indian|Biryani,False,10,low,601
+U01087,regular,Hyderabad,Hyderabad_Z4,Italian|Biryani|North Indian,False,9,low,564
+U01088,budget,Hyderabad,Hyderabad_Z3,Chinese|South Indian,False,5,low,48
+U01089,occasional,Mumbai,Mumbai_Z3,Beverages|Desserts,False,3,low,508
+U01090,budget,Kolkata,Kolkata_Z1,South Indian|Fast Food,False,5,low,143
+U01091,occasional,Delhi,Delhi_Z4,Fast Food|Healthy|Desserts,False,2,medium,281
+U01092,regular,Chennai,Chennai_Z3,Desserts|South Indian|North Indian,False,10,medium,370
+U01093,regular,Delhi,Delhi_Z1,Italian|Chinese|Desserts,True,13,low,283
+U01094,regular,Bangalore,Bangalore_Z2,Street Food|South Indian|North Indian|Healthy,False,14,high,167
+U01095,budget,Pune,Pune_Z2,Street Food|Healthy|Italian,False,5,low,239
+U01096,budget,Hyderabad,Hyderabad_Z4,Chinese|Italian|Fast Food|South Indian,True,7,medium,421
+U01097,budget,Delhi,Delhi_Z1,Italian|North Indian,False,4,low,299
+U01098,budget,Chennai,Chennai_Z2,Street Food|Beverages,False,6,medium,497
+U01099,premium,Bangalore,Bangalore_Z2,Desserts|South Indian|Beverages|Italian,True,15,medium,93
+U01100,regular,Mumbai,Mumbai_Z2,Biryani|Desserts|North Indian,False,12,high,89
+U01101,budget,Kolkata,Kolkata_Z5,Healthy|Italian|Fast Food|Street Food,True,5,high,244
+U01102,occasional,Mumbai,Mumbai_Z5,Fast Food|North Indian,False,2,low,720
+U01103,premium,Chennai,Chennai_Z2,Chinese|North Indian|Biryani,True,29,low,989
+U01104,occasional,Bangalore,Bangalore_Z4,Street Food|Chinese,True,1,medium,775
+U01105,occasional,Hyderabad,Hyderabad_Z2,Healthy|Desserts|Street Food|Fast Food,True,2,low,343
+U01106,budget,Delhi,Delhi_Z2,Italian|Fast Food,False,5,low,200
+U01107,regular,Bangalore,Bangalore_Z4,North Indian|Italian|Fast Food|Healthy,False,14,medium,619
+U01108,premium,Kolkata,Kolkata_Z5,Beverages|North Indian|Fast Food|Chinese,False,19,medium,982
+U01109,regular,Mumbai,Mumbai_Z4,Italian|South Indian,True,9,high,653
+U01110,budget,Kolkata,Kolkata_Z1,Italian|Chinese|North Indian|Biryani,True,7,medium,775
+U01111,premium,Kolkata,Kolkata_Z2,Italian|Chinese|Biryani|Beverages,True,19,low,148
+U01112,budget,Chennai,Chennai_Z2,Beverages|Italian|Chinese,False,5,medium,605
+U01113,budget,Chennai,Chennai_Z3,Biryani|Healthy,False,4,medium,362
+U01114,regular,Delhi,Delhi_Z1,Healthy|Desserts,False,9,low,644
+U01115,regular,Chennai,Chennai_Z5,Chinese|Fast Food|South Indian,False,11,high,928
+U01116,regular,Chennai,Chennai_Z3,Desserts|Fast Food,False,13,medium,918
+U01117,budget,Bangalore,Bangalore_Z3,South Indian|Beverages,False,5,high,150
+U01118,premium,Hyderabad,Hyderabad_Z5,Beverages|Desserts|Biryani,False,27,low,757
+U01119,budget,Delhi,Delhi_Z4,Street Food|North Indian|Beverages,True,7,medium,985
+U01120,budget,Bangalore,Bangalore_Z4,Healthy|Chinese,False,4,high,383
+U01121,premium,Hyderabad,Hyderabad_Z2,Chinese|North Indian,False,17,low,525
+U01122,occasional,Kolkata,Kolkata_Z3,Healthy|Chinese|Beverages|Biryani,True,3,medium,332
+U01123,premium,Bangalore,Bangalore_Z3,Italian|Beverages,True,21,medium,508
+U01124,premium,Pune,Pune_Z1,North Indian|Italian|Chinese|Healthy,False,15,low,48
+U01125,regular,Bangalore,Bangalore_Z4,Desserts|Biryani|Street Food|Chinese,True,12,low,540
+U01126,regular,Chennai,Chennai_Z2,South Indian|Chinese|Biryani,False,14,low,868
+U01127,budget,Hyderabad,Hyderabad_Z4,Desserts|South Indian|Chinese|North Indian,True,5,medium,938
+U01128,regular,Delhi,Delhi_Z5,Desserts|Fast Food|Beverages,True,12,low,369
+U01129,regular,Delhi,Delhi_Z2,Biryani|Healthy|North Indian|Chinese,False,11,medium,234
+U01130,budget,Hyderabad,Hyderabad_Z4,Chinese|South Indian|Healthy,True,5,low,104
+U01131,premium,Chennai,Chennai_Z5,Italian|Beverages,False,26,low,340
+U01132,regular,Mumbai,Mumbai_Z1,Chinese|Healthy|Street Food|South Indian,False,11,medium,278
+U01133,budget,Bangalore,Bangalore_Z4,North Indian|Beverages|Italian|South Indian,False,7,medium,917
+U01134,budget,Chennai,Chennai_Z3,Italian|South Indian,False,4,high,686
+U01135,regular,Pune,Pune_Z5,Chinese|Biryani|Beverages,False,14,medium,723
+U01136,budget,Kolkata,Kolkata_Z3,Italian|South Indian,False,4,medium,707
+U01137,premium,Hyderabad,Hyderabad_Z5,North Indian|Fast Food|Healthy|Desserts,False,27,high,859
+U01138,regular,Bangalore,Bangalore_Z3,South Indian|Healthy|Italian|Beverages,True,10,low,172
+U01139,regular,Delhi,Delhi_Z4,Fast Food|Italian,False,8,high,803
+U01140,regular,Kolkata,Kolkata_Z4,Desserts|Biryani,False,10,high,644
+U01141,premium,Mumbai,Mumbai_Z1,Fast Food|South Indian|Italian|Chinese,True,17,low,346
+U01142,regular,Pune,Pune_Z3,Biryani|Healthy|Italian,False,11,medium,562
+U01143,regular,Delhi,Delhi_Z3,Desserts|North Indian|Fast Food,True,8,low,387
+U01144,regular,Hyderabad,Hyderabad_Z3,Street Food|Chinese|North Indian|Desserts,False,8,low,484
+U01145,budget,Bangalore,Bangalore_Z4,North Indian|Chinese|Street Food|Healthy,True,4,medium,155
+U01146,premium,Hyderabad,Hyderabad_Z4,North Indian|Desserts|Fast Food,False,21,medium,659
+U01147,premium,Kolkata,Kolkata_Z2,North Indian|South Indian|Healthy,True,29,low,576
+U01148,regular,Bangalore,Bangalore_Z2,Healthy|Beverages|Desserts|North Indian,False,9,medium,905
+U01149,premium,Chennai,Chennai_Z2,Italian|Chinese|Street Food,False,25,medium,523
+U01150,premium,Mumbai,Mumbai_Z1,Fast Food|Healthy|South Indian,False,17,medium,618
+U01151,premium,Chennai,Chennai_Z5,Chinese|Biryani|Desserts|Beverages,False,22,low,41
+U01152,premium,Chennai,Chennai_Z2,Chinese|Italian|Healthy,False,29,low,814
+U01153,regular,Hyderabad,Hyderabad_Z1,Chinese|North Indian|South Indian|Italian,True,12,medium,528
+U01154,regular,Kolkata,Kolkata_Z4,Street Food|Beverages|Desserts|Fast Food,False,9,medium,237
+U01155,regular,Mumbai,Mumbai_Z3,Street Food|South Indian,True,8,medium,452
+U01156,premium,Bangalore,Bangalore_Z5,Healthy|Biryani|Beverages,False,23,low,187
+U01157,budget,Bangalore,Bangalore_Z5,Fast Food|North Indian|Desserts|Chinese,True,7,medium,614
+U01158,premium,Pune,Pune_Z5,South Indian|Beverages|Biryani|Desserts,True,19,high,935
+U01159,premium,Delhi,Delhi_Z4,South Indian|Desserts|Beverages,False,26,low,917
+U01160,budget,Pune,Pune_Z5,Biryani|North Indian|South Indian|Beverages,False,4,high,45
+U01161,premium,Pune,Pune_Z5,Desserts|Healthy,False,25,low,45
+U01162,budget,Bangalore,Bangalore_Z3,Healthy|Chinese|Italian,False,6,high,311
+U01163,regular,Hyderabad,Hyderabad_Z3,Chinese|Biryani|Desserts|Beverages,True,10,low,304
+U01164,premium,Chennai,Chennai_Z2,Chinese|Fast Food|Beverages|Italian,False,23,high,87
+U01165,budget,Kolkata,Kolkata_Z2,South Indian|Chinese|Beverages|Italian,False,7,high,231
+U01166,premium,Chennai,Chennai_Z4,South Indian|Biryani,False,23,low,961
+U01167,premium,Chennai,Chennai_Z5,Italian|Biryani|Beverages,True,18,high,976
+U01168,regular,Mumbai,Mumbai_Z1,Chinese|Fast Food,False,9,high,761
+U01169,budget,Bangalore,Bangalore_Z1,Italian|Healthy,False,5,high,941
+U01170,budget,Kolkata,Kolkata_Z1,North Indian|Fast Food|Healthy|Street Food,False,6,medium,741
+U01171,regular,Hyderabad,Hyderabad_Z2,Beverages|Street Food|Italian|Biryani,False,11,high,103
+U01172,occasional,Mumbai,Mumbai_Z1,Fast Food|South Indian|Chinese,True,3,medium,267
+U01173,regular,Delhi,Delhi_Z3,Healthy|Italian,False,10,low,616
+U01174,budget,Hyderabad,Hyderabad_Z1,Italian|South Indian,True,7,high,62
+U01175,regular,Pune,Pune_Z1,North Indian|Biryani,False,12,medium,184
+U01176,regular,Hyderabad,Hyderabad_Z3,Biryani|Fast Food,True,13,low,516
+U01177,premium,Hyderabad,Hyderabad_Z1,Biryani|Street Food|North Indian,False,16,medium,526
+U01178,budget,Chennai,Chennai_Z2,North Indian|Biryani|Street Food,False,4,high,362
+U01179,premium,Hyderabad,Hyderabad_Z1,Fast Food|South Indian,False,28,medium,707
+U01180,regular,Pune,Pune_Z4,Beverages|North Indian,False,9,medium,215
+U01181,occasional,Pune,Pune_Z1,Chinese|Biryani|Street Food,False,3,medium,554
+U01182,regular,Bangalore,Bangalore_Z2,Biryani|Chinese|Street Food|Beverages,False,14,medium,910
+U01183,regular,Hyderabad,Hyderabad_Z2,Desserts|Healthy|South Indian|North Indian,True,8,low,211
+U01184,occasional,Chennai,Chennai_Z2,Street Food|Fast Food|Italian,False,2,low,293
+U01185,budget,Hyderabad,Hyderabad_Z5,Beverages|Italian|South Indian|Street Food,False,4,medium,937
+U01186,occasional,Delhi,Delhi_Z1,South Indian|Fast Food|Chinese|Italian,True,2,low,321
+U01187,regular,Delhi,Delhi_Z5,Beverages|North Indian|Desserts,True,11,low,428
+U01188,budget,Chennai,Chennai_Z3,Healthy|Street Food|South Indian,False,7,medium,292
+U01189,regular,Bangalore,Bangalore_Z2,South Indian|Biryani|Street Food,False,14,low,261
+U01190,premium,Bangalore,Bangalore_Z2,Fast Food|Italian|Beverages,True,27,high,73
+U01191,budget,Pune,Pune_Z5,Beverages|Chinese,False,4,high,491
+U01192,regular,Pune,Pune_Z5,Biryani|Italian|North Indian,False,8,low,409
+U01193,regular,Mumbai,Mumbai_Z3,Chinese|Beverages|Italian,False,8,low,853
+U01194,regular,Chennai,Chennai_Z4,Beverages|Fast Food,False,9,medium,776
+U01195,budget,Hyderabad,Hyderabad_Z4,Street Food|Italian,True,7,high,285
+U01196,premium,Kolkata,Kolkata_Z2,Beverages|Chinese|Biryani,False,15,medium,376
+U01197,occasional,Chennai,Chennai_Z5,Healthy|Beverages|Fast Food|Desserts,False,1,medium,810
+U01198,occasional,Mumbai,Mumbai_Z3,Street Food|Desserts|South Indian,False,1,medium,761
+U01199,premium,Pune,Pune_Z4,Street Food|Fast Food|South Indian,True,29,medium,758
+U01200,budget,Chennai,Chennai_Z2,Biryani|South Indian|Beverages,False,6,high,920
+U01201,premium,Chennai,Chennai_Z1,Beverages|South Indian,False,16,low,657
+U01202,budget,Pune,Pune_Z4,Fast Food|Healthy|Italian|Biryani,True,4,medium,642
+U01203,budget,Mumbai,Mumbai_Z3,North Indian|Healthy,False,4,high,981
+U01204,regular,Pune,Pune_Z1,Beverages|Desserts|Street Food|Fast Food,True,10,medium,303
+U01205,regular,Bangalore,Bangalore_Z3,Street Food|Italian|Healthy,True,13,high,693
+U01206,premium,Hyderabad,Hyderabad_Z1,South Indian|Healthy|North Indian,True,28,medium,757
+U01207,regular,Pune,Pune_Z4,Street Food|Fast Food,True,14,low,476
+U01208,regular,Mumbai,Mumbai_Z3,Beverages|Street Food,False,14,low,726
+U01209,budget,Delhi,Delhi_Z2,North Indian|Italian|Healthy|Chinese,False,7,high,556
+U01210,occasional,Bangalore,Bangalore_Z5,Biryani|Beverages|Desserts|Street Food,False,3,high,480
+U01211,regular,Delhi,Delhi_Z4,Fast Food|Healthy,False,11,low,548
+U01212,regular,Kolkata,Kolkata_Z3,Desserts|North Indian|Healthy,False,13,high,230
+U01213,budget,Pune,Pune_Z3,North Indian|Chinese|Healthy,False,6,medium,697
+U01214,premium,Bangalore,Bangalore_Z1,Healthy|Fast Food|Biryani|Italian,False,27,low,472
+U01215,regular,Hyderabad,Hyderabad_Z2,Street Food|Desserts|Biryani|South Indian,True,10,medium,731
+U01216,budget,Pune,Pune_Z4,Desserts|Street Food|Beverages|North Indian,False,4,high,476
+U01217,budget,Hyderabad,Hyderabad_Z2,Desserts|Healthy|Fast Food,False,4,high,449
+U01218,regular,Chennai,Chennai_Z4,Healthy|Chinese,True,12,high,444
+U01219,regular,Delhi,Delhi_Z3,South Indian|Beverages,True,10,medium,679
+U01220,budget,Bangalore,Bangalore_Z1,Biryani|Fast Food,False,7,high,507
+U01221,occasional,Hyderabad,Hyderabad_Z3,Fast Food|Healthy,False,3,low,253
+U01222,budget,Mumbai,Mumbai_Z3,Fast Food|Chinese|North Indian,True,4,high,900
+U01223,regular,Hyderabad,Hyderabad_Z4,Street Food|Healthy,False,14,medium,821
+U01224,occasional,Mumbai,Mumbai_Z5,Desserts|Chinese,True,2,low,421
+U01225,regular,Pune,Pune_Z2,Fast Food|Biryani|Chinese,True,11,low,899
+U01226,regular,Bangalore,Bangalore_Z4,Street Food|Chinese|Beverages|South Indian,True,13,medium,58
+U01227,regular,Hyderabad,Hyderabad_Z5,Beverages|South Indian,False,9,low,998
+U01228,budget,Kolkata,Kolkata_Z5,Beverages|Desserts,False,7,medium,512
+U01229,occasional,Hyderabad,Hyderabad_Z2,Chinese|Fast Food|Desserts,False,3,low,536
+U01230,regular,Kolkata,Kolkata_Z1,Street Food|Fast Food,False,9,medium,635
+U01231,premium,Bangalore,Bangalore_Z5,Beverages|Biryani,False,18,low,739
+U01232,budget,Hyderabad,Hyderabad_Z5,North Indian|Chinese|Desserts|South Indian,True,5,medium,948
+U01233,budget,Mumbai,Mumbai_Z1,Chinese|Italian,False,4,medium,527
+U01234,budget,Hyderabad,Hyderabad_Z4,South Indian|Italian|Biryani,False,6,low,572
+U01235,regular,Delhi,Delhi_Z2,Biryani|North Indian|Healthy,False,8,low,730
+U01236,regular,Pune,Pune_Z1,Street Food|Chinese,False,8,medium,719
+U01237,premium,Chennai,Chennai_Z3,Chinese|Desserts|North Indian|Street Food,False,21,low,399
+U01238,regular,Mumbai,Mumbai_Z4,Biryani|Street Food|Healthy|Beverages,True,10,low,689
+U01239,occasional,Delhi,Delhi_Z4,Desserts|Italian|Chinese,False,1,high,79
+U01240,budget,Kolkata,Kolkata_Z4,Fast Food|Chinese,False,5,low,692
+U01241,premium,Pune,Pune_Z4,Biryani|Fast Food|North Indian,False,22,low,904
+U01242,premium,Bangalore,Bangalore_Z5,Biryani|Desserts|Beverages,True,19,medium,762
+U01243,premium,Mumbai,Mumbai_Z5,Healthy|North Indian|Fast Food,False,25,low,928
+U01244,premium,Chennai,Chennai_Z4,Healthy|Italian,False,24,low,421
+U01245,premium,Pune,Pune_Z3,Fast Food|Healthy|South Indian,False,15,low,269
+U01246,regular,Kolkata,Kolkata_Z4,Beverages|Fast Food,False,9,low,692
+U01247,budget,Chennai,Chennai_Z3,Fast Food|Italian,True,6,high,421
+U01248,budget,Bangalore,Bangalore_Z2,Desserts|Italian|Fast Food,True,4,low,33
+U01249,occasional,Bangalore,Bangalore_Z3,Desserts|Italian|Street Food|Beverages,True,2,medium,614
+U01250,regular,Kolkata,Kolkata_Z3,Chinese|South Indian|North Indian,False,8,medium,780
+U01251,premium,Mumbai,Mumbai_Z4,Street Food|Desserts|Fast Food,False,18,medium,288
+U01252,regular,Kolkata,Kolkata_Z2,Beverages|Desserts|South Indian,False,8,low,606
+U01253,budget,Hyderabad,Hyderabad_Z3,Fast Food|Beverages|Healthy|Chinese,False,6,low,523
+U01254,budget,Bangalore,Bangalore_Z1,North Indian|Street Food,True,5,high,884
+U01255,regular,Pune,Pune_Z5,Italian|Chinese,True,9,low,31
+U01256,regular,Hyderabad,Hyderabad_Z4,Chinese|Fast Food|Healthy,True,13,high,183
+U01257,budget,Delhi,Delhi_Z4,Street Food|Healthy,False,5,medium,302
+U01258,regular,Chennai,Chennai_Z3,Chinese|Italian,False,8,low,709
+U01259,budget,Hyderabad,Hyderabad_Z3,Fast Food|South Indian,False,5,medium,208
+U01260,regular,Chennai,Chennai_Z5,Desserts|Italian|Beverages,True,12,medium,491
+U01261,budget,Kolkata,Kolkata_Z5,Healthy|Biryani|North Indian,False,5,high,616
+U01262,premium,Hyderabad,Hyderabad_Z1,Chinese|Street Food|North Indian,True,24,low,909
+U01263,regular,Kolkata,Kolkata_Z3,Healthy|North Indian,True,12,medium,531
+U01264,regular,Delhi,Delhi_Z2,Biryani|Healthy|South Indian|Beverages,False,12,low,150
+U01265,budget,Bangalore,Bangalore_Z2,Biryani|Beverages|Desserts|Fast Food,False,6,high,968
+U01266,budget,Delhi,Delhi_Z4,Healthy|Italian|Street Food,False,4,medium,97
+U01267,regular,Bangalore,Bangalore_Z2,Healthy|Fast Food,False,9,medium,657
+U01268,regular,Kolkata,Kolkata_Z5,Italian|Desserts|Healthy,False,9,medium,847
+U01269,regular,Bangalore,Bangalore_Z4,Italian|Beverages,False,10,low,625
+U01270,budget,Chennai,Chennai_Z3,South Indian|Healthy|Italian,True,6,low,694
+U01271,regular,Pune,Pune_Z4,North Indian|Biryani|Chinese,False,9,low,44
+U01272,premium,Delhi,Delhi_Z2,Desserts|Chinese|South Indian|Italian,False,19,high,596
+U01273,premium,Hyderabad,Hyderabad_Z2,South Indian|North Indian|Healthy,True,16,low,686
+U01274,budget,Delhi,Delhi_Z1,Beverages|Italian|Desserts|Biryani,False,7,high,966
+U01275,regular,Chennai,Chennai_Z1,Beverages|Fast Food,False,10,high,86
+U01276,budget,Bangalore,Bangalore_Z1,North Indian|Desserts,False,7,medium,706
+U01277,budget,Chennai,Chennai_Z4,North Indian|Chinese|South Indian|Biryani,False,7,high,510
+U01278,occasional,Mumbai,Mumbai_Z2,Healthy|Beverages|Street Food|Biryani,True,3,low,800
+U01279,budget,Mumbai,Mumbai_Z5,North Indian|South Indian|Healthy,False,5,high,609
+U01280,regular,Hyderabad,Hyderabad_Z3,North Indian|Fast Food,True,12,low,55
+U01281,regular,Chennai,Chennai_Z3,Biryani|Healthy|Beverages,True,12,medium,882
+U01282,premium,Kolkata,Kolkata_Z1,Biryani|Fast Food|Healthy,True,18,medium,424
+U01283,regular,Hyderabad,Hyderabad_Z2,Fast Food|Healthy,False,14,medium,460
+U01284,budget,Kolkata,Kolkata_Z1,South Indian|North Indian|Street Food,False,7,medium,400
+U01285,regular,Hyderabad,Hyderabad_Z3,Street Food|Healthy|Desserts,True,14,low,624
+U01286,regular,Mumbai,Mumbai_Z4,Chinese|Fast Food|North Indian,True,12,low,891
+U01287,budget,Hyderabad,Hyderabad_Z1,Beverages|Biryani|North Indian|Italian,False,5,low,424
+U01288,regular,Mumbai,Mumbai_Z4,Fast Food|Healthy|Italian,True,13,high,199
+U01289,budget,Bangalore,Bangalore_Z1,Italian|Street Food|Desserts|Beverages,False,5,high,580
+U01290,budget,Kolkata,Kolkata_Z2,Desserts|Fast Food,True,4,medium,473
+U01291,regular,Chennai,Chennai_Z5,South Indian|Biryani,False,14,low,355
+U01292,budget,Hyderabad,Hyderabad_Z3,Biryani|Beverages|South Indian|Chinese,False,7,medium,982
+U01293,regular,Mumbai,Mumbai_Z4,Desserts|Fast Food|Street Food|North Indian,False,10,low,272
+U01294,regular,Delhi,Delhi_Z1,Fast Food|South Indian,False,14,low,858
+U01295,premium,Kolkata,Kolkata_Z4,Desserts|Beverages|Fast Food,False,24,medium,600
+U01296,budget,Hyderabad,Hyderabad_Z1,South Indian|Desserts|Chinese,False,5,low,982
+U01297,budget,Pune,Pune_Z4,North Indian|Fast Food|Street Food|South Indian,False,7,low,63
+U01298,budget,Bangalore,Bangalore_Z3,Beverages|Fast Food|Street Food,False,7,medium,573
+U01299,regular,Bangalore,Bangalore_Z2,Healthy|Street Food|Fast Food,True,12,low,872
+U01300,premium,Delhi,Delhi_Z3,Street Food|Biryani|Chinese|Fast Food,True,20,medium,351
+U01301,budget,Mumbai,Mumbai_Z1,Biryani|Beverages,True,5,medium,423
+U01302,occasional,Hyderabad,Hyderabad_Z2,Beverages|Fast Food|Healthy,True,1,medium,104
+U01303,budget,Kolkata,Kolkata_Z4,Healthy|Chinese|South Indian,False,7,medium,713
+U01304,regular,Mumbai,Mumbai_Z5,Chinese|South Indian,False,9,medium,884
+U01305,premium,Bangalore,Bangalore_Z3,Beverages|Healthy,False,25,low,771
+U01306,premium,Mumbai,Mumbai_Z3,Biryani|North Indian|Chinese|Italian,False,29,low,261
+U01307,premium,Bangalore,Bangalore_Z5,Chinese|Beverages,False,17,high,225
+U01308,premium,Mumbai,Mumbai_Z3,North Indian|Fast Food|Italian|Street Food,False,17,low,356
+U01309,regular,Delhi,Delhi_Z2,Italian|Street Food|Beverages|Healthy,True,12,medium,855
+U01310,premium,Chennai,Chennai_Z5,Chinese|Fast Food|Beverages|Biryani,False,15,medium,587
+U01311,budget,Delhi,Delhi_Z4,Fast Food|Desserts,False,4,medium,646
+U01312,premium,Delhi,Delhi_Z1,Healthy|Desserts|Fast Food|South Indian,True,28,high,434
+U01313,regular,Chennai,Chennai_Z4,North Indian|Biryani|Beverages,True,10,medium,386
+U01314,premium,Chennai,Chennai_Z4,North Indian|Biryani,True,27,high,965
+U01315,regular,Hyderabad,Hyderabad_Z1,Healthy|Italian|Biryani,False,8,low,174
+U01316,regular,Kolkata,Kolkata_Z3,Beverages|Chinese|South Indian|Italian,False,14,medium,376
+U01317,regular,Kolkata,Kolkata_Z2,Biryani|North Indian|Beverages|South Indian,False,8,medium,429
+U01318,premium,Hyderabad,Hyderabad_Z1,Healthy|South Indian|Biryani|North Indian,False,16,medium,503
+U01319,budget,Delhi,Delhi_Z2,Healthy|Biryani|Chinese|Beverages,True,4,medium,594
+U01320,budget,Delhi,Delhi_Z4,Street Food|Italian,True,7,low,873
+U01321,budget,Bangalore,Bangalore_Z4,North Indian|Italian|Biryani|Healthy,False,6,high,269
+U01322,budget,Bangalore,Bangalore_Z1,North Indian|Desserts|Fast Food,False,4,low,371
+U01323,premium,Kolkata,Kolkata_Z2,North Indian|Italian,False,21,low,990
+U01324,budget,Hyderabad,Hyderabad_Z3,Street Food|Chinese|Biryani|North Indian,False,6,medium,265
+U01325,occasional,Pune,Pune_Z3,South Indian|North Indian|Healthy|Beverages,False,2,high,777
+U01326,regular,Pune,Pune_Z4,Beverages|Desserts|North Indian,True,8,low,788
+U01327,budget,Hyderabad,Hyderabad_Z3,Chinese|Desserts|Fast Food|North Indian,True,5,low,970
+U01328,premium,Bangalore,Bangalore_Z2,Fast Food|Biryani|Beverages|Healthy,False,26,medium,167
+U01329,regular,Kolkata,Kolkata_Z4,Street Food|Healthy|Chinese,False,8,low,488
+U01330,regular,Kolkata,Kolkata_Z1,Beverages|Biryani|Fast Food,False,14,medium,499
+U01331,regular,Bangalore,Bangalore_Z1,Chinese|Fast Food,False,14,low,663
+U01332,premium,Pune,Pune_Z4,Fast Food|Street Food|Desserts,False,23,medium,612
+U01333,budget,Mumbai,Mumbai_Z3,Beverages|Desserts|South Indian|Healthy,False,7,medium,805
+U01334,occasional,Mumbai,Mumbai_Z4,Street Food|Chinese,False,1,low,219
+U01335,occasional,Bangalore,Bangalore_Z1,Chinese|Beverages|South Indian,False,1,high,768
+U01336,regular,Mumbai,Mumbai_Z5,Biryani|South Indian,True,9,low,333
+U01337,budget,Chennai,Chennai_Z4,South Indian|Chinese,False,6,high,814
+U01338,regular,Hyderabad,Hyderabad_Z2,Italian|Biryani|Street Food,True,8,low,138
+U01339,budget,Hyderabad,Hyderabad_Z4,North Indian|Fast Food|South Indian|Beverages,False,5,medium,904
+U01340,budget,Bangalore,Bangalore_Z2,Desserts|North Indian|Beverages|Street Food,True,7,medium,163
+U01341,budget,Delhi,Delhi_Z4,Desserts|North Indian,False,6,high,482
+U01342,regular,Pune,Pune_Z1,Beverages|Chinese|Street Food|South Indian,False,10,high,835
+U01343,premium,Bangalore,Bangalore_Z4,South Indian|Beverages|Italian,False,21,low,394
+U01344,premium,Mumbai,Mumbai_Z3,Healthy|Biryani|Street Food|Chinese,False,22,high,991
+U01345,premium,Pune,Pune_Z3,Biryani|Street Food|Italian|Beverages,True,27,medium,287
+U01346,regular,Delhi,Delhi_Z3,Beverages|Fast Food|Italian|Desserts,True,14,low,192
+U01347,regular,Mumbai,Mumbai_Z3,Italian|Healthy,False,9,low,45
+U01348,regular,Kolkata,Kolkata_Z2,Chinese|Desserts|Biryani,False,13,medium,539
+U01349,occasional,Chennai,Chennai_Z5,Healthy|Biryani,False,3,medium,532
+U01350,budget,Mumbai,Mumbai_Z3,Fast Food|Desserts|North Indian,False,5,low,386
+U01351,premium,Chennai,Chennai_Z3,Healthy|Italian|Biryani,False,17,low,755
+U01352,regular,Pune,Pune_Z4,Chinese|Italian|Desserts|Beverages,True,9,medium,123
+U01353,regular,Chennai,Chennai_Z3,Street Food|Beverages|Healthy|Italian,True,9,high,476
+U01354,premium,Pune,Pune_Z1,Fast Food|Beverages|North Indian|Biryani,False,21,medium,145
+U01355,regular,Pune,Pune_Z3,Desserts|Healthy|Fast Food|Street Food,True,9,medium,675
+U01356,premium,Pune,Pune_Z1,South Indian|North Indian|Fast Food,False,28,low,939
+U01357,occasional,Pune,Pune_Z2,Biryani|Healthy|North Indian,True,2,medium,234
+U01358,regular,Pune,Pune_Z1,Italian|Beverages|Fast Food,False,11,medium,345
+U01359,budget,Mumbai,Mumbai_Z1,Fast Food|Street Food|Beverages,True,6,low,639
+U01360,regular,Pune,Pune_Z1,Fast Food|Desserts,True,14,high,476
+U01361,occasional,Mumbai,Mumbai_Z5,Italian|Beverages,True,2,medium,539
+U01362,budget,Pune,Pune_Z1,Street Food|Fast Food,True,4,medium,419
+U01363,regular,Chennai,Chennai_Z2,Chinese|Italian,True,10,high,991
+U01364,regular,Kolkata,Kolkata_Z5,Beverages|Chinese,True,14,high,687
+U01365,premium,Pune,Pune_Z2,North Indian|Desserts,True,23,medium,356
+U01366,budget,Delhi,Delhi_Z5,Desserts|Fast Food,False,4,medium,272
+U01367,premium,Pune,Pune_Z5,Desserts|Fast Food|Healthy,False,16,medium,629
+U01368,occasional,Pune,Pune_Z2,Fast Food|Street Food|Beverages|Biryani,True,3,medium,649
+U01369,budget,Chennai,Chennai_Z3,North Indian|Chinese,True,6,high,587
+U01370,budget,Hyderabad,Hyderabad_Z2,Street Food|Italian,False,7,medium,933
+U01371,occasional,Chennai,Chennai_Z3,Fast Food|Biryani|Street Food,True,3,low,574
+U01372,budget,Delhi,Delhi_Z5,Chinese|Biryani|Street Food|Fast Food,False,5,medium,857
+U01373,premium,Hyderabad,Hyderabad_Z3,Fast Food|Desserts,False,29,low,853
+U01374,regular,Bangalore,Bangalore_Z2,Desserts|Biryani|Fast Food,True,13,medium,478
+U01375,budget,Bangalore,Bangalore_Z4,Biryani|Desserts|Fast Food,False,7,medium,239
+U01376,premium,Delhi,Delhi_Z4,Fast Food|Beverages|Street Food,False,15,low,855
+U01377,regular,Chennai,Chennai_Z1,Fast Food|Chinese|Biryani|South Indian,False,12,medium,571
+U01378,regular,Mumbai,Mumbai_Z5,Italian|Biryani|Street Food,False,9,low,113
+U01379,regular,Delhi,Delhi_Z2,Italian|Healthy|Desserts|Biryani,False,10,low,878
+U01380,regular,Kolkata,Kolkata_Z1,South Indian|Street Food|Fast Food,True,11,medium,637
+U01381,budget,Hyderabad,Hyderabad_Z3,South Indian|Healthy,False,7,low,163
+U01382,regular,Hyderabad,Hyderabad_Z2,Desserts|North Indian|Beverages|Biryani,False,8,high,555
+U01383,occasional,Pune,Pune_Z3,Biryani|Fast Food|Beverages|Street Food,False,3,medium,681
+U01384,budget,Bangalore,Bangalore_Z2,Italian|Desserts|Fast Food,False,6,medium,842
+U01385,regular,Hyderabad,Hyderabad_Z4,Chinese|South Indian|Street Food|Italian,True,14,high,505
+U01386,regular,Delhi,Delhi_Z2,Desserts|Beverages,False,9,low,918
+U01387,premium,Hyderabad,Hyderabad_Z1,Biryani|South Indian,False,17,high,643
+U01388,budget,Delhi,Delhi_Z3,Chinese|Desserts|Street Food,False,7,high,123
+U01389,occasional,Mumbai,Mumbai_Z4,Italian|Desserts|South Indian,True,2,low,843
+U01390,regular,Pune,Pune_Z2,Italian|Beverages|South Indian|North Indian,False,10,high,568
+U01391,budget,Bangalore,Bangalore_Z3,Chinese|Italian,True,5,medium,731
+U01392,budget,Hyderabad,Hyderabad_Z2,Italian|Fast Food|Healthy,True,7,high,232
+U01393,budget,Delhi,Delhi_Z5,Chinese|Beverages,False,5,medium,58
+U01394,regular,Chennai,Chennai_Z3,Biryani|Street Food|Chinese,False,11,low,365
+U01395,regular,Bangalore,Bangalore_Z1,Fast Food|Desserts|Healthy,False,11,medium,961
+U01396,premium,Mumbai,Mumbai_Z2,Biryani|South Indian|Italian,True,21,medium,118
+U01397,regular,Delhi,Delhi_Z3,South Indian|Desserts|Biryani,True,9,high,89
+U01398,budget,Kolkata,Kolkata_Z2,Biryani|Chinese|North Indian,True,7,medium,204
+U01399,regular,Kolkata,Kolkata_Z1,Chinese|North Indian|South Indian|Desserts,True,13,low,520
+U01400,premium,Pune,Pune_Z1,South Indian|Chinese,True,21,low,174
+U01401,budget,Pune,Pune_Z3,Desserts|Street Food,False,7,low,48
+U01402,budget,Mumbai,Mumbai_Z4,Street Food|Italian|Biryani,False,6,high,547
+U01403,budget,Mumbai,Mumbai_Z1,Biryani|Italian|Street Food|Beverages,True,4,high,617
+U01404,premium,Pune,Pune_Z3,Street Food|South Indian,False,25,low,845
+U01405,regular,Hyderabad,Hyderabad_Z2,Chinese|Italian|North Indian|Fast Food,False,13,medium,318
+U01406,regular,Hyderabad,Hyderabad_Z2,Italian|South Indian|Desserts,True,8,medium,993
+U01407,premium,Delhi,Delhi_Z1,Desserts|Street Food|Beverages,False,17,low,366
+U01408,premium,Chennai,Chennai_Z2,North Indian|Healthy,True,23,low,908
+U01409,regular,Delhi,Delhi_Z5,North Indian|Desserts|Beverages,False,8,low,213
+U01410,premium,Chennai,Chennai_Z1,North Indian|Chinese|Beverages|Healthy,False,28,low,847
+U01411,budget,Mumbai,Mumbai_Z2,Beverages|Desserts|Healthy|North Indian,False,4,medium,671
+U01412,budget,Bangalore,Bangalore_Z1,Desserts|Fast Food|Italian,False,4,high,267
+U01413,budget,Delhi,Delhi_Z1,Desserts|North Indian|Fast Food|Healthy,False,6,low,364
+U01414,budget,Delhi,Delhi_Z2,Beverages|North Indian,True,7,high,149
+U01415,regular,Chennai,Chennai_Z3,Beverages|Desserts|Italian,True,12,low,612
+U01416,occasional,Mumbai,Mumbai_Z5,Chinese|South Indian,False,3,low,236
+U01417,budget,Mumbai,Mumbai_Z1,South Indian|Italian|Fast Food|Biryani,False,6,medium,410
+U01418,budget,Kolkata,Kolkata_Z2,Desserts|Healthy|Fast Food,False,7,high,480
+U01419,regular,Chennai,Chennai_Z1,Desserts|North Indian,False,12,medium,543
+U01420,occasional,Mumbai,Mumbai_Z2,Beverages|Chinese,True,1,low,628
+U01421,regular,Pune,Pune_Z2,Chinese|Biryani,False,9,high,121
+U01422,regular,Hyderabad,Hyderabad_Z5,South Indian|Italian|Fast Food,False,8,medium,79
+U01423,budget,Kolkata,Kolkata_Z2,South Indian|Fast Food|Beverages|Biryani,False,6,medium,150
+U01424,budget,Pune,Pune_Z3,Healthy|Chinese|Biryani|Beverages,False,7,medium,562
+U01425,occasional,Bangalore,Bangalore_Z5,Chinese|Italian|Beverages|Street Food,False,2,medium,539
+U01426,occasional,Delhi,Delhi_Z3,Healthy|Beverages,True,1,medium,991
+U01427,budget,Kolkata,Kolkata_Z3,Healthy|South Indian|North Indian|Biryani,False,6,high,345
+U01428,occasional,Bangalore,Bangalore_Z4,Beverages|Street Food,False,1,medium,699
+U01429,regular,Delhi,Delhi_Z4,Healthy|North Indian|South Indian|Street Food,True,9,medium,973
+U01430,premium,Hyderabad,Hyderabad_Z4,Italian|Street Food,False,22,high,937
+U01431,regular,Mumbai,Mumbai_Z5,Desserts|South Indian|Chinese,False,9,low,840
+U01432,regular,Pune,Pune_Z5,Biryani|Desserts|Chinese,False,8,low,42
+U01433,regular,Chennai,Chennai_Z5,Biryani|South Indian,False,12,high,374
+U01434,regular,Pune,Pune_Z3,North Indian|Healthy,True,11,low,304
+U01435,budget,Hyderabad,Hyderabad_Z2,North Indian|Fast Food,False,6,high,134
+U01436,budget,Bangalore,Bangalore_Z5,Fast Food|Street Food,False,4,high,261
+U01437,regular,Chennai,Chennai_Z1,Biryani|Street Food|Beverages|Italian,True,13,low,865
+U01438,premium,Mumbai,Mumbai_Z5,Desserts|Fast Food,False,22,low,850
+U01439,budget,Hyderabad,Hyderabad_Z1,Healthy|Beverages,True,5,medium,126
+U01440,regular,Chennai,Chennai_Z4,Fast Food|Desserts,False,11,high,358
+U01441,occasional,Hyderabad,Hyderabad_Z3,Healthy|Fast Food|Beverages,True,1,low,425
+U01442,budget,Hyderabad,Hyderabad_Z4,South Indian|Italian|Biryani|Beverages,True,5,medium,577
+U01443,regular,Mumbai,Mumbai_Z4,South Indian|Italian|Beverages|Desserts,False,10,medium,617
+U01444,regular,Kolkata,Kolkata_Z1,Desserts|Healthy|Fast Food|Chinese,False,13,low,882
+U01445,premium,Delhi,Delhi_Z3,Beverages|South Indian,False,23,medium,194
+U01446,budget,Chennai,Chennai_Z5,Biryani|South Indian|Beverages,True,7,high,378
+U01447,regular,Mumbai,Mumbai_Z1,Street Food|Fast Food|Italian|Chinese,True,13,medium,353
+U01448,premium,Hyderabad,Hyderabad_Z1,Italian|Chinese|North Indian|Beverages,True,21,high,437
+U01449,occasional,Mumbai,Mumbai_Z1,North Indian|Healthy|Beverages|Desserts,True,3,medium,802
+U01450,regular,Kolkata,Kolkata_Z3,North Indian|Italian|Fast Food|Biryani,True,13,low,536
+U01451,regular,Delhi,Delhi_Z2,Street Food|Beverages|Biryani,True,12,medium,285
+U01452,regular,Pune,Pune_Z5,Healthy|Fast Food|South Indian,False,10,high,138
+U01453,premium,Chennai,Chennai_Z1,Healthy|Desserts|Chinese,True,26,high,533
+U01454,regular,Delhi,Delhi_Z1,Beverages|North Indian|Desserts,True,12,low,526
+U01455,budget,Bangalore,Bangalore_Z3,Healthy|Desserts|Chinese|Fast Food,False,4,medium,604
+U01456,occasional,Chennai,Chennai_Z3,Street Food|Italian|Beverages|North Indian,False,3,low,410
+U01457,regular,Delhi,Delhi_Z5,Street Food|Italian,False,10,medium,224
+U01458,regular,Hyderabad,Hyderabad_Z5,Chinese|South Indian|Biryani|Desserts,True,12,high,822
+U01459,budget,Chennai,Chennai_Z2,Street Food|Biryani|Chinese,False,6,high,887
+U01460,regular,Chennai,Chennai_Z2,Street Food|Biryani,True,13,medium,714
+U01461,regular,Mumbai,Mumbai_Z3,Chinese|Street Food,True,14,low,455
+U01462,regular,Hyderabad,Hyderabad_Z2,Healthy|South Indian|Fast Food,True,10,low,200
+U01463,budget,Bangalore,Bangalore_Z4,Healthy|Desserts|Fast Food|Biryani,True,4,high,259
+U01464,regular,Pune,Pune_Z1,Desserts|Healthy,False,8,low,89
+U01465,occasional,Kolkata,Kolkata_Z2,Chinese|Biryani|Healthy|Street Food,False,2,medium,374
+U01466,budget,Delhi,Delhi_Z2,Healthy|South Indian,True,7,medium,788
+U01467,occasional,Mumbai,Mumbai_Z5,North Indian|Biryani|Italian|Street Food,False,1,low,82
+U01468,regular,Delhi,Delhi_Z3,Chinese|Fast Food,False,12,medium,237
+U01469,premium,Bangalore,Bangalore_Z4,South Indian|Fast Food|Beverages,False,25,medium,441
+U01470,premium,Bangalore,Bangalore_Z3,Chinese|Healthy|Biryani,False,18,medium,595
+U01471,regular,Chennai,Chennai_Z2,Street Food|North Indian|Chinese|Desserts,False,11,medium,481
+U01472,premium,Kolkata,Kolkata_Z1,Chinese|South Indian|Beverages|Healthy,False,15,high,463
+U01473,premium,Bangalore,Bangalore_Z3,Chinese|Desserts|South Indian|North Indian,False,20,low,369
+U01474,regular,Delhi,Delhi_Z1,Biryani|Healthy,False,10,high,957
+U01475,regular,Hyderabad,Hyderabad_Z4,Chinese|Italian|Fast Food|Desserts,True,12,medium,99
+U01476,regular,Hyderabad,Hyderabad_Z5,Healthy|Fast Food|Italian|Biryani,False,8,medium,347
+U01477,premium,Chennai,Chennai_Z2,South Indian|Biryani,False,27,medium,772
+U01478,premium,Pune,Pune_Z3,South Indian|Street Food,True,23,medium,712
+U01479,premium,Delhi,Delhi_Z2,North Indian|Street Food,False,19,low,777
+U01480,regular,Delhi,Delhi_Z5,Desserts|Biryani|Healthy|Street Food,True,14,medium,395
+U01481,premium,Bangalore,Bangalore_Z4,South Indian|Biryani,True,29,low,314
+U01482,budget,Kolkata,Kolkata_Z5,Chinese|Fast Food,False,4,low,110
+U01483,regular,Delhi,Delhi_Z1,Italian|Fast Food|Healthy|Beverages,False,9,medium,444
+U01484,budget,Mumbai,Mumbai_Z2,Street Food|North Indian|Biryani,False,5,low,350
+U01485,regular,Pune,Pune_Z5,South Indian|Beverages,False,14,low,379
+U01486,regular,Bangalore,Bangalore_Z2,Beverages|Italian|Fast Food,False,13,low,63
+U01487,regular,Mumbai,Mumbai_Z4,South Indian|Street Food|Desserts|Italian,False,8,medium,148
+U01488,regular,Chennai,Chennai_Z5,Biryani|South Indian|Beverages|Desserts,True,13,medium,574
+U01489,regular,Hyderabad,Hyderabad_Z5,Chinese|Desserts|Fast Food|Beverages,True,10,low,950
+U01490,regular,Chennai,Chennai_Z5,Italian|Fast Food,False,8,medium,642
+U01491,budget,Hyderabad,Hyderabad_Z5,Italian|North Indian|Chinese,False,5,low,464
+U01492,regular,Chennai,Chennai_Z5,Beverages|Street Food,True,13,medium,595
+U01493,budget,Delhi,Delhi_Z5,Healthy|Chinese,False,6,medium,775
+U01494,budget,Mumbai,Mumbai_Z3,Healthy|Desserts,True,5,high,58
+U01495,regular,Hyderabad,Hyderabad_Z3,Italian|Street Food,False,12,medium,722
+U01496,regular,Bangalore,Bangalore_Z1,Healthy|South Indian|Chinese|Italian,True,10,low,101
+U01497,regular,Mumbai,Mumbai_Z5,Healthy|Street Food|Biryani|Beverages,True,13,medium,157
+U01498,regular,Bangalore,Bangalore_Z1,Biryani|Beverages|Fast Food|Desserts,True,9,medium,431
+U01499,regular,Mumbai,Mumbai_Z5,North Indian|Italian|Fast Food,False,11,high,181
+U01500,premium,Mumbai,Mumbai_Z3,North Indian|Biryani,True,25,low,378
+U01501,regular,Chennai,Chennai_Z4,Fast Food|Desserts,False,8,low,462
+U01502,regular,Hyderabad,Hyderabad_Z2,South Indian|Desserts,False,8,low,714
+U01503,budget,Hyderabad,Hyderabad_Z2,Healthy|South Indian|Italian|North Indian,False,4,medium,626
+U01504,regular,Kolkata,Kolkata_Z4,Italian|Fast Food|Biryani|Healthy,False,12,medium,769
+U01505,regular,Mumbai,Mumbai_Z2,Chinese|Healthy|Desserts|Beverages,False,10,low,240
+U01506,regular,Delhi,Delhi_Z2,South Indian|Healthy|Street Food|Desserts,False,9,low,200
+U01507,regular,Delhi,Delhi_Z5,Chinese|North Indian|Italian,True,13,low,876
+U01508,regular,Bangalore,Bangalore_Z1,Beverages|Fast Food|Chinese,True,14,medium,666
+U01509,regular,Bangalore,Bangalore_Z2,Biryani|Fast Food|Beverages|Desserts,True,9,medium,222
+U01510,premium,Chennai,Chennai_Z3,Italian|Healthy|North Indian,False,17,low,887
+U01511,premium,Mumbai,Mumbai_Z4,Italian|Beverages|Street Food|North Indian,True,23,medium,532
+U01512,premium,Bangalore,Bangalore_Z5,Street Food|Fast Food|Italian,False,20,low,339
+U01513,occasional,Bangalore,Bangalore_Z1,Fast Food|North Indian|Biryani,True,2,low,634
+U01514,budget,Pune,Pune_Z4,Healthy|Beverages|Chinese,False,6,high,818
+U01515,budget,Mumbai,Mumbai_Z5,Biryani|South Indian,False,6,low,125
+U01516,budget,Chennai,Chennai_Z3,North Indian|Healthy|Street Food,False,7,medium,970
+U01517,regular,Bangalore,Bangalore_Z5,Beverages|Biryani|Italian|Chinese,False,12,medium,323
+U01518,premium,Chennai,Chennai_Z5,Desserts|Street Food|Healthy|South Indian,True,25,medium,869
+U01519,budget,Hyderabad,Hyderabad_Z4,Healthy|South Indian,False,5,low,907
+U01520,occasional,Chennai,Chennai_Z2,Desserts|Street Food|Biryani|Healthy,False,1,medium,242
+U01521,budget,Delhi,Delhi_Z3,Chinese|South Indian,False,4,low,71
+U01522,occasional,Delhi,Delhi_Z5,Desserts|Healthy,False,2,low,546
+U01523,regular,Chennai,Chennai_Z5,Desserts|Healthy|Chinese|Biryani,True,11,medium,508
+U01524,budget,Delhi,Delhi_Z5,Beverages|Healthy|Fast Food,False,7,medium,376
+U01525,regular,Hyderabad,Hyderabad_Z1,Biryani|Healthy|Chinese|Fast Food,False,10,low,655
+U01526,budget,Mumbai,Mumbai_Z2,Desserts|North Indian,True,6,high,566
+U01527,budget,Delhi,Delhi_Z2,North Indian|Biryani,False,4,medium,104
+U01528,regular,Delhi,Delhi_Z4,Street Food|North Indian|Fast Food,False,10,low,287
+U01529,premium,Chennai,Chennai_Z5,North Indian|Biryani|Beverages,True,15,high,220
+U01530,regular,Hyderabad,Hyderabad_Z5,Street Food|Fast Food,False,9,medium,968
+U01531,regular,Kolkata,Kolkata_Z1,Desserts|Beverages|Chinese|Italian,True,11,low,446
+U01532,regular,Kolkata,Kolkata_Z4,Healthy|Desserts|Street Food,True,10,low,232
+U01533,premium,Kolkata,Kolkata_Z5,Italian|Fast Food|Desserts,True,23,low,944
+U01534,budget,Kolkata,Kolkata_Z1,Fast Food|Chinese,False,6,medium,490
+U01535,regular,Mumbai,Mumbai_Z3,Chinese|Fast Food|Desserts|Healthy,False,14,medium,686
+U01536,budget,Chennai,Chennai_Z3,Italian|North Indian,True,4,medium,961
+U01537,budget,Chennai,Chennai_Z3,Beverages|North Indian|Chinese|South Indian,False,6,medium,684
+U01538,regular,Pune,Pune_Z3,North Indian|Healthy|Italian,True,13,medium,47
+U01539,budget,Hyderabad,Hyderabad_Z5,Chinese|Fast Food|South Indian|Desserts,True,7,low,828
+U01540,regular,Kolkata,Kolkata_Z2,Healthy|North Indian,False,11,high,109
+U01541,premium,Mumbai,Mumbai_Z3,Fast Food|Desserts|Italian|Healthy,False,26,medium,506
+U01542,budget,Hyderabad,Hyderabad_Z5,Street Food|Chinese,False,4,medium,446
+U01543,regular,Kolkata,Kolkata_Z1,Chinese|South Indian|Biryani|Beverages,True,10,medium,397
+U01544,budget,Mumbai,Mumbai_Z3,South Indian|Italian|North Indian|Beverages,True,6,low,547
+U01545,occasional,Hyderabad,Hyderabad_Z3,South Indian|Biryani|Chinese|Fast Food,False,2,low,518
+U01546,regular,Chennai,Chennai_Z2,Italian|Biryani|South Indian|Beverages,False,12,low,702
+U01547,premium,Chennai,Chennai_Z2,Fast Food|Beverages|Chinese|North Indian,False,19,low,910
+U01548,regular,Bangalore,Bangalore_Z3,North Indian|Healthy,False,13,high,273
+U01549,budget,Delhi,Delhi_Z3,Biryani|Italian|Beverages|Chinese,False,4,low,358
+U01550,regular,Kolkata,Kolkata_Z4,Chinese|Beverages|South Indian,False,13,high,394
+U01551,occasional,Pune,Pune_Z5,Desserts|Biryani|North Indian|Fast Food,False,3,low,370
+U01552,regular,Hyderabad,Hyderabad_Z1,Italian|Chinese|Beverages,True,11,low,701
+U01553,premium,Pune,Pune_Z1,South Indian|Street Food,False,16,medium,386
+U01554,premium,Bangalore,Bangalore_Z5,Chinese|Fast Food,False,23,medium,985
+U01555,budget,Delhi,Delhi_Z2,Fast Food|Healthy,False,7,low,553
+U01556,budget,Hyderabad,Hyderabad_Z1,Beverages|Biryani|Healthy,False,6,medium,755
+U01557,regular,Mumbai,Mumbai_Z4,Beverages|Desserts,False,11,medium,674
+U01558,regular,Kolkata,Kolkata_Z4,Healthy|Desserts,False,12,high,732
+U01559,premium,Delhi,Delhi_Z3,Biryani|Chinese|Italian,False,23,medium,197
+U01560,occasional,Chennai,Chennai_Z4,North Indian|South Indian|Biryani,False,3,medium,928
+U01561,regular,Bangalore,Bangalore_Z2,Beverages|South Indian,True,9,medium,580
+U01562,budget,Delhi,Delhi_Z4,Italian|Biryani|Beverages,False,4,high,584
+U01563,premium,Kolkata,Kolkata_Z4,Chinese|Beverages|Biryani|Italian,True,23,low,399
+U01564,budget,Delhi,Delhi_Z4,North Indian|Street Food|Chinese|Biryani,False,4,medium,926
+U01565,premium,Kolkata,Kolkata_Z4,Chinese|Italian,False,25,low,279
+U01566,regular,Chennai,Chennai_Z4,Desserts|Healthy|Chinese|Italian,True,9,medium,188
+U01567,regular,Hyderabad,Hyderabad_Z1,Street Food|Healthy|Beverages,False,9,high,243
+U01568,budget,Mumbai,Mumbai_Z4,Biryani|South Indian|Healthy|North Indian,False,7,low,699
+U01569,regular,Chennai,Chennai_Z2,North Indian|Italian,False,13,low,408
+U01570,regular,Mumbai,Mumbai_Z3,Fast Food|North Indian|Biryani,False,13,medium,673
+U01571,regular,Hyderabad,Hyderabad_Z5,Fast Food|North Indian|South Indian,False,14,low,994
+U01572,budget,Delhi,Delhi_Z1,Desserts|Healthy|Biryani|North Indian,False,5,medium,433
+U01573,premium,Mumbai,Mumbai_Z4,Fast Food|Chinese|Desserts,False,23,high,107
+U01574,premium,Bangalore,Bangalore_Z3,North Indian|Chinese|South Indian|Healthy,False,19,low,92
+U01575,budget,Bangalore,Bangalore_Z1,North Indian|Beverages,False,7,medium,178
+U01576,budget,Kolkata,Kolkata_Z1,Fast Food|South Indian,False,5,high,686
+U01577,budget,Chennai,Chennai_Z5,Chinese|Beverages|Biryani,False,5,high,380
+U01578,regular,Hyderabad,Hyderabad_Z4,Biryani|North Indian|Desserts|Chinese,False,10,medium,146
+U01579,regular,Kolkata,Kolkata_Z1,Desserts|Biryani|Beverages|Italian,False,10,medium,968
+U01580,regular,Chennai,Chennai_Z4,Street Food|Desserts|Fast Food,False,13,low,256
+U01581,budget,Chennai,Chennai_Z3,Chinese|Biryani|Healthy,False,5,high,176
+U01582,regular,Kolkata,Kolkata_Z2,Beverages|Chinese|Italian,True,11,high,409
+U01583,regular,Pune,Pune_Z1,Street Food|Healthy,False,11,low,545
+U01584,regular,Chennai,Chennai_Z1,South Indian|Street Food|Chinese,False,14,medium,43
+U01585,occasional,Pune,Pune_Z3,Chinese|Healthy|North Indian,False,3,low,226
+U01586,budget,Bangalore,Bangalore_Z4,Street Food|Beverages|Chinese|North Indian,False,6,medium,535
+U01587,regular,Bangalore,Bangalore_Z2,Beverages|Healthy,True,13,medium,644
+U01588,regular,Chennai,Chennai_Z3,South Indian|Desserts|Chinese|Italian,False,11,medium,614
+U01589,regular,Bangalore,Bangalore_Z1,Street Food|Chinese,False,11,low,479
+U01590,premium,Hyderabad,Hyderabad_Z5,Beverages|Desserts,False,19,low,231
+U01591,regular,Pune,Pune_Z2,North Indian|Street Food|Italian|Chinese,True,9,low,442
+U01592,occasional,Pune,Pune_Z1,Italian|North Indian|Beverages|Biryani,True,2,low,875
+U01593,budget,Chennai,Chennai_Z3,Desserts|South Indian,True,7,medium,845
+U01594,budget,Bangalore,Bangalore_Z2,South Indian|North Indian|Italian|Biryani,True,7,low,574
+U01595,premium,Mumbai,Mumbai_Z1,Biryani|Street Food|Chinese|Desserts,True,21,low,821
+U01596,regular,Kolkata,Kolkata_Z5,North Indian|Biryani|Italian,False,8,low,569
+U01597,budget,Kolkata,Kolkata_Z1,Beverages|Desserts,False,6,high,166
+U01598,budget,Pune,Pune_Z4,North Indian|South Indian|Italian|Street Food,False,6,medium,894
+U01599,budget,Chennai,Chennai_Z5,Desserts|Italian|Healthy|Street Food,False,4,low,932
+U01600,premium,Chennai,Chennai_Z3,Street Food|Beverages|Desserts|Biryani,False,26,low,362
+U01601,budget,Hyderabad,Hyderabad_Z5,Desserts|Healthy,False,6,low,694
+U01602,regular,Delhi,Delhi_Z3,Street Food|Fast Food,False,10,low,748
+U01603,budget,Delhi,Delhi_Z1,Italian|Beverages|Fast Food,False,6,low,811
+U01604,regular,Pune,Pune_Z3,Biryani|Chinese|Desserts,True,13,medium,840
+U01605,budget,Kolkata,Kolkata_Z2,North Indian|Biryani|Chinese|Street Food,False,6,high,986
+U01606,regular,Hyderabad,Hyderabad_Z3,Healthy|Desserts,False,11,medium,630
+U01607,budget,Hyderabad,Hyderabad_Z2,Healthy|Street Food|Beverages|North Indian,False,6,low,756
+U01608,premium,Hyderabad,Hyderabad_Z1,Desserts|Beverages|Fast Food|North Indian,False,16,low,995
+U01609,budget,Pune,Pune_Z3,South Indian|Beverages|Street Food|Biryani,False,7,medium,510
+U01610,regular,Delhi,Delhi_Z1,Beverages|South Indian,False,14,medium,567
+U01611,premium,Kolkata,Kolkata_Z4,Beverages|North Indian,True,17,medium,748
+U01612,regular,Hyderabad,Hyderabad_Z5,Healthy|Desserts|Street Food|Beverages,False,9,high,157
+U01613,regular,Kolkata,Kolkata_Z5,South Indian|Beverages,False,10,high,958
+U01614,regular,Bangalore,Bangalore_Z5,North Indian|Fast Food,False,11,high,340
+U01615,regular,Chennai,Chennai_Z3,South Indian|Fast Food|Beverages,False,10,low,352
+U01616,regular,Chennai,Chennai_Z5,Fast Food|Italian|Street Food|North Indian,True,14,high,110
+U01617,occasional,Kolkata,Kolkata_Z2,Fast Food|Healthy|Beverages|Street Food,False,2,medium,838
+U01618,regular,Mumbai,Mumbai_Z1,Street Food|Desserts|North Indian|Fast Food,False,13,low,190
+U01619,regular,Mumbai,Mumbai_Z2,South Indian|Street Food,False,11,medium,984
+U01620,premium,Pune,Pune_Z1,Beverages|South Indian|Healthy|Biryani,False,22,low,107
+U01621,regular,Pune,Pune_Z5,Italian|Street Food,True,11,medium,344
+U01622,budget,Chennai,Chennai_Z1,Chinese|Italian|Street Food,True,5,medium,289
+U01623,regular,Bangalore,Bangalore_Z4,Biryani|North Indian|Street Food,False,8,low,559
+U01624,occasional,Delhi,Delhi_Z3,Desserts|Chinese|Fast Food|Beverages,False,1,high,932
+U01625,budget,Delhi,Delhi_Z3,Street Food|South Indian|Healthy|North Indian,False,7,high,199
+U01626,regular,Pune,Pune_Z4,South Indian|Desserts,False,8,low,89
+U01627,budget,Bangalore,Bangalore_Z1,Street Food|Biryani,True,4,high,388
+U01628,regular,Pune,Pune_Z5,Street Food|Healthy,True,9,medium,511
+U01629,budget,Delhi,Delhi_Z5,Italian|South Indian,False,4,medium,219
+U01630,regular,Kolkata,Kolkata_Z2,Biryani|Desserts|Beverages,False,14,medium,243
+U01631,premium,Pune,Pune_Z5,North Indian|Italian,True,16,low,418
+U01632,regular,Hyderabad,Hyderabad_Z4,Desserts|Healthy,True,8,low,588
+U01633,regular,Kolkata,Kolkata_Z5,Italian|Biryani|Desserts|Fast Food,False,10,medium,928
+U01634,premium,Pune,Pune_Z3,Fast Food|Beverages,False,24,high,276
+U01635,occasional,Chennai,Chennai_Z3,Beverages|Healthy|North Indian,False,2,high,577
+U01636,budget,Pune,Pune_Z4,South Indian|Beverages,False,5,high,176
+U01637,regular,Chennai,Chennai_Z2,Desserts|Chinese|South Indian,False,9,medium,474
+U01638,budget,Bangalore,Bangalore_Z5,Chinese|Street Food|South Indian|Healthy,False,4,medium,582
+U01639,occasional,Delhi,Delhi_Z5,Healthy|North Indian,False,3,low,415
+U01640,occasional,Kolkata,Kolkata_Z3,Beverages|North Indian,False,2,low,300
+U01641,regular,Kolkata,Kolkata_Z5,Desserts|Italian|South Indian|North Indian,False,8,low,605
+U01642,premium,Mumbai,Mumbai_Z4,South Indian|Chinese|North Indian|Desserts,False,16,high,916
+U01643,regular,Mumbai,Mumbai_Z1,South Indian|North Indian,False,11,low,315
+U01644,regular,Delhi,Delhi_Z3,Biryani|Chinese,True,11,low,556
+U01645,budget,Mumbai,Mumbai_Z1,Healthy|Beverages|Chinese|Fast Food,True,7,medium,779
+U01646,premium,Kolkata,Kolkata_Z1,Italian|Biryani,False,25,low,830
+U01647,budget,Pune,Pune_Z1,Fast Food|Healthy|Desserts,True,5,medium,30
+U01648,premium,Bangalore,Bangalore_Z2,Desserts|Street Food|South Indian|Healthy,False,21,high,35
+U01649,premium,Bangalore,Bangalore_Z5,Street Food|Desserts|Biryani,False,24,medium,65
+U01650,premium,Delhi,Delhi_Z3,Healthy|Beverages|Desserts|Street Food,False,21,medium,355
+U01651,budget,Mumbai,Mumbai_Z1,Street Food|North Indian|Healthy,True,6,high,169
+U01652,regular,Pune,Pune_Z3,North Indian|Desserts,True,11,medium,93
+U01653,budget,Bangalore,Bangalore_Z4,Chinese|Healthy|Biryani|Italian,False,7,medium,948
+U01654,regular,Bangalore,Bangalore_Z1,Beverages|North Indian|Healthy,False,11,medium,133
+U01655,budget,Hyderabad,Hyderabad_Z3,Desserts|Street Food|Healthy,True,4,medium,899
+U01656,occasional,Hyderabad,Hyderabad_Z3,North Indian|Biryani,False,3,low,429
+U01657,regular,Kolkata,Kolkata_Z2,Biryani|Fast Food|Street Food|Chinese,True,9,high,927
+U01658,regular,Bangalore,Bangalore_Z3,Beverages|Desserts|Biryani|South Indian,False,9,medium,978
+U01659,regular,Delhi,Delhi_Z5,Street Food|Healthy,True,13,low,825
+U01660,regular,Chennai,Chennai_Z4,Fast Food|Biryani|Street Food,True,11,low,301
+U01661,regular,Chennai,Chennai_Z4,Healthy|Beverages|Desserts,False,12,medium,355
+U01662,regular,Pune,Pune_Z4,Fast Food|Biryani|Desserts,False,12,low,262
+U01663,occasional,Bangalore,Bangalore_Z5,Beverages|Fast Food,True,3,high,758
+U01664,regular,Bangalore,Bangalore_Z3,Healthy|Chinese|Street Food|Fast Food,False,9,medium,537
+U01665,occasional,Kolkata,Kolkata_Z2,Street Food|Beverages,False,1,low,237
+U01666,premium,Bangalore,Bangalore_Z2,Fast Food|Italian|Healthy,False,16,low,36
+U01667,budget,Delhi,Delhi_Z4,Street Food|Beverages|Fast Food|Chinese,False,6,medium,969
+U01668,occasional,Hyderabad,Hyderabad_Z1,South Indian|Biryani,False,1,medium,819
+U01669,budget,Bangalore,Bangalore_Z1,Street Food|Desserts|North Indian|South Indian,False,6,high,551
+U01670,premium,Bangalore,Bangalore_Z1,Beverages|Healthy,False,27,medium,630
+U01671,regular,Kolkata,Kolkata_Z5,Chinese|Beverages|South Indian|Healthy,False,14,medium,397
+U01672,premium,Mumbai,Mumbai_Z5,Chinese|North Indian|Italian|Beverages,False,15,low,550
+U01673,premium,Kolkata,Kolkata_Z5,Fast Food|Biryani,False,24,high,46
+U01674,premium,Kolkata,Kolkata_Z4,South Indian|North Indian|Italian|Street Food,False,25,low,217
+U01675,premium,Delhi,Delhi_Z4,Desserts|Beverages,True,22,low,323
+U01676,regular,Pune,Pune_Z5,Healthy|South Indian|Italian|North Indian,False,10,high,875
+U01677,budget,Bangalore,Bangalore_Z5,Fast Food|Desserts|Street Food|Italian,True,6,medium,356
+U01678,regular,Kolkata,Kolkata_Z1,Healthy|Street Food,True,14,medium,158
+U01679,budget,Kolkata,Kolkata_Z2,Chinese|Healthy,True,7,medium,193
+U01680,regular,Mumbai,Mumbai_Z5,Biryani|Chinese|Healthy,False,10,high,459
+U01681,regular,Kolkata,Kolkata_Z4,Fast Food|Italian,False,13,high,653
+U01682,occasional,Chennai,Chennai_Z3,Italian|North Indian|Street Food,False,2,low,388
+U01683,regular,Pune,Pune_Z4,North Indian|Biryani|Street Food,False,12,high,601
+U01684,premium,Bangalore,Bangalore_Z5,Beverages|Fast Food|North Indian|South Indian,True,21,low,755
+U01685,budget,Bangalore,Bangalore_Z5,Italian|Fast Food|South Indian,True,4,medium,573
+U01686,premium,Mumbai,Mumbai_Z1,Desserts|Beverages|Biryani|Chinese,False,18,low,38
+U01687,occasional,Delhi,Delhi_Z4,Biryani|North Indian|Healthy,False,2,medium,538
+U01688,regular,Bangalore,Bangalore_Z2,South Indian|Biryani|Healthy,False,11,high,684
+U01689,regular,Chennai,Chennai_Z2,Biryani|South Indian|Italian,True,14,low,418
+U01690,premium,Bangalore,Bangalore_Z1,Street Food|Fast Food|Beverages|Desserts,False,21,high,728
+U01691,budget,Chennai,Chennai_Z2,Chinese|Fast Food|Biryani,True,4,medium,571
+U01692,regular,Pune,Pune_Z4,Desserts|Chinese|North Indian,True,9,low,129
+U01693,regular,Pune,Pune_Z1,Healthy|Desserts|Beverages,False,10,medium,208
+U01694,budget,Hyderabad,Hyderabad_Z5,Beverages|Chinese|Italian,False,4,medium,719
+U01695,regular,Hyderabad,Hyderabad_Z5,Street Food|Fast Food|Chinese|Desserts,False,12,high,497
+U01696,budget,Chennai,Chennai_Z1,Fast Food|Chinese,True,6,high,112
+U01697,budget,Delhi,Delhi_Z1,Chinese|Street Food|Desserts|Biryani,True,5,medium,208
+U01698,budget,Bangalore,Bangalore_Z5,Street Food|Fast Food,False,4,high,528
+U01699,occasional,Kolkata,Kolkata_Z4,Healthy|Chinese|South Indian,True,1,medium,804
+U01700,regular,Bangalore,Bangalore_Z5,Street Food|Beverages,False,12,medium,473
+U01701,occasional,Hyderabad,Hyderabad_Z2,Desserts|Healthy|South Indian|Italian,False,2,low,801
+U01702,regular,Kolkata,Kolkata_Z3,Chinese|South Indian|Biryani,False,9,high,749
+U01703,regular,Chennai,Chennai_Z3,South Indian|North Indian,False,13,medium,853
+U01704,regular,Kolkata,Kolkata_Z2,Healthy|Italian|South Indian,True,9,medium,597
+U01705,regular,Bangalore,Bangalore_Z2,Desserts|South Indian|Biryani,False,14,medium,451
+U01706,budget,Bangalore,Bangalore_Z2,South Indian|North Indian|Fast Food,True,4,high,139
+U01707,regular,Delhi,Delhi_Z4,Desserts|Healthy|Italian,False,11,low,38
+U01708,budget,Mumbai,Mumbai_Z5,Beverages|Chinese|Desserts,False,5,high,641
+U01709,regular,Kolkata,Kolkata_Z5,Healthy|Biryani,False,11,low,994
+U01710,regular,Hyderabad,Hyderabad_Z5,North Indian|South Indian|Street Food|Italian,False,9,medium,157
+U01711,budget,Hyderabad,Hyderabad_Z1,Desserts|Street Food|South Indian,False,4,low,52
+U01712,budget,Mumbai,Mumbai_Z4,Italian|South Indian,False,6,low,406
+U01713,premium,Bangalore,Bangalore_Z4,Italian|South Indian|Street Food,True,29,high,777
+U01714,regular,Delhi,Delhi_Z2,Italian|South Indian,False,14,medium,474
+U01715,budget,Delhi,Delhi_Z4,Beverages|Desserts|Healthy|Street Food,False,7,high,755
+U01716,occasional,Hyderabad,Hyderabad_Z4,Healthy|Italian,False,2,low,677
+U01717,budget,Delhi,Delhi_Z1,Italian|Beverages,True,4,low,424
+U01718,regular,Pune,Pune_Z3,Street Food|Chinese,True,13,medium,896
+U01719,occasional,Mumbai,Mumbai_Z1,Fast Food|Healthy|North Indian|Biryani,False,2,medium,71
+U01720,budget,Bangalore,Bangalore_Z4,Italian|North Indian,True,5,low,966
+U01721,budget,Pune,Pune_Z4,Biryani|North Indian,False,4,medium,548
+U01722,budget,Mumbai,Mumbai_Z3,Healthy|Street Food|Fast Food,True,6,medium,961
+U01723,regular,Chennai,Chennai_Z5,North Indian|Healthy|Fast Food|Desserts,True,10,medium,575
+U01724,budget,Kolkata,Kolkata_Z3,South Indian|Street Food,False,7,medium,338
+U01725,regular,Hyderabad,Hyderabad_Z4,Healthy|Street Food,False,14,medium,300
+U01726,budget,Delhi,Delhi_Z1,Street Food|Chinese|Desserts|Beverages,False,7,medium,994
+U01727,regular,Chennai,Chennai_Z4,Desserts|Healthy,True,10,low,124
+U01728,occasional,Delhi,Delhi_Z3,Healthy|Italian|Biryani|Street Food,False,2,high,337
+U01729,premium,Pune,Pune_Z3,Italian|Desserts|Biryani|Healthy,True,17,medium,406
+U01730,regular,Bangalore,Bangalore_Z4,North Indian|Healthy|Street Food|Chinese,True,8,low,123
+U01731,regular,Bangalore,Bangalore_Z3,Desserts|Chinese|Biryani|North Indian,True,13,low,534
+U01732,regular,Bangalore,Bangalore_Z2,North Indian|Street Food|Biryani,False,10,low,353
+U01733,regular,Delhi,Delhi_Z2,Italian|Fast Food,False,9,medium,301
+U01734,regular,Chennai,Chennai_Z2,Beverages|Desserts|South Indian,False,8,low,874
+U01735,budget,Bangalore,Bangalore_Z4,Street Food|Beverages|Biryani,False,5,high,799
+U01736,premium,Chennai,Chennai_Z3,Desserts|Chinese,True,25,medium,368
+U01737,regular,Delhi,Delhi_Z2,Desserts|Biryani,True,14,low,682
+U01738,budget,Pune,Pune_Z3,Italian|South Indian,True,7,high,829
+U01739,regular,Chennai,Chennai_Z3,Desserts|Beverages,False,9,low,541
+U01740,regular,Pune,Pune_Z2,Beverages|South Indian,False,14,high,882
+U01741,premium,Delhi,Delhi_Z1,Chinese|Street Food|Biryani|North Indian,False,28,low,47
+U01742,premium,Delhi,Delhi_Z3,Beverages|Chinese,True,26,medium,711
+U01743,premium,Hyderabad,Hyderabad_Z2,Chinese|Healthy|Desserts,False,17,low,639
+U01744,budget,Delhi,Delhi_Z2,Chinese|Beverages|Fast Food|Desserts,True,4,medium,544
+U01745,regular,Delhi,Delhi_Z4,Italian|Beverages|Desserts|Biryani,False,11,high,227
+U01746,regular,Mumbai,Mumbai_Z4,Italian|North Indian|Street Food,False,10,medium,935
+U01747,budget,Bangalore,Bangalore_Z5,Biryani|Healthy,False,7,high,442
+U01748,budget,Hyderabad,Hyderabad_Z2,Desserts|Beverages,True,4,high,53
+U01749,premium,Kolkata,Kolkata_Z1,Beverages|South Indian,True,27,medium,244
+U01750,budget,Hyderabad,Hyderabad_Z5,Biryani|Desserts,False,6,medium,60
+U01751,regular,Hyderabad,Hyderabad_Z4,North Indian|Fast Food,True,14,low,362
+U01752,budget,Kolkata,Kolkata_Z5,Desserts|Healthy|Street Food,False,4,medium,863
+U01753,budget,Mumbai,Mumbai_Z3,South Indian|Beverages|Healthy|Street Food,False,5,high,346
+U01754,budget,Pune,Pune_Z5,Biryani|Desserts|Beverages,False,7,low,998
+U01755,occasional,Delhi,Delhi_Z3,North Indian|Beverages,False,1,low,50
+U01756,premium,Bangalore,Bangalore_Z1,Street Food|Chinese|North Indian|Desserts,True,26,medium,640
+U01757,occasional,Chennai,Chennai_Z2,Biryani|Desserts|Healthy,True,1,high,750
+U01758,regular,Kolkata,Kolkata_Z2,Biryani|Fast Food|Street Food,False,10,high,540
+U01759,budget,Pune,Pune_Z4,South Indian|Biryani,True,4,low,293
+U01760,regular,Kolkata,Kolkata_Z2,Beverages|Desserts|Healthy|Italian,False,11,medium,190
+U01761,regular,Delhi,Delhi_Z2,Fast Food|Biryani,False,8,low,417
+U01762,premium,Mumbai,Mumbai_Z5,Street Food|Desserts,True,29,high,881
+U01763,budget,Kolkata,Kolkata_Z4,Biryani|Street Food,False,7,medium,238
+U01764,regular,Delhi,Delhi_Z5,Desserts|Fast Food|Italian|Beverages,False,14,medium,601
+U01765,budget,Delhi,Delhi_Z1,Fast Food|North Indian,False,5,low,297
+U01766,regular,Mumbai,Mumbai_Z4,Street Food|Healthy,False,13,medium,671
+U01767,premium,Hyderabad,Hyderabad_Z2,North Indian|Chinese|Biryani|Beverages,False,23,low,306
+U01768,regular,Hyderabad,Hyderabad_Z1,Beverages|South Indian|Biryani,True,10,medium,712
+U01769,regular,Bangalore,Bangalore_Z1,Desserts|Chinese|Biryani,False,12,medium,759
+U01770,regular,Bangalore,Bangalore_Z2,Desserts|South Indian|Healthy|Italian,True,9,high,797
+U01771,regular,Hyderabad,Hyderabad_Z2,Italian|Chinese|Street Food|South Indian,False,12,medium,31
+U01772,premium,Pune,Pune_Z2,Street Food|Beverages,True,25,low,466
+U01773,premium,Chennai,Chennai_Z1,Desserts|Chinese|Fast Food,False,17,medium,204
+U01774,occasional,Delhi,Delhi_Z4,Desserts|South Indian,True,2,medium,310
+U01775,premium,Chennai,Chennai_Z1,South Indian|Fast Food,True,15,high,305
+U01776,regular,Delhi,Delhi_Z4,Street Food|Healthy,True,14,low,583
+U01777,regular,Hyderabad,Hyderabad_Z5,South Indian|Chinese,False,14,low,454
+U01778,regular,Bangalore,Bangalore_Z5,South Indian|Healthy|Street Food,True,12,medium,566
+U01779,budget,Pune,Pune_Z5,Street Food|Chinese,False,4,medium,62
+U01780,premium,Bangalore,Bangalore_Z1,Chinese|Fast Food|Healthy|South Indian,False,20,medium,803
+U01781,budget,Chennai,Chennai_Z1,Beverages|Desserts,False,4,low,367
+U01782,occasional,Bangalore,Bangalore_Z1,Italian|Biryani,True,3,medium,207
+U01783,regular,Hyderabad,Hyderabad_Z1,Fast Food|Street Food|South Indian|Desserts,True,12,high,495
+U01784,regular,Pune,Pune_Z4,Beverages|North Indian,False,8,high,123
+U01785,regular,Chennai,Chennai_Z4,Beverages|South Indian|Fast Food|Italian,False,10,low,242
+U01786,premium,Pune,Pune_Z2,Italian|South Indian|Beverages,False,15,low,924
+U01787,regular,Delhi,Delhi_Z5,Fast Food|Biryani|Beverages,False,12,medium,616
+U01788,regular,Bangalore,Bangalore_Z4,Biryani|Chinese|Fast Food,False,11,low,628
+U01789,budget,Pune,Pune_Z3,Chinese|South Indian|Street Food|Fast Food,True,5,medium,667
+U01790,regular,Mumbai,Mumbai_Z3,Fast Food|Biryani|Healthy|North Indian,False,11,medium,792
+U01791,budget,Bangalore,Bangalore_Z5,Chinese|Healthy,True,7,medium,622
+U01792,premium,Delhi,Delhi_Z4,North Indian|Beverages|Healthy|Street Food,False,21,medium,555
+U01793,regular,Pune,Pune_Z2,Biryani|Desserts|South Indian,False,13,high,288
+U01794,regular,Chennai,Chennai_Z5,Chinese|Street Food|South Indian|Desserts,False,10,medium,760
+U01795,budget,Delhi,Delhi_Z1,Biryani|Italian,False,7,medium,626
+U01796,budget,Mumbai,Mumbai_Z5,Street Food|Chinese|Biryani,False,6,medium,424
+U01797,premium,Pune,Pune_Z2,South Indian|Beverages,False,25,medium,111
+U01798,budget,Kolkata,Kolkata_Z1,South Indian|North Indian,False,4,low,135
+U01799,budget,Kolkata,Kolkata_Z2,Biryani|South Indian|Fast Food,True,6,medium,492
+U01800,budget,Hyderabad,Hyderabad_Z5,Desserts|South Indian,False,7,low,395
+U01801,occasional,Bangalore,Bangalore_Z5,Street Food|Healthy,False,2,medium,478
+U01802,premium,Chennai,Chennai_Z2,Desserts|Italian|Chinese,False,21,low,755
+U01803,regular,Hyderabad,Hyderabad_Z4,Desserts|Fast Food|Street Food,False,9,medium,347
+U01804,budget,Pune,Pune_Z1,South Indian|Fast Food,False,4,medium,634
+U01805,regular,Kolkata,Kolkata_Z1,North Indian|Fast Food|South Indian|Healthy,False,9,medium,556
+U01806,premium,Kolkata,Kolkata_Z3,Desserts|Healthy|Biryani,False,18,high,130
+U01807,regular,Kolkata,Kolkata_Z4,Biryani|Beverages|South Indian|Street Food,False,9,medium,392
+U01808,budget,Pune,Pune_Z1,Fast Food|Beverages|Italian|Street Food,False,7,high,134
+U01809,budget,Kolkata,Kolkata_Z4,Street Food|Italian|Desserts,False,4,medium,959
+U01810,budget,Delhi,Delhi_Z5,Biryani|Street Food|Healthy,False,6,high,983
+U01811,regular,Pune,Pune_Z4,Chinese|Healthy,True,13,medium,430
+U01812,premium,Chennai,Chennai_Z4,Biryani|North Indian,True,28,medium,799
+U01813,budget,Hyderabad,Hyderabad_Z1,Italian|Desserts|Beverages|North Indian,True,6,medium,283
+U01814,budget,Chennai,Chennai_Z4,South Indian|Beverages,False,4,high,611
+U01815,budget,Mumbai,Mumbai_Z4,Biryani|North Indian|Italian|South Indian,False,6,high,436
+U01816,occasional,Kolkata,Kolkata_Z1,Street Food|Italian|Desserts,False,2,high,335
+U01817,budget,Mumbai,Mumbai_Z1,Fast Food|Chinese|Beverages,False,4,low,939
+U01818,premium,Bangalore,Bangalore_Z3,North Indian|Beverages,False,28,low,96
+U01819,regular,Bangalore,Bangalore_Z2,Fast Food|Biryani|North Indian|Italian,True,10,low,374
+U01820,regular,Mumbai,Mumbai_Z1,Desserts|Chinese|North Indian,False,8,low,418
+U01821,budget,Pune,Pune_Z3,North Indian|Italian|Biryani,True,7,low,851
+U01822,budget,Chennai,Chennai_Z5,Biryani|North Indian|South Indian,True,5,low,504
+U01823,regular,Mumbai,Mumbai_Z2,Chinese|Healthy|South Indian,True,8,medium,50
+U01824,premium,Bangalore,Bangalore_Z1,Beverages|Healthy|Desserts|Chinese,True,23,low,468
+U01825,regular,Mumbai,Mumbai_Z4,North Indian|Beverages,False,13,medium,569
+U01826,regular,Pune,Pune_Z5,North Indian|Biryani|South Indian,False,8,low,724
+U01827,budget,Mumbai,Mumbai_Z2,South Indian|Chinese|Beverages|Biryani,False,4,high,387
+U01828,occasional,Chennai,Chennai_Z4,Street Food|Italian,True,1,high,497
+U01829,premium,Hyderabad,Hyderabad_Z1,Chinese|Italian,False,18,high,904
+U01830,budget,Pune,Pune_Z5,South Indian|Street Food,False,5,medium,493
+U01831,occasional,Bangalore,Bangalore_Z1,Beverages|Italian|Desserts,False,1,medium,789
+U01832,regular,Chennai,Chennai_Z2,Chinese|South Indian,False,13,high,87
+U01833,regular,Mumbai,Mumbai_Z5,North Indian|Beverages|Chinese|Biryani,False,10,low,48
+U01834,premium,Mumbai,Mumbai_Z3,Italian|Street Food|Biryani|Healthy,False,18,medium,668
+U01835,premium,Hyderabad,Hyderabad_Z3,South Indian|Chinese|Biryani,False,25,low,983
+U01836,regular,Bangalore,Bangalore_Z5,Fast Food|Healthy,False,11,medium,122
+U01837,budget,Bangalore,Bangalore_Z3,Italian|Healthy|Beverages|South Indian,False,5,medium,777
+U01838,regular,Delhi,Delhi_Z1,Chinese|North Indian|Italian|Healthy,False,14,low,598
+U01839,occasional,Bangalore,Bangalore_Z3,Italian|Healthy|Street Food,False,1,medium,996
+U01840,budget,Hyderabad,Hyderabad_Z2,Italian|Street Food,True,6,medium,301
+U01841,regular,Kolkata,Kolkata_Z3,Italian|Chinese|Beverages|South Indian,True,13,high,181
+U01842,regular,Delhi,Delhi_Z5,Biryani|Beverages|South Indian,True,13,medium,868
+U01843,regular,Delhi,Delhi_Z1,Beverages|Healthy|South Indian|Chinese,False,12,low,167
+U01844,regular,Mumbai,Mumbai_Z3,South Indian|Fast Food,True,10,medium,625
+U01845,occasional,Mumbai,Mumbai_Z4,Beverages|Italian|Chinese,False,2,medium,752
+U01846,budget,Bangalore,Bangalore_Z1,Biryani|Beverages|North Indian|Street Food,True,5,medium,938
+U01847,budget,Delhi,Delhi_Z2,Beverages|North Indian|Fast Food,True,7,low,709
+U01848,budget,Mumbai,Mumbai_Z1,Fast Food|Chinese,True,4,high,547
+U01849,premium,Hyderabad,Hyderabad_Z1,Beverages|North Indian,False,21,medium,136
+U01850,regular,Mumbai,Mumbai_Z3,Fast Food|Biryani|South Indian|Healthy,True,12,medium,288
+U01851,budget,Pune,Pune_Z2,Biryani|Healthy|Desserts|Beverages,True,7,medium,480
+U01852,premium,Pune,Pune_Z3,Italian|Beverages|North Indian|Chinese,False,26,low,612
+U01853,premium,Mumbai,Mumbai_Z3,Beverages|North Indian|Chinese,False,26,medium,136
+U01854,premium,Delhi,Delhi_Z4,Fast Food|Italian|Biryani,False,17,high,724
+U01855,occasional,Kolkata,Kolkata_Z4,Italian|Biryani,False,2,medium,184
+U01856,budget,Kolkata,Kolkata_Z4,Biryani|Street Food|Beverages|Italian,False,5,low,819
+U01857,premium,Delhi,Delhi_Z4,Desserts|North Indian,False,27,medium,524
+U01858,regular,Chennai,Chennai_Z4,South Indian|Italian,False,8,low,185
+U01859,premium,Kolkata,Kolkata_Z4,Fast Food|Italian,False,19,medium,49
+U01860,premium,Pune,Pune_Z4,Desserts|South Indian|Beverages,False,26,low,539
+U01861,premium,Hyderabad,Hyderabad_Z4,South Indian|Desserts|North Indian|Healthy,True,17,high,608
+U01862,regular,Delhi,Delhi_Z3,Chinese|Biryani,False,13,low,338
+U01863,budget,Bangalore,Bangalore_Z2,Beverages|Italian|Street Food|Healthy,False,4,low,119
+U01864,regular,Pune,Pune_Z5,South Indian|Chinese,True,11,low,169
+U01865,occasional,Hyderabad,Hyderabad_Z3,Healthy|Biryani|South Indian,True,3,medium,737
+U01866,occasional,Hyderabad,Hyderabad_Z3,Desserts|South Indian,False,3,low,647
+U01867,budget,Delhi,Delhi_Z3,Biryani|North Indian,False,7,medium,804
+U01868,budget,Hyderabad,Hyderabad_Z3,Beverages|Biryani,False,4,medium,347
+U01869,budget,Delhi,Delhi_Z1,North Indian|Street Food|Fast Food,True,7,low,658
+U01870,premium,Kolkata,Kolkata_Z5,Healthy|North Indian|Biryani|Desserts,False,25,high,608
+U01871,premium,Mumbai,Mumbai_Z1,South Indian|Beverages|North Indian,False,15,medium,897
+U01872,budget,Pune,Pune_Z1,Italian|Healthy|Biryani|Beverages,False,4,high,712
+U01873,regular,Chennai,Chennai_Z2,Beverages|Healthy|Street Food,False,13,medium,472
+U01874,premium,Mumbai,Mumbai_Z2,Fast Food|North Indian|South Indian|Street Food,False,15,low,953
+U01875,premium,Pune,Pune_Z4,South Indian|Beverages|Street Food,False,28,medium,130
+U01876,regular,Delhi,Delhi_Z2,North Indian|Italian,False,9,medium,389
+U01877,regular,Pune,Pune_Z5,Chinese|Fast Food|Desserts|Italian,True,14,high,358
+U01878,regular,Kolkata,Kolkata_Z4,South Indian|North Indian|Street Food,False,8,high,537
+U01879,budget,Delhi,Delhi_Z1,Street Food|Italian|Chinese|Biryani,True,5,medium,977
+U01880,regular,Mumbai,Mumbai_Z5,North Indian|Chinese|Street Food|Italian,False,8,low,39
+U01881,regular,Bangalore,Bangalore_Z4,Chinese|Beverages|Desserts,False,8,medium,713
+U01882,premium,Bangalore,Bangalore_Z4,Street Food|Biryani|South Indian,True,16,low,857
+U01883,regular,Pune,Pune_Z5,South Indian|Healthy,True,10,low,789
+U01884,premium,Bangalore,Bangalore_Z5,South Indian|Italian,False,24,medium,341
+U01885,budget,Delhi,Delhi_Z1,Italian|Fast Food,False,7,medium,748
+U01886,regular,Hyderabad,Hyderabad_Z5,Chinese|Street Food|South Indian,True,10,medium,974
+U01887,budget,Delhi,Delhi_Z2,Italian|Street Food|Beverages,True,7,low,845
+U01888,budget,Hyderabad,Hyderabad_Z2,Beverages|Street Food,True,5,low,680
+U01889,premium,Mumbai,Mumbai_Z1,South Indian|Street Food|North Indian,False,22,medium,329
+U01890,occasional,Chennai,Chennai_Z3,Healthy|Biryani|South Indian,False,2,low,561
+U01891,budget,Hyderabad,Hyderabad_Z3,Italian|Street Food,False,5,low,357
+U01892,regular,Bangalore,Bangalore_Z5,Italian|Healthy|North Indian,False,9,high,157
+U01893,premium,Delhi,Delhi_Z4,Chinese|North Indian,False,16,low,71
+U01894,budget,Mumbai,Mumbai_Z3,Chinese|Beverages|Desserts,True,5,high,148
+U01895,regular,Bangalore,Bangalore_Z3,Chinese|South Indian|Biryani,True,9,medium,435
+U01896,premium,Mumbai,Mumbai_Z5,North Indian|Biryani,True,22,low,405
+U01897,regular,Chennai,Chennai_Z4,Italian|Desserts,False,12,high,533
+U01898,budget,Kolkata,Kolkata_Z1,Healthy|Fast Food,True,6,high,496
+U01899,regular,Delhi,Delhi_Z2,Italian|Chinese,False,11,low,910
+U01900,premium,Pune,Pune_Z4,Desserts|Biryani|Healthy,False,21,high,848
+U01901,regular,Delhi,Delhi_Z2,Italian|Fast Food|North Indian|Healthy,False,9,high,464
+U01902,budget,Chennai,Chennai_Z5,Chinese|Street Food|Desserts,True,6,low,381
+U01903,premium,Delhi,Delhi_Z4,Street Food|North Indian|Beverages,False,27,low,944
+U01904,budget,Pune,Pune_Z1,Healthy|Fast Food|Beverages|Italian,True,6,low,450
+U01905,premium,Hyderabad,Hyderabad_Z3,Biryani|Chinese|South Indian,False,19,low,211
+U01906,budget,Mumbai,Mumbai_Z1,South Indian|Healthy,False,4,low,329
+U01907,occasional,Pune,Pune_Z5,Healthy|Beverages,True,2,medium,684
+U01908,regular,Bangalore,Bangalore_Z3,Desserts|Fast Food|Healthy,False,14,medium,845
+U01909,regular,Chennai,Chennai_Z3,Italian|Healthy|South Indian|Beverages,False,8,medium,962
+U01910,budget,Hyderabad,Hyderabad_Z5,Biryani|Healthy|Italian|Street Food,True,5,high,877
+U01911,regular,Bangalore,Bangalore_Z4,Biryani|North Indian|South Indian,False,9,low,590
+U01912,premium,Bangalore,Bangalore_Z3,South Indian|Healthy|Biryani,True,21,medium,946
+U01913,occasional,Chennai,Chennai_Z4,North Indian|Street Food,True,1,low,421
+U01914,regular,Hyderabad,Hyderabad_Z3,Beverages|Biryani|Street Food|South Indian,False,9,medium,852
+U01915,regular,Kolkata,Kolkata_Z4,Healthy|North Indian,False,11,low,863
+U01916,premium,Bangalore,Bangalore_Z5,Italian|Beverages,False,23,medium,314
+U01917,premium,Bangalore,Bangalore_Z4,Beverages|Chinese|Desserts|Healthy,True,16,medium,369
+U01918,regular,Hyderabad,Hyderabad_Z3,Fast Food|Beverages|Healthy|Desserts,False,12,high,908
+U01919,regular,Delhi,Delhi_Z3,Street Food|Chinese|North Indian,False,12,low,765
+U01920,regular,Bangalore,Bangalore_Z1,Biryani|Italian,True,12,low,78
+U01921,regular,Mumbai,Mumbai_Z2,Fast Food|Beverages|Biryani,False,9,low,80
+U01922,budget,Hyderabad,Hyderabad_Z1,Street Food|Healthy|Italian,False,4,low,555
+U01923,regular,Bangalore,Bangalore_Z2,Healthy|Street Food,True,10,low,62
+U01924,regular,Chennai,Chennai_Z5,Chinese|Desserts|Beverages|Fast Food,False,9,high,977
+U01925,premium,Pune,Pune_Z2,Street Food|Fast Food|Biryani|North Indian,True,26,medium,155
+U01926,budget,Mumbai,Mumbai_Z1,Street Food|Biryani|Italian,True,7,medium,506
+U01927,regular,Pune,Pune_Z2,Desserts|Biryani|North Indian,True,9,low,744
+U01928,regular,Pune,Pune_Z3,Healthy|Desserts|South Indian|Street Food,False,9,high,551
+U01929,regular,Bangalore,Bangalore_Z4,Healthy|Fast Food,True,8,high,941
+U01930,budget,Mumbai,Mumbai_Z3,Desserts|Fast Food|Healthy|Street Food,True,7,medium,101
+U01931,regular,Mumbai,Mumbai_Z3,North Indian|Healthy|Fast Food,True,11,medium,353
+U01932,regular,Delhi,Delhi_Z3,Healthy|Desserts,False,13,low,694
+U01933,regular,Pune,Pune_Z5,Desserts|Chinese|Fast Food,False,9,medium,50
+U01934,regular,Mumbai,Mumbai_Z4,Biryani|South Indian|Fast Food,False,8,low,95
+U01935,regular,Delhi,Delhi_Z4,Street Food|Italian,False,14,medium,168
+U01936,premium,Hyderabad,Hyderabad_Z3,Beverages|Fast Food|Street Food|Chinese,True,17,low,643
+U01937,budget,Delhi,Delhi_Z5,South Indian|Fast Food|Desserts|Street Food,False,7,medium,54
+U01938,premium,Chennai,Chennai_Z1,Italian|Desserts,False,17,low,530
+U01939,regular,Kolkata,Kolkata_Z1,North Indian|Beverages|South Indian,False,10,low,638
+U01940,budget,Bangalore,Bangalore_Z5,Healthy|North Indian,True,4,medium,418
+U01941,budget,Hyderabad,Hyderabad_Z2,Chinese|Healthy|Italian,True,7,medium,926
+U01942,regular,Kolkata,Kolkata_Z4,Healthy|Beverages|Italian|Chinese,False,12,medium,110
+U01943,premium,Kolkata,Kolkata_Z3,Beverages|Desserts|Healthy,True,27,medium,911
+U01944,premium,Hyderabad,Hyderabad_Z3,Beverages|South Indian|North Indian,True,17,low,913
+U01945,premium,Chennai,Chennai_Z2,Fast Food|Italian,False,22,low,423
+U01946,regular,Delhi,Delhi_Z1,Biryani|Fast Food|Healthy|Italian,True,14,low,928
+U01947,regular,Bangalore,Bangalore_Z1,Street Food|Biryani|Desserts|South Indian,False,12,low,843
+U01948,budget,Delhi,Delhi_Z2,Healthy|Desserts,False,4,low,569
+U01949,regular,Mumbai,Mumbai_Z3,Street Food|Biryani|South Indian|Chinese,False,8,medium,225
+U01950,regular,Delhi,Delhi_Z5,Beverages|Biryani|Desserts|Healthy,False,11,medium,217
+U01951,budget,Hyderabad,Hyderabad_Z1,Beverages|Italian|Chinese,False,4,medium,453
+U01952,budget,Bangalore,Bangalore_Z4,Desserts|Healthy|Italian|North Indian,False,6,high,678
+U01953,regular,Delhi,Delhi_Z5,Street Food|Desserts|Fast Food,False,8,high,520
+U01954,premium,Bangalore,Bangalore_Z1,Beverages|Italian|Chinese|Fast Food,False,29,high,704
+U01955,occasional,Bangalore,Bangalore_Z3,Fast Food|Desserts,True,1,low,365
+U01956,occasional,Mumbai,Mumbai_Z2,Italian|Chinese|Desserts|Fast Food,False,2,high,991
+U01957,regular,Mumbai,Mumbai_Z5,South Indian|North Indian|Beverages|Desserts,False,10,high,608
+U01958,regular,Hyderabad,Hyderabad_Z2,Chinese|Fast Food|Italian,False,9,low,748
+U01959,regular,Chennai,Chennai_Z1,Street Food|Beverages|Desserts|Healthy,False,14,low,373
+U01960,premium,Kolkata,Kolkata_Z2,Desserts|South Indian,False,19,medium,890
+U01961,budget,Bangalore,Bangalore_Z1,South Indian|Italian|Biryani|North Indian,True,5,high,910
+U01962,regular,Chennai,Chennai_Z2,South Indian|Beverages,False,9,medium,352
+U01963,premium,Kolkata,Kolkata_Z4,Street Food|Italian,True,18,medium,744
+U01964,regular,Kolkata,Kolkata_Z1,Beverages|Biryani,False,12,low,301
+U01965,regular,Hyderabad,Hyderabad_Z3,South Indian|Italian|Healthy|Biryani,False,14,medium,920
+U01966,regular,Kolkata,Kolkata_Z4,Street Food|Italian,False,9,low,241
+U01967,budget,Kolkata,Kolkata_Z4,Fast Food|Chinese,True,5,low,810
+U01968,regular,Bangalore,Bangalore_Z1,Chinese|Healthy|North Indian|Beverages,False,9,low,976
+U01969,regular,Bangalore,Bangalore_Z2,Beverages|Fast Food|Desserts,True,9,high,270
+U01970,budget,Pune,Pune_Z5,South Indian|Italian,False,5,medium,377
+U01971,budget,Chennai,Chennai_Z3,South Indian|North Indian|Chinese|Desserts,True,4,medium,657
+U01972,premium,Delhi,Delhi_Z5,Healthy|North Indian,False,17,low,806
+U01973,budget,Mumbai,Mumbai_Z5,Fast Food|Street Food,True,7,medium,218
+U01974,regular,Delhi,Delhi_Z4,Fast Food|Healthy,True,12,low,642
+U01975,budget,Chennai,Chennai_Z5,Fast Food|North Indian|Street Food|Desserts,False,7,medium,867
+U01976,occasional,Mumbai,Mumbai_Z2,Beverages|Fast Food|Italian,False,3,medium,643
+U01977,budget,Delhi,Delhi_Z3,Desserts|Healthy|Beverages,False,4,medium,938
+U01978,regular,Pune,Pune_Z5,Biryani|South Indian|Street Food,False,11,low,290
+U01979,premium,Mumbai,Mumbai_Z3,Healthy|Chinese|Fast Food,False,23,low,471
+U01980,premium,Bangalore,Bangalore_Z3,Street Food|Fast Food|Chinese,False,21,low,287
+U01981,budget,Delhi,Delhi_Z4,South Indian|North Indian|Italian|Chinese,False,6,medium,97
+U01982,premium,Mumbai,Mumbai_Z3,South Indian|North Indian,True,25,high,795
+U01983,regular,Pune,Pune_Z4,Fast Food|South Indian|Desserts|North Indian,False,14,low,987
+U01984,regular,Kolkata,Kolkata_Z1,Italian|Healthy|Biryani|Chinese,True,14,high,542
+U01985,budget,Mumbai,Mumbai_Z1,Street Food|Fast Food|Chinese|Biryani,False,7,high,384
+U01986,budget,Mumbai,Mumbai_Z5,Street Food|North Indian|Healthy|Fast Food,False,6,low,512
+U01987,premium,Pune,Pune_Z5,Biryani|Healthy,False,15,high,502
+U01988,regular,Kolkata,Kolkata_Z2,Desserts|Street Food|Chinese|Biryani,False,14,low,65
+U01989,regular,Delhi,Delhi_Z5,Desserts|Fast Food|South Indian|Italian,False,10,low,375
+U01990,premium,Hyderabad,Hyderabad_Z5,Fast Food|Beverages,True,23,high,428
+U01991,premium,Delhi,Delhi_Z2,Desserts|Biryani|Italian,True,19,low,868
+U01992,budget,Kolkata,Kolkata_Z2,South Indian|Chinese,True,7,high,672
+U01993,regular,Chennai,Chennai_Z3,Street Food|Biryani|Beverages,False,13,medium,993
+U01994,budget,Pune,Pune_Z5,Chinese|Beverages|Italian|South Indian,True,4,high,563
+U01995,premium,Delhi,Delhi_Z1,North Indian|Chinese,False,15,medium,44
+U01996,regular,Mumbai,Mumbai_Z1,Fast Food|Healthy|North Indian|Street Food,False,8,low,525
+U01997,occasional,Pune,Pune_Z1,Desserts|South Indian|Beverages,False,2,low,640
+U01998,budget,Bangalore,Bangalore_Z1,North Indian|Chinese|Street Food,False,5,high,538
+U01999,budget,Kolkata,Kolkata_Z2,Beverages|South Indian|Healthy|Italian,False,7,low,61
+U02000,budget,Delhi,Delhi_Z5,Biryani|Fast Food|Beverages|Desserts,False,7,high,978

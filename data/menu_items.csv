@@ -1,0 +1,2495 @@
+item_id,restaurant_id,name,dish_family,cuisine,price,is_veg,is_addon_eligible,popularity_score,avg_rating
+I000001,R0001,Chicken Biryani,Biryani,Biryani,215,False,True,0.96,3.6
+I000002,R0001,Mutton Biryani,Biryani,Biryani,295,False,True,0.56,4.5
+I000003,R0001,Veg Biryani,Biryani,Biryani,335,True,True,0.66,3.5
+I000004,R0001,Egg Biryani,Biryani,Biryani,105,False,True,0.53,4.7
+I000005,R0001,Prawn Biryani,Biryani,Biryani,170,False,True,0.53,4.7
+I000006,R0001,Boondi Raita,Raita,Biryani,130,False,True,0.89,3.9
+I000007,R0001,Cucumber Raita,Raita,Biryani,115,False,True,0.38,4.9
+I000008,R0001,Mixed Raita,Raita,Biryani,215,False,True,0.48,4.3
+I000009,R0001,Mirchi Ka Salan,Salan,Biryani,270,False,True,0.52,4.6
+I000010,R0001,Shorba,Salan,Biryani,165,False,True,0.38,4.3
+I000011,R0001,Biryani Gravy,Salan,Biryani,140,False,True,0.96,3.5
+I000012,R0001,Chicken Shorba,Shorba,Biryani,290,False,True,0.5,4.8
+I000013,R0001,Veg Shorba,Shorba,Biryani,115,True,True,0.97,3.7
+I000014,R0001,Seekh Kebab,Kebab,Biryani,295,False,True,0.66,4.1
+I000015,R0001,Chicken 65,Kebab,Biryani,170,False,True,0.89,3.8
+I000016,R0001,Reshmi Kebab,Kebab,Biryani,280,False,True,0.61,5.0
+I000017,R0001,Boti Kebab,Kebab,Biryani,255,False,True,0.37,4.1
+I000018,R0001,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,115,True,True,0.5,4.0
+I000019,R0001,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,315,True,True,0.89,3.5
+I000020,R0002,Veg Burger,Burger,Fast Food,105,True,True,0.46,4.0
+I000021,R0002,Chicken Burger,Burger,Fast Food,50,False,True,0.82,4.9
+I000022,R0002,Zinger Burger,Burger,Fast Food,70,False,True,0.54,3.8
+I000023,R0002,Double Patty Burger,Burger,Fast Food,145,False,True,0.31,4.4
+I000024,R0002,Regular Fries,Fries,Fast Food,135,False,True,0.43,4.4
+I000025,R0002,Cheese Fries,Fries,Fast Food,55,False,True,0.87,3.9
+I000026,R0002,Peri Peri Fries,Fries,Fast Food,150,False,True,0.95,4.6
+I000027,R0002,Chicken Wrap,Wrap,Fast Food,100,False,True,0.84,3.7
+I000028,R0002,Paneer Wrap,Wrap,Fast Food,80,True,True,0.32,4.5
+I000029,R0002,Veg Wrap,Wrap,Fast Food,130,True,True,0.96,4.5
+I000030,R0002,Chicken Nuggets (6 pcs),Nuggets,Fast Food,125,False,True,0.93,4.9
+I000031,R0002,Chicken Nuggets (12 pcs),Nuggets,Fast Food,100,False,True,0.38,4.2
+I000032,R0002,Chocolate Milkshake,Milkshake,Fast Food,105,False,True,0.74,5.0
+I000033,R0002,Strawberry Milkshake,Milkshake,Fast Food,140,False,True,0.58,3.7
+I000034,R0002,Vanilla Milkshake,Milkshake,Fast Food,70,False,True,0.42,4.0
+I000035,R0002,Coke (300ml),Soft Drink,Fast Food,140,False,True,0.61,4.4
+I000036,R0002,Pepsi (300ml),Soft Drink,Fast Food,70,False,True,0.64,4.8
+I000037,R0002,Sprite (300ml),Soft Drink,Fast Food,125,False,True,0.36,4.8
+I000038,R0002,Limca,Soft Drink,Fast Food,75,False,True,0.77,3.7
+I000039,R0003,Papdi Chaat,Chaat,Street Food,635,False,True,0.32,4.4
+I000040,R0003,Aloo Chaat,Chaat,Street Food,625,True,True,0.47,4.9
+I000041,R0003,Dahi Puri,Chaat,Street Food,325,False,True,0.92,4.1
+I000042,R0003,Pav Bhaji (2 pav),Pav Bhaji,Street Food,655,False,True,0.76,3.8
+I000043,R0003,Pav Bhaji (4 pav),Pav Bhaji,Street Food,460,False,True,0.67,4.8
+I000044,R0003,Vada Pav,Vada Pav,Street Food,775,False,True,0.31,4.0
+I000045,R0003,Cheese Vada Pav,Vada Pav,Street Food,635,False,True,0.67,4.9
+I000046,R0003,Pani Puri (6 pcs),Pani Puri,Street Food,310,False,True,0.61,4.5
+I000047,R0003,Bhel Puri,Bhel Puri,Street Food,410,False,True,0.81,3.6
+I000048,R0003,Samosa (2 pcs),Samosa,Street Food,525,False,True,0.77,3.9
+I000049,R0003,Samosa (4 pcs),Samosa,Street Food,335,False,True,0.97,4.9
+I000050,R0004,Veg Burger,Burger,Fast Food,765,True,True,0.98,3.8
+I000051,R0004,Chicken Burger,Burger,Fast Food,380,False,True,0.32,4.8
+I000052,R0004,Zinger Burger,Burger,Fast Food,675,False,True,0.74,4.9
+I000053,R0004,Double Patty Burger,Burger,Fast Food,590,False,True,0.39,3.8
+I000054,R0004,Regular Fries,Fries,Fast Food,365,False,True,0.52,4.1
+I000055,R0004,Cheese Fries,Fries,Fast Food,700,False,True,0.43,4.6
+I000056,R0004,Peri Peri Fries,Fries,Fast Food,545,False,True,1.0,4.7
+I000057,R0004,Chicken Wrap,Wrap,Fast Food,785,False,True,0.54,3.7
+I000058,R0004,Paneer Wrap,Wrap,Fast Food,555,True,True,0.39,4.2
+I000059,R0004,Veg Wrap,Wrap,Fast Food,435,True,True,0.64,4.9
+I000060,R0004,Chicken Nuggets (6 pcs),Nuggets,Fast Food,445,False,True,1.0,3.8
+I000061,R0004,Chicken Nuggets (12 pcs),Nuggets,Fast Food,405,False,True,0.68,4.8
+I000062,R0004,Chocolate Milkshake,Milkshake,Fast Food,675,False,True,0.81,3.9
+I000063,R0004,Strawberry Milkshake,Milkshake,Fast Food,310,False,True,0.41,4.0
+I000064,R0004,Vanilla Milkshake,Milkshake,Fast Food,785,False,True,0.94,3.8
+I000065,R0004,Coke (300ml),Soft Drink,Fast Food,665,False,True,0.71,3.6
+I000066,R0004,Pepsi (300ml),Soft Drink,Fast Food,485,False,True,0.64,4.5
+I000067,R0004,Sprite (300ml),Soft Drink,Fast Food,445,False,True,0.95,4.2
+I000068,R0004,Limca,Soft Drink,Fast Food,425,False,True,0.52,4.6
+I000069,R0005,Masala Dosa,Dosa,South Indian,115,False,True,0.82,3.9
+I000070,R0005,Plain Dosa,Dosa,South Indian,85,False,True,0.58,3.8
+I000071,R0005,Onion Dosa,Dosa,South Indian,120,False,True,0.53,4.0
+I000072,R0005,Rava Dosa,Dosa,South Indian,75,False,True,0.62,4.7
+I000073,R0005,Ghee Roast Dosa,Dosa,South Indian,135,False,True,0.86,4.4
+I000074,R0005,Idli (2 pcs),Idli,South Indian,80,False,True,0.81,3.6
+I000075,R0005,Idli (4 pcs),Idli,South Indian,130,False,True,0.85,4.5
+I000076,R0005,Mini Idli,Idli,South Indian,60,False,True,1.0,4.6
+I000077,R0005,Sambar Bowl,Sambar,South Indian,125,False,True,0.34,4.1
+I000078,R0005,Drumstick Sambar,Sambar,South Indian,60,False,True,0.55,4.4
+I000079,R0005,Coconut Chutney,Chutney,South Indian,140,False,True,0.5,4.4
+I000080,R0005,Tomato Chutney,Chutney,South Indian,65,False,True,0.55,4.9
+I000081,R0005,Mint Chutney,Chutney,South Indian,125,False,True,0.68,3.9
+I000082,R0005,Steamed Rice,Rice,South Indian,90,False,True,0.41,4.0
+I000083,R0005,Jeera Rice,Rice,South Indian,65,False,True,0.86,3.6
+I000084,R0005,Veg Pulao,Rice,South Indian,70,True,True,0.78,4.9
+I000085,R0005,Egg Fried Rice,Rice,South Indian,145,False,True,0.89,3.8
+I000086,R0005,Tomato Rasam,Rasam,South Indian,80,False,True,0.91,4.8
+I000087,R0005,Pepper Rasam,Rasam,South Indian,115,False,True,0.52,3.8
+I000088,R0005,Filter Coffee,Filter Coffee,South Indian,135,True,True,0.44,4.5
+I000089,R0005,South Indian Coffee,Filter Coffee,South Indian,145,True,True,0.79,3.9
+I000090,R0006,Masala Dosa,Dosa,South Indian,440,False,True,0.37,4.5
+I000091,R0006,Plain Dosa,Dosa,South Indian,560,False,True,0.44,3.8
+I000092,R0006,Onion Dosa,Dosa,South Indian,305,False,True,0.98,4.7
+I000093,R0006,Rava Dosa,Dosa,South Indian,495,False,True,0.96,4.5
+I000094,R0006,Ghee Roast Dosa,Dosa,South Indian,675,False,True,0.78,4.6
+I000095,R0006,Idli (2 pcs),Idli,South Indian,385,False,True,0.69,4.8
+I000096,R0006,Idli (4 pcs),Idli,South Indian,310,False,True,0.39,3.9
+I000097,R0006,Mini Idli,Idli,South Indian,445,False,True,0.43,4.4
+I000098,R0006,Sambar Bowl,Sambar,South Indian,445,False,True,0.41,4.9
+I000099,R0006,Drumstick Sambar,Sambar,South Indian,650,False,True,0.47,4.0
+I000100,R0006,Coconut Chutney,Chutney,South Indian,670,False,True,0.85,3.8
+I000101,R0006,Tomato Chutney,Chutney,South Indian,770,False,True,0.85,4.8
+I000102,R0006,Mint Chutney,Chutney,South Indian,370,False,True,0.4,4.0
+I000103,R0006,Steamed Rice,Rice,South Indian,330,False,True,0.36,3.7
+I000104,R0006,Jeera Rice,Rice,South Indian,655,False,True,0.32,3.6
+I000105,R0006,Veg Pulao,Rice,South Indian,770,True,True,0.36,4.3
+I000106,R0006,Egg Fried Rice,Rice,South Indian,620,False,True,0.97,4.8
+I000107,R0006,Tomato Rasam,Rasam,South Indian,520,False,True,0.96,4.1
+I000108,R0006,Pepper Rasam,Rasam,South Indian,635,False,True,0.48,4.5
+I000109,R0006,Filter Coffee,Filter Coffee,South Indian,570,True,True,0.72,4.5
+I000110,R0006,South Indian Coffee,Filter Coffee,South Indian,385,True,True,0.51,4.6
+I000111,R0007,Caesar Salad,Salad,Healthy,65,True,True,0.54,4.5
+I000112,R0007,Greek Salad,Salad,Healthy,145,True,True,0.35,4.3
+I000113,R0007,Garden Salad,Salad,Healthy,60,True,True,0.57,3.8
+I000114,R0007,Banana Smoothie,Smoothie,Healthy,115,True,True,0.83,3.9
+I000115,R0007,Mixed Berry Smoothie,Smoothie,Healthy,120,True,True,0.61,3.9
+I000116,R0007,Green Detox Smoothie,Smoothie,Healthy,100,True,True,0.57,3.8
+I000117,R0007,Chicken Wrap,Wrap,Healthy,125,False,True,0.86,4.7
+I000118,R0007,Paneer Wrap,Wrap,Healthy,90,True,True,0.42,4.8
+I000119,R0007,Veg Wrap,Wrap,Healthy,85,True,True,0.82,4.7
+I000120,R0007,Masala Oats,Oats,Healthy,125,True,True,0.57,4.9
+I000121,R0007,Fruit Oats,Oats,Healthy,115,True,True,0.7,4.5
+I000122,R0007,Seasonal Fruit Bowl,Fruit Bowl,Healthy,55,True,True,0.57,4.8
+I000123,R0007,Protein Quinoa Bowl,Quinoa Bowl,Healthy,65,False,True,0.59,4.1
+I000124,R0007,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,85,True,True,0.69,5.0
+I000125,R0008,Papdi Chaat,Chaat,Street Food,165,False,True,0.79,4.6
+I000126,R0008,Aloo Chaat,Chaat,Street Food,245,True,True,0.37,4.4
+I000127,R0008,Dahi Puri,Chaat,Street Food,340,False,True,0.54,4.5
+I000128,R0008,Pav Bhaji (2 pav),Pav Bhaji,Street Food,340,False,True,0.86,4.5
+I000129,R0008,Pav Bhaji (4 pav),Pav Bhaji,Street Food,345,False,True,0.42,4.7
+I000130,R0008,Vada Pav,Vada Pav,Street Food,200,False,True,0.55,4.3
+I000131,R0008,Cheese Vada Pav,Vada Pav,Street Food,110,False,True,0.52,3.7
+I000132,R0008,Pani Puri (6 pcs),Pani Puri,Street Food,135,False,True,0.54,4.7
+I000133,R0008,Bhel Puri,Bhel Puri,Street Food,150,False,True,0.67,4.6
+I000134,R0008,Samosa (2 pcs),Samosa,Street Food,160,False,True,0.95,4.8
+I000135,R0008,Samosa (4 pcs),Samosa,Street Food,165,False,True,0.99,4.5
+I000136,R0009,Margherita Pizza,Pizza,Italian,170,False,True,0.78,4.5
+I000137,R0009,Pepperoni Pizza,Pizza,Italian,250,False,True,0.8,3.9
+I000138,R0009,BBQ Chicken Pizza,Pizza,Italian,345,False,True,0.9,4.6
+I000139,R0009,Veggie Supreme,Pizza,Italian,105,True,True,0.71,4.6
+I000140,R0009,Arrabiata Pasta,Pasta,Italian,315,False,True,0.96,4.9
+I000141,R0009,Alfredo Pasta,Pasta,Italian,200,False,True,0.93,3.5
+I000142,R0009,Pesto Pasta,Pasta,Italian,190,False,True,0.38,4.8
+I000143,R0009,Mac and Cheese,Pasta,Italian,330,False,True,0.48,4.1
+I000144,R0009,Garlic Bread,Garlic Bread,Italian,345,False,True,0.7,4.2
+I000145,R0009,Cheesy Garlic Bread,Garlic Bread,Italian,225,False,True,0.79,4.9
+I000146,R0009,Mushroom Risotto,Risotto,Italian,190,True,True,0.42,3.8
+I000147,R0009,Chicken Risotto,Risotto,Italian,105,False,True,0.69,4.9
+I000148,R0009,Tiramisu,Tiramisu,Italian,280,False,True,1.0,4.9
+I000149,R0010,Coke (300ml),Soft Drink,Beverages,225,False,True,0.64,4.4
+I000150,R0010,Pepsi (300ml),Soft Drink,Beverages,130,False,True,0.73,4.2
+I000151,R0010,Sprite (300ml),Soft Drink,Beverages,260,False,True,0.7,4.0
+I000152,R0010,Limca,Soft Drink,Beverages,250,False,True,0.56,3.8
+I000153,R0010,Fresh Orange Juice,Juice,Beverages,270,True,True,0.51,4.8
+I000154,R0010,Watermelon Juice,Juice,Beverages,150,True,True,0.72,4.4
+I000155,R0010,Mixed Fruit Juice,Juice,Beverages,150,True,True,0.61,4.5
+I000156,R0010,Sweet Lassi,Lassi,Beverages,180,True,True,0.38,4.4
+I000157,R0010,Salted Lassi,Lassi,Beverages,155,True,True,0.78,4.8
+I000158,R0010,Mango Lassi,Lassi,Beverages,130,True,True,0.61,4.2
+I000159,R0010,Masala Chai,Chai,Beverages,260,True,True,0.53,4.1
+I000160,R0010,Ginger Chai,Chai,Beverages,105,True,True,0.39,4.4
+I000161,R0010,Cappuccino,Coffee,Beverages,155,False,True,0.4,4.0
+I000162,R0010,Latte,Coffee,Beverages,140,False,True,0.34,3.9
+I000163,R0010,Espresso,Coffee,Beverages,140,False,True,0.86,3.6
+I000164,R0010,Mineral Water (500ml),Water,Beverages,285,True,True,0.57,4.5
+I000165,R0011,Butter Chicken,Curry,North Indian,325,False,True,0.94,4.7
+I000166,R0011,Palak Paneer,Curry,North Indian,370,True,True,0.45,4.5
+I000167,R0011,Chicken Masala,Curry,North Indian,760,False,True,0.61,4.2
+I000168,R0011,Lamb Curry,Curry,North Indian,420,False,True,0.57,3.9
+I000169,R0011,Mixed Veg Curry,Curry,North Indian,475,True,True,0.31,3.6
+I000170,R0011,Dal Makhani,Dal,North Indian,640,False,True,0.78,4.0
+I000171,R0011,Dal Tadka,Dal,North Indian,745,False,True,0.49,4.1
+I000172,R0011,Dal Fry,Dal,North Indian,665,False,True,0.82,4.8
+I000173,R0011,Chana Masala,Dal,North Indian,315,False,True,0.43,4.5
+I000174,R0011,Paneer Tikka Masala,Paneer Dish,North Indian,470,True,True,0.33,4.4
+I000175,R0011,Shahi Paneer,Paneer Dish,North Indian,495,True,True,0.55,3.9
+I000176,R0011,Kadai Paneer,Paneer Dish,North Indian,305,True,True,0.43,4.2
+I000177,R0011,Matar Paneer,Paneer Dish,North Indian,440,True,True,0.91,3.7
+I000178,R0011,Butter Naan,Bread,North Indian,740,False,True,0.58,3.9
+I000179,R0011,Roti,Bread,North Indian,450,False,True,0.53,4.3
+I000180,R0011,Paratha,Bread,North Indian,475,False,True,0.75,4.1
+I000181,R0011,Garlic Naan,Bread,North Indian,635,False,True,0.72,3.9
+I000182,R0011,Puri,Bread,North Indian,705,False,True,0.86,5.0
+I000183,R0011,Steamed Rice,Rice,North Indian,390,False,True,0.89,4.8
+I000184,R0011,Jeera Rice,Rice,North Indian,620,False,True,0.65,4.9
+I000185,R0011,Veg Pulao,Rice,North Indian,785,True,True,0.75,4.0
+I000186,R0011,Egg Fried Rice,Rice,North Indian,710,False,True,0.36,3.9
+I000187,R0011,Boondi Raita,Raita,North Indian,795,False,True,0.87,4.9
+I000188,R0011,Cucumber Raita,Raita,North Indian,595,False,True,0.59,5.0
+I000189,R0011,Mixed Raita,Raita,North Indian,455,False,True,0.83,4.3
+I000190,R0011,Mango Pickle,Pickle,North Indian,415,False,True,0.31,4.1
+I000191,R0011,Mixed Pickle,Pickle,North Indian,575,False,True,0.43,4.1
+I000192,R0011,Lime Pickle,Pickle,North Indian,610,False,True,0.8,3.6
+I000193,R0012,Margherita Pizza,Pizza,Italian,265,False,True,0.34,3.5
+I000194,R0012,Pepperoni Pizza,Pizza,Italian,140,False,True,0.76,3.6
+I000195,R0012,BBQ Chicken Pizza,Pizza,Italian,105,False,True,0.38,4.9
+I000196,R0012,Veggie Supreme,Pizza,Italian,325,True,True,0.36,4.0
+I000197,R0012,Arrabiata Pasta,Pasta,Italian,335,False,True,0.37,3.6
+I000198,R0012,Alfredo Pasta,Pasta,Italian,120,False,True,0.98,4.6
+I000199,R0012,Pesto Pasta,Pasta,Italian,155,False,True,0.33,4.9
+I000200,R0012,Mac and Cheese,Pasta,Italian,205,False,True,0.72,3.9
+I000201,R0012,Garlic Bread,Garlic Bread,Italian,290,False,True,0.44,4.7
+I000202,R0012,Cheesy Garlic Bread,Garlic Bread,Italian,160,False,True,0.37,4.2
+I000203,R0012,Mushroom Risotto,Risotto,Italian,305,True,True,0.57,3.5
+I000204,R0012,Chicken Risotto,Risotto,Italian,240,False,True,0.78,4.6
+I000205,R0012,Tiramisu,Tiramisu,Italian,200,False,True,0.37,4.4
+I000206,R0013,Caesar Salad,Salad,Healthy,85,True,True,0.96,4.3
+I000207,R0013,Greek Salad,Salad,Healthy,95,True,True,0.52,4.0
+I000208,R0013,Garden Salad,Salad,Healthy,100,True,True,0.51,4.8
+I000209,R0013,Banana Smoothie,Smoothie,Healthy,95,True,True,0.5,3.7
+I000210,R0013,Mixed Berry Smoothie,Smoothie,Healthy,115,True,True,0.32,4.2
+I000211,R0013,Green Detox Smoothie,Smoothie,Healthy,105,True,True,0.54,4.6
+I000212,R0013,Chicken Wrap,Wrap,Healthy,120,False,True,0.98,4.3
+I000213,R0013,Paneer Wrap,Wrap,Healthy,105,True,True,0.47,4.1
+I000214,R0013,Veg Wrap,Wrap,Healthy,55,True,True,0.78,4.0
+I000215,R0013,Masala Oats,Oats,Healthy,105,True,True,0.48,4.4
+I000216,R0013,Fruit Oats,Oats,Healthy,95,True,True,0.64,4.9
+I000217,R0013,Seasonal Fruit Bowl,Fruit Bowl,Healthy,120,True,True,0.48,4.3
+I000218,R0013,Protein Quinoa Bowl,Quinoa Bowl,Healthy,95,False,True,0.86,4.8
+I000219,R0013,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,80,True,True,0.87,3.8
+I000220,R0014,Chicken Biryani,Biryani,Biryani,290,False,True,0.47,3.9
+I000221,R0014,Mutton Biryani,Biryani,Biryani,315,False,True,0.59,5.0
+I000222,R0014,Veg Biryani,Biryani,Biryani,140,True,True,0.62,4.6
+I000223,R0014,Egg Biryani,Biryani,Biryani,100,False,True,0.41,3.5
+I000224,R0014,Prawn Biryani,Biryani,Biryani,350,False,True,0.83,4.1
+I000225,R0014,Boondi Raita,Raita,Biryani,140,False,True,0.36,4.3
+I000226,R0014,Cucumber Raita,Raita,Biryani,345,False,True,0.77,4.0
+I000227,R0014,Mixed Raita,Raita,Biryani,225,False,True,1.0,4.3
+I000228,R0014,Mirchi Ka Salan,Salan,Biryani,340,False,True,0.31,4.6
+I000229,R0014,Shorba,Salan,Biryani,255,False,True,0.78,4.4
+I000230,R0014,Biryani Gravy,Salan,Biryani,110,False,True,0.4,4.9
+I000231,R0014,Chicken Shorba,Shorba,Biryani,160,False,True,1.0,4.5
+I000232,R0014,Veg Shorba,Shorba,Biryani,210,True,True,0.94,4.7
+I000233,R0014,Seekh Kebab,Kebab,Biryani,205,False,True,0.35,4.8
+I000234,R0014,Chicken 65,Kebab,Biryani,290,False,True,0.85,4.6
+I000235,R0014,Reshmi Kebab,Kebab,Biryani,170,False,True,0.9,3.5
+I000236,R0014,Boti Kebab,Kebab,Biryani,160,False,True,0.33,3.7
+I000237,R0014,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,235,True,True,0.33,3.8
+I000238,R0014,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,160,True,True,0.76,4.2
+I000239,R0015,Caesar Salad,Salad,Healthy,95,True,True,0.84,4.2
+I000240,R0015,Greek Salad,Salad,Healthy,85,True,True,0.97,3.5
+I000241,R0015,Garden Salad,Salad,Healthy,80,True,True,0.73,4.7
+I000242,R0015,Banana Smoothie,Smoothie,Healthy,130,True,True,0.33,4.6
+I000243,R0015,Mixed Berry Smoothie,Smoothie,Healthy,120,True,True,0.45,3.7
+I000244,R0015,Green Detox Smoothie,Smoothie,Healthy,125,True,True,0.47,3.5
+I000245,R0015,Chicken Wrap,Wrap,Healthy,70,False,True,0.32,3.9
+I000246,R0015,Paneer Wrap,Wrap,Healthy,85,True,True,0.49,4.9
+I000247,R0015,Veg Wrap,Wrap,Healthy,75,True,True,0.63,4.9
+I000248,R0015,Masala Oats,Oats,Healthy,140,True,True,0.52,4.0
+I000249,R0015,Fruit Oats,Oats,Healthy,110,True,True,0.94,3.5
+I000250,R0015,Seasonal Fruit Bowl,Fruit Bowl,Healthy,90,True,True,0.89,4.1
+I000251,R0015,Protein Quinoa Bowl,Quinoa Bowl,Healthy,120,False,True,0.78,3.8
+I000252,R0015,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,95,True,True,0.7,4.6
+I000253,R0016,Chicken Biryani,Biryani,Biryani,305,False,True,0.83,3.5
+I000254,R0016,Mutton Biryani,Biryani,Biryani,270,False,True,0.65,4.4
+I000255,R0016,Veg Biryani,Biryani,Biryani,195,True,True,0.8,4.5
+I000256,R0016,Egg Biryani,Biryani,Biryani,245,False,True,0.9,3.7
+I000257,R0016,Prawn Biryani,Biryani,Biryani,175,False,True,0.65,4.9
+I000258,R0016,Boondi Raita,Raita,Biryani,120,False,True,0.54,4.9
+I000259,R0016,Cucumber Raita,Raita,Biryani,325,False,True,0.91,4.0
+I000260,R0016,Mixed Raita,Raita,Biryani,310,False,True,0.65,4.4
+I000261,R0016,Mirchi Ka Salan,Salan,Biryani,160,False,True,0.79,4.0
+I000262,R0016,Shorba,Salan,Biryani,185,False,True,0.75,3.9
+I000263,R0016,Biryani Gravy,Salan,Biryani,155,False,True,0.56,4.7
+I000264,R0016,Chicken Shorba,Shorba,Biryani,155,False,True,0.85,4.5
+I000265,R0016,Veg Shorba,Shorba,Biryani,270,True,True,0.63,4.6
+I000266,R0016,Seekh Kebab,Kebab,Biryani,105,False,True,0.51,4.5
+I000267,R0016,Chicken 65,Kebab,Biryani,345,False,True,0.3,4.3
+I000268,R0016,Reshmi Kebab,Kebab,Biryani,330,False,True,0.9,3.5
+I000269,R0016,Boti Kebab,Kebab,Biryani,230,False,True,0.3,4.7
+I000270,R0016,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,175,True,True,0.84,4.9
+I000271,R0016,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,345,True,True,0.93,3.8
+I000272,R0017,Coke (300ml),Soft Drink,Beverages,150,False,True,0.74,4.3
+I000273,R0017,Pepsi (300ml),Soft Drink,Beverages,100,False,True,0.57,4.9
+I000274,R0017,Sprite (300ml),Soft Drink,Beverages,325,False,True,0.44,4.1
+I000275,R0017,Limca,Soft Drink,Beverages,240,False,True,0.9,4.3
+I000276,R0017,Fresh Orange Juice,Juice,Beverages,340,True,True,0.86,4.9
+I000277,R0017,Watermelon Juice,Juice,Beverages,285,True,True,0.91,4.7
+I000278,R0017,Mixed Fruit Juice,Juice,Beverages,165,True,True,0.46,4.8
+I000279,R0017,Sweet Lassi,Lassi,Beverages,120,True,True,0.59,4.7
+I000280,R0017,Salted Lassi,Lassi,Beverages,305,True,True,0.4,4.2
+I000281,R0017,Mango Lassi,Lassi,Beverages,220,True,True,0.53,4.9
+I000282,R0017,Masala Chai,Chai,Beverages,265,True,True,0.99,3.6
+I000283,R0017,Ginger Chai,Chai,Beverages,200,True,True,0.88,4.1
+I000284,R0017,Cappuccino,Coffee,Beverages,165,False,True,1.0,4.8
+I000285,R0017,Latte,Coffee,Beverages,235,False,True,0.69,3.5
+I000286,R0017,Espresso,Coffee,Beverages,345,False,True,0.86,3.6
+I000287,R0017,Mineral Water (500ml),Water,Beverages,145,True,True,0.87,3.6
+I000288,R0018,Papdi Chaat,Chaat,Street Food,145,False,True,1.0,4.8
+I000289,R0018,Aloo Chaat,Chaat,Street Food,125,True,True,0.64,3.6
+I000290,R0018,Dahi Puri,Chaat,Street Food,125,False,True,0.58,4.4
+I000291,R0018,Pav Bhaji (2 pav),Pav Bhaji,Street Food,80,False,True,0.47,4.0
+I000292,R0018,Pav Bhaji (4 pav),Pav Bhaji,Street Food,130,False,True,0.6,4.0
+I000293,R0018,Vada Pav,Vada Pav,Street Food,95,False,True,0.32,4.8
+I000294,R0018,Cheese Vada Pav,Vada Pav,Street Food,105,False,True,0.37,3.9
+I000295,R0018,Pani Puri (6 pcs),Pani Puri,Street Food,150,False,True,0.72,3.9
+I000296,R0018,Bhel Puri,Bhel Puri,Street Food,95,False,True,0.48,3.5
+I000297,R0018,Samosa (2 pcs),Samosa,Street Food,135,False,True,0.5,4.8
+I000298,R0018,Samosa (4 pcs),Samosa,Street Food,100,False,True,0.43,4.7
+I000299,R0019,Masala Dosa,Dosa,South Indian,195,False,True,0.8,4.8
+I000300,R0019,Plain Dosa,Dosa,South Indian,340,False,True,0.36,3.5
+I000301,R0019,Onion Dosa,Dosa,South Indian,235,False,True,0.48,4.2
+I000302,R0019,Rava Dosa,Dosa,South Indian,120,False,True,0.65,3.7
+I000303,R0019,Ghee Roast Dosa,Dosa,South Indian,310,False,True,0.83,3.6
+I000304,R0019,Idli (2 pcs),Idli,South Indian,310,False,True,0.53,4.0
+I000305,R0019,Idli (4 pcs),Idli,South Indian,145,False,True,0.88,4.1
+I000306,R0019,Mini Idli,Idli,South Indian,110,False,True,0.98,3.9
+I000307,R0019,Sambar Bowl,Sambar,South Indian,335,False,True,0.51,4.7
+I000308,R0019,Drumstick Sambar,Sambar,South Indian,265,False,True,0.9,5.0
+I000309,R0019,Coconut Chutney,Chutney,South Indian,320,False,True,0.58,4.7
+I000310,R0019,Tomato Chutney,Chutney,South Indian,280,False,True,0.34,4.9
+I000311,R0019,Mint Chutney,Chutney,South Indian,215,False,True,0.39,4.1
+I000312,R0019,Steamed Rice,Rice,South Indian,250,False,True,0.7,4.4
+I000313,R0019,Jeera Rice,Rice,South Indian,165,False,True,0.74,4.9
+I000314,R0019,Veg Pulao,Rice,South Indian,195,True,True,0.74,3.9
+I000315,R0019,Egg Fried Rice,Rice,South Indian,110,False,True,0.71,3.6
+I000316,R0019,Tomato Rasam,Rasam,South Indian,280,False,True,0.77,4.1
+I000317,R0019,Pepper Rasam,Rasam,South Indian,205,False,True,0.94,3.5
+I000318,R0019,Filter Coffee,Filter Coffee,South Indian,240,True,True,0.95,4.9
+I000319,R0019,South Indian Coffee,Filter Coffee,South Indian,245,True,True,0.57,3.6
+I000320,R0020,Veg Burger,Burger,Fast Food,65,True,True,0.78,3.5
+I000321,R0020,Chicken Burger,Burger,Fast Food,140,False,True,0.71,3.6
+I000322,R0020,Zinger Burger,Burger,Fast Food,75,False,True,0.72,3.6
+I000323,R0020,Double Patty Burger,Burger,Fast Food,130,False,True,0.94,4.9
+I000324,R0020,Regular Fries,Fries,Fast Food,125,False,True,0.9,4.4
+I000325,R0020,Cheese Fries,Fries,Fast Food,95,False,True,0.8,3.8
+I000326,R0020,Peri Peri Fries,Fries,Fast Food,60,False,True,0.83,4.9
+I000327,R0020,Chicken Wrap,Wrap,Fast Food,110,False,True,0.64,4.3
+I000328,R0020,Paneer Wrap,Wrap,Fast Food,100,True,True,0.61,4.9
+I000329,R0020,Veg Wrap,Wrap,Fast Food,100,True,True,0.36,4.6
+I000330,R0020,Chicken Nuggets (6 pcs),Nuggets,Fast Food,90,False,True,0.8,4.4
+I000331,R0020,Chicken Nuggets (12 pcs),Nuggets,Fast Food,120,False,True,0.34,3.6
+I000332,R0020,Chocolate Milkshake,Milkshake,Fast Food,90,False,True,0.79,3.8
+I000333,R0020,Strawberry Milkshake,Milkshake,Fast Food,95,False,True,0.99,3.8
+I000334,R0020,Vanilla Milkshake,Milkshake,Fast Food,135,False,True,0.88,4.8
+I000335,R0020,Coke (300ml),Soft Drink,Fast Food,140,False,True,0.66,4.5
+I000336,R0020,Pepsi (300ml),Soft Drink,Fast Food,110,False,True,0.52,3.9
+I000337,R0020,Sprite (300ml),Soft Drink,Fast Food,85,False,True,0.45,4.6
+I000338,R0020,Limca,Soft Drink,Fast Food,145,False,True,0.91,3.8
+I000339,R0021,Papdi Chaat,Chaat,Street Food,115,False,True,0.83,4.1
+I000340,R0021,Aloo Chaat,Chaat,Street Food,305,True,True,0.85,4.4
+I000341,R0021,Dahi Puri,Chaat,Street Food,165,False,True,0.37,3.9
+I000342,R0021,Pav Bhaji (2 pav),Pav Bhaji,Street Food,225,False,True,0.99,3.6
+I000343,R0021,Pav Bhaji (4 pav),Pav Bhaji,Street Food,150,False,True,0.74,4.0
+I000344,R0021,Vada Pav,Vada Pav,Street Food,315,False,True,0.4,4.9
+I000345,R0021,Cheese Vada Pav,Vada Pav,Street Food,330,False,True,0.92,3.8
+I000346,R0021,Pani Puri (6 pcs),Pani Puri,Street Food,180,False,True,0.86,4.7
+I000347,R0021,Bhel Puri,Bhel Puri,Street Food,275,False,True,0.61,4.0
+I000348,R0021,Samosa (2 pcs),Samosa,Street Food,340,False,True,0.4,3.6
+I000349,R0021,Samosa (4 pcs),Samosa,Street Food,100,False,True,0.84,3.6
+I000350,R0022,Butter Chicken,Curry,North Indian,105,False,True,0.56,3.7
+I000351,R0022,Palak Paneer,Curry,North Indian,125,True,True,0.34,4.0
+I000352,R0022,Chicken Masala,Curry,North Indian,105,False,True,0.58,3.9
+I000353,R0022,Lamb Curry,Curry,North Indian,145,False,True,0.95,4.1
+I000354,R0022,Mixed Veg Curry,Curry,North Indian,90,True,True,0.52,4.8
+I000355,R0022,Dal Makhani,Dal,North Indian,105,False,True,0.36,4.8
+I000356,R0022,Dal Tadka,Dal,North Indian,105,False,True,0.59,4.0
+I000357,R0022,Dal Fry,Dal,North Indian,60,False,True,0.97,4.6
+I000358,R0022,Chana Masala,Dal,North Indian,65,False,True,0.66,4.3
+I000359,R0022,Paneer Tikka Masala,Paneer Dish,North Indian,65,True,True,0.6,4.5
+I000360,R0022,Shahi Paneer,Paneer Dish,North Indian,80,True,True,0.53,3.7
+I000361,R0022,Kadai Paneer,Paneer Dish,North Indian,90,True,True,0.71,3.7
+I000362,R0022,Matar Paneer,Paneer Dish,North Indian,110,True,True,0.58,4.5
+I000363,R0022,Butter Naan,Bread,North Indian,80,False,True,0.7,4.4
+I000364,R0022,Roti,Bread,North Indian,120,False,True,0.83,3.7
+I000365,R0022,Paratha,Bread,North Indian,145,False,True,0.89,4.3
+I000366,R0022,Garlic Naan,Bread,North Indian,140,False,True,0.57,3.6
+I000367,R0022,Puri,Bread,North Indian,125,False,True,0.96,3.7
+I000368,R0022,Steamed Rice,Rice,North Indian,115,False,True,0.87,4.9
+I000369,R0022,Jeera Rice,Rice,North Indian,80,False,True,0.39,3.9
+I000370,R0022,Veg Pulao,Rice,North Indian,110,True,True,0.94,4.4
+I000371,R0022,Egg Fried Rice,Rice,North Indian,140,False,True,0.84,4.4
+I000372,R0022,Boondi Raita,Raita,North Indian,50,False,True,0.53,3.6
+I000373,R0022,Cucumber Raita,Raita,North Indian,80,False,True,0.34,3.8
+I000374,R0022,Mixed Raita,Raita,North Indian,90,False,True,0.66,3.8
+I000375,R0022,Mango Pickle,Pickle,North Indian,125,False,True,0.71,4.5
+I000376,R0022,Mixed Pickle,Pickle,North Indian,125,False,True,0.81,4.9
+I000377,R0022,Lime Pickle,Pickle,North Indian,75,False,True,0.49,3.6
+I000378,R0023,Caesar Salad,Salad,Healthy,595,True,True,0.58,4.2
+I000379,R0023,Greek Salad,Salad,Healthy,385,True,True,0.75,4.4
+I000380,R0023,Garden Salad,Salad,Healthy,430,True,True,0.63,4.8
+I000381,R0023,Banana Smoothie,Smoothie,Healthy,685,True,True,0.46,4.8
+I000382,R0023,Mixed Berry Smoothie,Smoothie,Healthy,335,True,True,0.59,3.6
+I000383,R0023,Green Detox Smoothie,Smoothie,Healthy,760,True,True,0.33,3.7
+I000384,R0023,Chicken Wrap,Wrap,Healthy,760,False,True,0.71,4.7
+I000385,R0023,Paneer Wrap,Wrap,Healthy,310,True,True,0.59,5.0
+I000386,R0023,Veg Wrap,Wrap,Healthy,590,True,True,0.89,4.9
+I000387,R0023,Masala Oats,Oats,Healthy,645,True,True,0.53,4.0
+I000388,R0023,Fruit Oats,Oats,Healthy,335,True,True,0.6,4.9
+I000389,R0023,Seasonal Fruit Bowl,Fruit Bowl,Healthy,540,True,True,0.94,4.7
+I000390,R0023,Protein Quinoa Bowl,Quinoa Bowl,Healthy,790,False,True,0.96,4.6
+I000391,R0023,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,735,True,True,0.82,4.6
+I000392,R0024,Butter Chicken,Curry,North Indian,280,False,True,0.8,4.1
+I000393,R0024,Palak Paneer,Curry,North Indian,205,True,True,0.51,3.7
+I000394,R0024,Chicken Masala,Curry,North Indian,215,False,True,0.93,4.5
+I000395,R0024,Lamb Curry,Curry,North Indian,115,False,True,0.87,4.9
+I000396,R0024,Mixed Veg Curry,Curry,North Indian,305,True,True,0.81,3.7
+I000397,R0024,Dal Makhani,Dal,North Indian,185,False,True,0.7,3.6
+I000398,R0024,Dal Tadka,Dal,North Indian,125,False,True,0.95,4.6
+I000399,R0024,Dal Fry,Dal,North Indian,170,False,True,0.53,4.1
+I000400,R0024,Chana Masala,Dal,North Indian,120,False,True,0.82,3.8
+I000401,R0024,Paneer Tikka Masala,Paneer Dish,North Indian,300,True,True,0.89,4.5
+I000402,R0024,Shahi Paneer,Paneer Dish,North Indian,290,True,True,0.42,4.4
+I000403,R0024,Kadai Paneer,Paneer Dish,North Indian,270,True,True,0.76,3.7
+I000404,R0024,Matar Paneer,Paneer Dish,North Indian,185,True,True,0.53,4.4
+I000405,R0024,Butter Naan,Bread,North Indian,290,False,True,0.7,4.6
+I000406,R0024,Roti,Bread,North Indian,125,False,True,0.91,4.3
+I000407,R0024,Paratha,Bread,North Indian,110,False,True,0.75,4.3
+I000408,R0024,Garlic Naan,Bread,North Indian,155,False,True,0.84,4.9
+I000409,R0024,Puri,Bread,North Indian,180,False,True,0.65,3.7
+I000410,R0024,Steamed Rice,Rice,North Indian,330,False,True,0.52,3.8
+I000411,R0024,Jeera Rice,Rice,North Indian,220,False,True,0.33,3.9
+I000412,R0024,Veg Pulao,Rice,North Indian,115,True,True,0.39,3.7
+I000413,R0024,Egg Fried Rice,Rice,North Indian,320,False,True,0.95,4.2
+I000414,R0024,Boondi Raita,Raita,North Indian,260,False,True,0.79,4.1
+I000415,R0024,Cucumber Raita,Raita,North Indian,195,False,True,0.77,4.1
+I000416,R0024,Mixed Raita,Raita,North Indian,245,False,True,0.66,4.3
+I000417,R0024,Mango Pickle,Pickle,North Indian,305,False,True,0.79,4.9
+I000418,R0024,Mixed Pickle,Pickle,North Indian,300,False,True,0.4,4.6
+I000419,R0024,Lime Pickle,Pickle,North Indian,265,False,True,0.75,4.2
+I000420,R0025,Margherita Pizza,Pizza,Italian,115,False,True,0.97,4.8
+I000421,R0025,Pepperoni Pizza,Pizza,Italian,220,False,True,0.41,4.7
+I000422,R0025,BBQ Chicken Pizza,Pizza,Italian,210,False,True,0.57,4.5
+I000423,R0025,Veggie Supreme,Pizza,Italian,290,True,True,0.34,4.7
+I000424,R0025,Arrabiata Pasta,Pasta,Italian,285,False,True,0.71,4.0
+I000425,R0025,Alfredo Pasta,Pasta,Italian,140,False,True,0.37,3.5
+I000426,R0025,Pesto Pasta,Pasta,Italian,150,False,True,0.59,3.9
+I000427,R0025,Mac and Cheese,Pasta,Italian,175,False,True,0.57,4.0
+I000428,R0025,Garlic Bread,Garlic Bread,Italian,280,False,True,0.64,3.5
+I000429,R0025,Cheesy Garlic Bread,Garlic Bread,Italian,155,False,True,0.8,4.0
+I000430,R0025,Mushroom Risotto,Risotto,Italian,330,True,True,0.8,3.9
+I000431,R0025,Chicken Risotto,Risotto,Italian,230,False,True,0.77,3.8
+I000432,R0025,Tiramisu,Tiramisu,Italian,160,False,True,0.65,4.9
+I000433,R0026,Vanilla Scoop,Ice Cream,Desserts,85,False,True,0.58,3.8
+I000434,R0026,Chocolate Scoop,Ice Cream,Desserts,110,False,True,0.82,4.2
+I000435,R0026,Butterscotch Scoop,Ice Cream,Desserts,125,False,True,0.51,4.6
+I000436,R0026,Sundae,Ice Cream,Desserts,75,False,True,0.85,4.7
+I000437,R0026,Chocolate Brownie,Brownie,Desserts,130,False,True,0.45,4.5
+I000438,R0026,Walnut Brownie,Brownie,Desserts,105,False,True,0.99,4.0
+I000439,R0026,Gulab Jamun (2 pcs),Gulab Jamun,Desserts,125,True,True,0.56,4.1
+I000440,R0026,Gulab Jamun (4 pcs),Gulab Jamun,Desserts,60,True,True,0.47,3.7
+I000441,R0026,Rice Kheer,Kheer,Desserts,65,False,True,0.31,4.7
+I000442,R0026,Vermicelli Kheer,Kheer,Desserts,95,False,True,0.86,4.4
+I000443,R0026,Chocolate Pastry,Pastry,Desserts,135,False,True,0.65,3.6
+I000444,R0026,Black Forest Pastry,Pastry,Desserts,110,False,True,0.77,4.4
+I000445,R0026,Chocolate Truffle Slice,Cake,Desserts,130,False,True,0.81,4.1
+I000446,R0026,Red Velvet Slice,Cake,Desserts,130,False,True,0.78,3.7
+I000447,R0027,Papdi Chaat,Chaat,Street Food,235,False,True,0.81,4.3
+I000448,R0027,Aloo Chaat,Chaat,Street Food,335,True,True,0.37,4.6
+I000449,R0027,Dahi Puri,Chaat,Street Food,305,False,True,0.79,4.1
+I000450,R0027,Pav Bhaji (2 pav),Pav Bhaji,Street Food,195,False,True,0.71,4.1
+I000451,R0027,Pav Bhaji (4 pav),Pav Bhaji,Street Food,320,False,True,0.38,4.5
+I000452,R0027,Vada Pav,Vada Pav,Street Food,135,False,True,0.68,4.6
+I000453,R0027,Cheese Vada Pav,Vada Pav,Street Food,140,False,True,0.79,3.7
+I000454,R0027,Pani Puri (6 pcs),Pani Puri,Street Food,255,False,True,0.65,3.9
+I000455,R0027,Bhel Puri,Bhel Puri,Street Food,130,False,True,0.82,4.1
+I000456,R0027,Samosa (2 pcs),Samosa,Street Food,120,False,True,0.84,3.8
+I000457,R0027,Samosa (4 pcs),Samosa,Street Food,285,False,True,0.7,3.8
+I000458,R0028,Butter Chicken,Curry,North Indian,120,False,True,0.72,3.5
+I000459,R0028,Palak Paneer,Curry,North Indian,115,True,True,0.79,4.3
+I000460,R0028,Chicken Masala,Curry,North Indian,180,False,True,0.68,4.4
+I000461,R0028,Lamb Curry,Curry,North Indian,240,False,True,0.75,4.9
+I000462,R0028,Mixed Veg Curry,Curry,North Indian,195,True,True,0.51,3.6
+I000463,R0028,Dal Makhani,Dal,North Indian,135,False,True,0.37,4.0
+I000464,R0028,Dal Tadka,Dal,North Indian,250,False,True,0.33,4.6
+I000465,R0028,Dal Fry,Dal,North Indian,200,False,True,0.97,4.4
+I000466,R0028,Chana Masala,Dal,North Indian,295,False,True,0.9,4.8
+I000467,R0028,Paneer Tikka Masala,Paneer Dish,North Indian,230,True,True,0.58,4.3
+I000468,R0028,Shahi Paneer,Paneer Dish,North Indian,200,True,True,0.47,4.0
+I000469,R0028,Kadai Paneer,Paneer Dish,North Indian,160,True,True,0.49,3.6
+I000470,R0028,Matar Paneer,Paneer Dish,North Indian,205,True,True,0.46,4.2
+I000471,R0028,Butter Naan,Bread,North Indian,300,False,True,0.61,4.9
+I000472,R0028,Roti,Bread,North Indian,135,False,True,0.9,3.9
+I000473,R0028,Paratha,Bread,North Indian,335,False,True,0.46,4.6
+I000474,R0028,Garlic Naan,Bread,North Indian,115,False,True,0.74,3.8
+I000475,R0028,Puri,Bread,North Indian,270,False,True,0.75,4.9
+I000476,R0028,Steamed Rice,Rice,North Indian,255,False,True,0.59,3.8
+I000477,R0028,Jeera Rice,Rice,North Indian,265,False,True,0.38,4.7
+I000478,R0028,Veg Pulao,Rice,North Indian,160,True,True,0.67,4.4
+I000479,R0028,Egg Fried Rice,Rice,North Indian,190,False,True,0.76,3.9
+I000480,R0028,Boondi Raita,Raita,North Indian,110,False,True,0.97,4.0
+I000481,R0028,Cucumber Raita,Raita,North Indian,280,False,True,0.66,4.5
+I000482,R0028,Mixed Raita,Raita,North Indian,130,False,True,0.66,4.1
+I000483,R0028,Mango Pickle,Pickle,North Indian,215,False,True,0.98,3.7
+I000484,R0028,Mixed Pickle,Pickle,North Indian,290,False,True,0.53,3.9
+I000485,R0028,Lime Pickle,Pickle,North Indian,170,False,True,0.54,4.0
+I000486,R0029,Masala Dosa,Dosa,South Indian,435,False,True,0.77,3.6
+I000487,R0029,Plain Dosa,Dosa,South Indian,465,False,True,0.5,4.6
+I000488,R0029,Onion Dosa,Dosa,South Indian,375,False,True,0.96,3.8
+I000489,R0029,Rava Dosa,Dosa,South Indian,485,False,True,0.44,3.9
+I000490,R0029,Ghee Roast Dosa,Dosa,South Indian,680,False,True,0.63,3.7
+I000491,R0029,Idli (2 pcs),Idli,South Indian,325,False,True,0.46,4.9
+I000492,R0029,Idli (4 pcs),Idli,South Indian,725,False,True,0.61,4.2
+I000493,R0029,Mini Idli,Idli,South Indian,750,False,True,0.71,4.8
+I000494,R0029,Sambar Bowl,Sambar,South Indian,545,False,True,0.44,4.6
+I000495,R0029,Drumstick Sambar,Sambar,South Indian,565,False,True,0.77,3.7
+I000496,R0029,Coconut Chutney,Chutney,South Indian,625,False,True,0.57,4.0
+I000497,R0029,Tomato Chutney,Chutney,South Indian,635,False,True,0.71,4.5
+I000498,R0029,Mint Chutney,Chutney,South Indian,785,False,True,0.79,4.5
+I000499,R0029,Steamed Rice,Rice,South Indian,605,False,True,0.58,4.8
+I000500,R0029,Jeera Rice,Rice,South Indian,490,False,True,0.79,3.9
+I000501,R0029,Veg Pulao,Rice,South Indian,375,True,True,0.39,4.5
+I000502,R0029,Egg Fried Rice,Rice,South Indian,465,False,True,0.49,4.4
+I000503,R0029,Tomato Rasam,Rasam,South Indian,315,False,True,0.47,4.0
+I000504,R0029,Pepper Rasam,Rasam,South Indian,655,False,True,0.68,4.8
+I000505,R0029,Filter Coffee,Filter Coffee,South Indian,465,True,True,0.51,3.5
+I000506,R0029,South Indian Coffee,Filter Coffee,South Indian,775,True,True,0.65,4.3
+I000507,R0030,Coke (300ml),Soft Drink,Beverages,330,False,True,0.5,4.0
+I000508,R0030,Pepsi (300ml),Soft Drink,Beverages,265,False,True,0.85,4.5
+I000509,R0030,Sprite (300ml),Soft Drink,Beverages,295,False,True,0.7,4.8
+I000510,R0030,Limca,Soft Drink,Beverages,240,False,True,0.46,4.3
+I000511,R0030,Fresh Orange Juice,Juice,Beverages,280,True,True,0.76,3.9
+I000512,R0030,Watermelon Juice,Juice,Beverages,110,True,True,0.48,5.0
+I000513,R0030,Mixed Fruit Juice,Juice,Beverages,145,True,True,0.63,4.5
+I000514,R0030,Sweet Lassi,Lassi,Beverages,320,True,True,0.83,4.9
+I000515,R0030,Salted Lassi,Lassi,Beverages,250,True,True,0.91,3.9
+I000516,R0030,Mango Lassi,Lassi,Beverages,210,True,True,0.89,4.0
+I000517,R0030,Masala Chai,Chai,Beverages,320,True,True,0.55,4.0
+I000518,R0030,Ginger Chai,Chai,Beverages,175,True,True,0.68,3.7
+I000519,R0030,Cappuccino,Coffee,Beverages,110,False,True,0.93,4.9
+I000520,R0030,Latte,Coffee,Beverages,120,False,True,0.68,4.3
+I000521,R0030,Espresso,Coffee,Beverages,195,False,True,0.7,4.2
+I000522,R0030,Mineral Water (500ml),Water,Beverages,220,True,True,0.83,4.3
+I000523,R0031,Papdi Chaat,Chaat,Street Food,80,False,True,0.71,4.5
+I000524,R0031,Aloo Chaat,Chaat,Street Food,115,True,True,0.73,4.5
+I000525,R0031,Dahi Puri,Chaat,Street Food,80,False,True,0.61,4.5
+I000526,R0031,Pav Bhaji (2 pav),Pav Bhaji,Street Food,125,False,True,0.6,4.0
+I000527,R0031,Pav Bhaji (4 pav),Pav Bhaji,Street Food,120,False,True,0.46,3.5
+I000528,R0031,Vada Pav,Vada Pav,Street Food,95,False,True,0.42,4.1
+I000529,R0031,Cheese Vada Pav,Vada Pav,Street Food,80,False,True,0.84,4.0
+I000530,R0031,Pani Puri (6 pcs),Pani Puri,Street Food,115,False,True,0.77,4.2
+I000531,R0031,Bhel Puri,Bhel Puri,Street Food,60,False,True,0.79,3.6
+I000532,R0031,Samosa (2 pcs),Samosa,Street Food,60,False,True,0.44,3.9
+I000533,R0031,Samosa (4 pcs),Samosa,Street Food,135,False,True,0.77,4.1
+I000534,R0032,Vanilla Scoop,Ice Cream,Desserts,345,False,True,0.47,4.4
+I000535,R0032,Chocolate Scoop,Ice Cream,Desserts,310,False,True,0.86,3.6
+I000536,R0032,Butterscotch Scoop,Ice Cream,Desserts,275,False,True,0.48,4.0
+I000537,R0032,Sundae,Ice Cream,Desserts,220,False,True,0.85,3.7
+I000538,R0032,Chocolate Brownie,Brownie,Desserts,125,False,True,0.41,3.8
+I000539,R0032,Walnut Brownie,Brownie,Desserts,115,False,True,0.95,4.0
+I000540,R0032,Gulab Jamun (2 pcs),Gulab Jamun,Desserts,145,True,True,0.75,4.7
+I000541,R0032,Gulab Jamun (4 pcs),Gulab Jamun,Desserts,290,True,True,0.8,3.6
+I000542,R0032,Rice Kheer,Kheer,Desserts,295,False,True,0.65,4.5
+I000543,R0032,Vermicelli Kheer,Kheer,Desserts,340,False,True,0.87,4.7
+I000544,R0032,Chocolate Pastry,Pastry,Desserts,145,False,True,0.63,4.9
+I000545,R0032,Black Forest Pastry,Pastry,Desserts,245,False,True,0.37,4.6
+I000546,R0032,Chocolate Truffle Slice,Cake,Desserts,110,False,True,0.82,4.8
+I000547,R0032,Red Velvet Slice,Cake,Desserts,205,False,True,0.59,4.0
+I000548,R0033,Masala Dosa,Dosa,South Indian,140,False,True,0.68,4.4
+I000549,R0033,Plain Dosa,Dosa,South Indian,115,False,True,0.51,4.1
+I000550,R0033,Onion Dosa,Dosa,South Indian,125,False,True,0.99,3.6
+I000551,R0033,Rava Dosa,Dosa,South Indian,55,False,True,0.6,4.5
+I000552,R0033,Ghee Roast Dosa,Dosa,South Indian,90,False,True,1.0,3.8
+I000553,R0033,Idli (2 pcs),Idli,South Indian,50,False,True,0.43,4.8
+I000554,R0033,Idli (4 pcs),Idli,South Indian,65,False,True,0.64,4.1
+I000555,R0033,Mini Idli,Idli,South Indian,115,False,True,0.34,4.5
+I000556,R0033,Sambar Bowl,Sambar,South Indian,85,False,True,0.95,4.8
+I000557,R0033,Drumstick Sambar,Sambar,South Indian,90,False,True,1.0,3.6
+I000558,R0033,Coconut Chutney,Chutney,South Indian,130,False,True,0.6,4.1
+I000559,R0033,Tomato Chutney,Chutney,South Indian,65,False,True,0.66,3.6
+I000560,R0033,Mint Chutney,Chutney,South Indian,110,False,True,0.47,4.6
+I000561,R0033,Steamed Rice,Rice,South Indian,110,False,True,0.82,4.6
+I000562,R0033,Jeera Rice,Rice,South Indian,70,False,True,0.3,4.0
+I000563,R0033,Veg Pulao,Rice,South Indian,140,True,True,0.7,4.6
+I000564,R0033,Egg Fried Rice,Rice,South Indian,140,False,True,0.93,4.3
+I000565,R0033,Tomato Rasam,Rasam,South Indian,105,False,True,0.9,4.7
+I000566,R0033,Pepper Rasam,Rasam,South Indian,120,False,True,0.72,4.4
+I000567,R0033,Filter Coffee,Filter Coffee,South Indian,85,True,True,0.89,4.4
+I000568,R0033,South Indian Coffee,Filter Coffee,South Indian,70,True,True,0.47,4.8
+I000569,R0034,Chicken Biryani,Biryani,Biryani,115,False,True,0.58,3.8
+I000570,R0034,Mutton Biryani,Biryani,Biryani,110,False,True,0.43,4.2
+I000571,R0034,Veg Biryani,Biryani,Biryani,120,True,True,0.7,4.9
+I000572,R0034,Egg Biryani,Biryani,Biryani,55,False,True,0.5,3.6
+I000573,R0034,Prawn Biryani,Biryani,Biryani,70,False,True,0.39,4.6
+I000574,R0034,Boondi Raita,Raita,Biryani,85,False,True,0.95,3.5
+I000575,R0034,Cucumber Raita,Raita,Biryani,115,False,True,0.98,3.8
+I000576,R0034,Mixed Raita,Raita,Biryani,95,False,True,0.79,4.4
+I000577,R0034,Mirchi Ka Salan,Salan,Biryani,105,False,True,0.53,4.6
+I000578,R0034,Shorba,Salan,Biryani,115,False,True,0.41,4.9
+I000579,R0034,Biryani Gravy,Salan,Biryani,105,False,True,0.67,4.8
+I000580,R0034,Chicken Shorba,Shorba,Biryani,115,False,True,0.35,4.3
+I000581,R0034,Veg Shorba,Shorba,Biryani,130,True,True,0.79,5.0
+I000582,R0034,Seekh Kebab,Kebab,Biryani,50,False,True,0.48,4.3
+I000583,R0034,Chicken 65,Kebab,Biryani,110,False,True,0.49,4.7
+I000584,R0034,Reshmi Kebab,Kebab,Biryani,65,False,True,0.3,4.9
+I000585,R0034,Boti Kebab,Kebab,Biryani,90,False,True,0.97,3.9
+I000586,R0034,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,55,True,True,0.84,4.8
+I000587,R0034,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,100,True,True,0.35,4.5
+I000588,R0035,Veg Hakka Noodles,Noodles,Chinese,70,True,True,0.89,3.9
+I000589,R0035,Chicken Noodles,Noodles,Chinese,135,False,True,0.6,4.4
+I000590,R0035,Schezwan Noodles,Noodles,Chinese,130,False,True,0.33,4.7
+I000591,R0035,Veg Fried Rice,Fried Rice,Chinese,65,True,True,0.55,4.2
+I000592,R0035,Egg Fried Rice,Fried Rice,Chinese,140,False,True,0.32,4.3
+I000593,R0035,Chicken Fried Rice,Fried Rice,Chinese,115,False,True,0.52,3.9
+I000594,R0035,Gobi Manchurian,Manchurian,Chinese,100,False,True,0.43,4.2
+I000595,R0035,Chicken Manchurian,Manchurian,Chinese,125,False,True,0.89,4.1
+I000596,R0035,Veg Manchurian,Manchurian,Chinese,110,True,True,0.3,4.3
+I000597,R0035,Veg Spring Roll,Spring Roll,Chinese,150,True,True,0.52,4.4
+I000598,R0035,Chicken Spring Roll,Spring Roll,Chinese,125,False,True,0.73,4.1
+I000599,R0035,Sweet Corn Soup,Soup,Chinese,65,True,True,0.62,3.9
+I000600,R0035,Hot and Sour Soup,Soup,Chinese,120,False,True,0.61,4.8
+I000601,R0035,Manchow Soup,Soup,Chinese,70,False,True,0.59,4.3
+I000602,R0035,Veg Dimsum (6 pcs),Dimsum,Chinese,65,True,True,0.71,3.9
+I000603,R0035,Chicken Dimsum (6 pcs),Dimsum,Chinese,75,False,True,0.4,4.0
+I000604,R0036,Caesar Salad,Salad,Healthy,765,True,True,0.32,4.8
+I000605,R0036,Greek Salad,Salad,Healthy,500,True,True,0.69,4.3
+I000606,R0036,Garden Salad,Salad,Healthy,765,True,True,0.84,5.0
+I000607,R0036,Banana Smoothie,Smoothie,Healthy,695,True,True,0.51,4.9
+I000608,R0036,Mixed Berry Smoothie,Smoothie,Healthy,790,True,True,0.39,4.9
+I000609,R0036,Green Detox Smoothie,Smoothie,Healthy,630,True,True,0.95,4.9
+I000610,R0036,Chicken Wrap,Wrap,Healthy,745,False,True,0.92,3.7
+I000611,R0036,Paneer Wrap,Wrap,Healthy,370,True,True,0.38,3.6
+I000612,R0036,Veg Wrap,Wrap,Healthy,475,True,True,0.78,4.0
+I000613,R0036,Masala Oats,Oats,Healthy,660,True,True,0.87,4.5
+I000614,R0036,Fruit Oats,Oats,Healthy,535,True,True,0.51,3.7
+I000615,R0036,Seasonal Fruit Bowl,Fruit Bowl,Healthy,545,True,True,0.8,4.3
+I000616,R0036,Protein Quinoa Bowl,Quinoa Bowl,Healthy,660,False,True,0.53,3.6
+I000617,R0036,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,685,True,True,0.45,4.4
+I000618,R0037,Papdi Chaat,Chaat,Street Food,300,False,True,0.4,4.4
+I000619,R0037,Aloo Chaat,Chaat,Street Food,270,True,True,0.82,3.7
+I000620,R0037,Dahi Puri,Chaat,Street Food,305,False,True,0.37,4.3
+I000621,R0037,Pav Bhaji (2 pav),Pav Bhaji,Street Food,210,False,True,0.46,4.0
+I000622,R0037,Pav Bhaji (4 pav),Pav Bhaji,Street Food,140,False,True,0.6,3.6
+I000623,R0037,Vada Pav,Vada Pav,Street Food,320,False,True,0.41,4.8
+I000624,R0037,Cheese Vada Pav,Vada Pav,Street Food,315,False,True,0.62,4.2
+I000625,R0037,Pani Puri (6 pcs),Pani Puri,Street Food,175,False,True,1.0,4.5
+I000626,R0037,Bhel Puri,Bhel Puri,Street Food,340,False,True,0.59,4.8
+I000627,R0037,Samosa (2 pcs),Samosa,Street Food,210,False,True,0.91,3.7
+I000628,R0037,Samosa (4 pcs),Samosa,Street Food,260,False,True,0.78,4.5
+I000629,R0038,Vanilla Scoop,Ice Cream,Desserts,525,False,True,0.78,3.9
+I000630,R0038,Chocolate Scoop,Ice Cream,Desserts,600,False,True,0.69,4.0
+I000631,R0038,Butterscotch Scoop,Ice Cream,Desserts,690,False,True,0.36,3.8
+I000632,R0038,Sundae,Ice Cream,Desserts,535,False,True,0.92,4.4
+I000633,R0038,Chocolate Brownie,Brownie,Desserts,720,False,True,0.66,4.7
+I000634,R0038,Walnut Brownie,Brownie,Desserts,465,False,True,0.87,4.1
+I000635,R0038,Gulab Jamun (2 pcs),Gulab Jamun,Desserts,580,True,True,0.42,4.9
+I000636,R0038,Gulab Jamun (4 pcs),Gulab Jamun,Desserts,650,True,True,0.9,3.8
+I000637,R0038,Rice Kheer,Kheer,Desserts,335,False,True,0.54,4.3
+I000638,R0038,Vermicelli Kheer,Kheer,Desserts,700,False,True,0.58,3.9
+I000639,R0038,Chocolate Pastry,Pastry,Desserts,485,False,True,0.79,4.0
+I000640,R0038,Black Forest Pastry,Pastry,Desserts,790,False,True,0.42,4.6
+I000641,R0038,Chocolate Truffle Slice,Cake,Desserts,595,False,True,0.46,4.6
+I000642,R0038,Red Velvet Slice,Cake,Desserts,525,False,True,0.78,4.5
+I000643,R0039,Butter Chicken,Curry,North Indian,60,False,True,0.89,4.5
+I000644,R0039,Palak Paneer,Curry,North Indian,130,True,True,0.61,3.8
+I000645,R0039,Chicken Masala,Curry,North Indian,85,False,True,0.93,4.9
+I000646,R0039,Lamb Curry,Curry,North Indian,100,False,True,0.51,4.6
+I000647,R0039,Mixed Veg Curry,Curry,North Indian,125,True,True,0.87,3.5
+I000648,R0039,Dal Makhani,Dal,North Indian,50,False,True,0.55,3.7
+I000649,R0039,Dal Tadka,Dal,North Indian,130,False,True,0.67,4.7
+I000650,R0039,Dal Fry,Dal,North Indian,70,False,True,0.74,4.4
+I000651,R0039,Chana Masala,Dal,North Indian,85,False,True,0.66,4.4
+I000652,R0039,Paneer Tikka Masala,Paneer Dish,North Indian,140,True,True,0.34,4.7
+I000653,R0039,Shahi Paneer,Paneer Dish,North Indian,150,True,True,0.81,4.6
+I000654,R0039,Kadai Paneer,Paneer Dish,North Indian,70,True,True,0.67,4.6
+I000655,R0039,Matar Paneer,Paneer Dish,North Indian,110,True,True,0.57,4.9
+I000656,R0039,Butter Naan,Bread,North Indian,100,False,True,0.98,4.3
+I000657,R0039,Roti,Bread,North Indian,130,False,True,0.82,4.5
+I000658,R0039,Paratha,Bread,North Indian,50,False,True,0.35,4.4
+I000659,R0039,Garlic Naan,Bread,North Indian,140,False,True,0.72,3.9
+I000660,R0039,Puri,Bread,North Indian,80,False,True,0.74,4.4
+I000661,R0039,Steamed Rice,Rice,North Indian,145,False,True,0.67,4.0
+I000662,R0039,Jeera Rice,Rice,North Indian,100,False,True,0.85,4.3
+I000663,R0039,Veg Pulao,Rice,North Indian,85,True,True,0.54,4.6
+I000664,R0039,Egg Fried Rice,Rice,North Indian,55,False,True,0.49,3.7
+I000665,R0039,Boondi Raita,Raita,North Indian,145,False,True,0.36,4.6
+I000666,R0039,Cucumber Raita,Raita,North Indian,115,False,True,0.74,4.6
+I000667,R0039,Mixed Raita,Raita,North Indian,90,False,True,0.58,3.9
+I000668,R0039,Mango Pickle,Pickle,North Indian,110,False,True,0.95,4.9
+I000669,R0039,Mixed Pickle,Pickle,North Indian,120,False,True,0.93,4.9
+I000670,R0039,Lime Pickle,Pickle,North Indian,130,False,True,0.59,4.2
+I000671,R0040,Veg Burger,Burger,Fast Food,335,True,True,0.77,4.7
+I000672,R0040,Chicken Burger,Burger,Fast Food,130,False,True,0.44,4.0
+I000673,R0040,Zinger Burger,Burger,Fast Food,145,False,True,0.93,3.8
+I000674,R0040,Double Patty Burger,Burger,Fast Food,240,False,True,0.36,3.7
+I000675,R0040,Regular Fries,Fries,Fast Food,160,False,True,0.99,4.7
+I000676,R0040,Cheese Fries,Fries,Fast Food,270,False,True,0.94,4.9
+I000677,R0040,Peri Peri Fries,Fries,Fast Food,215,False,True,0.53,4.0
+I000678,R0040,Chicken Wrap,Wrap,Fast Food,110,False,True,0.5,4.0
+I000679,R0040,Paneer Wrap,Wrap,Fast Food,110,True,True,0.92,4.8
+I000680,R0040,Veg Wrap,Wrap,Fast Food,165,True,True,0.86,4.7
+I000681,R0040,Chicken Nuggets (6 pcs),Nuggets,Fast Food,185,False,True,0.79,3.9
+I000682,R0040,Chicken Nuggets (12 pcs),Nuggets,Fast Food,120,False,True,0.65,4.2
+I000683,R0040,Chocolate Milkshake,Milkshake,Fast Food,135,False,True,0.64,4.9
+I000684,R0040,Strawberry Milkshake,Milkshake,Fast Food,285,False,True,0.82,4.6
+I000685,R0040,Vanilla Milkshake,Milkshake,Fast Food,285,False,True,0.31,4.9
+I000686,R0040,Coke (300ml),Soft Drink,Fast Food,310,False,True,0.49,4.3
+I000687,R0040,Pepsi (300ml),Soft Drink,Fast Food,255,False,True,0.39,3.9
+I000688,R0040,Sprite (300ml),Soft Drink,Fast Food,105,False,True,0.9,3.5
+I000689,R0040,Limca,Soft Drink,Fast Food,180,False,True,0.35,4.7
+I000690,R0041,Caesar Salad,Salad,Healthy,140,True,True,0.69,3.7
+I000691,R0041,Greek Salad,Salad,Healthy,105,True,True,0.84,4.6
+I000692,R0041,Garden Salad,Salad,Healthy,125,True,True,0.5,3.6
+I000693,R0041,Banana Smoothie,Smoothie,Healthy,65,True,True,0.97,4.4
+I000694,R0041,Mixed Berry Smoothie,Smoothie,Healthy,125,True,True,0.93,4.8
+I000695,R0041,Green Detox Smoothie,Smoothie,Healthy,70,True,True,0.34,4.9
+I000696,R0041,Chicken Wrap,Wrap,Healthy,150,False,True,0.7,4.8
+I000697,R0041,Paneer Wrap,Wrap,Healthy,75,True,True,0.38,4.2
+I000698,R0041,Veg Wrap,Wrap,Healthy,130,True,True,0.76,4.5
+I000699,R0041,Masala Oats,Oats,Healthy,50,True,True,0.52,4.9
+I000700,R0041,Fruit Oats,Oats,Healthy,65,True,True,0.81,4.6
+I000701,R0041,Seasonal Fruit Bowl,Fruit Bowl,Healthy,125,True,True,0.99,4.1
+I000702,R0041,Protein Quinoa Bowl,Quinoa Bowl,Healthy,120,False,True,0.44,4.1
+I000703,R0041,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,100,True,True,0.45,4.9
+I000704,R0042,Butter Chicken,Curry,North Indian,280,False,True,0.5,3.7
+I000705,R0042,Palak Paneer,Curry,North Indian,170,True,True,0.74,4.7
+I000706,R0042,Chicken Masala,Curry,North Indian,225,False,True,0.37,3.9
+I000707,R0042,Lamb Curry,Curry,North Indian,185,False,True,0.75,3.9
+I000708,R0042,Mixed Veg Curry,Curry,North Indian,160,True,True,0.5,4.4
+I000709,R0042,Dal Makhani,Dal,North Indian,225,False,True,0.89,4.5
+I000710,R0042,Dal Tadka,Dal,North Indian,265,False,True,0.41,3.6
+I000711,R0042,Dal Fry,Dal,North Indian,225,False,True,0.35,4.0
+I000712,R0042,Chana Masala,Dal,North Indian,105,False,True,0.42,3.7
+I000713,R0042,Paneer Tikka Masala,Paneer Dish,North Indian,300,True,True,0.54,3.6
+I000714,R0042,Shahi Paneer,Paneer Dish,North Indian,165,True,True,0.78,4.6
+I000715,R0042,Kadai Paneer,Paneer Dish,North Indian,130,True,True,0.84,4.1
+I000716,R0042,Matar Paneer,Paneer Dish,North Indian,270,True,True,0.77,4.7
+I000717,R0042,Butter Naan,Bread,North Indian,275,False,True,0.33,4.3
+I000718,R0042,Roti,Bread,North Indian,140,False,True,0.98,3.9
+I000719,R0042,Paratha,Bread,North Indian,205,False,True,0.44,3.7
+I000720,R0042,Garlic Naan,Bread,North Indian,250,False,True,0.65,4.1
+I000721,R0042,Puri,Bread,North Indian,120,False,True,0.82,3.5
+I000722,R0042,Steamed Rice,Rice,North Indian,215,False,True,0.74,4.1
+I000723,R0042,Jeera Rice,Rice,North Indian,130,False,True,0.84,4.0
+I000724,R0042,Veg Pulao,Rice,North Indian,135,True,True,0.69,3.5
+I000725,R0042,Egg Fried Rice,Rice,North Indian,180,False,True,0.83,4.9
+I000726,R0042,Boondi Raita,Raita,North Indian,250,False,True,0.45,3.8
+I000727,R0042,Cucumber Raita,Raita,North Indian,250,False,True,0.58,3.8
+I000728,R0042,Mixed Raita,Raita,North Indian,295,False,True,0.44,4.0
+I000729,R0042,Mango Pickle,Pickle,North Indian,115,False,True,0.79,3.9
+I000730,R0042,Mixed Pickle,Pickle,North Indian,160,False,True,0.51,4.8
+I000731,R0042,Lime Pickle,Pickle,North Indian,230,False,True,0.41,4.7
+I000732,R0043,Coke (300ml),Soft Drink,Beverages,70,False,True,0.59,4.4
+I000733,R0043,Pepsi (300ml),Soft Drink,Beverages,110,False,True,0.35,4.8
+I000734,R0043,Sprite (300ml),Soft Drink,Beverages,100,False,True,0.99,4.6
+I000735,R0043,Limca,Soft Drink,Beverages,150,False,True,0.62,3.7
+I000736,R0043,Fresh Orange Juice,Juice,Beverages,125,True,True,0.84,4.8
+I000737,R0043,Watermelon Juice,Juice,Beverages,80,True,True,0.66,4.8
+I000738,R0043,Mixed Fruit Juice,Juice,Beverages,135,True,True,0.32,4.5
+I000739,R0043,Sweet Lassi,Lassi,Beverages,110,True,True,0.36,4.9
+I000740,R0043,Salted Lassi,Lassi,Beverages,95,True,True,0.77,4.8
+I000741,R0043,Mango Lassi,Lassi,Beverages,65,True,True,0.9,4.6
+I000742,R0043,Masala Chai,Chai,Beverages,135,True,True,0.65,3.6
+I000743,R0043,Ginger Chai,Chai,Beverages,115,True,True,0.56,4.1
+I000744,R0043,Cappuccino,Coffee,Beverages,95,False,True,0.65,4.5
+I000745,R0043,Latte,Coffee,Beverages,125,False,True,0.84,4.5
+I000746,R0043,Espresso,Coffee,Beverages,130,False,True,0.39,4.8
+I000747,R0043,Mineral Water (500ml),Water,Beverages,90,True,True,0.67,4.2
+I000748,R0044,Vanilla Scoop,Ice Cream,Desserts,220,False,True,0.5,3.8
+I000749,R0044,Chocolate Scoop,Ice Cream,Desserts,125,False,True,0.62,3.7
+I000750,R0044,Butterscotch Scoop,Ice Cream,Desserts,160,False,True,0.39,3.7
+I000751,R0044,Sundae,Ice Cream,Desserts,320,False,True,0.77,4.9
+I000752,R0044,Chocolate Brownie,Brownie,Desserts,260,False,True,0.89,4.3
+I000753,R0044,Walnut Brownie,Brownie,Desserts,215,False,True,0.67,4.0
+I000754,R0044,Gulab Jamun (2 pcs),Gulab Jamun,Desserts,265,True,True,0.93,4.7
+I000755,R0044,Gulab Jamun (4 pcs),Gulab Jamun,Desserts,215,True,True,0.97,5.0
+I000756,R0044,Rice Kheer,Kheer,Desserts,225,False,True,0.91,3.5
+I000757,R0044,Vermicelli Kheer,Kheer,Desserts,115,False,True,0.32,4.7
+I000758,R0044,Chocolate Pastry,Pastry,Desserts,120,False,True,0.31,3.7
+I000759,R0044,Black Forest Pastry,Pastry,Desserts,175,False,True,0.63,3.6
+I000760,R0044,Chocolate Truffle Slice,Cake,Desserts,225,False,True,0.47,3.9
+I000761,R0044,Red Velvet Slice,Cake,Desserts,305,False,True,0.99,4.2
+I000762,R0045,Chicken Biryani,Biryani,Biryani,180,False,True,0.95,4.3
+I000763,R0045,Mutton Biryani,Biryani,Biryani,285,False,True,0.59,3.8
+I000764,R0045,Veg Biryani,Biryani,Biryani,265,True,True,0.77,4.2
+I000765,R0045,Egg Biryani,Biryani,Biryani,165,False,True,0.88,3.9
+I000766,R0045,Prawn Biryani,Biryani,Biryani,265,False,True,0.57,4.2
+I000767,R0045,Boondi Raita,Raita,Biryani,155,False,True,0.75,3.8
+I000768,R0045,Cucumber Raita,Raita,Biryani,220,False,True,0.53,4.9
+I000769,R0045,Mixed Raita,Raita,Biryani,345,False,True,0.83,5.0
+I000770,R0045,Mirchi Ka Salan,Salan,Biryani,130,False,True,0.99,3.7
+I000771,R0045,Shorba,Salan,Biryani,205,False,True,0.47,4.9
+I000772,R0045,Biryani Gravy,Salan,Biryani,260,False,True,0.72,5.0
+I000773,R0045,Chicken Shorba,Shorba,Biryani,255,False,True,0.75,3.6
+I000774,R0045,Veg Shorba,Shorba,Biryani,315,True,True,0.98,4.9
+I000775,R0045,Seekh Kebab,Kebab,Biryani,155,False,True,0.46,4.0
+I000776,R0045,Chicken 65,Kebab,Biryani,180,False,True,0.51,4.4
+I000777,R0045,Reshmi Kebab,Kebab,Biryani,300,False,True,0.96,3.6
+I000778,R0045,Boti Kebab,Kebab,Biryani,170,False,True,0.48,4.0
+I000779,R0045,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,205,True,True,0.57,4.9
+I000780,R0045,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,210,True,True,0.69,4.6
+I000781,R0046,Margherita Pizza,Pizza,Italian,125,False,True,0.71,4.8
+I000782,R0046,Pepperoni Pizza,Pizza,Italian,110,False,True,0.91,4.0
+I000783,R0046,BBQ Chicken Pizza,Pizza,Italian,65,False,True,0.87,4.1
+I000784,R0046,Veggie Supreme,Pizza,Italian,115,True,True,0.82,4.0
+I000785,R0046,Arrabiata Pasta,Pasta,Italian,100,False,True,0.93,4.8
+I000786,R0046,Alfredo Pasta,Pasta,Italian,125,False,True,0.83,4.8
+I000787,R0046,Pesto Pasta,Pasta,Italian,125,False,True,0.54,3.7
+I000788,R0046,Mac and Cheese,Pasta,Italian,90,False,True,0.36,3.7
+I000789,R0046,Garlic Bread,Garlic Bread,Italian,145,False,True,0.77,4.8
+I000790,R0046,Cheesy Garlic Bread,Garlic Bread,Italian,115,False,True,0.59,3.5
+I000791,R0046,Mushroom Risotto,Risotto,Italian,145,True,True,0.35,4.4
+I000792,R0046,Chicken Risotto,Risotto,Italian,60,False,True,0.5,3.8
+I000793,R0046,Tiramisu,Tiramisu,Italian,105,False,True,0.92,4.5
+I000794,R0047,Masala Dosa,Dosa,South Indian,265,False,True,0.94,4.6
+I000795,R0047,Plain Dosa,Dosa,South Indian,315,False,True,0.59,4.8
+I000796,R0047,Onion Dosa,Dosa,South Indian,260,False,True,0.39,3.6
+I000797,R0047,Rava Dosa,Dosa,South Indian,160,False,True,0.56,4.8
+I000798,R0047,Ghee Roast Dosa,Dosa,South Indian,285,False,True,0.97,4.3
+I000799,R0047,Idli (2 pcs),Idli,South Indian,285,False,True,0.49,4.5
+I000800,R0047,Idli (4 pcs),Idli,South Indian,275,False,True,0.89,4.3
+I000801,R0047,Mini Idli,Idli,South Indian,260,False,True,0.44,4.6
+I000802,R0047,Sambar Bowl,Sambar,South Indian,310,False,True,0.72,3.7
+I000803,R0047,Drumstick Sambar,Sambar,South Indian,180,False,True,0.63,4.5
+I000804,R0047,Coconut Chutney,Chutney,South Indian,180,False,True,0.89,4.1
+I000805,R0047,Tomato Chutney,Chutney,South Indian,110,False,True,0.86,4.5
+I000806,R0047,Mint Chutney,Chutney,South Indian,300,False,True,0.54,3.5
+I000807,R0047,Steamed Rice,Rice,South Indian,120,False,True,0.38,4.7
+I000808,R0047,Jeera Rice,Rice,South Indian,175,False,True,1.0,4.6
+I000809,R0047,Veg Pulao,Rice,South Indian,250,True,True,0.99,4.0
+I000810,R0047,Egg Fried Rice,Rice,South Indian,140,False,True,0.82,3.9
+I000811,R0047,Tomato Rasam,Rasam,South Indian,340,False,True,0.99,4.9
+I000812,R0047,Pepper Rasam,Rasam,South Indian,335,False,True,0.73,4.5
+I000813,R0047,Filter Coffee,Filter Coffee,South Indian,125,True,True,0.83,3.8
+I000814,R0047,South Indian Coffee,Filter Coffee,South Indian,310,True,True,0.97,3.8
+I000815,R0048,Vanilla Scoop,Ice Cream,Desserts,120,False,True,0.64,4.7
+I000816,R0048,Chocolate Scoop,Ice Cream,Desserts,295,False,True,0.79,4.7
+I000817,R0048,Butterscotch Scoop,Ice Cream,Desserts,145,False,True,0.76,4.4
+I000818,R0048,Sundae,Ice Cream,Desserts,140,False,True,0.59,4.8
+I000819,R0048,Chocolate Brownie,Brownie,Desserts,345,False,True,0.77,4.9
+I000820,R0048,Walnut Brownie,Brownie,Desserts,135,False,True,0.98,3.6
+I000821,R0048,Gulab Jamun (2 pcs),Gulab Jamun,Desserts,230,True,True,0.5,4.7
+I000822,R0048,Gulab Jamun (4 pcs),Gulab Jamun,Desserts,155,True,True,0.31,4.1
+I000823,R0048,Rice Kheer,Kheer,Desserts,115,False,True,0.5,4.5
+I000824,R0048,Vermicelli Kheer,Kheer,Desserts,175,False,True,0.47,3.7
+I000825,R0048,Chocolate Pastry,Pastry,Desserts,135,False,True,0.67,4.5
+I000826,R0048,Black Forest Pastry,Pastry,Desserts,215,False,True,0.39,4.5
+I000827,R0048,Chocolate Truffle Slice,Cake,Desserts,240,False,True,0.57,4.0
+I000828,R0048,Red Velvet Slice,Cake,Desserts,145,False,True,0.4,4.0
+I000829,R0049,Veg Hakka Noodles,Noodles,Chinese,110,True,True,0.61,4.4
+I000830,R0049,Chicken Noodles,Noodles,Chinese,335,False,True,0.74,4.4
+I000831,R0049,Schezwan Noodles,Noodles,Chinese,195,False,True,0.39,4.2
+I000832,R0049,Veg Fried Rice,Fried Rice,Chinese,250,True,True,0.81,4.7
+I000833,R0049,Egg Fried Rice,Fried Rice,Chinese,165,False,True,0.47,4.3
+I000834,R0049,Chicken Fried Rice,Fried Rice,Chinese,240,False,True,0.45,4.4
+I000835,R0049,Gobi Manchurian,Manchurian,Chinese,185,False,True,0.75,3.9
+I000836,R0049,Chicken Manchurian,Manchurian,Chinese,250,False,True,0.84,5.0
+I000837,R0049,Veg Manchurian,Manchurian,Chinese,330,True,True,0.65,4.2
+I000838,R0049,Veg Spring Roll,Spring Roll,Chinese,210,True,True,0.32,3.7
+I000839,R0049,Chicken Spring Roll,Spring Roll,Chinese,115,False,True,0.79,4.1
+I000840,R0049,Sweet Corn Soup,Soup,Chinese,115,True,True,0.78,4.5
+I000841,R0049,Hot and Sour Soup,Soup,Chinese,280,False,True,0.72,3.7
+I000842,R0049,Manchow Soup,Soup,Chinese,115,False,True,0.87,3.8
+I000843,R0049,Veg Dimsum (6 pcs),Dimsum,Chinese,235,True,True,0.64,4.9
+I000844,R0049,Chicken Dimsum (6 pcs),Dimsum,Chinese,240,False,True,0.71,4.0
+I000845,R0050,Chicken Biryani,Biryani,Biryani,780,False,True,0.73,3.5
+I000846,R0050,Mutton Biryani,Biryani,Biryani,580,False,True,0.55,3.5
+I000847,R0050,Veg Biryani,Biryani,Biryani,515,True,True,0.84,4.3
+I000848,R0050,Egg Biryani,Biryani,Biryani,620,False,True,0.75,4.5
+I000849,R0050,Prawn Biryani,Biryani,Biryani,495,False,True,0.56,3.5
+I000850,R0050,Boondi Raita,Raita,Biryani,375,False,True,0.97,4.8
+I000851,R0050,Cucumber Raita,Raita,Biryani,440,False,True,0.58,4.9
+I000852,R0050,Mixed Raita,Raita,Biryani,425,False,True,0.67,3.5
+I000853,R0050,Mirchi Ka Salan,Salan,Biryani,610,False,True,0.95,4.8
+I000854,R0050,Shorba,Salan,Biryani,550,False,True,0.75,4.4
+I000855,R0050,Biryani Gravy,Salan,Biryani,335,False,True,0.41,4.9
+I000856,R0050,Chicken Shorba,Shorba,Biryani,430,False,True,0.57,4.3
+I000857,R0050,Veg Shorba,Shorba,Biryani,790,True,True,0.78,4.4
+I000858,R0050,Seekh Kebab,Kebab,Biryani,560,False,True,0.79,4.5
+I000859,R0050,Chicken 65,Kebab,Biryani,750,False,True,0.68,4.1
+I000860,R0050,Reshmi Kebab,Kebab,Biryani,705,False,True,0.86,3.8
+I000861,R0050,Boti Kebab,Kebab,Biryani,420,False,True,0.97,4.2
+I000862,R0050,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,560,True,True,0.52,4.2
+I000863,R0050,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,670,True,True,0.64,4.0
+I000864,R0051,Veg Burger,Burger,Fast Food,125,True,True,0.95,4.8
+I000865,R0051,Chicken Burger,Burger,Fast Food,300,False,True,0.79,4.3
+I000866,R0051,Zinger Burger,Burger,Fast Food,325,False,True,0.85,4.7
+I000867,R0051,Double Patty Burger,Burger,Fast Food,175,False,True,0.6,4.6
+I000868,R0051,Regular Fries,Fries,Fast Food,195,False,True,0.65,4.5
+I000869,R0051,Cheese Fries,Fries,Fast Food,210,False,True,0.86,3.7
+I000870,R0051,Peri Peri Fries,Fries,Fast Food,280,False,True,0.4,4.9
+I000871,R0051,Chicken Wrap,Wrap,Fast Food,180,False,True,0.86,4.3
+I000872,R0051,Paneer Wrap,Wrap,Fast Food,125,True,True,0.71,4.9
+I000873,R0051,Veg Wrap,Wrap,Fast Food,140,True,True,0.52,4.2
+I000874,R0051,Chicken Nuggets (6 pcs),Nuggets,Fast Food,170,False,True,0.96,4.1
+I000875,R0051,Chicken Nuggets (12 pcs),Nuggets,Fast Food,265,False,True,0.46,3.8
+I000876,R0051,Chocolate Milkshake,Milkshake,Fast Food,145,False,True,0.6,4.3
+I000877,R0051,Strawberry Milkshake,Milkshake,Fast Food,105,False,True,0.88,4.3
+I000878,R0051,Vanilla Milkshake,Milkshake,Fast Food,140,False,True,0.35,3.6
+I000879,R0051,Coke (300ml),Soft Drink,Fast Food,165,False,True,0.65,4.8
+I000880,R0051,Pepsi (300ml),Soft Drink,Fast Food,325,False,True,0.88,4.0
+I000881,R0051,Sprite (300ml),Soft Drink,Fast Food,175,False,True,0.99,4.5
+I000882,R0051,Limca,Soft Drink,Fast Food,175,False,True,0.53,4.2
+I000883,R0052,Veg Hakka Noodles,Noodles,Chinese,110,True,True,0.93,3.8
+I000884,R0052,Chicken Noodles,Noodles,Chinese,60,False,True,0.58,3.9
+I000885,R0052,Schezwan Noodles,Noodles,Chinese,110,False,True,0.79,4.0
+I000886,R0052,Veg Fried Rice,Fried Rice,Chinese,120,True,True,0.54,4.5
+I000887,R0052,Egg Fried Rice,Fried Rice,Chinese,115,False,True,0.49,4.5
+I000888,R0052,Chicken Fried Rice,Fried Rice,Chinese,90,False,True,0.54,3.9
+I000889,R0052,Gobi Manchurian,Manchurian,Chinese,85,False,True,0.85,3.9
+I000890,R0052,Chicken Manchurian,Manchurian,Chinese,120,False,True,0.93,4.0
+I000891,R0052,Veg Manchurian,Manchurian,Chinese,55,True,True,0.32,3.7
+I000892,R0052,Veg Spring Roll,Spring Roll,Chinese,60,True,True,0.82,3.9
+I000893,R0052,Chicken Spring Roll,Spring Roll,Chinese,115,False,True,0.33,3.9
+I000894,R0052,Sweet Corn Soup,Soup,Chinese,75,True,True,0.49,3.8
+I000895,R0052,Hot and Sour Soup,Soup,Chinese,110,False,True,0.76,3.7
+I000896,R0052,Manchow Soup,Soup,Chinese,125,False,True,0.48,3.9
+I000897,R0052,Veg Dimsum (6 pcs),Dimsum,Chinese,135,True,True,0.93,4.7
+I000898,R0052,Chicken Dimsum (6 pcs),Dimsum,Chinese,65,False,True,1.0,4.5
+I000899,R0053,Vanilla Scoop,Ice Cream,Desserts,230,False,True,0.97,4.7
+I000900,R0053,Chocolate Scoop,Ice Cream,Desserts,275,False,True,0.89,4.1
+I000901,R0053,Butterscotch Scoop,Ice Cream,Desserts,270,False,True,0.43,5.0
+I000902,R0053,Sundae,Ice Cream,Desserts,245,False,True,0.87,4.1
+I000903,R0053,Chocolate Brownie,Brownie,Desserts,290,False,True,0.57,4.4
+I000904,R0053,Walnut Brownie,Brownie,Desserts,295,False,True,0.38,4.0
+I000905,R0053,Gulab Jamun (2 pcs),Gulab Jamun,Desserts,235,True,True,0.53,4.0
+I000906,R0053,Gulab Jamun (4 pcs),Gulab Jamun,Desserts,170,True,True,0.46,4.8
+I000907,R0053,Rice Kheer,Kheer,Desserts,330,False,True,0.79,3.5
+I000908,R0053,Vermicelli Kheer,Kheer,Desserts,295,False,True,0.67,4.6
+I000909,R0053,Chocolate Pastry,Pastry,Desserts,210,False,True,0.33,4.5
+I000910,R0053,Black Forest Pastry,Pastry,Desserts,210,False,True,0.91,4.6
+I000911,R0053,Chocolate Truffle Slice,Cake,Desserts,190,False,True,0.81,4.2
+I000912,R0053,Red Velvet Slice,Cake,Desserts,150,False,True,0.59,3.8
+I000913,R0054,Chicken Biryani,Biryani,Biryani,100,False,True,0.47,3.8
+I000914,R0054,Mutton Biryani,Biryani,Biryani,100,False,True,0.85,3.6
+I000915,R0054,Veg Biryani,Biryani,Biryani,210,True,True,0.59,3.8
+I000916,R0054,Egg Biryani,Biryani,Biryani,340,False,True,0.72,4.7
+I000917,R0054,Prawn Biryani,Biryani,Biryani,225,False,True,0.81,5.0
+I000918,R0054,Boondi Raita,Raita,Biryani,185,False,True,0.65,4.3
+I000919,R0054,Cucumber Raita,Raita,Biryani,350,False,True,0.46,4.5
+I000920,R0054,Mixed Raita,Raita,Biryani,135,False,True,0.95,4.4
+I000921,R0054,Mirchi Ka Salan,Salan,Biryani,315,False,True,0.93,4.3
+I000922,R0054,Shorba,Salan,Biryani,270,False,True,0.79,4.2
+I000923,R0054,Biryani Gravy,Salan,Biryani,210,False,True,0.43,4.1
+I000924,R0054,Chicken Shorba,Shorba,Biryani,350,False,True,0.49,4.6
+I000925,R0054,Veg Shorba,Shorba,Biryani,115,True,True,0.63,3.6
+I000926,R0054,Seekh Kebab,Kebab,Biryani,220,False,True,0.32,4.4
+I000927,R0054,Chicken 65,Kebab,Biryani,245,False,True,0.86,4.4
+I000928,R0054,Reshmi Kebab,Kebab,Biryani,330,False,True,0.85,3.7
+I000929,R0054,Boti Kebab,Kebab,Biryani,165,False,True,0.32,4.1
+I000930,R0054,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,225,True,True,0.96,4.3
+I000931,R0054,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,295,True,True,0.49,3.7
+I000932,R0055,Masala Dosa,Dosa,South Indian,305,False,True,0.47,4.8
+I000933,R0055,Plain Dosa,Dosa,South Indian,140,False,True,0.9,4.7
+I000934,R0055,Onion Dosa,Dosa,South Indian,255,False,True,0.9,4.0
+I000935,R0055,Rava Dosa,Dosa,South Indian,140,False,True,0.41,3.9
+I000936,R0055,Ghee Roast Dosa,Dosa,South Indian,210,False,True,0.91,3.6
+I000937,R0055,Idli (2 pcs),Idli,South Indian,330,False,True,0.95,4.6
+I000938,R0055,Idli (4 pcs),Idli,South Indian,325,False,True,0.84,4.3
+I000939,R0055,Mini Idli,Idli,South Indian,250,False,True,0.74,3.7
+I000940,R0055,Sambar Bowl,Sambar,South Indian,150,False,True,0.67,3.7
+I000941,R0055,Drumstick Sambar,Sambar,South Indian,340,False,True,0.65,4.1
+I000942,R0055,Coconut Chutney,Chutney,South Indian,140,False,True,0.59,4.0
+I000943,R0055,Tomato Chutney,Chutney,South Indian,120,False,True,0.98,3.9
+I000944,R0055,Mint Chutney,Chutney,South Indian,275,False,True,0.36,4.9
+I000945,R0055,Steamed Rice,Rice,South Indian,250,False,True,0.76,4.7
+I000946,R0055,Jeera Rice,Rice,South Indian,250,False,True,0.35,4.1
+I000947,R0055,Veg Pulao,Rice,South Indian,165,True,True,0.64,4.1
+I000948,R0055,Egg Fried Rice,Rice,South Indian,305,False,True,0.47,3.8
+I000949,R0055,Tomato Rasam,Rasam,South Indian,340,False,True,0.96,5.0
+I000950,R0055,Pepper Rasam,Rasam,South Indian,240,False,True,0.38,4.8
+I000951,R0055,Filter Coffee,Filter Coffee,South Indian,135,True,True,0.41,3.8
+I000952,R0055,South Indian Coffee,Filter Coffee,South Indian,265,True,True,0.38,4.7
+I000953,R0056,Vanilla Scoop,Ice Cream,Desserts,115,False,True,0.38,4.2
+I000954,R0056,Chocolate Scoop,Ice Cream,Desserts,195,False,True,0.99,5.0
+I000955,R0056,Butterscotch Scoop,Ice Cream,Desserts,145,False,True,0.96,4.5
+I000956,R0056,Sundae,Ice Cream,Desserts,200,False,True,0.82,4.9
+I000957,R0056,Chocolate Brownie,Brownie,Desserts,145,False,True,0.44,4.1
+I000958,R0056,Walnut Brownie,Brownie,Desserts,140,False,True,0.55,4.5
+I000959,R0056,Gulab Jamun (2 pcs),Gulab Jamun,Desserts,305,True,True,0.51,3.9
+I000960,R0056,Gulab Jamun (4 pcs),Gulab Jamun,Desserts,295,True,True,0.57,4.7
+I000961,R0056,Rice Kheer,Kheer,Desserts,350,False,True,0.99,4.5
+I000962,R0056,Vermicelli Kheer,Kheer,Desserts,195,False,True,0.35,4.6
+I000963,R0056,Chocolate Pastry,Pastry,Desserts,345,False,True,0.35,3.5
+I000964,R0056,Black Forest Pastry,Pastry,Desserts,310,False,True,0.37,3.6
+I000965,R0056,Chocolate Truffle Slice,Cake,Desserts,330,False,True,0.36,3.7
+I000966,R0056,Red Velvet Slice,Cake,Desserts,240,False,True,0.83,4.1
+I000967,R0057,Caesar Salad,Salad,Healthy,205,True,True,0.74,4.3
+I000968,R0057,Greek Salad,Salad,Healthy,105,True,True,0.38,4.4
+I000969,R0057,Garden Salad,Salad,Healthy,300,True,True,0.83,4.6
+I000970,R0057,Banana Smoothie,Smoothie,Healthy,295,True,True,0.33,4.8
+I000971,R0057,Mixed Berry Smoothie,Smoothie,Healthy,320,True,True,0.67,3.9
+I000972,R0057,Green Detox Smoothie,Smoothie,Healthy,250,True,True,0.69,3.8
+I000973,R0057,Chicken Wrap,Wrap,Healthy,250,False,True,0.86,4.7
+I000974,R0057,Paneer Wrap,Wrap,Healthy,115,True,True,0.44,4.5
+I000975,R0057,Veg Wrap,Wrap,Healthy,315,True,True,0.66,4.6
+I000976,R0057,Masala Oats,Oats,Healthy,105,True,True,0.73,4.9
+I000977,R0057,Fruit Oats,Oats,Healthy,265,True,True,0.95,4.3
+I000978,R0057,Seasonal Fruit Bowl,Fruit Bowl,Healthy,310,True,True,0.39,3.7
+I000979,R0057,Protein Quinoa Bowl,Quinoa Bowl,Healthy,130,False,True,0.64,4.0
+I000980,R0057,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,280,True,True,0.93,4.4
+I000981,R0058,Papdi Chaat,Chaat,Street Food,155,False,True,0.95,4.3
+I000982,R0058,Aloo Chaat,Chaat,Street Food,280,True,True,0.92,5.0
+I000983,R0058,Dahi Puri,Chaat,Street Food,225,False,True,0.87,4.4
+I000984,R0058,Pav Bhaji (2 pav),Pav Bhaji,Street Food,220,False,True,0.68,4.2
+I000985,R0058,Pav Bhaji (4 pav),Pav Bhaji,Street Food,205,False,True,0.81,3.9
+I000986,R0058,Vada Pav,Vada Pav,Street Food,255,False,True,0.8,4.8
+I000987,R0058,Cheese Vada Pav,Vada Pav,Street Food,185,False,True,0.9,4.9
+I000988,R0058,Pani Puri (6 pcs),Pani Puri,Street Food,260,False,True,0.84,4.1
+I000989,R0058,Bhel Puri,Bhel Puri,Street Food,340,False,True,0.77,4.0
+I000990,R0058,Samosa (2 pcs),Samosa,Street Food,200,False,True,0.73,3.9
+I000991,R0058,Samosa (4 pcs),Samosa,Street Food,290,False,True,0.46,4.4
+I000992,R0059,Chicken Biryani,Biryani,Biryani,120,False,True,0.9,4.6
+I000993,R0059,Mutton Biryani,Biryani,Biryani,130,False,True,0.94,4.4
+I000994,R0059,Veg Biryani,Biryani,Biryani,135,True,True,0.46,4.7
+I000995,R0059,Egg Biryani,Biryani,Biryani,70,False,True,0.95,4.0
+I000996,R0059,Prawn Biryani,Biryani,Biryani,65,False,True,0.4,3.8
+I000997,R0059,Boondi Raita,Raita,Biryani,95,False,True,0.67,4.9
+I000998,R0059,Cucumber Raita,Raita,Biryani,90,False,True,0.45,4.6
+I000999,R0059,Mixed Raita,Raita,Biryani,65,False,True,0.92,4.1
+I001000,R0059,Mirchi Ka Salan,Salan,Biryani,110,False,True,0.43,3.7
+I001001,R0059,Shorba,Salan,Biryani,130,False,True,0.6,5.0
+I001002,R0059,Biryani Gravy,Salan,Biryani,100,False,True,0.89,5.0
+I001003,R0059,Chicken Shorba,Shorba,Biryani,80,False,True,0.86,3.5
+I001004,R0059,Veg Shorba,Shorba,Biryani,120,True,True,0.82,4.2
+I001005,R0059,Seekh Kebab,Kebab,Biryani,65,False,True,0.73,4.8
+I001006,R0059,Chicken 65,Kebab,Biryani,145,False,True,0.82,3.9
+I001007,R0059,Reshmi Kebab,Kebab,Biryani,135,False,True,0.92,4.1
+I001008,R0059,Boti Kebab,Kebab,Biryani,70,False,True,0.91,4.8
+I001009,R0059,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,60,True,True,0.98,4.3
+I001010,R0059,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,150,True,True,0.61,4.3
+I001011,R0060,Coke (300ml),Soft Drink,Beverages,435,False,True,0.93,4.2
+I001012,R0060,Pepsi (300ml),Soft Drink,Beverages,705,False,True,0.36,4.7
+I001013,R0060,Sprite (300ml),Soft Drink,Beverages,545,False,True,0.3,3.8
+I001014,R0060,Limca,Soft Drink,Beverages,395,False,True,0.83,4.2
+I001015,R0060,Fresh Orange Juice,Juice,Beverages,380,True,True,0.48,4.3
+I001016,R0060,Watermelon Juice,Juice,Beverages,310,True,True,0.6,4.5
+I001017,R0060,Mixed Fruit Juice,Juice,Beverages,560,True,True,0.72,4.0
+I001018,R0060,Sweet Lassi,Lassi,Beverages,390,True,True,0.87,4.9
+I001019,R0060,Salted Lassi,Lassi,Beverages,555,True,True,0.51,4.3
+I001020,R0060,Mango Lassi,Lassi,Beverages,740,True,True,0.78,4.8
+I001021,R0060,Masala Chai,Chai,Beverages,465,True,True,0.8,4.5
+I001022,R0060,Ginger Chai,Chai,Beverages,585,True,True,0.67,4.3
+I001023,R0060,Cappuccino,Coffee,Beverages,725,False,True,0.94,3.7
+I001024,R0060,Latte,Coffee,Beverages,585,False,True,0.94,3.7
+I001025,R0060,Espresso,Coffee,Beverages,505,False,True,0.36,3.7
+I001026,R0060,Mineral Water (500ml),Water,Beverages,750,True,True,0.61,4.5
+I001027,R0061,Veg Hakka Noodles,Noodles,Chinese,65,True,True,0.32,4.8
+I001028,R0061,Chicken Noodles,Noodles,Chinese,105,False,True,0.31,5.0
+I001029,R0061,Schezwan Noodles,Noodles,Chinese,100,False,True,0.63,4.4
+I001030,R0061,Veg Fried Rice,Fried Rice,Chinese,50,True,True,0.7,4.4
+I001031,R0061,Egg Fried Rice,Fried Rice,Chinese,80,False,True,0.81,4.1
+I001032,R0061,Chicken Fried Rice,Fried Rice,Chinese,120,False,True,0.4,4.9
+I001033,R0061,Gobi Manchurian,Manchurian,Chinese,140,False,True,0.41,4.9
+I001034,R0061,Chicken Manchurian,Manchurian,Chinese,105,False,True,0.79,4.8
+I001035,R0061,Veg Manchurian,Manchurian,Chinese,60,True,True,0.42,3.9
+I001036,R0061,Veg Spring Roll,Spring Roll,Chinese,100,True,True,0.54,4.3
+I001037,R0061,Chicken Spring Roll,Spring Roll,Chinese,70,False,True,0.78,3.6
+I001038,R0061,Sweet Corn Soup,Soup,Chinese,85,True,True,0.43,4.6
+I001039,R0061,Hot and Sour Soup,Soup,Chinese,140,False,True,0.36,4.7
+I001040,R0061,Manchow Soup,Soup,Chinese,140,False,True,0.98,4.4
+I001041,R0061,Veg Dimsum (6 pcs),Dimsum,Chinese,85,True,True,0.53,4.1
+I001042,R0061,Chicken Dimsum (6 pcs),Dimsum,Chinese,110,False,True,0.64,4.5
+I001043,R0062,Papdi Chaat,Chaat,Street Food,320,False,True,0.37,5.0
+I001044,R0062,Aloo Chaat,Chaat,Street Food,800,True,True,0.82,3.9
+I001045,R0062,Dahi Puri,Chaat,Street Food,775,False,True,0.45,4.6
+I001046,R0062,Pav Bhaji (2 pav),Pav Bhaji,Street Food,360,False,True,0.75,4.6
+I001047,R0062,Pav Bhaji (4 pav),Pav Bhaji,Street Food,730,False,True,0.81,4.9
+I001048,R0062,Vada Pav,Vada Pav,Street Food,560,False,True,0.77,4.1
+I001049,R0062,Cheese Vada Pav,Vada Pav,Street Food,305,False,True,0.83,4.8
+I001050,R0062,Pani Puri (6 pcs),Pani Puri,Street Food,385,False,True,0.32,3.7
+I001051,R0062,Bhel Puri,Bhel Puri,Street Food,750,False,True,0.51,3.9
+I001052,R0062,Samosa (2 pcs),Samosa,Street Food,305,False,True,0.51,4.6
+I001053,R0062,Samosa (4 pcs),Samosa,Street Food,780,False,True,0.52,3.9
+I001054,R0063,Caesar Salad,Salad,Healthy,140,True,True,0.9,4.0
+I001055,R0063,Greek Salad,Salad,Healthy,55,True,True,0.99,4.5
+I001056,R0063,Garden Salad,Salad,Healthy,145,True,True,0.54,4.5
+I001057,R0063,Banana Smoothie,Smoothie,Healthy,115,True,True,0.91,5.0
+I001058,R0063,Mixed Berry Smoothie,Smoothie,Healthy,60,True,True,0.74,4.0
+I001059,R0063,Green Detox Smoothie,Smoothie,Healthy,130,True,True,0.83,4.8
+I001060,R0063,Chicken Wrap,Wrap,Healthy,85,False,True,0.43,3.5
+I001061,R0063,Paneer Wrap,Wrap,Healthy,75,True,True,0.56,4.9
+I001062,R0063,Veg Wrap,Wrap,Healthy,100,True,True,0.69,4.8
+I001063,R0063,Masala Oats,Oats,Healthy,140,True,True,0.67,3.7
+I001064,R0063,Fruit Oats,Oats,Healthy,75,True,True,0.62,4.6
+I001065,R0063,Seasonal Fruit Bowl,Fruit Bowl,Healthy,120,True,True,0.75,4.8
+I001066,R0063,Protein Quinoa Bowl,Quinoa Bowl,Healthy,130,False,True,0.99,4.8
+I001067,R0063,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,70,True,True,0.34,4.1
+I001068,R0064,Veg Hakka Noodles,Noodles,Chinese,610,True,True,0.75,3.9
+I001069,R0064,Chicken Noodles,Noodles,Chinese,730,False,True,0.53,4.9
+I001070,R0064,Schezwan Noodles,Noodles,Chinese,535,False,True,0.31,3.7
+I001071,R0064,Veg Fried Rice,Fried Rice,Chinese,350,True,True,0.33,4.6
+I001072,R0064,Egg Fried Rice,Fried Rice,Chinese,395,False,True,0.89,3.9
+I001073,R0064,Chicken Fried Rice,Fried Rice,Chinese,315,False,True,0.87,4.2
+I001074,R0064,Gobi Manchurian,Manchurian,Chinese,600,False,True,0.54,3.6
+I001075,R0064,Chicken Manchurian,Manchurian,Chinese,485,False,True,0.66,3.5
+I001076,R0064,Veg Manchurian,Manchurian,Chinese,585,True,True,0.93,3.8
+I001077,R0064,Veg Spring Roll,Spring Roll,Chinese,765,True,True,0.37,4.7
+I001078,R0064,Chicken Spring Roll,Spring Roll,Chinese,720,False,True,0.48,4.9
+I001079,R0064,Sweet Corn Soup,Soup,Chinese,510,True,True,0.4,4.4
+I001080,R0064,Hot and Sour Soup,Soup,Chinese,800,False,True,0.93,3.9
+I001081,R0064,Manchow Soup,Soup,Chinese,590,False,True,0.38,4.2
+I001082,R0064,Veg Dimsum (6 pcs),Dimsum,Chinese,560,True,True,0.52,4.2
+I001083,R0064,Chicken Dimsum (6 pcs),Dimsum,Chinese,760,False,True,0.65,4.7
+I001084,R0065,Chicken Biryani,Biryani,Biryani,80,False,True,0.98,3.6
+I001085,R0065,Mutton Biryani,Biryani,Biryani,110,False,True,0.85,4.7
+I001086,R0065,Veg Biryani,Biryani,Biryani,70,True,True,0.58,4.4
+I001087,R0065,Egg Biryani,Biryani,Biryani,80,False,True,0.76,4.1
+I001088,R0065,Prawn Biryani,Biryani,Biryani,85,False,True,0.38,3.6
+I001089,R0065,Boondi Raita,Raita,Biryani,135,False,True,0.64,4.3
+I001090,R0065,Cucumber Raita,Raita,Biryani,85,False,True,0.4,4.2
+I001091,R0065,Mixed Raita,Raita,Biryani,75,False,True,0.89,5.0
+I001092,R0065,Mirchi Ka Salan,Salan,Biryani,140,False,True,0.67,4.4
+I001093,R0065,Shorba,Salan,Biryani,145,False,True,0.68,4.5
+I001094,R0065,Biryani Gravy,Salan,Biryani,115,False,True,0.8,4.5
+I001095,R0065,Chicken Shorba,Shorba,Biryani,115,False,True,0.81,4.7
+I001096,R0065,Veg Shorba,Shorba,Biryani,90,True,True,0.82,3.7
+I001097,R0065,Seekh Kebab,Kebab,Biryani,140,False,True,0.5,4.1
+I001098,R0065,Chicken 65,Kebab,Biryani,130,False,True,0.75,4.0
+I001099,R0065,Reshmi Kebab,Kebab,Biryani,75,False,True,0.97,3.6
+I001100,R0065,Boti Kebab,Kebab,Biryani,50,False,True,0.77,4.4
+I001101,R0065,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,125,True,True,0.81,4.8
+I001102,R0065,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,140,True,True,0.84,3.8
+I001103,R0066,Chicken Biryani,Biryani,Biryani,215,False,True,0.75,4.3
+I001104,R0066,Mutton Biryani,Biryani,Biryani,140,False,True,0.71,4.8
+I001105,R0066,Veg Biryani,Biryani,Biryani,205,True,True,0.77,4.4
+I001106,R0066,Egg Biryani,Biryani,Biryani,195,False,True,0.7,3.8
+I001107,R0066,Prawn Biryani,Biryani,Biryani,235,False,True,0.86,4.6
+I001108,R0066,Boondi Raita,Raita,Biryani,190,False,True,0.38,4.7
+I001109,R0066,Cucumber Raita,Raita,Biryani,165,False,True,0.34,4.2
+I001110,R0066,Mixed Raita,Raita,Biryani,285,False,True,0.87,5.0
+I001111,R0066,Mirchi Ka Salan,Salan,Biryani,145,False,True,0.51,4.4
+I001112,R0066,Shorba,Salan,Biryani,305,False,True,0.46,4.1
+I001113,R0066,Biryani Gravy,Salan,Biryani,200,False,True,0.84,3.9
+I001114,R0066,Chicken Shorba,Shorba,Biryani,340,False,True,0.66,3.9
+I001115,R0066,Veg Shorba,Shorba,Biryani,170,True,True,0.31,4.5
+I001116,R0066,Seekh Kebab,Kebab,Biryani,295,False,True,0.32,4.4
+I001117,R0066,Chicken 65,Kebab,Biryani,295,False,True,0.56,4.1
+I001118,R0066,Reshmi Kebab,Kebab,Biryani,190,False,True,0.52,4.2
+I001119,R0066,Boti Kebab,Kebab,Biryani,140,False,True,0.61,4.9
+I001120,R0066,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,105,True,True,0.42,4.7
+I001121,R0066,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,135,True,True,0.49,4.2
+I001122,R0067,Butter Chicken,Curry,North Indian,145,False,True,0.43,4.9
+I001123,R0067,Palak Paneer,Curry,North Indian,120,True,True,0.77,4.6
+I001124,R0067,Chicken Masala,Curry,North Indian,55,False,True,0.37,4.0
+I001125,R0067,Lamb Curry,Curry,North Indian,55,False,True,0.99,4.4
+I001126,R0067,Mixed Veg Curry,Curry,North Indian,100,True,True,0.85,5.0
+I001127,R0067,Dal Makhani,Dal,North Indian,145,False,True,0.86,4.1
+I001128,R0067,Dal Tadka,Dal,North Indian,55,False,True,0.37,3.5
+I001129,R0067,Dal Fry,Dal,North Indian,50,False,True,0.96,4.9
+I001130,R0067,Chana Masala,Dal,North Indian,115,False,True,0.81,4.3
+I001131,R0067,Paneer Tikka Masala,Paneer Dish,North Indian,75,True,True,0.94,3.9
+I001132,R0067,Shahi Paneer,Paneer Dish,North Indian,125,True,True,0.47,4.8
+I001133,R0067,Kadai Paneer,Paneer Dish,North Indian,115,True,True,0.75,3.6
+I001134,R0067,Matar Paneer,Paneer Dish,North Indian,90,True,True,0.67,3.9
+I001135,R0067,Butter Naan,Bread,North Indian,140,False,True,0.89,4.2
+I001136,R0067,Roti,Bread,North Indian,85,False,True,0.86,3.8
+I001137,R0067,Paratha,Bread,North Indian,55,False,True,0.33,3.6
+I001138,R0067,Garlic Naan,Bread,North Indian,100,False,True,0.48,4.5
+I001139,R0067,Puri,Bread,North Indian,115,False,True,0.68,4.0
+I001140,R0067,Steamed Rice,Rice,North Indian,135,False,True,0.8,3.9
+I001141,R0067,Jeera Rice,Rice,North Indian,100,False,True,0.41,4.0
+I001142,R0067,Veg Pulao,Rice,North Indian,150,True,True,0.46,4.5
+I001143,R0067,Egg Fried Rice,Rice,North Indian,75,False,True,0.96,4.0
+I001144,R0067,Boondi Raita,Raita,North Indian,85,False,True,0.72,4.4
+I001145,R0067,Cucumber Raita,Raita,North Indian,110,False,True,0.7,4.0
+I001146,R0067,Mixed Raita,Raita,North Indian,95,False,True,0.72,4.5
+I001147,R0067,Mango Pickle,Pickle,North Indian,75,False,True,0.79,4.9
+I001148,R0067,Mixed Pickle,Pickle,North Indian,125,False,True,0.36,4.2
+I001149,R0067,Lime Pickle,Pickle,North Indian,95,False,True,0.54,4.2
+I001150,R0068,Veg Burger,Burger,Fast Food,520,True,True,0.3,3.9
+I001151,R0068,Chicken Burger,Burger,Fast Food,405,False,True,0.54,3.8
+I001152,R0068,Zinger Burger,Burger,Fast Food,335,False,True,0.44,4.8
+I001153,R0068,Double Patty Burger,Burger,Fast Food,700,False,True,0.61,4.8
+I001154,R0068,Regular Fries,Fries,Fast Food,415,False,True,0.71,3.7
+I001155,R0068,Cheese Fries,Fries,Fast Food,715,False,True,0.39,3.5
+I001156,R0068,Peri Peri Fries,Fries,Fast Food,435,False,True,0.93,3.7
+I001157,R0068,Chicken Wrap,Wrap,Fast Food,465,False,True,0.52,4.7
+I001158,R0068,Paneer Wrap,Wrap,Fast Food,510,True,True,0.73,4.1
+I001159,R0068,Veg Wrap,Wrap,Fast Food,575,True,True,0.34,4.1
+I001160,R0068,Chicken Nuggets (6 pcs),Nuggets,Fast Food,730,False,True,0.78,5.0
+I001161,R0068,Chicken Nuggets (12 pcs),Nuggets,Fast Food,695,False,True,0.62,4.5
+I001162,R0068,Chocolate Milkshake,Milkshake,Fast Food,690,False,True,0.49,3.6
+I001163,R0068,Strawberry Milkshake,Milkshake,Fast Food,505,False,True,0.4,3.9
+I001164,R0068,Vanilla Milkshake,Milkshake,Fast Food,775,False,True,0.89,4.4
+I001165,R0068,Coke (300ml),Soft Drink,Fast Food,500,False,True,0.49,4.4
+I001166,R0068,Pepsi (300ml),Soft Drink,Fast Food,565,False,True,0.85,4.9
+I001167,R0068,Sprite (300ml),Soft Drink,Fast Food,465,False,True,0.44,4.1
+I001168,R0068,Limca,Soft Drink,Fast Food,520,False,True,0.33,4.8
+I001169,R0069,Coke (300ml),Soft Drink,Beverages,150,False,True,0.95,4.8
+I001170,R0069,Pepsi (300ml),Soft Drink,Beverages,150,False,True,0.94,4.5
+I001171,R0069,Sprite (300ml),Soft Drink,Beverages,65,False,True,0.41,3.6
+I001172,R0069,Limca,Soft Drink,Beverages,90,False,True,0.87,4.2
+I001173,R0069,Fresh Orange Juice,Juice,Beverages,85,True,True,0.38,3.6
+I001174,R0069,Watermelon Juice,Juice,Beverages,90,True,True,0.37,3.7
+I001175,R0069,Mixed Fruit Juice,Juice,Beverages,90,True,True,0.65,3.8
+I001176,R0069,Sweet Lassi,Lassi,Beverages,120,True,True,0.59,3.6
+I001177,R0069,Salted Lassi,Lassi,Beverages,115,True,True,0.55,3.6
+I001178,R0069,Mango Lassi,Lassi,Beverages,145,True,True,0.7,4.2
+I001179,R0069,Masala Chai,Chai,Beverages,135,True,True,0.96,3.8
+I001180,R0069,Ginger Chai,Chai,Beverages,130,True,True,0.88,3.6
+I001181,R0069,Cappuccino,Coffee,Beverages,120,False,True,0.34,4.4
+I001182,R0069,Latte,Coffee,Beverages,115,False,True,0.56,4.8
+I001183,R0069,Espresso,Coffee,Beverages,130,False,True,0.95,4.0
+I001184,R0069,Mineral Water (500ml),Water,Beverages,50,True,True,0.87,3.8
+I001185,R0070,Veg Hakka Noodles,Noodles,Chinese,95,True,True,0.87,3.8
+I001186,R0070,Chicken Noodles,Noodles,Chinese,80,False,True,0.61,3.9
+I001187,R0070,Schezwan Noodles,Noodles,Chinese,95,False,True,0.31,3.8
+I001188,R0070,Veg Fried Rice,Fried Rice,Chinese,135,True,True,0.59,4.5
+I001189,R0070,Egg Fried Rice,Fried Rice,Chinese,75,False,True,0.75,5.0
+I001190,R0070,Chicken Fried Rice,Fried Rice,Chinese,110,False,True,0.74,3.7
+I001191,R0070,Gobi Manchurian,Manchurian,Chinese,90,False,True,0.9,4.8
+I001192,R0070,Chicken Manchurian,Manchurian,Chinese,100,False,True,0.93,3.7
+I001193,R0070,Veg Manchurian,Manchurian,Chinese,115,True,True,0.47,4.5
+I001194,R0070,Veg Spring Roll,Spring Roll,Chinese,60,True,True,0.96,4.7
+I001195,R0070,Chicken Spring Roll,Spring Roll,Chinese,70,False,True,0.75,4.6
+I001196,R0070,Sweet Corn Soup,Soup,Chinese,70,True,True,0.37,4.0
+I001197,R0070,Hot and Sour Soup,Soup,Chinese,65,False,True,0.7,4.1
+I001198,R0070,Manchow Soup,Soup,Chinese,95,False,True,0.68,5.0
+I001199,R0070,Veg Dimsum (6 pcs),Dimsum,Chinese,130,True,True,0.74,4.0
+I001200,R0070,Chicken Dimsum (6 pcs),Dimsum,Chinese,55,False,True,0.38,4.6
+I001201,R0071,Caesar Salad,Salad,Healthy,190,True,True,0.53,4.8
+I001202,R0071,Greek Salad,Salad,Healthy,220,True,True,0.93,4.8
+I001203,R0071,Garden Salad,Salad,Healthy,120,True,True,0.96,3.6
+I001204,R0071,Banana Smoothie,Smoothie,Healthy,340,True,True,0.62,4.6
+I001205,R0071,Mixed Berry Smoothie,Smoothie,Healthy,275,True,True,0.66,4.4
+I001206,R0071,Green Detox Smoothie,Smoothie,Healthy,335,True,True,0.95,4.5
+I001207,R0071,Chicken Wrap,Wrap,Healthy,265,False,True,0.47,4.7
+I001208,R0071,Paneer Wrap,Wrap,Healthy,260,True,True,0.88,4.5
+I001209,R0071,Veg Wrap,Wrap,Healthy,175,True,True,0.43,3.6
+I001210,R0071,Masala Oats,Oats,Healthy,245,True,True,0.5,4.4
+I001211,R0071,Fruit Oats,Oats,Healthy,115,True,True,0.56,3.9
+I001212,R0071,Seasonal Fruit Bowl,Fruit Bowl,Healthy,195,True,True,0.34,4.6
+I001213,R0071,Protein Quinoa Bowl,Quinoa Bowl,Healthy,130,False,True,0.31,4.9
+I001214,R0071,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,150,True,True,0.88,4.9
+I001215,R0072,Butter Chicken,Curry,North Indian,235,False,True,0.67,4.1
+I001216,R0072,Palak Paneer,Curry,North Indian,205,True,True,0.64,3.7
+I001217,R0072,Chicken Masala,Curry,North Indian,190,False,True,0.87,3.8
+I001218,R0072,Lamb Curry,Curry,North Indian,280,False,True,0.76,3.6
+I001219,R0072,Mixed Veg Curry,Curry,North Indian,105,True,True,0.55,4.5
+I001220,R0072,Dal Makhani,Dal,North Indian,185,False,True,0.77,4.5
+I001221,R0072,Dal Tadka,Dal,North Indian,300,False,True,0.37,4.4
+I001222,R0072,Dal Fry,Dal,North Indian,115,False,True,0.42,4.0
+I001223,R0072,Chana Masala,Dal,North Indian,275,False,True,0.98,4.0
+I001224,R0072,Paneer Tikka Masala,Paneer Dish,North Indian,230,True,True,0.48,4.5
+I001225,R0072,Shahi Paneer,Paneer Dish,North Indian,190,True,True,0.64,4.4
+I001226,R0072,Kadai Paneer,Paneer Dish,North Indian,270,True,True,0.34,4.3
+I001227,R0072,Matar Paneer,Paneer Dish,North Indian,210,True,True,0.39,3.8
+I001228,R0072,Butter Naan,Bread,North Indian,320,False,True,0.91,3.5
+I001229,R0072,Roti,Bread,North Indian,270,False,True,0.69,4.9
+I001230,R0072,Paratha,Bread,North Indian,325,False,True,0.71,3.7
+I001231,R0072,Garlic Naan,Bread,North Indian,215,False,True,0.81,4.9
+I001232,R0072,Puri,Bread,North Indian,190,False,True,0.85,4.5
+I001233,R0072,Steamed Rice,Rice,North Indian,120,False,True,0.69,3.8
+I001234,R0072,Jeera Rice,Rice,North Indian,270,False,True,0.73,5.0
+I001235,R0072,Veg Pulao,Rice,North Indian,335,True,True,0.31,3.6
+I001236,R0072,Egg Fried Rice,Rice,North Indian,290,False,True,0.78,4.7
+I001237,R0072,Boondi Raita,Raita,North Indian,165,False,True,0.89,4.2
+I001238,R0072,Cucumber Raita,Raita,North Indian,165,False,True,0.31,4.8
+I001239,R0072,Mixed Raita,Raita,North Indian,235,False,True,0.98,4.6
+I001240,R0072,Mango Pickle,Pickle,North Indian,120,False,True,0.71,3.5
+I001241,R0072,Mixed Pickle,Pickle,North Indian,240,False,True,0.55,4.5
+I001242,R0072,Lime Pickle,Pickle,North Indian,235,False,True,0.48,3.7
+I001243,R0073,Coke (300ml),Soft Drink,Beverages,90,False,True,0.99,4.2
+I001244,R0073,Pepsi (300ml),Soft Drink,Beverages,125,False,True,0.34,4.1
+I001245,R0073,Sprite (300ml),Soft Drink,Beverages,110,False,True,0.83,4.3
+I001246,R0073,Limca,Soft Drink,Beverages,100,False,True,0.83,4.0
+I001247,R0073,Fresh Orange Juice,Juice,Beverages,60,True,True,0.54,3.7
+I001248,R0073,Watermelon Juice,Juice,Beverages,145,True,True,0.7,4.2
+I001249,R0073,Mixed Fruit Juice,Juice,Beverages,140,True,True,0.93,4.1
+I001250,R0073,Sweet Lassi,Lassi,Beverages,135,True,True,0.34,4.8
+I001251,R0073,Salted Lassi,Lassi,Beverages,80,True,True,0.7,3.9
+I001252,R0073,Mango Lassi,Lassi,Beverages,150,True,True,0.35,4.2
+I001253,R0073,Masala Chai,Chai,Beverages,110,True,True,0.73,4.6
+I001254,R0073,Ginger Chai,Chai,Beverages,120,True,True,0.86,3.9
+I001255,R0073,Cappuccino,Coffee,Beverages,85,False,True,0.57,4.9
+I001256,R0073,Latte,Coffee,Beverages,90,False,True,0.46,4.4
+I001257,R0073,Espresso,Coffee,Beverages,95,False,True,0.48,4.6
+I001258,R0073,Mineral Water (500ml),Water,Beverages,70,True,True,0.74,4.1
+I001259,R0074,Veg Hakka Noodles,Noodles,Chinese,80,True,True,0.96,4.0
+I001260,R0074,Chicken Noodles,Noodles,Chinese,85,False,True,0.91,3.7
+I001261,R0074,Schezwan Noodles,Noodles,Chinese,60,False,True,0.5,4.4
+I001262,R0074,Veg Fried Rice,Fried Rice,Chinese,90,True,True,0.73,3.7
+I001263,R0074,Egg Fried Rice,Fried Rice,Chinese,75,False,True,0.7,3.8
+I001264,R0074,Chicken Fried Rice,Fried Rice,Chinese,90,False,True,0.7,5.0
+I001265,R0074,Gobi Manchurian,Manchurian,Chinese,60,False,True,0.62,4.1
+I001266,R0074,Chicken Manchurian,Manchurian,Chinese,130,False,True,0.93,4.9
+I001267,R0074,Veg Manchurian,Manchurian,Chinese,90,True,True,0.51,4.2
+I001268,R0074,Veg Spring Roll,Spring Roll,Chinese,85,True,True,0.8,3.8
+I001269,R0074,Chicken Spring Roll,Spring Roll,Chinese,115,False,True,0.95,3.9
+I001270,R0074,Sweet Corn Soup,Soup,Chinese,120,True,True,0.4,3.7
+I001271,R0074,Hot and Sour Soup,Soup,Chinese,60,False,True,0.4,3.8
+I001272,R0074,Manchow Soup,Soup,Chinese,105,False,True,0.84,3.7
+I001273,R0074,Veg Dimsum (6 pcs),Dimsum,Chinese,135,True,True,0.89,4.6
+I001274,R0074,Chicken Dimsum (6 pcs),Dimsum,Chinese,95,False,True,0.3,4.6
+I001275,R0075,Margherita Pizza,Pizza,Italian,140,False,True,0.53,4.6
+I001276,R0075,Pepperoni Pizza,Pizza,Italian,55,False,True,0.8,3.6
+I001277,R0075,BBQ Chicken Pizza,Pizza,Italian,110,False,True,0.72,4.0
+I001278,R0075,Veggie Supreme,Pizza,Italian,60,True,True,0.96,4.3
+I001279,R0075,Arrabiata Pasta,Pasta,Italian,110,False,True,0.73,4.8
+I001280,R0075,Alfredo Pasta,Pasta,Italian,55,False,True,0.93,3.9
+I001281,R0075,Pesto Pasta,Pasta,Italian,60,False,True,0.76,5.0
+I001282,R0075,Mac and Cheese,Pasta,Italian,55,False,True,0.6,4.3
+I001283,R0075,Garlic Bread,Garlic Bread,Italian,75,False,True,0.99,4.5
+I001284,R0075,Cheesy Garlic Bread,Garlic Bread,Italian,135,False,True,0.59,4.0
+I001285,R0075,Mushroom Risotto,Risotto,Italian,105,True,True,0.6,4.6
+I001286,R0075,Chicken Risotto,Risotto,Italian,75,False,True,0.61,4.8
+I001287,R0075,Tiramisu,Tiramisu,Italian,125,False,True,0.42,4.8
+I001288,R0076,Coke (300ml),Soft Drink,Beverages,245,False,True,0.78,3.9
+I001289,R0076,Pepsi (300ml),Soft Drink,Beverages,210,False,True,0.86,4.0
+I001290,R0076,Sprite (300ml),Soft Drink,Beverages,140,False,True,0.56,3.6
+I001291,R0076,Limca,Soft Drink,Beverages,280,False,True,0.4,3.9
+I001292,R0076,Fresh Orange Juice,Juice,Beverages,320,True,True,0.68,4.0
+I001293,R0076,Watermelon Juice,Juice,Beverages,235,True,True,0.45,3.5
+I001294,R0076,Mixed Fruit Juice,Juice,Beverages,250,True,True,0.8,4.8
+I001295,R0076,Sweet Lassi,Lassi,Beverages,295,True,True,0.95,5.0
+I001296,R0076,Salted Lassi,Lassi,Beverages,285,True,True,0.91,4.5
+I001297,R0076,Mango Lassi,Lassi,Beverages,145,True,True,0.43,3.7
+I001298,R0076,Masala Chai,Chai,Beverages,335,True,True,0.77,4.7
+I001299,R0076,Ginger Chai,Chai,Beverages,185,True,True,0.62,3.6
+I001300,R0076,Cappuccino,Coffee,Beverages,320,False,True,0.9,4.7
+I001301,R0076,Latte,Coffee,Beverages,115,False,True,0.42,4.0
+I001302,R0076,Espresso,Coffee,Beverages,165,False,True,0.89,3.8
+I001303,R0076,Mineral Water (500ml),Water,Beverages,235,True,True,0.7,4.1
+I001304,R0077,Coke (300ml),Soft Drink,Beverages,75,False,True,0.97,4.1
+I001305,R0077,Pepsi (300ml),Soft Drink,Beverages,125,False,True,0.43,4.7
+I001306,R0077,Sprite (300ml),Soft Drink,Beverages,70,False,True,0.77,4.3
+I001307,R0077,Limca,Soft Drink,Beverages,65,False,True,0.32,4.9
+I001308,R0077,Fresh Orange Juice,Juice,Beverages,65,True,True,0.79,4.5
+I001309,R0077,Watermelon Juice,Juice,Beverages,85,True,True,0.43,3.8
+I001310,R0077,Mixed Fruit Juice,Juice,Beverages,110,True,True,0.68,4.8
+I001311,R0077,Sweet Lassi,Lassi,Beverages,115,True,True,0.87,3.5
+I001312,R0077,Salted Lassi,Lassi,Beverages,115,True,True,0.46,3.9
+I001313,R0077,Mango Lassi,Lassi,Beverages,120,True,True,0.86,4.1
+I001314,R0077,Masala Chai,Chai,Beverages,130,True,True,0.61,4.8
+I001315,R0077,Ginger Chai,Chai,Beverages,50,True,True,0.36,4.7
+I001316,R0077,Cappuccino,Coffee,Beverages,110,False,True,0.69,4.4
+I001317,R0077,Latte,Coffee,Beverages,145,False,True,0.76,4.5
+I001318,R0077,Espresso,Coffee,Beverages,125,False,True,0.91,3.9
+I001319,R0077,Mineral Water (500ml),Water,Beverages,110,True,True,0.71,3.7
+I001320,R0078,Coke (300ml),Soft Drink,Beverages,230,False,True,0.35,3.8
+I001321,R0078,Pepsi (300ml),Soft Drink,Beverages,330,False,True,0.38,4.4
+I001322,R0078,Sprite (300ml),Soft Drink,Beverages,180,False,True,0.69,3.9
+I001323,R0078,Limca,Soft Drink,Beverages,210,False,True,0.91,4.1
+I001324,R0078,Fresh Orange Juice,Juice,Beverages,190,True,True,0.61,3.7
+I001325,R0078,Watermelon Juice,Juice,Beverages,195,True,True,0.3,4.3
+I001326,R0078,Mixed Fruit Juice,Juice,Beverages,310,True,True,0.69,4.4
+I001327,R0078,Sweet Lassi,Lassi,Beverages,110,True,True,0.9,4.1
+I001328,R0078,Salted Lassi,Lassi,Beverages,345,True,True,0.38,4.9
+I001329,R0078,Mango Lassi,Lassi,Beverages,260,True,True,0.34,5.0
+I001330,R0078,Masala Chai,Chai,Beverages,105,True,True,0.81,4.8
+I001331,R0078,Ginger Chai,Chai,Beverages,145,True,True,0.54,4.3
+I001332,R0078,Cappuccino,Coffee,Beverages,270,False,True,0.91,4.6
+I001333,R0078,Latte,Coffee,Beverages,190,False,True,0.88,4.9
+I001334,R0078,Espresso,Coffee,Beverages,155,False,True,0.35,4.1
+I001335,R0078,Mineral Water (500ml),Water,Beverages,320,True,True,0.41,4.8
+I001336,R0079,Papdi Chaat,Chaat,Street Food,150,False,True,0.34,4.2
+I001337,R0079,Aloo Chaat,Chaat,Street Food,85,True,True,0.58,4.2
+I001338,R0079,Dahi Puri,Chaat,Street Food,125,False,True,0.71,4.9
+I001339,R0079,Pav Bhaji (2 pav),Pav Bhaji,Street Food,85,False,True,0.68,4.7
+I001340,R0079,Pav Bhaji (4 pav),Pav Bhaji,Street Food,85,False,True,0.63,4.5
+I001341,R0079,Vada Pav,Vada Pav,Street Food,135,False,True,0.59,4.3
+I001342,R0079,Cheese Vada Pav,Vada Pav,Street Food,150,False,True,0.33,4.2
+I001343,R0079,Pani Puri (6 pcs),Pani Puri,Street Food,115,False,True,0.31,4.4
+I001344,R0079,Bhel Puri,Bhel Puri,Street Food,55,False,True,0.9,4.7
+I001345,R0079,Samosa (2 pcs),Samosa,Street Food,55,False,True,0.33,4.6
+I001346,R0079,Samosa (4 pcs),Samosa,Street Food,85,False,True,0.7,3.9
+I001347,R0080,Caesar Salad,Salad,Healthy,145,True,True,0.51,3.9
+I001348,R0080,Greek Salad,Salad,Healthy,210,True,True,0.82,4.3
+I001349,R0080,Garden Salad,Salad,Healthy,250,True,True,0.63,4.0
+I001350,R0080,Banana Smoothie,Smoothie,Healthy,135,True,True,0.55,4.5
+I001351,R0080,Mixed Berry Smoothie,Smoothie,Healthy,285,True,True,0.63,4.5
+I001352,R0080,Green Detox Smoothie,Smoothie,Healthy,155,True,True,0.9,4.8
+I001353,R0080,Chicken Wrap,Wrap,Healthy,180,False,True,0.68,4.4
+I001354,R0080,Paneer Wrap,Wrap,Healthy,220,True,True,0.94,4.6
+I001355,R0080,Veg Wrap,Wrap,Healthy,270,True,True,0.66,3.6
+I001356,R0080,Masala Oats,Oats,Healthy,125,True,True,0.51,3.8
+I001357,R0080,Fruit Oats,Oats,Healthy,340,True,True,0.59,4.8
+I001358,R0080,Seasonal Fruit Bowl,Fruit Bowl,Healthy,305,True,True,0.87,3.8
+I001359,R0080,Protein Quinoa Bowl,Quinoa Bowl,Healthy,210,False,True,0.52,5.0
+I001360,R0080,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,320,True,True,0.47,4.0
+I001361,R0081,Vanilla Scoop,Ice Cream,Desserts,565,False,True,0.5,4.7
+I001362,R0081,Chocolate Scoop,Ice Cream,Desserts,710,False,True,0.81,4.5
+I001363,R0081,Butterscotch Scoop,Ice Cream,Desserts,575,False,True,0.54,4.8
+I001364,R0081,Sundae,Ice Cream,Desserts,730,False,True,0.33,4.1
+I001365,R0081,Chocolate Brownie,Brownie,Desserts,315,False,True,0.89,3.8
+I001366,R0081,Walnut Brownie,Brownie,Desserts,635,False,True,0.55,4.7
+I001367,R0081,Gulab Jamun (2 pcs),Gulab Jamun,Desserts,555,True,True,0.53,4.0
+I001368,R0081,Gulab Jamun (4 pcs),Gulab Jamun,Desserts,465,True,True,0.85,4.6
+I001369,R0081,Rice Kheer,Kheer,Desserts,460,False,True,0.64,3.6
+I001370,R0081,Vermicelli Kheer,Kheer,Desserts,715,False,True,0.49,4.8
+I001371,R0081,Chocolate Pastry,Pastry,Desserts,600,False,True,0.7,3.7
+I001372,R0081,Black Forest Pastry,Pastry,Desserts,335,False,True,0.69,4.2
+I001373,R0081,Chocolate Truffle Slice,Cake,Desserts,360,False,True,0.88,4.1
+I001374,R0081,Red Velvet Slice,Cake,Desserts,430,False,True,0.85,4.9
+I001375,R0082,Coke (300ml),Soft Drink,Beverages,175,False,True,0.84,4.5
+I001376,R0082,Pepsi (300ml),Soft Drink,Beverages,345,False,True,0.44,4.9
+I001377,R0082,Sprite (300ml),Soft Drink,Beverages,180,False,True,0.59,4.0
+I001378,R0082,Limca,Soft Drink,Beverages,165,False,True,0.79,4.4
+I001379,R0082,Fresh Orange Juice,Juice,Beverages,175,True,True,0.39,4.0
+I001380,R0082,Watermelon Juice,Juice,Beverages,195,True,True,0.57,4.0
+I001381,R0082,Mixed Fruit Juice,Juice,Beverages,110,True,True,0.62,4.8
+I001382,R0082,Sweet Lassi,Lassi,Beverages,145,True,True,0.4,4.2
+I001383,R0082,Salted Lassi,Lassi,Beverages,195,True,True,0.69,4.9
+I001384,R0082,Mango Lassi,Lassi,Beverages,290,True,True,0.78,4.1
+I001385,R0082,Masala Chai,Chai,Beverages,170,True,True,0.68,4.8
+I001386,R0082,Ginger Chai,Chai,Beverages,320,True,True,0.61,3.9
+I001387,R0082,Cappuccino,Coffee,Beverages,155,False,True,0.32,4.8
+I001388,R0082,Latte,Coffee,Beverages,165,False,True,0.55,4.7
+I001389,R0082,Espresso,Coffee,Beverages,130,False,True,0.62,3.7
+I001390,R0082,Mineral Water (500ml),Water,Beverages,210,True,True,0.33,4.3
+I001391,R0083,Margherita Pizza,Pizza,Italian,300,False,True,0.77,4.3
+I001392,R0083,Pepperoni Pizza,Pizza,Italian,305,False,True,0.46,4.7
+I001393,R0083,BBQ Chicken Pizza,Pizza,Italian,170,False,True,0.55,3.7
+I001394,R0083,Veggie Supreme,Pizza,Italian,125,True,True,0.95,3.8
+I001395,R0083,Arrabiata Pasta,Pasta,Italian,185,False,True,0.67,4.0
+I001396,R0083,Alfredo Pasta,Pasta,Italian,320,False,True,0.93,4.0
+I001397,R0083,Pesto Pasta,Pasta,Italian,125,False,True,0.45,4.2
+I001398,R0083,Mac and Cheese,Pasta,Italian,170,False,True,0.62,4.6
+I001399,R0083,Garlic Bread,Garlic Bread,Italian,205,False,True,0.44,4.0
+I001400,R0083,Cheesy Garlic Bread,Garlic Bread,Italian,285,False,True,0.6,3.9
+I001401,R0083,Mushroom Risotto,Risotto,Italian,205,True,True,0.62,3.9
+I001402,R0083,Chicken Risotto,Risotto,Italian,350,False,True,0.84,4.5
+I001403,R0083,Tiramisu,Tiramisu,Italian,315,False,True,0.77,4.7
+I001404,R0084,Coke (300ml),Soft Drink,Beverages,90,False,True,0.65,3.6
+I001405,R0084,Pepsi (300ml),Soft Drink,Beverages,80,False,True,0.56,4.4
+I001406,R0084,Sprite (300ml),Soft Drink,Beverages,95,False,True,0.73,4.6
+I001407,R0084,Limca,Soft Drink,Beverages,55,False,True,0.48,3.8
+I001408,R0084,Fresh Orange Juice,Juice,Beverages,70,True,True,0.65,4.6
+I001409,R0084,Watermelon Juice,Juice,Beverages,75,True,True,0.88,4.8
+I001410,R0084,Mixed Fruit Juice,Juice,Beverages,85,True,True,0.78,3.7
+I001411,R0084,Sweet Lassi,Lassi,Beverages,125,True,True,0.42,4.5
+I001412,R0084,Salted Lassi,Lassi,Beverages,90,True,True,0.95,4.2
+I001413,R0084,Mango Lassi,Lassi,Beverages,55,True,True,0.64,4.7
+I001414,R0084,Masala Chai,Chai,Beverages,115,True,True,0.98,4.8
+I001415,R0084,Ginger Chai,Chai,Beverages,105,True,True,0.44,3.5
+I001416,R0084,Cappuccino,Coffee,Beverages,150,False,True,0.96,3.9
+I001417,R0084,Latte,Coffee,Beverages,115,False,True,0.81,4.4
+I001418,R0084,Espresso,Coffee,Beverages,135,False,True,0.35,4.8
+I001419,R0084,Mineral Water (500ml),Water,Beverages,90,True,True,0.64,4.2
+I001420,R0085,Veg Hakka Noodles,Noodles,Chinese,105,True,True,0.72,4.6
+I001421,R0085,Chicken Noodles,Noodles,Chinese,100,False,True,0.78,4.0
+I001422,R0085,Schezwan Noodles,Noodles,Chinese,145,False,True,0.35,4.3
+I001423,R0085,Veg Fried Rice,Fried Rice,Chinese,60,True,True,0.61,3.9
+I001424,R0085,Egg Fried Rice,Fried Rice,Chinese,145,False,True,0.31,4.1
+I001425,R0085,Chicken Fried Rice,Fried Rice,Chinese,130,False,True,0.43,4.7
+I001426,R0085,Gobi Manchurian,Manchurian,Chinese,135,False,True,0.8,3.8
+I001427,R0085,Chicken Manchurian,Manchurian,Chinese,75,False,True,0.42,3.8
+I001428,R0085,Veg Manchurian,Manchurian,Chinese,55,True,True,0.9,4.3
+I001429,R0085,Veg Spring Roll,Spring Roll,Chinese,85,True,True,0.5,4.3
+I001430,R0085,Chicken Spring Roll,Spring Roll,Chinese,85,False,True,0.9,3.8
+I001431,R0085,Sweet Corn Soup,Soup,Chinese,140,True,True,0.76,4.9
+I001432,R0085,Hot and Sour Soup,Soup,Chinese,50,False,True,0.34,4.3
+I001433,R0085,Manchow Soup,Soup,Chinese,140,False,True,0.81,4.4
+I001434,R0085,Veg Dimsum (6 pcs),Dimsum,Chinese,55,True,True,0.55,4.0
+I001435,R0085,Chicken Dimsum (6 pcs),Dimsum,Chinese,105,False,True,0.48,3.9
+I001436,R0086,Papdi Chaat,Chaat,Street Food,110,False,True,0.96,4.5
+I001437,R0086,Aloo Chaat,Chaat,Street Food,115,True,True,0.99,3.7
+I001438,R0086,Dahi Puri,Chaat,Street Food,55,False,True,0.82,4.2
+I001439,R0086,Pav Bhaji (2 pav),Pav Bhaji,Street Food,95,False,True,0.46,4.3
+I001440,R0086,Pav Bhaji (4 pav),Pav Bhaji,Street Food,95,False,True,0.54,4.2
+I001441,R0086,Vada Pav,Vada Pav,Street Food,90,False,True,0.96,5.0
+I001442,R0086,Cheese Vada Pav,Vada Pav,Street Food,135,False,True,0.99,3.9
+I001443,R0086,Pani Puri (6 pcs),Pani Puri,Street Food,135,False,True,0.58,4.6
+I001444,R0086,Bhel Puri,Bhel Puri,Street Food,70,False,True,0.87,3.6
+I001445,R0086,Samosa (2 pcs),Samosa,Street Food,75,False,True,0.88,4.6
+I001446,R0086,Samosa (4 pcs),Samosa,Street Food,100,False,True,0.77,3.8
+I001447,R0087,Papdi Chaat,Chaat,Street Food,115,False,True,0.31,4.7
+I001448,R0087,Aloo Chaat,Chaat,Street Food,100,True,True,0.96,4.2
+I001449,R0087,Dahi Puri,Chaat,Street Food,95,False,True,0.62,4.0
+I001450,R0087,Pav Bhaji (2 pav),Pav Bhaji,Street Food,65,False,True,0.89,4.1
+I001451,R0087,Pav Bhaji (4 pav),Pav Bhaji,Street Food,105,False,True,0.31,3.6
+I001452,R0087,Vada Pav,Vada Pav,Street Food,110,False,True,0.92,4.2
+I001453,R0087,Cheese Vada Pav,Vada Pav,Street Food,65,False,True,0.38,4.8
+I001454,R0087,Pani Puri (6 pcs),Pani Puri,Street Food,120,False,True,0.98,3.6
+I001455,R0087,Bhel Puri,Bhel Puri,Street Food,140,False,True,0.89,4.8
+I001456,R0087,Samosa (2 pcs),Samosa,Street Food,50,False,True,0.82,4.3
+I001457,R0087,Samosa (4 pcs),Samosa,Street Food,105,False,True,0.63,4.6
+I001458,R0088,Vanilla Scoop,Ice Cream,Desserts,350,False,True,0.8,4.5
+I001459,R0088,Chocolate Scoop,Ice Cream,Desserts,265,False,True,0.79,4.0
+I001460,R0088,Butterscotch Scoop,Ice Cream,Desserts,180,False,True,0.85,3.6
+I001461,R0088,Sundae,Ice Cream,Desserts,290,False,True,0.87,4.3
+I001462,R0088,Chocolate Brownie,Brownie,Desserts,330,False,True,0.63,3.8
+I001463,R0088,Walnut Brownie,Brownie,Desserts,190,False,True,0.93,5.0
+I001464,R0088,Gulab Jamun (2 pcs),Gulab Jamun,Desserts,205,True,True,0.42,3.9
+I001465,R0088,Gulab Jamun (4 pcs),Gulab Jamun,Desserts,240,True,True,0.7,4.4
+I001466,R0088,Rice Kheer,Kheer,Desserts,310,False,True,0.8,3.9
+I001467,R0088,Vermicelli Kheer,Kheer,Desserts,200,False,True,0.89,4.5
+I001468,R0088,Chocolate Pastry,Pastry,Desserts,140,False,True,0.53,4.7
+I001469,R0088,Black Forest Pastry,Pastry,Desserts,145,False,True,0.78,4.3
+I001470,R0088,Chocolate Truffle Slice,Cake,Desserts,135,False,True,0.78,3.7
+I001471,R0088,Red Velvet Slice,Cake,Desserts,200,False,True,0.52,4.5
+I001472,R0089,Caesar Salad,Salad,Healthy,295,True,True,0.42,4.7
+I001473,R0089,Greek Salad,Salad,Healthy,100,True,True,0.67,4.3
+I001474,R0089,Garden Salad,Salad,Healthy,255,True,True,0.47,3.5
+I001475,R0089,Banana Smoothie,Smoothie,Healthy,215,True,True,0.35,4.8
+I001476,R0089,Mixed Berry Smoothie,Smoothie,Healthy,145,True,True,0.6,4.2
+I001477,R0089,Green Detox Smoothie,Smoothie,Healthy,240,True,True,0.85,4.2
+I001478,R0089,Chicken Wrap,Wrap,Healthy,105,False,True,0.84,3.6
+I001479,R0089,Paneer Wrap,Wrap,Healthy,260,True,True,0.86,3.9
+I001480,R0089,Veg Wrap,Wrap,Healthy,210,True,True,0.31,4.7
+I001481,R0089,Masala Oats,Oats,Healthy,275,True,True,0.46,4.1
+I001482,R0089,Fruit Oats,Oats,Healthy,275,True,True,0.55,3.7
+I001483,R0089,Seasonal Fruit Bowl,Fruit Bowl,Healthy,230,True,True,0.81,4.0
+I001484,R0089,Protein Quinoa Bowl,Quinoa Bowl,Healthy,130,False,True,0.88,3.9
+I001485,R0089,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,230,True,True,0.78,4.0
+I001486,R0090,Butter Chicken,Curry,North Indian,260,False,True,0.62,4.4
+I001487,R0090,Palak Paneer,Curry,North Indian,250,True,True,0.88,4.5
+I001488,R0090,Chicken Masala,Curry,North Indian,165,False,True,0.34,3.5
+I001489,R0090,Lamb Curry,Curry,North Indian,325,False,True,0.96,3.6
+I001490,R0090,Mixed Veg Curry,Curry,North Indian,220,True,True,0.41,4.9
+I001491,R0090,Dal Makhani,Dal,North Indian,160,False,True,0.65,3.7
+I001492,R0090,Dal Tadka,Dal,North Indian,185,False,True,0.49,4.2
+I001493,R0090,Dal Fry,Dal,North Indian,205,False,True,0.53,3.7
+I001494,R0090,Chana Masala,Dal,North Indian,220,False,True,0.9,4.6
+I001495,R0090,Paneer Tikka Masala,Paneer Dish,North Indian,280,True,True,0.56,4.6
+I001496,R0090,Shahi Paneer,Paneer Dish,North Indian,215,True,True,0.41,4.1
+I001497,R0090,Kadai Paneer,Paneer Dish,North Indian,135,True,True,0.38,3.5
+I001498,R0090,Matar Paneer,Paneer Dish,North Indian,170,True,True,0.53,4.5
+I001499,R0090,Butter Naan,Bread,North Indian,235,False,True,0.9,3.8
+I001500,R0090,Roti,Bread,North Indian,165,False,True,0.96,4.2
+I001501,R0090,Paratha,Bread,North Indian,295,False,True,0.64,4.2
+I001502,R0090,Garlic Naan,Bread,North Indian,135,False,True,0.9,3.6
+I001503,R0090,Puri,Bread,North Indian,180,False,True,0.77,4.3
+I001504,R0090,Steamed Rice,Rice,North Indian,320,False,True,0.33,4.5
+I001505,R0090,Jeera Rice,Rice,North Indian,220,False,True,0.41,4.6
+I001506,R0090,Veg Pulao,Rice,North Indian,205,True,True,0.67,5.0
+I001507,R0090,Egg Fried Rice,Rice,North Indian,220,False,True,0.88,4.7
+I001508,R0090,Boondi Raita,Raita,North Indian,265,False,True,0.93,3.9
+I001509,R0090,Cucumber Raita,Raita,North Indian,305,False,True,0.56,4.7
+I001510,R0090,Mixed Raita,Raita,North Indian,225,False,True,0.9,4.8
+I001511,R0090,Mango Pickle,Pickle,North Indian,250,False,True,0.66,4.7
+I001512,R0090,Mixed Pickle,Pickle,North Indian,165,False,True,0.31,4.1
+I001513,R0090,Lime Pickle,Pickle,North Indian,225,False,True,0.51,4.1
+I001514,R0091,Caesar Salad,Salad,Healthy,135,True,True,0.49,3.9
+I001515,R0091,Greek Salad,Salad,Healthy,175,True,True,0.51,4.3
+I001516,R0091,Garden Salad,Salad,Healthy,165,True,True,0.96,4.3
+I001517,R0091,Banana Smoothie,Smoothie,Healthy,130,True,True,0.5,4.6
+I001518,R0091,Mixed Berry Smoothie,Smoothie,Healthy,105,True,True,0.96,4.2
+I001519,R0091,Green Detox Smoothie,Smoothie,Healthy,230,True,True,0.99,4.3
+I001520,R0091,Chicken Wrap,Wrap,Healthy,335,False,True,0.94,4.9
+I001521,R0091,Paneer Wrap,Wrap,Healthy,305,True,True,0.51,4.0
+I001522,R0091,Veg Wrap,Wrap,Healthy,190,True,True,0.99,4.0
+I001523,R0091,Masala Oats,Oats,Healthy,125,True,True,0.84,4.0
+I001524,R0091,Fruit Oats,Oats,Healthy,255,True,True,0.95,4.4
+I001525,R0091,Seasonal Fruit Bowl,Fruit Bowl,Healthy,260,True,True,0.75,4.4
+I001526,R0091,Protein Quinoa Bowl,Quinoa Bowl,Healthy,140,False,True,0.62,3.5
+I001527,R0091,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,255,True,True,0.7,4.0
+I001528,R0092,Masala Dosa,Dosa,South Indian,100,False,True,0.65,3.9
+I001529,R0092,Plain Dosa,Dosa,South Indian,80,False,True,0.83,4.6
+I001530,R0092,Onion Dosa,Dosa,South Indian,95,False,True,0.8,4.2
+I001531,R0092,Rava Dosa,Dosa,South Indian,135,False,True,0.53,4.9
+I001532,R0092,Ghee Roast Dosa,Dosa,South Indian,105,False,True,0.67,4.5
+I001533,R0092,Idli (2 pcs),Idli,South Indian,85,False,True,0.81,4.0
+I001534,R0092,Idli (4 pcs),Idli,South Indian,90,False,True,0.77,4.1
+I001535,R0092,Mini Idli,Idli,South Indian,70,False,True,0.91,4.9
+I001536,R0092,Sambar Bowl,Sambar,South Indian,115,False,True,0.87,5.0
+I001537,R0092,Drumstick Sambar,Sambar,South Indian,110,False,True,0.94,4.0
+I001538,R0092,Coconut Chutney,Chutney,South Indian,120,False,True,0.34,4.7
+I001539,R0092,Tomato Chutney,Chutney,South Indian,135,False,True,0.58,4.5
+I001540,R0092,Mint Chutney,Chutney,South Indian,135,False,True,0.92,3.7
+I001541,R0092,Steamed Rice,Rice,South Indian,135,False,True,0.49,4.6
+I001542,R0092,Jeera Rice,Rice,South Indian,85,False,True,0.34,3.8
+I001543,R0092,Veg Pulao,Rice,South Indian,90,True,True,0.82,3.7
+I001544,R0092,Egg Fried Rice,Rice,South Indian,130,False,True,1.0,4.7
+I001545,R0092,Tomato Rasam,Rasam,South Indian,95,False,True,0.7,3.5
+I001546,R0092,Pepper Rasam,Rasam,South Indian,70,False,True,0.93,3.5
+I001547,R0092,Filter Coffee,Filter Coffee,South Indian,140,True,True,0.38,3.7
+I001548,R0092,South Indian Coffee,Filter Coffee,South Indian,70,True,True,0.86,4.2
+I001549,R0093,Chicken Biryani,Biryani,Biryani,135,False,True,0.78,4.9
+I001550,R0093,Mutton Biryani,Biryani,Biryani,245,False,True,0.37,3.6
+I001551,R0093,Veg Biryani,Biryani,Biryani,300,True,True,0.74,4.9
+I001552,R0093,Egg Biryani,Biryani,Biryani,235,False,True,0.34,4.1
+I001553,R0093,Prawn Biryani,Biryani,Biryani,265,False,True,0.57,5.0
+I001554,R0093,Boondi Raita,Raita,Biryani,200,False,True,0.68,3.8
+I001555,R0093,Cucumber Raita,Raita,Biryani,140,False,True,0.75,4.4
+I001556,R0093,Mixed Raita,Raita,Biryani,100,False,True,0.5,4.5
+I001557,R0093,Mirchi Ka Salan,Salan,Biryani,305,False,True,0.52,4.5
+I001558,R0093,Shorba,Salan,Biryani,165,False,True,0.78,4.5
+I001559,R0093,Biryani Gravy,Salan,Biryani,135,False,True,0.77,4.0
+I001560,R0093,Chicken Shorba,Shorba,Biryani,145,False,True,0.65,4.2
+I001561,R0093,Veg Shorba,Shorba,Biryani,295,True,True,0.36,4.7
+I001562,R0093,Seekh Kebab,Kebab,Biryani,125,False,True,0.45,4.3
+I001563,R0093,Chicken 65,Kebab,Biryani,215,False,True,0.99,4.4
+I001564,R0093,Reshmi Kebab,Kebab,Biryani,180,False,True,0.93,4.0
+I001565,R0093,Boti Kebab,Kebab,Biryani,170,False,True,0.65,4.9
+I001566,R0093,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,275,True,True,0.77,4.6
+I001567,R0093,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,265,True,True,0.83,3.8
+I001568,R0094,Chicken Biryani,Biryani,Biryani,145,False,True,0.55,4.8
+I001569,R0094,Mutton Biryani,Biryani,Biryani,280,False,True,0.7,3.5
+I001570,R0094,Veg Biryani,Biryani,Biryani,160,True,True,0.86,3.9
+I001571,R0094,Egg Biryani,Biryani,Biryani,285,False,True,0.43,4.4
+I001572,R0094,Prawn Biryani,Biryani,Biryani,255,False,True,0.83,4.2
+I001573,R0094,Boondi Raita,Raita,Biryani,260,False,True,0.64,4.9
+I001574,R0094,Cucumber Raita,Raita,Biryani,230,False,True,0.45,4.5
+I001575,R0094,Mixed Raita,Raita,Biryani,235,False,True,0.86,3.8
+I001576,R0094,Mirchi Ka Salan,Salan,Biryani,165,False,True,0.95,4.9
+I001577,R0094,Shorba,Salan,Biryani,210,False,True,0.33,4.0
+I001578,R0094,Biryani Gravy,Salan,Biryani,160,False,True,0.59,4.0
+I001579,R0094,Chicken Shorba,Shorba,Biryani,305,False,True,0.3,4.5
+I001580,R0094,Veg Shorba,Shorba,Biryani,265,True,True,0.76,4.3
+I001581,R0094,Seekh Kebab,Kebab,Biryani,255,False,True,0.87,4.7
+I001582,R0094,Chicken 65,Kebab,Biryani,110,False,True,0.32,4.8
+I001583,R0094,Reshmi Kebab,Kebab,Biryani,245,False,True,0.97,4.1
+I001584,R0094,Boti Kebab,Kebab,Biryani,145,False,True,0.63,4.2
+I001585,R0094,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,230,True,True,0.87,4.5
+I001586,R0094,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,145,True,True,0.81,4.4
+I001587,R0095,Veg Hakka Noodles,Noodles,Chinese,245,True,True,0.77,4.3
+I001588,R0095,Chicken Noodles,Noodles,Chinese,215,False,True,0.75,4.6
+I001589,R0095,Schezwan Noodles,Noodles,Chinese,155,False,True,0.65,4.2
+I001590,R0095,Veg Fried Rice,Fried Rice,Chinese,110,True,True,0.88,4.1
+I001591,R0095,Egg Fried Rice,Fried Rice,Chinese,120,False,True,0.62,3.7
+I001592,R0095,Chicken Fried Rice,Fried Rice,Chinese,275,False,True,0.7,3.9
+I001593,R0095,Gobi Manchurian,Manchurian,Chinese,340,False,True,0.5,4.3
+I001594,R0095,Chicken Manchurian,Manchurian,Chinese,300,False,True,0.66,4.9
+I001595,R0095,Veg Manchurian,Manchurian,Chinese,310,True,True,0.94,4.1
+I001596,R0095,Veg Spring Roll,Spring Roll,Chinese,235,True,True,0.89,4.9
+I001597,R0095,Chicken Spring Roll,Spring Roll,Chinese,335,False,True,0.92,4.6
+I001598,R0095,Sweet Corn Soup,Soup,Chinese,105,True,True,0.52,3.7
+I001599,R0095,Hot and Sour Soup,Soup,Chinese,140,False,True,0.5,3.6
+I001600,R0095,Manchow Soup,Soup,Chinese,160,False,True,0.97,4.0
+I001601,R0095,Veg Dimsum (6 pcs),Dimsum,Chinese,140,True,True,0.8,4.7
+I001602,R0095,Chicken Dimsum (6 pcs),Dimsum,Chinese,180,False,True,0.49,3.9
+I001603,R0096,Veg Burger,Burger,Fast Food,90,True,True,0.36,4.5
+I001604,R0096,Chicken Burger,Burger,Fast Food,130,False,True,0.76,4.1
+I001605,R0096,Zinger Burger,Burger,Fast Food,80,False,True,0.59,4.1
+I001606,R0096,Double Patty Burger,Burger,Fast Food,115,False,True,0.95,3.6
+I001607,R0096,Regular Fries,Fries,Fast Food,145,False,True,0.94,3.7
+I001608,R0096,Cheese Fries,Fries,Fast Food,70,False,True,0.52,4.3
+I001609,R0096,Peri Peri Fries,Fries,Fast Food,65,False,True,0.44,4.9
+I001610,R0096,Chicken Wrap,Wrap,Fast Food,60,False,True,0.58,4.6
+I001611,R0096,Paneer Wrap,Wrap,Fast Food,140,True,True,0.54,3.7
+I001612,R0096,Veg Wrap,Wrap,Fast Food,125,True,True,0.84,5.0
+I001613,R0096,Chicken Nuggets (6 pcs),Nuggets,Fast Food,65,False,True,0.8,4.1
+I001614,R0096,Chicken Nuggets (12 pcs),Nuggets,Fast Food,140,False,True,0.59,4.2
+I001615,R0096,Chocolate Milkshake,Milkshake,Fast Food,65,False,True,0.52,4.1
+I001616,R0096,Strawberry Milkshake,Milkshake,Fast Food,50,False,True,0.61,4.0
+I001617,R0096,Vanilla Milkshake,Milkshake,Fast Food,130,False,True,0.37,4.6
+I001618,R0096,Coke (300ml),Soft Drink,Fast Food,120,False,True,0.47,3.6
+I001619,R0096,Pepsi (300ml),Soft Drink,Fast Food,135,False,True,0.47,3.7
+I001620,R0096,Sprite (300ml),Soft Drink,Fast Food,85,False,True,0.58,4.0
+I001621,R0096,Limca,Soft Drink,Fast Food,150,False,True,0.92,4.8
+I001622,R0097,Caesar Salad,Salad,Healthy,90,True,True,0.97,4.5
+I001623,R0097,Greek Salad,Salad,Healthy,135,True,True,0.65,3.7
+I001624,R0097,Garden Salad,Salad,Healthy,140,True,True,0.64,5.0
+I001625,R0097,Banana Smoothie,Smoothie,Healthy,75,True,True,0.99,3.8
+I001626,R0097,Mixed Berry Smoothie,Smoothie,Healthy,85,True,True,0.72,4.5
+I001627,R0097,Green Detox Smoothie,Smoothie,Healthy,120,True,True,0.63,3.6
+I001628,R0097,Chicken Wrap,Wrap,Healthy,100,False,True,0.53,4.5
+I001629,R0097,Paneer Wrap,Wrap,Healthy,70,True,True,0.58,4.9
+I001630,R0097,Veg Wrap,Wrap,Healthy,60,True,True,0.72,3.6
+I001631,R0097,Masala Oats,Oats,Healthy,65,True,True,0.72,4.2
+I001632,R0097,Fruit Oats,Oats,Healthy,105,True,True,0.92,4.7
+I001633,R0097,Seasonal Fruit Bowl,Fruit Bowl,Healthy,140,True,True,0.73,4.2
+I001634,R0097,Protein Quinoa Bowl,Quinoa Bowl,Healthy,95,False,True,0.82,4.3
+I001635,R0097,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,60,True,True,0.4,4.0
+I001636,R0098,Papdi Chaat,Chaat,Street Food,55,False,True,0.47,4.5
+I001637,R0098,Aloo Chaat,Chaat,Street Food,50,True,True,0.72,4.7
+I001638,R0098,Dahi Puri,Chaat,Street Food,65,False,True,0.43,3.5
+I001639,R0098,Pav Bhaji (2 pav),Pav Bhaji,Street Food,100,False,True,0.76,4.2
+I001640,R0098,Pav Bhaji (4 pav),Pav Bhaji,Street Food,90,False,True,0.62,4.7
+I001641,R0098,Vada Pav,Vada Pav,Street Food,55,False,True,0.85,4.5
+I001642,R0098,Cheese Vada Pav,Vada Pav,Street Food,75,False,True,0.67,3.6
+I001643,R0098,Pani Puri (6 pcs),Pani Puri,Street Food,90,False,True,0.42,3.5
+I001644,R0098,Bhel Puri,Bhel Puri,Street Food,85,False,True,0.81,4.9
+I001645,R0098,Samosa (2 pcs),Samosa,Street Food,115,False,True,0.58,5.0
+I001646,R0098,Samosa (4 pcs),Samosa,Street Food,80,False,True,0.43,4.2
+I001647,R0099,Papdi Chaat,Chaat,Street Food,225,False,True,0.55,4.5
+I001648,R0099,Aloo Chaat,Chaat,Street Food,145,True,True,0.66,4.3
+I001649,R0099,Dahi Puri,Chaat,Street Food,305,False,True,0.95,4.5
+I001650,R0099,Pav Bhaji (2 pav),Pav Bhaji,Street Food,175,False,True,0.78,3.9
+I001651,R0099,Pav Bhaji (4 pav),Pav Bhaji,Street Food,340,False,True,0.88,4.1
+I001652,R0099,Vada Pav,Vada Pav,Street Food,295,False,True,0.59,3.6
+I001653,R0099,Cheese Vada Pav,Vada Pav,Street Food,275,False,True,0.58,4.9
+I001654,R0099,Pani Puri (6 pcs),Pani Puri,Street Food,175,False,True,0.89,4.5
+I001655,R0099,Bhel Puri,Bhel Puri,Street Food,315,False,True,0.5,4.2
+I001656,R0099,Samosa (2 pcs),Samosa,Street Food,305,False,True,0.75,4.0
+I001657,R0099,Samosa (4 pcs),Samosa,Street Food,230,False,True,1.0,4.6
+I001658,R0100,Chicken Biryani,Biryani,Biryani,605,False,True,0.88,4.2
+I001659,R0100,Mutton Biryani,Biryani,Biryani,775,False,True,0.69,4.0
+I001660,R0100,Veg Biryani,Biryani,Biryani,345,True,True,0.56,4.4
+I001661,R0100,Egg Biryani,Biryani,Biryani,650,False,True,0.91,4.9
+I001662,R0100,Prawn Biryani,Biryani,Biryani,350,False,True,0.72,4.5
+I001663,R0100,Boondi Raita,Raita,Biryani,385,False,True,0.68,4.0
+I001664,R0100,Cucumber Raita,Raita,Biryani,340,False,True,0.35,4.6
+I001665,R0100,Mixed Raita,Raita,Biryani,610,False,True,0.8,4.5
+I001666,R0100,Mirchi Ka Salan,Salan,Biryani,365,False,True,0.41,3.9
+I001667,R0100,Shorba,Salan,Biryani,500,False,True,0.96,4.5
+I001668,R0100,Biryani Gravy,Salan,Biryani,430,False,True,0.34,4.5
+I001669,R0100,Chicken Shorba,Shorba,Biryani,615,False,True,0.77,3.9
+I001670,R0100,Veg Shorba,Shorba,Biryani,560,True,True,0.55,4.7
+I001671,R0100,Seekh Kebab,Kebab,Biryani,335,False,True,0.49,4.4
+I001672,R0100,Chicken 65,Kebab,Biryani,405,False,True,0.77,3.7
+I001673,R0100,Reshmi Kebab,Kebab,Biryani,310,False,True,0.9,4.0
+I001674,R0100,Boti Kebab,Kebab,Biryani,380,False,True,0.42,4.8
+I001675,R0100,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,625,True,True,0.97,4.7
+I001676,R0100,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,685,True,True,0.65,4.7
+I001677,R0101,Papdi Chaat,Chaat,Street Food,205,False,True,0.88,4.6
+I001678,R0101,Aloo Chaat,Chaat,Street Food,270,True,True,0.53,4.4
+I001679,R0101,Dahi Puri,Chaat,Street Food,225,False,True,0.62,5.0
+I001680,R0101,Pav Bhaji (2 pav),Pav Bhaji,Street Food,225,False,True,0.32,4.4
+I001681,R0101,Pav Bhaji (4 pav),Pav Bhaji,Street Food,280,False,True,0.92,4.4
+I001682,R0101,Vada Pav,Vada Pav,Street Food,105,False,True,0.38,3.7
+I001683,R0101,Cheese Vada Pav,Vada Pav,Street Food,155,False,True,0.86,4.0
+I001684,R0101,Pani Puri (6 pcs),Pani Puri,Street Food,180,False,True,0.83,4.1
+I001685,R0101,Bhel Puri,Bhel Puri,Street Food,115,False,True,0.71,3.7
+I001686,R0101,Samosa (2 pcs),Samosa,Street Food,245,False,True,0.85,4.9
+I001687,R0101,Samosa (4 pcs),Samosa,Street Food,115,False,True,0.51,4.5
+I001688,R0102,Caesar Salad,Salad,Healthy,80,True,True,0.62,3.5
+I001689,R0102,Greek Salad,Salad,Healthy,120,True,True,0.92,5.0
+I001690,R0102,Garden Salad,Salad,Healthy,135,True,True,0.32,4.5
+I001691,R0102,Banana Smoothie,Smoothie,Healthy,100,True,True,0.96,4.9
+I001692,R0102,Mixed Berry Smoothie,Smoothie,Healthy,150,True,True,0.9,4.3
+I001693,R0102,Green Detox Smoothie,Smoothie,Healthy,120,True,True,0.98,4.4
+I001694,R0102,Chicken Wrap,Wrap,Healthy,135,False,True,0.96,4.4
+I001695,R0102,Paneer Wrap,Wrap,Healthy,65,True,True,0.41,3.7
+I001696,R0102,Veg Wrap,Wrap,Healthy,100,True,True,0.64,4.4
+I001697,R0102,Masala Oats,Oats,Healthy,100,True,True,0.98,3.9
+I001698,R0102,Fruit Oats,Oats,Healthy,135,True,True,0.37,4.4
+I001699,R0102,Seasonal Fruit Bowl,Fruit Bowl,Healthy,115,True,True,0.84,4.3
+I001700,R0102,Protein Quinoa Bowl,Quinoa Bowl,Healthy,70,False,True,0.56,3.9
+I001701,R0102,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,90,True,True,0.67,4.4
+I001702,R0103,Veg Hakka Noodles,Noodles,Chinese,135,True,True,0.94,4.2
+I001703,R0103,Chicken Noodles,Noodles,Chinese,60,False,True,0.86,4.2
+I001704,R0103,Schezwan Noodles,Noodles,Chinese,105,False,True,0.72,4.5
+I001705,R0103,Veg Fried Rice,Fried Rice,Chinese,140,True,True,0.97,4.9
+I001706,R0103,Egg Fried Rice,Fried Rice,Chinese,130,False,True,0.92,3.6
+I001707,R0103,Chicken Fried Rice,Fried Rice,Chinese,135,False,True,0.35,4.6
+I001708,R0103,Gobi Manchurian,Manchurian,Chinese,65,False,True,0.55,3.8
+I001709,R0103,Chicken Manchurian,Manchurian,Chinese,95,False,True,0.59,3.6
+I001710,R0103,Veg Manchurian,Manchurian,Chinese,135,True,True,0.9,4.7
+I001711,R0103,Veg Spring Roll,Spring Roll,Chinese,135,True,True,0.83,4.9
+I001712,R0103,Chicken Spring Roll,Spring Roll,Chinese,110,False,True,0.71,4.8
+I001713,R0103,Sweet Corn Soup,Soup,Chinese,85,True,True,0.34,4.6
+I001714,R0103,Hot and Sour Soup,Soup,Chinese,75,False,True,0.63,3.9
+I001715,R0103,Manchow Soup,Soup,Chinese,135,False,True,0.97,3.6
+I001716,R0103,Veg Dimsum (6 pcs),Dimsum,Chinese,75,True,True,0.43,4.5
+I001717,R0103,Chicken Dimsum (6 pcs),Dimsum,Chinese,95,False,True,0.62,3.7
+I001718,R0104,Coke (300ml),Soft Drink,Beverages,205,False,True,0.51,4.4
+I001719,R0104,Pepsi (300ml),Soft Drink,Beverages,155,False,True,0.73,4.1
+I001720,R0104,Sprite (300ml),Soft Drink,Beverages,185,False,True,0.51,4.5
+I001721,R0104,Limca,Soft Drink,Beverages,240,False,True,0.9,3.9
+I001722,R0104,Fresh Orange Juice,Juice,Beverages,110,True,True,0.43,4.0
+I001723,R0104,Watermelon Juice,Juice,Beverages,145,True,True,0.36,4.2
+I001724,R0104,Mixed Fruit Juice,Juice,Beverages,270,True,True,0.83,4.1
+I001725,R0104,Sweet Lassi,Lassi,Beverages,220,True,True,0.83,4.0
+I001726,R0104,Salted Lassi,Lassi,Beverages,295,True,True,0.98,4.8
+I001727,R0104,Mango Lassi,Lassi,Beverages,215,True,True,0.71,4.6
+I001728,R0104,Masala Chai,Chai,Beverages,185,True,True,0.86,4.2
+I001729,R0104,Ginger Chai,Chai,Beverages,310,True,True,0.48,3.5
+I001730,R0104,Cappuccino,Coffee,Beverages,260,False,True,0.62,3.6
+I001731,R0104,Latte,Coffee,Beverages,220,False,True,0.42,4.4
+I001732,R0104,Espresso,Coffee,Beverages,210,False,True,0.42,4.1
+I001733,R0104,Mineral Water (500ml),Water,Beverages,160,True,True,0.76,3.9
+I001734,R0105,Chicken Biryani,Biryani,Biryani,305,False,True,0.31,4.1
+I001735,R0105,Mutton Biryani,Biryani,Biryani,255,False,True,0.32,3.8
+I001736,R0105,Veg Biryani,Biryani,Biryani,180,True,True,0.32,4.3
+I001737,R0105,Egg Biryani,Biryani,Biryani,260,False,True,0.46,4.3
+I001738,R0105,Prawn Biryani,Biryani,Biryani,350,False,True,0.92,3.6
+I001739,R0105,Boondi Raita,Raita,Biryani,130,False,True,0.65,3.9
+I001740,R0105,Cucumber Raita,Raita,Biryani,120,False,True,0.48,3.6
+I001741,R0105,Mixed Raita,Raita,Biryani,230,False,True,0.64,3.5
+I001742,R0105,Mirchi Ka Salan,Salan,Biryani,220,False,True,0.66,4.4
+I001743,R0105,Shorba,Salan,Biryani,345,False,True,0.99,4.3
+I001744,R0105,Biryani Gravy,Salan,Biryani,310,False,True,0.36,4.3
+I001745,R0105,Chicken Shorba,Shorba,Biryani,270,False,True,0.7,3.8
+I001746,R0105,Veg Shorba,Shorba,Biryani,115,True,True,0.57,4.5
+I001747,R0105,Seekh Kebab,Kebab,Biryani,350,False,True,0.47,4.9
+I001748,R0105,Chicken 65,Kebab,Biryani,115,False,True,0.95,4.7
+I001749,R0105,Reshmi Kebab,Kebab,Biryani,105,False,True,0.51,3.6
+I001750,R0105,Boti Kebab,Kebab,Biryani,350,False,True,0.6,4.5
+I001751,R0105,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,160,True,True,0.95,3.9
+I001752,R0105,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,165,True,True,0.52,4.2
+I001753,R0106,Butter Chicken,Curry,North Indian,105,False,True,0.72,3.5
+I001754,R0106,Palak Paneer,Curry,North Indian,235,True,True,0.62,3.9
+I001755,R0106,Chicken Masala,Curry,North Indian,180,False,True,0.79,3.5
+I001756,R0106,Lamb Curry,Curry,North Indian,180,False,True,0.78,3.7
+I001757,R0106,Mixed Veg Curry,Curry,North Indian,240,True,True,0.42,3.7
+I001758,R0106,Dal Makhani,Dal,North Indian,295,False,True,0.49,4.1
+I001759,R0106,Dal Tadka,Dal,North Indian,285,False,True,0.43,4.3
+I001760,R0106,Dal Fry,Dal,North Indian,330,False,True,0.69,3.6
+I001761,R0106,Chana Masala,Dal,North Indian,245,False,True,0.36,3.9
+I001762,R0106,Paneer Tikka Masala,Paneer Dish,North Indian,310,True,True,0.31,3.6
+I001763,R0106,Shahi Paneer,Paneer Dish,North Indian,190,True,True,1.0,3.9
+I001764,R0106,Kadai Paneer,Paneer Dish,North Indian,140,True,True,0.68,4.3
+I001765,R0106,Matar Paneer,Paneer Dish,North Indian,210,True,True,0.96,3.9
+I001766,R0106,Butter Naan,Bread,North Indian,175,False,True,0.4,4.5
+I001767,R0106,Roti,Bread,North Indian,180,False,True,0.86,5.0
+I001768,R0106,Paratha,Bread,North Indian,110,False,True,1.0,3.9
+I001769,R0106,Garlic Naan,Bread,North Indian,205,False,True,0.84,4.5
+I001770,R0106,Puri,Bread,North Indian,295,False,True,0.63,4.9
+I001771,R0106,Steamed Rice,Rice,North Indian,295,False,True,0.52,4.9
+I001772,R0106,Jeera Rice,Rice,North Indian,340,False,True,0.59,4.5
+I001773,R0106,Veg Pulao,Rice,North Indian,305,True,True,0.87,3.5
+I001774,R0106,Egg Fried Rice,Rice,North Indian,255,False,True,0.98,3.8
+I001775,R0106,Boondi Raita,Raita,North Indian,300,False,True,0.67,3.8
+I001776,R0106,Cucumber Raita,Raita,North Indian,115,False,True,0.83,4.0
+I001777,R0106,Mixed Raita,Raita,North Indian,195,False,True,0.64,4.3
+I001778,R0106,Mango Pickle,Pickle,North Indian,150,False,True,0.77,4.5
+I001779,R0106,Mixed Pickle,Pickle,North Indian,135,False,True,0.67,4.4
+I001780,R0106,Lime Pickle,Pickle,North Indian,145,False,True,0.93,4.2
+I001781,R0107,Chicken Biryani,Biryani,Biryani,60,False,True,0.53,4.2
+I001782,R0107,Mutton Biryani,Biryani,Biryani,50,False,True,0.32,3.6
+I001783,R0107,Veg Biryani,Biryani,Biryani,105,True,True,0.54,4.8
+I001784,R0107,Egg Biryani,Biryani,Biryani,105,False,True,0.83,4.5
+I001785,R0107,Prawn Biryani,Biryani,Biryani,100,False,True,0.82,4.3
+I001786,R0107,Boondi Raita,Raita,Biryani,90,False,True,0.61,4.8
+I001787,R0107,Cucumber Raita,Raita,Biryani,105,False,True,0.56,3.8
+I001788,R0107,Mixed Raita,Raita,Biryani,100,False,True,0.48,4.9
+I001789,R0107,Mirchi Ka Salan,Salan,Biryani,100,False,True,0.31,3.6
+I001790,R0107,Shorba,Salan,Biryani,80,False,True,0.36,4.8
+I001791,R0107,Biryani Gravy,Salan,Biryani,135,False,True,0.98,4.6
+I001792,R0107,Chicken Shorba,Shorba,Biryani,115,False,True,0.95,4.9
+I001793,R0107,Veg Shorba,Shorba,Biryani,140,True,True,0.9,4.5
+I001794,R0107,Seekh Kebab,Kebab,Biryani,50,False,True,0.6,4.5
+I001795,R0107,Chicken 65,Kebab,Biryani,105,False,True,0.87,4.7
+I001796,R0107,Reshmi Kebab,Kebab,Biryani,110,False,True,0.32,4.1
+I001797,R0107,Boti Kebab,Kebab,Biryani,75,False,True,0.54,4.4
+I001798,R0107,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,55,True,True,0.32,4.2
+I001799,R0107,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,130,True,True,0.32,4.8
+I001800,R0108,Veg Burger,Burger,Fast Food,195,True,True,0.38,4.4
+I001801,R0108,Chicken Burger,Burger,Fast Food,340,False,True,0.68,4.5
+I001802,R0108,Zinger Burger,Burger,Fast Food,305,False,True,0.86,3.6
+I001803,R0108,Double Patty Burger,Burger,Fast Food,285,False,True,0.96,4.6
+I001804,R0108,Regular Fries,Fries,Fast Food,310,False,True,0.64,4.0
+I001805,R0108,Cheese Fries,Fries,Fast Food,270,False,True,0.64,4.8
+I001806,R0108,Peri Peri Fries,Fries,Fast Food,345,False,True,0.87,5.0
+I001807,R0108,Chicken Wrap,Wrap,Fast Food,185,False,True,0.93,4.0
+I001808,R0108,Paneer Wrap,Wrap,Fast Food,130,True,True,0.73,4.2
+I001809,R0108,Veg Wrap,Wrap,Fast Food,330,True,True,0.64,4.9
+I001810,R0108,Chicken Nuggets (6 pcs),Nuggets,Fast Food,120,False,True,0.88,4.6
+I001811,R0108,Chicken Nuggets (12 pcs),Nuggets,Fast Food,280,False,True,0.55,4.7
+I001812,R0108,Chocolate Milkshake,Milkshake,Fast Food,220,False,True,0.8,4.3
+I001813,R0108,Strawberry Milkshake,Milkshake,Fast Food,140,False,True,0.35,4.0
+I001814,R0108,Vanilla Milkshake,Milkshake,Fast Food,335,False,True,0.67,4.7
+I001815,R0108,Coke (300ml),Soft Drink,Fast Food,245,False,True,0.97,4.1
+I001816,R0108,Pepsi (300ml),Soft Drink,Fast Food,115,False,True,0.85,4.6
+I001817,R0108,Sprite (300ml),Soft Drink,Fast Food,230,False,True,0.53,3.8
+I001818,R0108,Limca,Soft Drink,Fast Food,220,False,True,0.77,4.4
+I001819,R0109,Vanilla Scoop,Ice Cream,Desserts,210,False,True,0.68,3.7
+I001820,R0109,Chocolate Scoop,Ice Cream,Desserts,275,False,True,0.81,3.5
+I001821,R0109,Butterscotch Scoop,Ice Cream,Desserts,170,False,True,0.36,5.0
+I001822,R0109,Sundae,Ice Cream,Desserts,250,False,True,0.63,4.2
+I001823,R0109,Chocolate Brownie,Brownie,Desserts,340,False,True,0.76,3.8
+I001824,R0109,Walnut Brownie,Brownie,Desserts,210,False,True,0.84,4.1
+I001825,R0109,Gulab Jamun (2 pcs),Gulab Jamun,Desserts,175,True,True,0.99,4.9
+I001826,R0109,Gulab Jamun (4 pcs),Gulab Jamun,Desserts,335,True,True,0.39,3.9
+I001827,R0109,Rice Kheer,Kheer,Desserts,210,False,True,0.88,4.6
+I001828,R0109,Vermicelli Kheer,Kheer,Desserts,310,False,True,0.94,4.7
+I001829,R0109,Chocolate Pastry,Pastry,Desserts,165,False,True,0.5,4.0
+I001830,R0109,Black Forest Pastry,Pastry,Desserts,175,False,True,0.47,4.6
+I001831,R0109,Chocolate Truffle Slice,Cake,Desserts,110,False,True,0.81,4.7
+I001832,R0109,Red Velvet Slice,Cake,Desserts,115,False,True,0.34,3.9
+I001833,R0110,Margherita Pizza,Pizza,Italian,150,False,True,0.71,4.5
+I001834,R0110,Pepperoni Pizza,Pizza,Italian,260,False,True,0.55,4.2
+I001835,R0110,BBQ Chicken Pizza,Pizza,Italian,260,False,True,0.38,3.8
+I001836,R0110,Veggie Supreme,Pizza,Italian,325,True,True,0.54,4.7
+I001837,R0110,Arrabiata Pasta,Pasta,Italian,165,False,True,0.33,4.3
+I001838,R0110,Alfredo Pasta,Pasta,Italian,325,False,True,0.87,3.9
+I001839,R0110,Pesto Pasta,Pasta,Italian,325,False,True,0.64,3.6
+I001840,R0110,Mac and Cheese,Pasta,Italian,105,False,True,0.64,4.3
+I001841,R0110,Garlic Bread,Garlic Bread,Italian,120,False,True,0.95,4.6
+I001842,R0110,Cheesy Garlic Bread,Garlic Bread,Italian,300,False,True,0.71,4.5
+I001843,R0110,Mushroom Risotto,Risotto,Italian,195,True,True,0.78,5.0
+I001844,R0110,Chicken Risotto,Risotto,Italian,260,False,True,0.54,3.9
+I001845,R0110,Tiramisu,Tiramisu,Italian,340,False,True,0.43,4.7
+I001846,R0111,Margherita Pizza,Pizza,Italian,95,False,True,0.61,4.6
+I001847,R0111,Pepperoni Pizza,Pizza,Italian,65,False,True,0.63,3.6
+I001848,R0111,BBQ Chicken Pizza,Pizza,Italian,115,False,True,0.34,3.6
+I001849,R0111,Veggie Supreme,Pizza,Italian,135,True,True,0.61,3.8
+I001850,R0111,Arrabiata Pasta,Pasta,Italian,110,False,True,0.66,4.1
+I001851,R0111,Alfredo Pasta,Pasta,Italian,140,False,True,0.82,3.7
+I001852,R0111,Pesto Pasta,Pasta,Italian,105,False,True,0.36,3.9
+I001853,R0111,Mac and Cheese,Pasta,Italian,140,False,True,0.62,4.8
+I001854,R0111,Garlic Bread,Garlic Bread,Italian,65,False,True,0.44,4.0
+I001855,R0111,Cheesy Garlic Bread,Garlic Bread,Italian,85,False,True,0.82,4.4
+I001856,R0111,Mushroom Risotto,Risotto,Italian,105,True,True,0.72,4.6
+I001857,R0111,Chicken Risotto,Risotto,Italian,140,False,True,0.59,4.7
+I001858,R0111,Tiramisu,Tiramisu,Italian,100,False,True,0.81,4.8
+I001859,R0112,Papdi Chaat,Chaat,Street Food,55,False,True,0.68,5.0
+I001860,R0112,Aloo Chaat,Chaat,Street Food,100,True,True,0.91,3.8
+I001861,R0112,Dahi Puri,Chaat,Street Food,110,False,True,0.91,4.1
+I001862,R0112,Pav Bhaji (2 pav),Pav Bhaji,Street Food,100,False,True,0.36,3.6
+I001863,R0112,Pav Bhaji (4 pav),Pav Bhaji,Street Food,95,False,True,0.89,4.9
+I001864,R0112,Vada Pav,Vada Pav,Street Food,115,False,True,0.88,4.6
+I001865,R0112,Cheese Vada Pav,Vada Pav,Street Food,120,False,True,0.84,4.3
+I001866,R0112,Pani Puri (6 pcs),Pani Puri,Street Food,95,False,True,0.41,4.8
+I001867,R0112,Bhel Puri,Bhel Puri,Street Food,55,False,True,0.49,4.3
+I001868,R0112,Samosa (2 pcs),Samosa,Street Food,145,False,True,0.85,4.1
+I001869,R0112,Samosa (4 pcs),Samosa,Street Food,120,False,True,0.95,4.3
+I001870,R0113,Vanilla Scoop,Ice Cream,Desserts,530,False,True,0.69,4.0
+I001871,R0113,Chocolate Scoop,Ice Cream,Desserts,755,False,True,0.86,4.6
+I001872,R0113,Butterscotch Scoop,Ice Cream,Desserts,595,False,True,0.98,3.9
+I001873,R0113,Sundae,Ice Cream,Desserts,440,False,True,0.47,4.6
+I001874,R0113,Chocolate Brownie,Brownie,Desserts,700,False,True,0.72,4.5
+I001875,R0113,Walnut Brownie,Brownie,Desserts,475,False,True,0.33,3.9
+I001876,R0113,Gulab Jamun (2 pcs),Gulab Jamun,Desserts,590,True,True,0.87,4.7
+I001877,R0113,Gulab Jamun (4 pcs),Gulab Jamun,Desserts,390,True,True,0.34,4.8
+I001878,R0113,Rice Kheer,Kheer,Desserts,340,False,True,0.58,3.6
+I001879,R0113,Vermicelli Kheer,Kheer,Desserts,580,False,True,0.55,3.8
+I001880,R0113,Chocolate Pastry,Pastry,Desserts,600,False,True,0.55,3.8
+I001881,R0113,Black Forest Pastry,Pastry,Desserts,650,False,True,0.89,3.9
+I001882,R0113,Chocolate Truffle Slice,Cake,Desserts,395,False,True,0.35,4.3
+I001883,R0113,Red Velvet Slice,Cake,Desserts,715,False,True,0.48,4.2
+I001884,R0114,Chicken Biryani,Biryani,Biryani,380,False,True,0.58,3.5
+I001885,R0114,Mutton Biryani,Biryani,Biryani,755,False,True,0.77,4.0
+I001886,R0114,Veg Biryani,Biryani,Biryani,740,True,True,0.43,3.6
+I001887,R0114,Egg Biryani,Biryani,Biryani,770,False,True,0.52,4.9
+I001888,R0114,Prawn Biryani,Biryani,Biryani,620,False,True,0.99,4.6
+I001889,R0114,Boondi Raita,Raita,Biryani,355,False,True,0.9,3.7
+I001890,R0114,Cucumber Raita,Raita,Biryani,645,False,True,0.65,4.6
+I001891,R0114,Mixed Raita,Raita,Biryani,680,False,True,0.86,4.8
+I001892,R0114,Mirchi Ka Salan,Salan,Biryani,725,False,True,0.59,4.8
+I001893,R0114,Shorba,Salan,Biryani,660,False,True,0.89,5.0
+I001894,R0114,Biryani Gravy,Salan,Biryani,360,False,True,0.56,4.7
+I001895,R0114,Chicken Shorba,Shorba,Biryani,345,False,True,0.68,4.8
+I001896,R0114,Veg Shorba,Shorba,Biryani,310,True,True,0.96,5.0
+I001897,R0114,Seekh Kebab,Kebab,Biryani,460,False,True,0.84,3.7
+I001898,R0114,Chicken 65,Kebab,Biryani,685,False,True,0.64,4.8
+I001899,R0114,Reshmi Kebab,Kebab,Biryani,405,False,True,0.77,4.7
+I001900,R0114,Boti Kebab,Kebab,Biryani,400,False,True,0.87,4.9
+I001901,R0114,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,610,True,True,0.85,4.3
+I001902,R0114,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,600,True,True,0.31,4.3
+I001903,R0115,Coke (300ml),Soft Drink,Beverages,110,False,True,0.77,3.8
+I001904,R0115,Pepsi (300ml),Soft Drink,Beverages,75,False,True,0.83,3.8
+I001905,R0115,Sprite (300ml),Soft Drink,Beverages,90,False,True,0.48,4.3
+I001906,R0115,Limca,Soft Drink,Beverages,150,False,True,0.9,3.9
+I001907,R0115,Fresh Orange Juice,Juice,Beverages,85,True,True,0.94,4.8
+I001908,R0115,Watermelon Juice,Juice,Beverages,65,True,True,0.88,3.9
+I001909,R0115,Mixed Fruit Juice,Juice,Beverages,105,True,True,0.3,5.0
+I001910,R0115,Sweet Lassi,Lassi,Beverages,125,True,True,0.47,4.5
+I001911,R0115,Salted Lassi,Lassi,Beverages,80,True,True,0.36,4.1
+I001912,R0115,Mango Lassi,Lassi,Beverages,110,True,True,0.36,4.3
+I001913,R0115,Masala Chai,Chai,Beverages,100,True,True,0.74,3.9
+I001914,R0115,Ginger Chai,Chai,Beverages,50,True,True,0.53,4.1
+I001915,R0115,Cappuccino,Coffee,Beverages,115,False,True,0.95,3.8
+I001916,R0115,Latte,Coffee,Beverages,120,False,True,0.37,3.8
+I001917,R0115,Espresso,Coffee,Beverages,100,False,True,0.8,4.8
+I001918,R0115,Mineral Water (500ml),Water,Beverages,125,True,True,0.31,4.5
+I001919,R0116,Veg Burger,Burger,Fast Food,305,True,True,0.67,4.9
+I001920,R0116,Chicken Burger,Burger,Fast Food,100,False,True,0.87,4.0
+I001921,R0116,Zinger Burger,Burger,Fast Food,265,False,True,0.79,4.0
+I001922,R0116,Double Patty Burger,Burger,Fast Food,350,False,True,0.37,3.7
+I001923,R0116,Regular Fries,Fries,Fast Food,325,False,True,0.38,4.1
+I001924,R0116,Cheese Fries,Fries,Fast Food,285,False,True,0.85,4.9
+I001925,R0116,Peri Peri Fries,Fries,Fast Food,295,False,True,0.89,4.9
+I001926,R0116,Chicken Wrap,Wrap,Fast Food,240,False,True,0.54,4.6
+I001927,R0116,Paneer Wrap,Wrap,Fast Food,140,True,True,0.35,4.7
+I001928,R0116,Veg Wrap,Wrap,Fast Food,340,True,True,0.61,3.7
+I001929,R0116,Chicken Nuggets (6 pcs),Nuggets,Fast Food,225,False,True,0.58,4.1
+I001930,R0116,Chicken Nuggets (12 pcs),Nuggets,Fast Food,255,False,True,0.42,4.1
+I001931,R0116,Chocolate Milkshake,Milkshake,Fast Food,315,False,True,0.81,3.6
+I001932,R0116,Strawberry Milkshake,Milkshake,Fast Food,230,False,True,0.36,4.9
+I001933,R0116,Vanilla Milkshake,Milkshake,Fast Food,160,False,True,0.95,4.8
+I001934,R0116,Coke (300ml),Soft Drink,Fast Food,240,False,True,0.54,4.8
+I001935,R0116,Pepsi (300ml),Soft Drink,Fast Food,140,False,True,0.43,3.8
+I001936,R0116,Sprite (300ml),Soft Drink,Fast Food,250,False,True,0.52,5.0
+I001937,R0116,Limca,Soft Drink,Fast Food,150,False,True,0.86,3.6
+I001938,R0117,Margherita Pizza,Pizza,Italian,475,False,True,0.47,5.0
+I001939,R0117,Pepperoni Pizza,Pizza,Italian,315,False,True,0.81,3.9
+I001940,R0117,BBQ Chicken Pizza,Pizza,Italian,705,False,True,0.52,3.8
+I001941,R0117,Veggie Supreme,Pizza,Italian,645,True,True,0.48,4.2
+I001942,R0117,Arrabiata Pasta,Pasta,Italian,365,False,True,0.81,4.1
+I001943,R0117,Alfredo Pasta,Pasta,Italian,370,False,True,0.82,3.7
+I001944,R0117,Pesto Pasta,Pasta,Italian,585,False,True,0.73,4.9
+I001945,R0117,Mac and Cheese,Pasta,Italian,375,False,True,0.76,4.1
+I001946,R0117,Garlic Bread,Garlic Bread,Italian,500,False,True,0.65,3.9
+I001947,R0117,Cheesy Garlic Bread,Garlic Bread,Italian,530,False,True,0.78,4.2
+I001948,R0117,Mushroom Risotto,Risotto,Italian,320,True,True,0.48,4.0
+I001949,R0117,Chicken Risotto,Risotto,Italian,475,False,True,0.36,4.2
+I001950,R0117,Tiramisu,Tiramisu,Italian,645,False,True,0.33,4.6
+I001951,R0118,Papdi Chaat,Chaat,Street Food,340,False,True,0.31,3.8
+I001952,R0118,Aloo Chaat,Chaat,Street Food,235,True,True,0.45,4.6
+I001953,R0118,Dahi Puri,Chaat,Street Food,180,False,True,0.51,3.5
+I001954,R0118,Pav Bhaji (2 pav),Pav Bhaji,Street Food,170,False,True,0.45,4.0
+I001955,R0118,Pav Bhaji (4 pav),Pav Bhaji,Street Food,135,False,True,0.72,3.9
+I001956,R0118,Vada Pav,Vada Pav,Street Food,310,False,True,0.5,3.8
+I001957,R0118,Cheese Vada Pav,Vada Pav,Street Food,115,False,True,0.82,4.3
+I001958,R0118,Pani Puri (6 pcs),Pani Puri,Street Food,130,False,True,0.45,5.0
+I001959,R0118,Bhel Puri,Bhel Puri,Street Food,300,False,True,0.54,4.3
+I001960,R0118,Samosa (2 pcs),Samosa,Street Food,205,False,True,0.33,4.7
+I001961,R0118,Samosa (4 pcs),Samosa,Street Food,280,False,True,0.59,4.8
+I001962,R0119,Papdi Chaat,Chaat,Street Food,565,False,True,0.35,3.9
+I001963,R0119,Aloo Chaat,Chaat,Street Food,530,True,True,0.37,4.4
+I001964,R0119,Dahi Puri,Chaat,Street Food,360,False,True,0.44,4.8
+I001965,R0119,Pav Bhaji (2 pav),Pav Bhaji,Street Food,800,False,True,0.69,4.4
+I001966,R0119,Pav Bhaji (4 pav),Pav Bhaji,Street Food,700,False,True,0.79,3.8
+I001967,R0119,Vada Pav,Vada Pav,Street Food,505,False,True,0.67,4.0
+I001968,R0119,Cheese Vada Pav,Vada Pav,Street Food,390,False,True,0.82,3.8
+I001969,R0119,Pani Puri (6 pcs),Pani Puri,Street Food,430,False,True,0.5,3.7
+I001970,R0119,Bhel Puri,Bhel Puri,Street Food,725,False,True,0.73,4.8
+I001971,R0119,Samosa (2 pcs),Samosa,Street Food,545,False,True,0.66,4.4
+I001972,R0119,Samosa (4 pcs),Samosa,Street Food,485,False,True,0.65,4.3
+I001973,R0120,Vanilla Scoop,Ice Cream,Desserts,340,False,True,0.92,3.7
+I001974,R0120,Chocolate Scoop,Ice Cream,Desserts,110,False,True,0.78,3.6
+I001975,R0120,Butterscotch Scoop,Ice Cream,Desserts,115,False,True,0.41,4.0
+I001976,R0120,Sundae,Ice Cream,Desserts,210,False,True,0.66,5.0
+I001977,R0120,Chocolate Brownie,Brownie,Desserts,195,False,True,0.47,4.4
+I001978,R0120,Walnut Brownie,Brownie,Desserts,155,False,True,0.96,3.9
+I001979,R0120,Gulab Jamun (2 pcs),Gulab Jamun,Desserts,345,True,True,0.59,4.7
+I001980,R0120,Gulab Jamun (4 pcs),Gulab Jamun,Desserts,260,True,True,0.95,4.4
+I001981,R0120,Rice Kheer,Kheer,Desserts,245,False,True,0.76,4.7
+I001982,R0120,Vermicelli Kheer,Kheer,Desserts,325,False,True,0.49,3.8
+I001983,R0120,Chocolate Pastry,Pastry,Desserts,110,False,True,0.56,4.8
+I001984,R0120,Black Forest Pastry,Pastry,Desserts,115,False,True,0.68,4.5
+I001985,R0120,Chocolate Truffle Slice,Cake,Desserts,310,False,True,0.71,3.8
+I001986,R0120,Red Velvet Slice,Cake,Desserts,340,False,True,0.37,4.7
+I001987,R0121,Coke (300ml),Soft Drink,Beverages,120,False,True,0.4,4.8
+I001988,R0121,Pepsi (300ml),Soft Drink,Beverages,290,False,True,0.56,4.5
+I001989,R0121,Sprite (300ml),Soft Drink,Beverages,215,False,True,0.35,4.6
+I001990,R0121,Limca,Soft Drink,Beverages,290,False,True,0.92,4.3
+I001991,R0121,Fresh Orange Juice,Juice,Beverages,270,True,True,0.61,4.0
+I001992,R0121,Watermelon Juice,Juice,Beverages,205,True,True,0.94,3.7
+I001993,R0121,Mixed Fruit Juice,Juice,Beverages,160,True,True,0.72,3.7
+I001994,R0121,Sweet Lassi,Lassi,Beverages,325,True,True,0.33,4.6
+I001995,R0121,Salted Lassi,Lassi,Beverages,195,True,True,0.34,4.8
+I001996,R0121,Mango Lassi,Lassi,Beverages,260,True,True,0.31,3.9
+I001997,R0121,Masala Chai,Chai,Beverages,190,True,True,0.53,4.2
+I001998,R0121,Ginger Chai,Chai,Beverages,230,True,True,0.58,4.0
+I001999,R0121,Cappuccino,Coffee,Beverages,225,False,True,0.32,4.5
+I002000,R0121,Latte,Coffee,Beverages,250,False,True,0.5,3.8
+I002001,R0121,Espresso,Coffee,Beverages,120,False,True,0.71,4.4
+I002002,R0121,Mineral Water (500ml),Water,Beverages,235,True,True,0.99,4.3
+I002003,R0122,Caesar Salad,Salad,Healthy,660,True,True,0.38,3.9
+I002004,R0122,Greek Salad,Salad,Healthy,440,True,True,0.7,4.0
+I002005,R0122,Garden Salad,Salad,Healthy,620,True,True,0.78,3.6
+I002006,R0122,Banana Smoothie,Smoothie,Healthy,620,True,True,0.38,4.2
+I002007,R0122,Mixed Berry Smoothie,Smoothie,Healthy,665,True,True,0.79,3.9
+I002008,R0122,Green Detox Smoothie,Smoothie,Healthy,435,True,True,0.61,3.8
+I002009,R0122,Chicken Wrap,Wrap,Healthy,785,False,True,0.54,4.9
+I002010,R0122,Paneer Wrap,Wrap,Healthy,755,True,True,0.56,3.9
+I002011,R0122,Veg Wrap,Wrap,Healthy,685,True,True,0.46,4.3
+I002012,R0122,Masala Oats,Oats,Healthy,355,True,True,0.57,3.6
+I002013,R0122,Fruit Oats,Oats,Healthy,440,True,True,0.77,5.0
+I002014,R0122,Seasonal Fruit Bowl,Fruit Bowl,Healthy,425,True,True,0.63,4.2
+I002015,R0122,Protein Quinoa Bowl,Quinoa Bowl,Healthy,390,False,True,0.73,4.6
+I002016,R0122,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,375,True,True,0.83,4.6
+I002017,R0123,Veg Burger,Burger,Fast Food,150,True,True,0.75,4.1
+I002018,R0123,Chicken Burger,Burger,Fast Food,270,False,True,0.65,3.6
+I002019,R0123,Zinger Burger,Burger,Fast Food,295,False,True,0.69,4.6
+I002020,R0123,Double Patty Burger,Burger,Fast Food,130,False,True,0.8,4.1
+I002021,R0123,Regular Fries,Fries,Fast Food,300,False,True,0.72,4.0
+I002022,R0123,Cheese Fries,Fries,Fast Food,150,False,True,0.87,4.3
+I002023,R0123,Peri Peri Fries,Fries,Fast Food,345,False,True,0.56,4.5
+I002024,R0123,Chicken Wrap,Wrap,Fast Food,255,False,True,0.75,4.6
+I002025,R0123,Paneer Wrap,Wrap,Fast Food,135,True,True,0.68,4.3
+I002026,R0123,Veg Wrap,Wrap,Fast Food,185,True,True,0.61,4.3
+I002027,R0123,Chicken Nuggets (6 pcs),Nuggets,Fast Food,180,False,True,0.51,4.6
+I002028,R0123,Chicken Nuggets (12 pcs),Nuggets,Fast Food,115,False,True,0.52,4.5
+I002029,R0123,Chocolate Milkshake,Milkshake,Fast Food,150,False,True,0.7,4.0
+I002030,R0123,Strawberry Milkshake,Milkshake,Fast Food,310,False,True,0.54,3.8
+I002031,R0123,Vanilla Milkshake,Milkshake,Fast Food,235,False,True,0.39,4.7
+I002032,R0123,Coke (300ml),Soft Drink,Fast Food,270,False,True,0.84,4.1
+I002033,R0123,Pepsi (300ml),Soft Drink,Fast Food,310,False,True,0.65,3.6
+I002034,R0123,Sprite (300ml),Soft Drink,Fast Food,155,False,True,0.8,4.8
+I002035,R0123,Limca,Soft Drink,Fast Food,125,False,True,0.9,4.7
+I002036,R0124,Margherita Pizza,Pizza,Italian,190,False,True,0.78,3.8
+I002037,R0124,Pepperoni Pizza,Pizza,Italian,305,False,True,0.76,4.2
+I002038,R0124,BBQ Chicken Pizza,Pizza,Italian,315,False,True,0.4,4.8
+I002039,R0124,Veggie Supreme,Pizza,Italian,105,True,True,0.83,4.4
+I002040,R0124,Arrabiata Pasta,Pasta,Italian,275,False,True,0.59,4.8
+I002041,R0124,Alfredo Pasta,Pasta,Italian,180,False,True,0.49,4.0
+I002042,R0124,Pesto Pasta,Pasta,Italian,295,False,True,0.65,4.3
+I002043,R0124,Mac and Cheese,Pasta,Italian,310,False,True,0.88,3.7
+I002044,R0124,Garlic Bread,Garlic Bread,Italian,235,False,True,0.39,4.8
+I002045,R0124,Cheesy Garlic Bread,Garlic Bread,Italian,310,False,True,0.89,4.6
+I002046,R0124,Mushroom Risotto,Risotto,Italian,215,True,True,0.58,4.1
+I002047,R0124,Chicken Risotto,Risotto,Italian,115,False,True,0.96,4.2
+I002048,R0124,Tiramisu,Tiramisu,Italian,335,False,True,0.92,4.7
+I002049,R0125,Caesar Salad,Salad,Healthy,595,True,True,0.37,4.0
+I002050,R0125,Greek Salad,Salad,Healthy,600,True,True,0.31,3.6
+I002051,R0125,Garden Salad,Salad,Healthy,640,True,True,0.92,4.8
+I002052,R0125,Banana Smoothie,Smoothie,Healthy,385,True,True,0.94,4.5
+I002053,R0125,Mixed Berry Smoothie,Smoothie,Healthy,660,True,True,0.51,4.6
+I002054,R0125,Green Detox Smoothie,Smoothie,Healthy,655,True,True,0.72,4.0
+I002055,R0125,Chicken Wrap,Wrap,Healthy,705,False,True,0.96,4.8
+I002056,R0125,Paneer Wrap,Wrap,Healthy,420,True,True,0.61,4.0
+I002057,R0125,Veg Wrap,Wrap,Healthy,655,True,True,0.88,3.8
+I002058,R0125,Masala Oats,Oats,Healthy,775,True,True,0.77,3.8
+I002059,R0125,Fruit Oats,Oats,Healthy,485,True,True,0.37,4.4
+I002060,R0125,Seasonal Fruit Bowl,Fruit Bowl,Healthy,385,True,True,0.79,4.6
+I002061,R0125,Protein Quinoa Bowl,Quinoa Bowl,Healthy,540,False,True,0.37,4.4
+I002062,R0125,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,485,True,True,0.96,4.3
+I002063,R0126,Veg Burger,Burger,Fast Food,120,True,True,0.75,4.7
+I002064,R0126,Chicken Burger,Burger,Fast Food,140,False,True,0.61,4.6
+I002065,R0126,Zinger Burger,Burger,Fast Food,105,False,True,0.32,4.5
+I002066,R0126,Double Patty Burger,Burger,Fast Food,280,False,True,0.89,4.1
+I002067,R0126,Regular Fries,Fries,Fast Food,195,False,True,0.69,4.6
+I002068,R0126,Cheese Fries,Fries,Fast Food,260,False,True,0.53,4.0
+I002069,R0126,Peri Peri Fries,Fries,Fast Food,290,False,True,0.67,3.6
+I002070,R0126,Chicken Wrap,Wrap,Fast Food,140,False,True,0.9,5.0
+I002071,R0126,Paneer Wrap,Wrap,Fast Food,185,True,True,0.57,3.7
+I002072,R0126,Veg Wrap,Wrap,Fast Food,160,True,True,0.6,3.9
+I002073,R0126,Chicken Nuggets (6 pcs),Nuggets,Fast Food,275,False,True,0.68,4.7
+I002074,R0126,Chicken Nuggets (12 pcs),Nuggets,Fast Food,280,False,True,0.39,3.7
+I002075,R0126,Chocolate Milkshake,Milkshake,Fast Food,325,False,True,0.87,4.2
+I002076,R0126,Strawberry Milkshake,Milkshake,Fast Food,135,False,True,0.93,3.8
+I002077,R0126,Vanilla Milkshake,Milkshake,Fast Food,110,False,True,0.95,4.7
+I002078,R0126,Coke (300ml),Soft Drink,Fast Food,275,False,True,0.32,4.3
+I002079,R0126,Pepsi (300ml),Soft Drink,Fast Food,265,False,True,0.83,4.2
+I002080,R0126,Sprite (300ml),Soft Drink,Fast Food,340,False,True,0.47,3.6
+I002081,R0126,Limca,Soft Drink,Fast Food,185,False,True,0.76,4.6
+I002082,R0127,Coke (300ml),Soft Drink,Beverages,125,False,True,0.38,4.8
+I002083,R0127,Pepsi (300ml),Soft Drink,Beverages,80,False,True,0.45,4.4
+I002084,R0127,Sprite (300ml),Soft Drink,Beverages,70,False,True,0.66,4.1
+I002085,R0127,Limca,Soft Drink,Beverages,75,False,True,0.5,4.1
+I002086,R0127,Fresh Orange Juice,Juice,Beverages,85,True,True,0.57,4.6
+I002087,R0127,Watermelon Juice,Juice,Beverages,65,True,True,0.74,4.5
+I002088,R0127,Mixed Fruit Juice,Juice,Beverages,130,True,True,0.89,3.7
+I002089,R0127,Sweet Lassi,Lassi,Beverages,65,True,True,0.73,4.6
+I002090,R0127,Salted Lassi,Lassi,Beverages,75,True,True,0.67,4.7
+I002091,R0127,Mango Lassi,Lassi,Beverages,125,True,True,0.76,3.6
+I002092,R0127,Masala Chai,Chai,Beverages,55,True,True,0.57,3.5
+I002093,R0127,Ginger Chai,Chai,Beverages,140,True,True,0.31,3.5
+I002094,R0127,Cappuccino,Coffee,Beverages,65,False,True,0.74,4.3
+I002095,R0127,Latte,Coffee,Beverages,115,False,True,0.93,4.2
+I002096,R0127,Espresso,Coffee,Beverages,55,False,True,0.83,4.7
+I002097,R0127,Mineral Water (500ml),Water,Beverages,55,True,True,0.47,4.7
+I002098,R0128,Caesar Salad,Salad,Healthy,90,True,True,0.63,4.7
+I002099,R0128,Greek Salad,Salad,Healthy,60,True,True,0.77,3.8
+I002100,R0128,Garden Salad,Salad,Healthy,55,True,True,0.76,3.7
+I002101,R0128,Banana Smoothie,Smoothie,Healthy,125,True,True,0.44,3.6
+I002102,R0128,Mixed Berry Smoothie,Smoothie,Healthy,60,True,True,0.89,4.1
+I002103,R0128,Green Detox Smoothie,Smoothie,Healthy,80,True,True,0.64,4.4
+I002104,R0128,Chicken Wrap,Wrap,Healthy,55,False,True,0.93,4.9
+I002105,R0128,Paneer Wrap,Wrap,Healthy,90,True,True,0.59,4.8
+I002106,R0128,Veg Wrap,Wrap,Healthy,95,True,True,0.9,3.5
+I002107,R0128,Masala Oats,Oats,Healthy,100,True,True,0.97,3.9
+I002108,R0128,Fruit Oats,Oats,Healthy,75,True,True,0.74,4.9
+I002109,R0128,Seasonal Fruit Bowl,Fruit Bowl,Healthy,70,True,True,0.95,4.5
+I002110,R0128,Protein Quinoa Bowl,Quinoa Bowl,Healthy,150,False,True,0.82,4.5
+I002111,R0128,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,130,True,True,0.42,4.9
+I002112,R0129,Coke (300ml),Soft Drink,Beverages,140,False,True,0.32,4.5
+I002113,R0129,Pepsi (300ml),Soft Drink,Beverages,145,False,True,0.83,4.7
+I002114,R0129,Sprite (300ml),Soft Drink,Beverages,160,False,True,0.36,4.3
+I002115,R0129,Limca,Soft Drink,Beverages,325,False,True,0.89,3.7
+I002116,R0129,Fresh Orange Juice,Juice,Beverages,340,True,True,0.48,4.0
+I002117,R0129,Watermelon Juice,Juice,Beverages,135,True,True,0.56,4.5
+I002118,R0129,Mixed Fruit Juice,Juice,Beverages,225,True,True,0.88,4.5
+I002119,R0129,Sweet Lassi,Lassi,Beverages,165,True,True,0.69,3.6
+I002120,R0129,Salted Lassi,Lassi,Beverages,245,True,True,0.57,3.6
+I002121,R0129,Mango Lassi,Lassi,Beverages,175,True,True,0.93,4.4
+I002122,R0129,Masala Chai,Chai,Beverages,325,True,True,0.59,5.0
+I002123,R0129,Ginger Chai,Chai,Beverages,190,True,True,0.83,4.0
+I002124,R0129,Cappuccino,Coffee,Beverages,125,False,True,0.88,4.6
+I002125,R0129,Latte,Coffee,Beverages,305,False,True,0.51,4.6
+I002126,R0129,Espresso,Coffee,Beverages,155,False,True,0.31,4.8
+I002127,R0129,Mineral Water (500ml),Water,Beverages,230,True,True,0.99,4.1
+I002128,R0130,Veg Hakka Noodles,Noodles,Chinese,780,True,True,0.73,4.3
+I002129,R0130,Chicken Noodles,Noodles,Chinese,450,False,True,0.88,4.7
+I002130,R0130,Schezwan Noodles,Noodles,Chinese,510,False,True,0.81,4.2
+I002131,R0130,Veg Fried Rice,Fried Rice,Chinese,670,True,True,1.0,3.9
+I002132,R0130,Egg Fried Rice,Fried Rice,Chinese,615,False,True,0.57,4.3
+I002133,R0130,Chicken Fried Rice,Fried Rice,Chinese,735,False,True,0.54,3.6
+I002134,R0130,Gobi Manchurian,Manchurian,Chinese,700,False,True,0.69,4.2
+I002135,R0130,Chicken Manchurian,Manchurian,Chinese,390,False,True,0.36,3.9
+I002136,R0130,Veg Manchurian,Manchurian,Chinese,660,True,True,0.59,4.4
+I002137,R0130,Veg Spring Roll,Spring Roll,Chinese,340,True,True,0.39,3.5
+I002138,R0130,Chicken Spring Roll,Spring Roll,Chinese,635,False,True,0.49,5.0
+I002139,R0130,Sweet Corn Soup,Soup,Chinese,455,True,True,0.55,4.2
+I002140,R0130,Hot and Sour Soup,Soup,Chinese,460,False,True,0.87,4.8
+I002141,R0130,Manchow Soup,Soup,Chinese,305,False,True,0.76,4.5
+I002142,R0130,Veg Dimsum (6 pcs),Dimsum,Chinese,780,True,True,0.56,3.8
+I002143,R0130,Chicken Dimsum (6 pcs),Dimsum,Chinese,560,False,True,0.61,4.7
+I002144,R0131,Papdi Chaat,Chaat,Street Food,140,False,True,0.36,4.8
+I002145,R0131,Aloo Chaat,Chaat,Street Food,140,True,True,0.95,4.6
+I002146,R0131,Dahi Puri,Chaat,Street Food,125,False,True,0.31,4.9
+I002147,R0131,Pav Bhaji (2 pav),Pav Bhaji,Street Food,85,False,True,0.33,4.1
+I002148,R0131,Pav Bhaji (4 pav),Pav Bhaji,Street Food,125,False,True,0.61,4.6
+I002149,R0131,Vada Pav,Vada Pav,Street Food,100,False,True,0.51,3.8
+I002150,R0131,Cheese Vada Pav,Vada Pav,Street Food,90,False,True,0.33,4.1
+I002151,R0131,Pani Puri (6 pcs),Pani Puri,Street Food,55,False,True,0.91,4.4
+I002152,R0131,Bhel Puri,Bhel Puri,Street Food,115,False,True,0.5,3.8
+I002153,R0131,Samosa (2 pcs),Samosa,Street Food,120,False,True,0.77,3.7
+I002154,R0131,Samosa (4 pcs),Samosa,Street Food,75,False,True,0.96,4.0
+I002155,R0132,Margherita Pizza,Pizza,Italian,55,False,True,0.34,4.7
+I002156,R0132,Pepperoni Pizza,Pizza,Italian,125,False,True,0.57,3.7
+I002157,R0132,BBQ Chicken Pizza,Pizza,Italian,100,False,True,0.53,4.1
+I002158,R0132,Veggie Supreme,Pizza,Italian,75,True,True,0.34,4.7
+I002159,R0132,Arrabiata Pasta,Pasta,Italian,110,False,True,0.88,4.3
+I002160,R0132,Alfredo Pasta,Pasta,Italian,150,False,True,0.97,3.9
+I002161,R0132,Pesto Pasta,Pasta,Italian,90,False,True,0.83,4.7
+I002162,R0132,Mac and Cheese,Pasta,Italian,140,False,True,0.76,4.2
+I002163,R0132,Garlic Bread,Garlic Bread,Italian,90,False,True,0.59,4.8
+I002164,R0132,Cheesy Garlic Bread,Garlic Bread,Italian,150,False,True,0.34,4.4
+I002165,R0132,Mushroom Risotto,Risotto,Italian,100,True,True,0.56,4.8
+I002166,R0132,Chicken Risotto,Risotto,Italian,110,False,True,0.52,4.2
+I002167,R0132,Tiramisu,Tiramisu,Italian,85,False,True,0.6,3.6
+I002168,R0133,Coke (300ml),Soft Drink,Beverages,60,False,True,0.74,4.5
+I002169,R0133,Pepsi (300ml),Soft Drink,Beverages,115,False,True,0.83,4.9
+I002170,R0133,Sprite (300ml),Soft Drink,Beverages,135,False,True,0.59,3.8
+I002171,R0133,Limca,Soft Drink,Beverages,80,False,True,0.71,4.8
+I002172,R0133,Fresh Orange Juice,Juice,Beverages,120,True,True,0.68,4.4
+I002173,R0133,Watermelon Juice,Juice,Beverages,105,True,True,0.98,4.7
+I002174,R0133,Mixed Fruit Juice,Juice,Beverages,130,True,True,0.66,4.0
+I002175,R0133,Sweet Lassi,Lassi,Beverages,50,True,True,0.33,3.5
+I002176,R0133,Salted Lassi,Lassi,Beverages,150,True,True,0.38,3.7
+I002177,R0133,Mango Lassi,Lassi,Beverages,100,True,True,0.64,4.9
+I002178,R0133,Masala Chai,Chai,Beverages,55,True,True,0.97,3.8
+I002179,R0133,Ginger Chai,Chai,Beverages,145,True,True,0.68,4.5
+I002180,R0133,Cappuccino,Coffee,Beverages,80,False,True,0.73,4.6
+I002181,R0133,Latte,Coffee,Beverages,50,False,True,0.32,5.0
+I002182,R0133,Espresso,Coffee,Beverages,95,False,True,0.96,4.6
+I002183,R0133,Mineral Water (500ml),Water,Beverages,85,True,True,0.41,5.0
+I002184,R0134,Butter Chicken,Curry,North Indian,110,False,True,0.43,4.5
+I002185,R0134,Palak Paneer,Curry,North Indian,60,True,True,0.91,3.6
+I002186,R0134,Chicken Masala,Curry,North Indian,75,False,True,0.36,3.7
+I002187,R0134,Lamb Curry,Curry,North Indian,100,False,True,0.78,4.7
+I002188,R0134,Mixed Veg Curry,Curry,North Indian,120,True,True,0.55,4.3
+I002189,R0134,Dal Makhani,Dal,North Indian,145,False,True,0.57,3.9
+I002190,R0134,Dal Tadka,Dal,North Indian,100,False,True,0.51,3.9
+I002191,R0134,Dal Fry,Dal,North Indian,130,False,True,0.92,4.3
+I002192,R0134,Chana Masala,Dal,North Indian,130,False,True,0.43,4.3
+I002193,R0134,Paneer Tikka Masala,Paneer Dish,North Indian,115,True,True,0.64,3.7
+I002194,R0134,Shahi Paneer,Paneer Dish,North Indian,125,True,True,0.89,4.5
+I002195,R0134,Kadai Paneer,Paneer Dish,North Indian,65,True,True,0.35,4.0
+I002196,R0134,Matar Paneer,Paneer Dish,North Indian,55,True,True,0.89,4.6
+I002197,R0134,Butter Naan,Bread,North Indian,105,False,True,0.92,3.7
+I002198,R0134,Roti,Bread,North Indian,120,False,True,0.4,3.6
+I002199,R0134,Paratha,Bread,North Indian,65,False,True,0.97,4.2
+I002200,R0134,Garlic Naan,Bread,North Indian,55,False,True,0.71,3.8
+I002201,R0134,Puri,Bread,North Indian,50,False,True,0.83,3.7
+I002202,R0134,Steamed Rice,Rice,North Indian,145,False,True,0.71,3.6
+I002203,R0134,Jeera Rice,Rice,North Indian,70,False,True,0.73,4.0
+I002204,R0134,Veg Pulao,Rice,North Indian,105,True,True,0.86,4.7
+I002205,R0134,Egg Fried Rice,Rice,North Indian,120,False,True,0.92,3.8
+I002206,R0134,Boondi Raita,Raita,North Indian,70,False,True,0.86,4.0
+I002207,R0134,Cucumber Raita,Raita,North Indian,100,False,True,0.82,4.1
+I002208,R0134,Mixed Raita,Raita,North Indian,65,False,True,0.78,4.7
+I002209,R0134,Mango Pickle,Pickle,North Indian,50,False,True,0.69,4.2
+I002210,R0134,Mixed Pickle,Pickle,North Indian,75,False,True,0.41,3.8
+I002211,R0134,Lime Pickle,Pickle,North Indian,120,False,True,0.68,5.0
+I002212,R0135,Caesar Salad,Salad,Healthy,75,True,True,0.97,4.3
+I002213,R0135,Greek Salad,Salad,Healthy,65,True,True,0.4,4.4
+I002214,R0135,Garden Salad,Salad,Healthy,135,True,True,0.82,4.5
+I002215,R0135,Banana Smoothie,Smoothie,Healthy,65,True,True,0.38,3.5
+I002216,R0135,Mixed Berry Smoothie,Smoothie,Healthy,60,True,True,0.84,4.8
+I002217,R0135,Green Detox Smoothie,Smoothie,Healthy,75,True,True,0.86,3.8
+I002218,R0135,Chicken Wrap,Wrap,Healthy,75,False,True,0.46,3.6
+I002219,R0135,Paneer Wrap,Wrap,Healthy,70,True,True,0.56,4.1
+I002220,R0135,Veg Wrap,Wrap,Healthy,80,True,True,0.66,4.1
+I002221,R0135,Masala Oats,Oats,Healthy,145,True,True,0.87,4.9
+I002222,R0135,Fruit Oats,Oats,Healthy,105,True,True,0.77,3.8
+I002223,R0135,Seasonal Fruit Bowl,Fruit Bowl,Healthy,125,True,True,0.47,3.7
+I002224,R0135,Protein Quinoa Bowl,Quinoa Bowl,Healthy,55,False,True,0.63,3.9
+I002225,R0135,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,150,True,True,0.47,4.8
+I002226,R0136,Veg Burger,Burger,Fast Food,180,True,True,0.82,4.5
+I002227,R0136,Chicken Burger,Burger,Fast Food,240,False,True,0.59,4.5
+I002228,R0136,Zinger Burger,Burger,Fast Food,200,False,True,0.68,4.4
+I002229,R0136,Double Patty Burger,Burger,Fast Food,165,False,True,0.54,3.5
+I002230,R0136,Regular Fries,Fries,Fast Food,315,False,True,0.83,3.8
+I002231,R0136,Cheese Fries,Fries,Fast Food,190,False,True,0.59,4.0
+I002232,R0136,Peri Peri Fries,Fries,Fast Food,300,False,True,0.81,4.7
+I002233,R0136,Chicken Wrap,Wrap,Fast Food,325,False,True,0.72,4.4
+I002234,R0136,Paneer Wrap,Wrap,Fast Food,280,True,True,0.78,4.8
+I002235,R0136,Veg Wrap,Wrap,Fast Food,295,True,True,0.38,4.9
+I002236,R0136,Chicken Nuggets (6 pcs),Nuggets,Fast Food,270,False,True,0.39,4.7
+I002237,R0136,Chicken Nuggets (12 pcs),Nuggets,Fast Food,190,False,True,0.86,4.9
+I002238,R0136,Chocolate Milkshake,Milkshake,Fast Food,165,False,True,0.9,4.7
+I002239,R0136,Strawberry Milkshake,Milkshake,Fast Food,270,False,True,0.57,3.7
+I002240,R0136,Vanilla Milkshake,Milkshake,Fast Food,220,False,True,0.37,4.3
+I002241,R0136,Coke (300ml),Soft Drink,Fast Food,305,False,True,1.0,3.8
+I002242,R0136,Pepsi (300ml),Soft Drink,Fast Food,150,False,True,0.87,4.2
+I002243,R0136,Sprite (300ml),Soft Drink,Fast Food,330,False,True,0.84,4.6
+I002244,R0136,Limca,Soft Drink,Fast Food,125,False,True,0.33,4.0
+I002245,R0137,Chicken Biryani,Biryani,Biryani,155,False,True,0.8,4.2
+I002246,R0137,Mutton Biryani,Biryani,Biryani,230,False,True,0.87,4.2
+I002247,R0137,Veg Biryani,Biryani,Biryani,235,True,True,0.89,4.1
+I002248,R0137,Egg Biryani,Biryani,Biryani,120,False,True,0.67,4.4
+I002249,R0137,Prawn Biryani,Biryani,Biryani,230,False,True,0.48,3.8
+I002250,R0137,Boondi Raita,Raita,Biryani,190,False,True,0.42,4.5
+I002251,R0137,Cucumber Raita,Raita,Biryani,255,False,True,0.74,3.8
+I002252,R0137,Mixed Raita,Raita,Biryani,160,False,True,0.85,4.5
+I002253,R0137,Mirchi Ka Salan,Salan,Biryani,320,False,True,0.58,4.3
+I002254,R0137,Shorba,Salan,Biryani,285,False,True,0.98,5.0
+I002255,R0137,Biryani Gravy,Salan,Biryani,350,False,True,0.92,4.5
+I002256,R0137,Chicken Shorba,Shorba,Biryani,100,False,True,0.79,3.9
+I002257,R0137,Veg Shorba,Shorba,Biryani,115,True,True,0.79,4.6
+I002258,R0137,Seekh Kebab,Kebab,Biryani,265,False,True,0.56,4.3
+I002259,R0137,Chicken 65,Kebab,Biryani,335,False,True,0.81,4.3
+I002260,R0137,Reshmi Kebab,Kebab,Biryani,250,False,True,0.95,4.1
+I002261,R0137,Boti Kebab,Kebab,Biryani,125,False,True,0.53,4.1
+I002262,R0137,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,170,True,True,0.67,4.0
+I002263,R0137,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,125,True,True,0.43,4.9
+I002264,R0138,Coke (300ml),Soft Drink,Beverages,255,False,True,0.52,4.1
+I002265,R0138,Pepsi (300ml),Soft Drink,Beverages,225,False,True,0.77,4.4
+I002266,R0138,Sprite (300ml),Soft Drink,Beverages,335,False,True,0.74,4.9
+I002267,R0138,Limca,Soft Drink,Beverages,100,False,True,0.92,4.6
+I002268,R0138,Fresh Orange Juice,Juice,Beverages,145,True,True,0.48,4.3
+I002269,R0138,Watermelon Juice,Juice,Beverages,130,True,True,0.85,4.7
+I002270,R0138,Mixed Fruit Juice,Juice,Beverages,175,True,True,0.35,5.0
+I002271,R0138,Sweet Lassi,Lassi,Beverages,165,True,True,0.35,4.0
+I002272,R0138,Salted Lassi,Lassi,Beverages,340,True,True,0.86,4.2
+I002273,R0138,Mango Lassi,Lassi,Beverages,175,True,True,0.6,3.5
+I002274,R0138,Masala Chai,Chai,Beverages,280,True,True,0.37,4.3
+I002275,R0138,Ginger Chai,Chai,Beverages,240,True,True,0.3,5.0
+I002276,R0138,Cappuccino,Coffee,Beverages,175,False,True,0.35,4.8
+I002277,R0138,Latte,Coffee,Beverages,140,False,True,0.32,4.2
+I002278,R0138,Espresso,Coffee,Beverages,130,False,True,0.99,3.5
+I002279,R0138,Mineral Water (500ml),Water,Beverages,115,True,True,0.88,3.9
+I002280,R0139,Veg Burger,Burger,Fast Food,330,True,True,0.52,3.6
+I002281,R0139,Chicken Burger,Burger,Fast Food,105,False,True,0.5,4.2
+I002282,R0139,Zinger Burger,Burger,Fast Food,100,False,True,0.71,4.0
+I002283,R0139,Double Patty Burger,Burger,Fast Food,200,False,True,0.48,4.3
+I002284,R0139,Regular Fries,Fries,Fast Food,160,False,True,0.39,4.8
+I002285,R0139,Cheese Fries,Fries,Fast Food,200,False,True,0.35,3.8
+I002286,R0139,Peri Peri Fries,Fries,Fast Food,175,False,True,0.84,3.5
+I002287,R0139,Chicken Wrap,Wrap,Fast Food,220,False,True,0.59,5.0
+I002288,R0139,Paneer Wrap,Wrap,Fast Food,145,True,True,0.74,3.8
+I002289,R0139,Veg Wrap,Wrap,Fast Food,235,True,True,0.69,3.6
+I002290,R0139,Chicken Nuggets (6 pcs),Nuggets,Fast Food,215,False,True,0.62,4.0
+I002291,R0139,Chicken Nuggets (12 pcs),Nuggets,Fast Food,170,False,True,0.46,3.5
+I002292,R0139,Chocolate Milkshake,Milkshake,Fast Food,100,False,True,0.71,3.9
+I002293,R0139,Strawberry Milkshake,Milkshake,Fast Food,140,False,True,0.78,4.3
+I002294,R0139,Vanilla Milkshake,Milkshake,Fast Food,330,False,True,0.88,4.6
+I002295,R0139,Coke (300ml),Soft Drink,Fast Food,130,False,True,0.77,4.5
+I002296,R0139,Pepsi (300ml),Soft Drink,Fast Food,290,False,True,0.48,4.5
+I002297,R0139,Sprite (300ml),Soft Drink,Fast Food,255,False,True,0.57,4.5
+I002298,R0139,Limca,Soft Drink,Fast Food,120,False,True,0.75,4.4
+I002299,R0140,Chicken Biryani,Biryani,Biryani,70,False,True,0.87,4.8
+I002300,R0140,Mutton Biryani,Biryani,Biryani,70,False,True,0.35,4.4
+I002301,R0140,Veg Biryani,Biryani,Biryani,100,True,True,0.6,4.6
+I002302,R0140,Egg Biryani,Biryani,Biryani,145,False,True,0.63,3.5
+I002303,R0140,Prawn Biryani,Biryani,Biryani,110,False,True,0.76,4.7
+I002304,R0140,Boondi Raita,Raita,Biryani,70,False,True,0.67,4.2
+I002305,R0140,Cucumber Raita,Raita,Biryani,115,False,True,0.34,4.8
+I002306,R0140,Mixed Raita,Raita,Biryani,100,False,True,0.91,4.0
+I002307,R0140,Mirchi Ka Salan,Salan,Biryani,115,False,True,0.97,4.9
+I002308,R0140,Shorba,Salan,Biryani,145,False,True,0.33,4.1
+I002309,R0140,Biryani Gravy,Salan,Biryani,55,False,True,0.52,3.8
+I002310,R0140,Chicken Shorba,Shorba,Biryani,110,False,True,0.85,4.3
+I002311,R0140,Veg Shorba,Shorba,Biryani,130,True,True,0.31,4.7
+I002312,R0140,Seekh Kebab,Kebab,Biryani,70,False,True,0.62,4.2
+I002313,R0140,Chicken 65,Kebab,Biryani,135,False,True,0.98,3.9
+I002314,R0140,Reshmi Kebab,Kebab,Biryani,55,False,True,0.76,4.3
+I002315,R0140,Boti Kebab,Kebab,Biryani,105,False,True,0.33,4.7
+I002316,R0140,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,75,True,True,0.53,3.8
+I002317,R0140,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,145,True,True,0.42,4.6
+I002318,R0141,Papdi Chaat,Chaat,Street Food,75,False,True,0.6,5.0
+I002319,R0141,Aloo Chaat,Chaat,Street Food,60,True,True,0.92,4.9
+I002320,R0141,Dahi Puri,Chaat,Street Food,120,False,True,0.31,4.7
+I002321,R0141,Pav Bhaji (2 pav),Pav Bhaji,Street Food,140,False,True,0.99,4.8
+I002322,R0141,Pav Bhaji (4 pav),Pav Bhaji,Street Food,95,False,True,0.78,4.2
+I002323,R0141,Vada Pav,Vada Pav,Street Food,85,False,True,0.74,4.7
+I002324,R0141,Cheese Vada Pav,Vada Pav,Street Food,115,False,True,0.88,3.8
+I002325,R0141,Pani Puri (6 pcs),Pani Puri,Street Food,85,False,True,0.52,3.8
+I002326,R0141,Bhel Puri,Bhel Puri,Street Food,95,False,True,0.96,4.3
+I002327,R0141,Samosa (2 pcs),Samosa,Street Food,80,False,True,0.55,4.4
+I002328,R0141,Samosa (4 pcs),Samosa,Street Food,85,False,True,0.68,3.9
+I002329,R0142,Butter Chicken,Curry,North Indian,85,False,True,0.79,4.4
+I002330,R0142,Palak Paneer,Curry,North Indian,60,True,True,0.98,3.6
+I002331,R0142,Chicken Masala,Curry,North Indian,60,False,True,0.79,4.6
+I002332,R0142,Lamb Curry,Curry,North Indian,50,False,True,0.75,3.5
+I002333,R0142,Mixed Veg Curry,Curry,North Indian,145,True,True,0.79,3.8
+I002334,R0142,Dal Makhani,Dal,North Indian,65,False,True,0.7,4.5
+I002335,R0142,Dal Tadka,Dal,North Indian,135,False,True,0.93,4.1
+I002336,R0142,Dal Fry,Dal,North Indian,135,False,True,0.68,4.2
+I002337,R0142,Chana Masala,Dal,North Indian,120,False,True,0.37,3.9
+I002338,R0142,Paneer Tikka Masala,Paneer Dish,North Indian,130,True,True,0.65,4.9
+I002339,R0142,Shahi Paneer,Paneer Dish,North Indian,60,True,True,0.52,4.0
+I002340,R0142,Kadai Paneer,Paneer Dish,North Indian,90,True,True,0.99,4.0
+I002341,R0142,Matar Paneer,Paneer Dish,North Indian,100,True,True,0.68,4.7
+I002342,R0142,Butter Naan,Bread,North Indian,100,False,True,0.72,4.6
+I002343,R0142,Roti,Bread,North Indian,60,False,True,0.97,4.8
+I002344,R0142,Paratha,Bread,North Indian,90,False,True,0.81,4.6
+I002345,R0142,Garlic Naan,Bread,North Indian,135,False,True,0.43,4.6
+I002346,R0142,Puri,Bread,North Indian,55,False,True,0.38,4.7
+I002347,R0142,Steamed Rice,Rice,North Indian,130,False,True,0.71,4.4
+I002348,R0142,Jeera Rice,Rice,North Indian,125,False,True,0.93,4.1
+I002349,R0142,Veg Pulao,Rice,North Indian,60,True,True,0.89,4.0
+I002350,R0142,Egg Fried Rice,Rice,North Indian,65,False,True,0.73,4.4
+I002351,R0142,Boondi Raita,Raita,North Indian,95,False,True,0.9,3.9
+I002352,R0142,Cucumber Raita,Raita,North Indian,50,False,True,0.53,3.5
+I002353,R0142,Mixed Raita,Raita,North Indian,105,False,True,0.56,4.7
+I002354,R0142,Mango Pickle,Pickle,North Indian,130,False,True,0.6,3.8
+I002355,R0142,Mixed Pickle,Pickle,North Indian,90,False,True,0.75,3.8
+I002356,R0142,Lime Pickle,Pickle,North Indian,125,False,True,0.53,4.9
+I002357,R0143,Caesar Salad,Salad,Healthy,230,True,True,0.89,4.4
+I002358,R0143,Greek Salad,Salad,Healthy,240,True,True,0.78,4.7
+I002359,R0143,Garden Salad,Salad,Healthy,260,True,True,0.86,3.8
+I002360,R0143,Banana Smoothie,Smoothie,Healthy,170,True,True,0.46,4.7
+I002361,R0143,Mixed Berry Smoothie,Smoothie,Healthy,120,True,True,0.86,4.1
+I002362,R0143,Green Detox Smoothie,Smoothie,Healthy,120,True,True,0.6,4.0
+I002363,R0143,Chicken Wrap,Wrap,Healthy,250,False,True,0.63,3.9
+I002364,R0143,Paneer Wrap,Wrap,Healthy,315,True,True,0.58,4.2
+I002365,R0143,Veg Wrap,Wrap,Healthy,310,True,True,0.36,4.1
+I002366,R0143,Masala Oats,Oats,Healthy,200,True,True,0.65,3.7
+I002367,R0143,Fruit Oats,Oats,Healthy,125,True,True,0.59,3.5
+I002368,R0143,Seasonal Fruit Bowl,Fruit Bowl,Healthy,165,True,True,0.44,4.2
+I002369,R0143,Protein Quinoa Bowl,Quinoa Bowl,Healthy,105,False,True,0.77,4.8
+I002370,R0143,Veggie Quinoa Bowl,Quinoa Bowl,Healthy,275,True,True,0.87,4.5
+I002371,R0144,Margherita Pizza,Pizza,Italian,100,False,True,0.45,3.9
+I002372,R0144,Pepperoni Pizza,Pizza,Italian,80,False,True,0.33,4.9
+I002373,R0144,BBQ Chicken Pizza,Pizza,Italian,140,False,True,0.38,4.3
+I002374,R0144,Veggie Supreme,Pizza,Italian,95,True,True,0.78,4.4
+I002375,R0144,Arrabiata Pasta,Pasta,Italian,60,False,True,0.76,4.4
+I002376,R0144,Alfredo Pasta,Pasta,Italian,105,False,True,0.58,4.9
+I002377,R0144,Pesto Pasta,Pasta,Italian,135,False,True,0.71,3.5
+I002378,R0144,Mac and Cheese,Pasta,Italian,95,False,True,0.79,3.7
+I002379,R0144,Garlic Bread,Garlic Bread,Italian,90,False,True,0.43,4.0
+I002380,R0144,Cheesy Garlic Bread,Garlic Bread,Italian,55,False,True,0.39,4.2
+I002381,R0144,Mushroom Risotto,Risotto,Italian,140,True,True,0.64,4.2
+I002382,R0144,Chicken Risotto,Risotto,Italian,130,False,True,0.49,3.6
+I002383,R0144,Tiramisu,Tiramisu,Italian,70,False,True,0.85,4.5
+I002384,R0145,Margherita Pizza,Pizza,Italian,60,False,True,0.77,4.9
+I002385,R0145,Pepperoni Pizza,Pizza,Italian,55,False,True,0.73,4.1
+I002386,R0145,BBQ Chicken Pizza,Pizza,Italian,100,False,True,0.67,4.7
+I002387,R0145,Veggie Supreme,Pizza,Italian,105,True,True,0.72,4.0
+I002388,R0145,Arrabiata Pasta,Pasta,Italian,65,False,True,0.78,3.5
+I002389,R0145,Alfredo Pasta,Pasta,Italian,85,False,True,0.45,4.1
+I002390,R0145,Pesto Pasta,Pasta,Italian,80,False,True,0.79,3.9
+I002391,R0145,Mac and Cheese,Pasta,Italian,105,False,True,0.62,4.7
+I002392,R0145,Garlic Bread,Garlic Bread,Italian,95,False,True,0.9,3.5
+I002393,R0145,Cheesy Garlic Bread,Garlic Bread,Italian,110,False,True,0.31,4.6
+I002394,R0145,Mushroom Risotto,Risotto,Italian,75,True,True,0.57,4.1
+I002395,R0145,Chicken Risotto,Risotto,Italian,135,False,True,0.37,4.5
+I002396,R0145,Tiramisu,Tiramisu,Italian,150,False,True,0.32,4.9
+I002397,R0146,Chicken Biryani,Biryani,Biryani,105,False,True,0.89,4.9
+I002398,R0146,Mutton Biryani,Biryani,Biryani,350,False,True,0.62,4.8
+I002399,R0146,Veg Biryani,Biryani,Biryani,130,True,True,0.6,4.0
+I002400,R0146,Egg Biryani,Biryani,Biryani,200,False,True,0.79,3.6
+I002401,R0146,Prawn Biryani,Biryani,Biryani,350,False,True,0.74,4.8
+I002402,R0146,Boondi Raita,Raita,Biryani,305,False,True,0.84,3.6
+I002403,R0146,Cucumber Raita,Raita,Biryani,230,False,True,0.53,3.7
+I002404,R0146,Mixed Raita,Raita,Biryani,185,False,True,0.75,3.8
+I002405,R0146,Mirchi Ka Salan,Salan,Biryani,210,False,True,0.58,3.6
+I002406,R0146,Shorba,Salan,Biryani,255,False,True,0.73,4.9
+I002407,R0146,Biryani Gravy,Salan,Biryani,175,False,True,0.59,4.1
+I002408,R0146,Chicken Shorba,Shorba,Biryani,330,False,True,0.59,4.2
+I002409,R0146,Veg Shorba,Shorba,Biryani,165,True,True,0.3,3.7
+I002410,R0146,Seekh Kebab,Kebab,Biryani,275,False,True,0.78,4.0
+I002411,R0146,Chicken 65,Kebab,Biryani,220,False,True,0.51,4.6
+I002412,R0146,Reshmi Kebab,Kebab,Biryani,310,False,True,0.93,3.8
+I002413,R0146,Boti Kebab,Kebab,Biryani,275,False,True,0.97,4.5
+I002414,R0146,Gulab Jamun (2 pcs),Gulab Jamun,Biryani,190,True,True,0.75,4.5
+I002415,R0146,Gulab Jamun (4 pcs),Gulab Jamun,Biryani,200,True,True,0.37,4.4
+I002416,R0147,Veg Hakka Noodles,Noodles,Chinese,130,True,True,1.0,3.8
+I002417,R0147,Chicken Noodles,Noodles,Chinese,120,False,True,0.32,5.0
+I002418,R0147,Schezwan Noodles,Noodles,Chinese,50,False,True,0.55,3.6
+I002419,R0147,Veg Fried Rice,Fried Rice,Chinese,110,True,True,0.54,4.6
+I002420,R0147,Egg Fried Rice,Fried Rice,Chinese,100,False,True,0.59,4.0
+I002421,R0147,Chicken Fried Rice,Fried Rice,Chinese,60,False,True,0.44,4.5
+I002422,R0147,Gobi Manchurian,Manchurian,Chinese,100,False,True,0.35,4.3
+I002423,R0147,Chicken Manchurian,Manchurian,Chinese,55,False,True,0.66,4.9
+I002424,R0147,Veg Manchurian,Manchurian,Chinese,80,True,True,0.81,4.6
+I002425,R0147,Veg Spring Roll,Spring Roll,Chinese,90,True,True,0.72,4.2
+I002426,R0147,Chicken Spring Roll,Spring Roll,Chinese,80,False,True,0.83,4.6
+I002427,R0147,Sweet Corn Soup,Soup,Chinese,140,True,True,0.73,4.1
+I002428,R0147,Hot and Sour Soup,Soup,Chinese,120,False,True,0.73,4.4
+I002429,R0147,Manchow Soup,Soup,Chinese,135,False,True,0.94,3.8
+I002430,R0147,Veg Dimsum (6 pcs),Dimsum,Chinese,80,True,True,0.76,4.3
+I002431,R0147,Chicken Dimsum (6 pcs),Dimsum,Chinese,115,False,True,0.6,4.1
+I002432,R0148,Veg Hakka Noodles,Noodles,Chinese,60,True,True,0.74,3.8
+I002433,R0148,Chicken Noodles,Noodles,Chinese,115,False,True,0.98,3.9
+I002434,R0148,Schezwan Noodles,Noodles,Chinese,65,False,True,0.32,4.1
+I002435,R0148,Veg Fried Rice,Fried Rice,Chinese,70,True,True,0.64,4.3
+I002436,R0148,Egg Fried Rice,Fried Rice,Chinese,85,False,True,0.82,4.9
+I002437,R0148,Chicken Fried Rice,Fried Rice,Chinese,70,False,True,0.89,3.7
+I002438,R0148,Gobi Manchurian,Manchurian,Chinese,75,False,True,0.69,4.0
+I002439,R0148,Chicken Manchurian,Manchurian,Chinese,55,False,True,0.51,4.9
+I002440,R0148,Veg Manchurian,Manchurian,Chinese,65,True,True,0.83,4.6
+I002441,R0148,Veg Spring Roll,Spring Roll,Chinese,60,True,True,0.53,3.8
+I002442,R0148,Chicken Spring Roll,Spring Roll,Chinese,50,False,True,0.42,3.8
+I002443,R0148,Sweet Corn Soup,Soup,Chinese,65,True,True,0.36,4.3
+I002444,R0148,Hot and Sour Soup,Soup,Chinese,80,False,True,0.94,3.8
+I002445,R0148,Manchow Soup,Soup,Chinese,110,False,True,0.93,3.6
+I002446,R0148,Veg Dimsum (6 pcs),Dimsum,Chinese,100,True,True,0.62,4.9
+I002447,R0148,Chicken Dimsum (6 pcs),Dimsum,Chinese,115,False,True,0.54,4.6
+I002448,R0149,Veg Burger,Burger,Fast Food,245,True,True,0.54,4.7
+I002449,R0149,Chicken Burger,Burger,Fast Food,265,False,True,0.3,4.8
+I002450,R0149,Zinger Burger,Burger,Fast Food,200,False,True,0.75,4.1
+I002451,R0149,Double Patty Burger,Burger,Fast Food,320,False,True,0.76,4.4
+I002452,R0149,Regular Fries,Fries,Fast Food,345,False,True,0.5,3.6
+I002453,R0149,Cheese Fries,Fries,Fast Food,230,False,True,0.6,4.2
+I002454,R0149,Peri Peri Fries,Fries,Fast Food,255,False,True,0.73,4.1
+I002455,R0149,Chicken Wrap,Wrap,Fast Food,315,False,True,0.76,4.8
+I002456,R0149,Paneer Wrap,Wrap,Fast Food,330,True,True,0.42,4.5
+I002457,R0149,Veg Wrap,Wrap,Fast Food,180,True,True,0.89,4.6
+I002458,R0149,Chicken Nuggets (6 pcs),Nuggets,Fast Food,150,False,True,0.96,4.5
+I002459,R0149,Chicken Nuggets (12 pcs),Nuggets,Fast Food,335,False,True,0.44,4.8
+I002460,R0149,Chocolate Milkshake,Milkshake,Fast Food,265,False,True,0.69,4.7
+I002461,R0149,Strawberry Milkshake,Milkshake,Fast Food,260,False,True,0.77,3.9
+I002462,R0149,Vanilla Milkshake,Milkshake,Fast Food,305,False,True,0.76,4.8
+I002463,R0149,Coke (300ml),Soft Drink,Fast Food,190,False,True,0.53,3.5
+I002464,R0149,Pepsi (300ml),Soft Drink,Fast Food,290,False,True,0.53,4.0
+I002465,R0149,Sprite (300ml),Soft Drink,Fast Food,270,False,True,0.48,4.9
+I002466,R0149,Limca,Soft Drink,Fast Food,235,False,True,0.98,3.6
+I002467,R0150,Butter Chicken,Curry,North Indian,185,False,True,0.57,4.6
+I002468,R0150,Palak Paneer,Curry,North Indian,155,True,True,0.56,4.9
+I002469,R0150,Chicken Masala,Curry,North Indian,130,False,True,0.82,4.6
+I002470,R0150,Lamb Curry,Curry,North Indian,135,False,True,0.78,4.4
+I002471,R0150,Mixed Veg Curry,Curry,North Indian,170,True,True,0.52,4.7
+I002472,R0150,Dal Makhani,Dal,North Indian,160,False,True,0.66,4.5
+I002473,R0150,Dal Tadka,Dal,North Indian,130,False,True,0.95,3.9
+I002474,R0150,Dal Fry,Dal,North Indian,180,False,True,0.77,3.6
+I002475,R0150,Chana Masala,Dal,North Indian,255,False,True,0.94,3.9
+I002476,R0150,Paneer Tikka Masala,Paneer Dish,North Indian,190,True,True,0.46,4.7
+I002477,R0150,Shahi Paneer,Paneer Dish,North Indian,140,True,True,0.54,4.4
+I002478,R0150,Kadai Paneer,Paneer Dish,North Indian,200,True,True,0.35,4.9
+I002479,R0150,Matar Paneer,Paneer Dish,North Indian,185,True,True,0.61,3.8
+I002480,R0150,Butter Naan,Bread,North Indian,315,False,True,0.5,3.5
+I002481,R0150,Roti,Bread,North Indian,180,False,True,0.99,3.7
+I002482,R0150,Paratha,Bread,North Indian,110,False,True,0.7,4.1
+I002483,R0150,Garlic Naan,Bread,North Indian,300,False,True,0.81,3.8
+I002484,R0150,Puri,Bread,North Indian,240,False,True,0.32,4.2
+I002485,R0150,Steamed Rice,Rice,North Indian,280,False,True,0.59,3.7
+I002486,R0150,Jeera Rice,Rice,North Indian,115,False,True,0.9,4.8
+I002487,R0150,Veg Pulao,Rice,North Indian,185,True,True,0.41,5.0
+I002488,R0150,Egg Fried Rice,Rice,North Indian,235,False,True,0.63,4.6
+I002489,R0150,Boondi Raita,Raita,North Indian,140,False,True,0.71,4.8
+I002490,R0150,Cucumber Raita,Raita,North Indian,105,False,True,0.77,4.3
+I002491,R0150,Mixed Raita,Raita,North Indian,340,False,True,0.48,4.8
+I002492,R0150,Mango Pickle,Pickle,North Indian,175,False,True,0.6,3.8
+I002493,R0150,Mixed Pickle,Pickle,North Indian,315,False,True,0.44,4.8
+I002494,R0150,Lime Pickle,Pickle,North Indian,215,False,True,0.88,3.9

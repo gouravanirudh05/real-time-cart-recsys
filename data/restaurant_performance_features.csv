@@ -1,0 +1,151 @@
+restaurant_id,total_orders,total_items_sold,unique_items,avg_item_price,top_5_dish_families,cuisine,price_range,rating,city
+R0001,263,635,19,217.64566929133858,Biryani|Gulab Jamun|Salan|Kebab|Raita,Biryani,mid,3.8,Hyderabad
+R0002,258,509,19,103.20235756385068,Burger|Wrap|Milkshake|Fries|Soft Drink,Fast Food,budget,4.6,Kolkata
+R0003,279,486,11,517.1502057613169,Chaat|Samosa|Pani Puri|Pav Bhaji|Vada Pav,Street Food,premium,3.8,Delhi
+R0004,263,510,19,563.8235294117648,Burger|Wrap|Soft Drink|Fries|Milkshake,Fast Food,premium,4.1,Delhi
+R0005,515,1032,21,104.81589147286822,Filter Coffee|Rice|Dosa|Idli|Chutney,South Indian,budget,4.7,Hyderabad
+R0006,465,950,21,537.0473684210526,Rice|Filter Coffee|Dosa|Idli|Chutney,South Indian,premium,3.6,Chennai
+R0007,275,692,14,94.73265895953757,Salad|Wrap|Smoothie|Oats|Quinoa Bowl,Healthy,budget,4.6,Pune
+R0008,285,463,11,212.82937365010798,Chaat|Bhel Puri|Samosa|Vada Pav|Pani Puri,Street Food,mid,3.5,Hyderabad
+R0009,347,631,13,210.5150554675119,Pizza|Risotto|Pasta|Garlic Bread|Tiramisu,Italian,mid,4.4,Bangalore
+R0010,358,768,16,198.45052083333334,Juice|Chai|Water|Lassi|Soft Drink,Beverages,mid,4.5,Pune
+R0011,317,762,28,558.5892388451443,Curry|Rice|Paneer Dish|Dal|Bread,North Indian,premium,4.1,Chennai
+R0012,358,773,13,237.90426908150064,Pizza|Risotto|Pasta|Garlic Bread|Tiramisu,Italian,mid,4.1,Chennai
+R0013,288,711,14,97.20815752461323,Salad|Wrap|Smoothie|Quinoa Bowl|Oats,Healthy,budget,3.6,Pune
+R0014,262,568,19,206.2411971830986,Biryani|Gulab Jamun|Shorba|Salan|Raita,Biryani,mid,3.7,Delhi
+R0015,246,615,14,98.47967479674797,Salad|Smoothie|Wrap|Oats|Fruit Bowl,Healthy,budget,3.9,Chennai
+R0016,275,590,19,234.94915254237287,Biryani|Gulab Jamun|Kebab|Shorba|Salan,Biryani,mid,3.8,Delhi
+R0017,308,621,16,217.4718196457327,Chai|Water|Lassi|Juice|Soft Drink,Beverages,mid,4.1,Delhi
+R0018,356,607,11,117.1334431630972,Chaat|Pav Bhaji|Samosa|Vada Pav|Pani Puri,Street Food,budget,4.1,Pune
+R0019,452,926,21,234.4816414686825,Rice|Filter Coffee|Dosa|Chutney|Sambar,South Indian,mid,4.9,Kolkata
+R0020,236,471,19,100.37154989384288,Burger|Wrap|Fries|Soft Drink|Milkshake,Fast Food,budget,4.6,Kolkata
+R0021,252,398,11,250.15075376884423,Chaat|Pani Puri|Vada Pav|Pav Bhaji|Bhel Puri,Street Food,mid,4.4,Hyderabad
+R0022,250,556,28,101.78956834532374,Curry|Rice|Paneer Dish|Dal|Bread,North Indian,budget,3.6,Delhi
+R0023,237,610,14,548.0327868852459,Salad|Wrap|Smoothie|Quinoa Bowl|Oats,Healthy,premium,4.8,Chennai
+R0024,245,560,28,217.46428571428572,Curry|Paneer Dish|Rice|Dal|Bread,North Indian,mid,4.6,Delhi
+R0025,331,638,13,232.27272727272728,Pizza|Risotto|Garlic Bread|Pasta|Tiramisu,Italian,mid,4.9,Kolkata
+R0026,357,794,14,103.18639798488665,Gulab Jamun|Ice Cream|Brownie|Kheer|Cake,Desserts,budget,5.0,Delhi
+R0027,404,702,11,239.7008547008547,Chaat|Pani Puri|Vada Pav|Bhel Puri|Samosa,Street Food,mid,4.1,Bangalore
+R0028,356,864,28,195.60763888888889,Rice|Paneer Dish|Curry|Dal|Bread,North Indian,mid,4.9,Mumbai
+R0029,452,899,21,548.53170189099,Filter Coffee|Rice|Dosa|Sambar|Idli,South Indian,premium,4.4,Hyderabad
+R0030,318,657,16,223.0213089802131,Lassi|Juice|Water|Chai|Soft Drink,Beverages,mid,4.8,Delhi
+R0031,321,597,11,99.16247906197655,Chaat|Bhel Puri|Pav Bhaji|Vada Pav|Pani Puri,Street Food,budget,4.9,Mumbai
+R0032,368,827,14,216.76541717049577,Gulab Jamun|Ice Cream|Brownie|Pastry|Kheer,Desserts,mid,4.5,Delhi
+R0033,427,896,21,98.52120535714286,Filter Coffee|Rice|Dosa|Sambar|Idli,South Indian,budget,3.8,Pune
+R0034,262,549,19,97.95081967213115,Biryani|Gulab Jamun|Shorba|Salan|Kebab,Biryani,budget,3.6,Delhi
+R0035,363,888,16,100.365990990991,Noodles|Manchurian|Fried Rice|Spring Roll|Dimsum,Chinese,budget,4.3,Kolkata
+R0036,410,947,14,626.0559662090814,Salad|Wrap|Smoothie|Fruit Bowl|Oats,Healthy,premium,4.8,Delhi
+R0037,273,444,11,260.1126126126126,Chaat|Vada Pav|Pani Puri|Bhel Puri|Samosa,Street Food,mid,4.9,Hyderabad
+R0038,425,990,14,595.2878787878788,Gulab Jamun|Ice Cream|Brownie|Kheer|Cake,Desserts,premium,3.5,Kolkata
+R0039,270,627,28,104.23444976076556,Paneer Dish|Rice|Curry|Dal|Bread,North Indian,budget,3.8,Delhi
+R0040,281,530,19,212.11320754716982,Burger|Wrap|Soft Drink|Milkshake|Fries,Fast Food,mid,3.7,Delhi
+R0041,569,1323,14,106.71201814058956,Salad|Smoothie|Wrap|Quinoa Bowl|Oats,Healthy,budget,3.6,Hyderabad
+R0042,254,562,28,197.63345195729536,Paneer Dish|Curry|Rice|Bread|Dal,North Indian,mid,4.1,Delhi
+R0043,282,614,16,105.60260586319218,Water|Lassi|Juice|Chai|Soft Drink,Beverages,budget,4.2,Chennai
+R0044,455,1073,14,221.78937558247904,Gulab Jamun|Ice Cream|Brownie|Kheer|Cake,Desserts,mid,3.8,Chennai
+R0045,245,573,19,231.82373472949388,Biryani|Gulab Jamun|Raita|Shorba|Kebab,Biryani,mid,4.2,Hyderabad
+R0046,272,510,13,116.68627450980392,Pizza|Risotto|Garlic Bread|Pasta|Tiramisu,Italian,budget,4.6,Mumbai
+R0047,250,501,21,244.6007984031936,Filter Coffee|Rice|Dosa|Idli|Chutney,South Indian,mid,4.1,Delhi
+R0048,275,625,14,194.296,Gulab Jamun|Ice Cream|Brownie|Cake|Pastry,Desserts,mid,4.0,Mumbai
+R0049,712,1673,16,212.87806335923491,Noodles|Manchurian|Fried Rice|Spring Roll|Dimsum,Chinese,mid,5.0,Hyderabad
+R0050,298,747,19,584.0093708165997,Biryani|Gulab Jamun|Shorba|Kebab|Salan,Biryani,premium,4.8,Chennai
+R0051,487,1029,19,186.8415937803693,Burger|Wrap|Soft Drink|Fries|Milkshake,Fast Food,mid,3.8,Pune
+R0052,490,1214,16,93.15485996705107,Noodles|Manchurian|Fried Rice|Spring Roll|Soup,Chinese,budget,4.3,Mumbai
+R0053,336,781,14,237.14468629961587,Gulab Jamun|Ice Cream|Brownie|Kheer|Pastry,Desserts,mid,3.8,Pune
+R0054,298,716,19,222.68156424581005,Biryani|Gulab Jamun|Shorba|Kebab|Raita,Biryani,mid,4.4,Chennai
+R0055,382,865,21,227.72832369942196,Filter Coffee|Rice|Dosa|Chutney|Sambar,South Indian,mid,4.6,Bangalore
+R0056,311,688,14,234.98546511627907,Gulab Jamun|Ice Cream|Brownie|Cake|Kheer,Desserts,mid,4.7,Mumbai
+R0057,297,679,14,230.59646539027983,Salad|Wrap|Smoothie|Fruit Bowl|Oats,Healthy,mid,4.0,Mumbai
+R0058,352,606,11,254.0924092409241,Chaat|Pani Puri|Vada Pav|Pav Bhaji|Samosa,Street Food,mid,3.9,Pune
+R0059,433,1046,19,105.38718929254303,Biryani|Gulab Jamun|Salan|Kebab|Raita,Biryani,budget,3.7,Kolkata
+R0060,367,793,16,564.8486759142497,Water|Chai|Lassi|Juice|Coffee,Beverages,premium,4.1,Mumbai
+R0061,337,850,16,84.86470588235294,Noodles|Manchurian|Fried Rice|Spring Roll|Soup,Chinese,budget,4.5,Kolkata
+R0062,274,468,11,595.3632478632478,Chaat|Pani Puri|Bhel Puri|Vada Pav|Pav Bhaji,Street Food,premium,4.6,Hyderabad
+R0063,299,749,14,104.739652870494,Salad|Smoothie|Wrap|Quinoa Bowl|Fruit Bowl,Healthy,budget,4.4,Bangalore
+R0064,312,764,16,582.3494764397906,Noodles|Manchurian|Fried Rice|Spring Roll|Dimsum,Chinese,premium,4.5,Delhi
+R0065,235,555,19,103.57657657657657,Biryani|Gulab Jamun|Salan|Shorba|Kebab,Biryani,budget,3.7,Hyderabad
+R0066,400,876,19,191.4783105022831,Biryani|Gulab Jamun|Salan|Shorba|Raita,Biryani,mid,4.2,Pune
+R0067,389,880,28,108.39772727272727,Rice|Curry|Paneer Dish|Dal|Bread,North Indian,budget,4.1,Hyderabad
+R0068,222,440,19,546.4545454545455,Burger|Wrap|Milkshake|Soft Drink|Fries,Fast Food,premium,4.3,Kolkata
+R0069,450,961,16,103.70447450572321,Water|Chai|Lassi|Juice|Soft Drink,Beverages,budget,4.5,Kolkata
+R0070,401,988,16,94.81275303643724,Noodles|Manchurian|Fried Rice|Spring Roll|Dimsum,Chinese,budget,4.2,Chennai
+R0071,314,751,14,212.09054593874833,Salad|Wrap|Smoothie|Oats|Quinoa Bowl,Healthy,mid,4.1,Mumbai
+R0072,454,1059,28,232.62039660056658,Rice|Paneer Dish|Curry|Bread|Dal,North Indian,mid,4.4,Pune
+R0073,302,642,16,101.71339563862928,Water|Lassi|Chai|Juice|Coffee,Beverages,budget,4.7,Bangalore
+R0074,337,816,16,91.7279411764706,Noodles|Manchurian|Fried Rice|Spring Roll|Dimsum,Chinese,budget,5.0,Kolkata
+R0075,328,615,13,89.23577235772358,Pizza|Risotto|Garlic Bread|Pasta|Tiramisu,Italian,budget,4.0,Kolkata
+R0076,309,634,16,245.17350157728706,Chai|Juice|Lassi|Water|Soft Drink,Beverages,mid,4.2,Bangalore
+R0077,306,681,16,101.35095447870778,Water|Juice|Lassi|Chai|Soft Drink,Beverages,budget,4.9,Bangalore
+R0078,301,651,16,229.02457757296466,Water|Juice|Lassi|Chai|Soft Drink,Beverages,mid,4.2,Bangalore
+R0079,568,975,11,95.87692307692308,Chaat|Pav Bhaji|Pani Puri|Samosa|Vada Pav,Street Food,budget,4.3,Kolkata
+R0080,261,620,14,224.67741935483872,Salad|Wrap|Smoothie|Oats|Quinoa Bowl,Healthy,mid,4.6,Bangalore
+R0081,420,924,14,531.5422077922078,Gulab Jamun|Ice Cream|Brownie|Kheer|Cake,Desserts,premium,3.9,Hyderabad
+R0082,304,620,16,203.6209677419355,Chai|Water|Lassi|Juice|Soft Drink,Beverages,mid,3.8,Delhi
+R0083,268,518,13,224.01544401544402,Pizza|Risotto|Garlic Bread|Pasta|Tiramisu,Italian,mid,4.7,Mumbai
+R0084,335,701,16,97.2111269614836,Lassi|Water|Chai|Juice|Coffee,Beverages,budget,5.0,Pune
+R0085,340,850,16,93.38823529411765,Noodles|Manchurian|Fried Rice|Spring Roll|Soup,Chinese,budget,4.7,Delhi
+R0086,193,361,11,103.78116343490305,Chaat|Pani Puri|Samosa|Bhel Puri|Vada Pav,Street Food,budget,4.9,Chennai
+R0087,264,432,11,102.02546296296296,Chaat|Vada Pav|Pani Puri|Samosa|Pav Bhaji,Street Food,budget,4.0,Hyderabad
+R0088,378,842,14,234.75653206650833,Gulab Jamun|Ice Cream|Brownie|Cake|Kheer,Desserts,mid,4.7,Hyderabad
+R0089,281,740,14,219.1283783783784,Salad|Smoothie|Wrap|Fruit Bowl|Quinoa Bowl,Healthy,mid,4.4,Chennai
+R0090,346,867,28,220.3114186851211,Rice|Paneer Dish|Curry|Dal|Raita,North Indian,mid,3.6,Kolkata
+R0091,349,833,14,196.062424969988,Salad|Smoothie|Wrap|Fruit Bowl|Quinoa Bowl,Healthy,mid,4.3,Delhi
+R0092,245,474,21,102.584388185654,Rice|Filter Coffee|Dosa|Idli|Chutney,South Indian,budget,4.1,Delhi
+R0093,264,572,19,234.16958041958043,Biryani|Gulab Jamun|Shorba|Salan|Raita,Biryani,mid,4.2,Delhi
+R0094,268,660,19,211.70454545454547,Biryani|Gulab Jamun|Shorba|Kebab|Salan,Biryani,mid,3.9,Chennai
+R0095,387,974,16,219.10164271047228,Noodles|Manchurian|Fried Rice|Spring Roll|Dimsum,Chinese,mid,4.8,Chennai
+R0096,381,788,19,103.75634517766497,Burger|Wrap|Fries|Soft Drink|Milkshake,Fast Food,budget,4.6,Mumbai
+R0097,262,625,14,99.152,Salad|Smoothie|Wrap|Oats|Quinoa Bowl,Healthy,budget,3.8,Mumbai
+R0098,415,705,11,75.02127659574468,Chaat|Pani Puri|Samosa|Pav Bhaji|Vada Pav,Street Food,budget,3.9,Bangalore
+R0099,204,362,11,232.77624309392266,Chaat|Pani Puri|Vada Pav|Pav Bhaji|Bhel Puri,Street Food,mid,3.7,Chennai
+R0100,310,718,19,508.44707520891365,Biryani|Gulab Jamun|Kebab|Salan|Shorba,Biryani,premium,3.7,Pune
+R0101,374,607,11,202.74299835255354,Chaat|Pani Puri|Bhel Puri|Pav Bhaji|Vada Pav,Street Food,mid,4.7,Pune
+R0102,263,628,14,108.51114649681529,Salad|Smoothie|Wrap|Fruit Bowl|Oats,Healthy,budget,4.2,Bangalore
+R0103,365,893,16,115.8174692049272,Noodles|Manchurian|Spring Roll|Fried Rice|Soup,Chinese,budget,3.7,Pune
+R0104,307,601,16,209.9916805324459,Lassi|Juice|Chai|Water|Coffee,Beverages,mid,4.0,Chennai
+R0105,386,905,19,210.59668508287294,Biryani|Gulab Jamun|Kebab|Salan|Shorba,Biryani,mid,4.1,Bangalore
+R0106,378,918,28,231.03485838779957,Paneer Dish|Rice|Curry|Bread|Dal,North Indian,mid,3.9,Kolkata
+R0107,468,1081,19,98.68177613321,Biryani|Gulab Jamun|Shorba|Raita|Kebab,Biryani,budget,3.5,Mumbai
+R0108,412,866,19,241.37413394919167,Burger|Wrap|Soft Drink|Fries|Milkshake,Fast Food,mid,4.3,Chennai
+R0109,305,718,14,237.39554317548746,Gulab Jamun|Ice Cream|Brownie|Pastry|Kheer,Desserts,mid,4.2,Mumbai
+R0110,339,682,13,251.86217008797655,Pizza|Risotto|Pasta|Garlic Bread|Tiramisu,Italian,mid,3.9,Chennai
+R0111,367,755,13,105.82781456953643,Pizza|Risotto|Pasta|Garlic Bread|Tiramisu,Italian,budget,4.5,Chennai
+R0112,327,571,11,98.89667250437829,Chaat|Vada Pav|Pani Puri|Pav Bhaji|Samosa,Street Food,budget,3.6,Mumbai
+R0113,388,850,14,549.0705882352942,Gulab Jamun|Ice Cream|Brownie|Kheer|Pastry,Desserts,premium,4.0,Hyderabad
+R0114,286,693,19,584.8124098124098,Biryani|Gulab Jamun|Kebab|Salan|Raita,Biryani,premium,3.9,Hyderabad
+R0115,312,663,16,99.75867269984917,Juice|Water|Chai|Lassi|Coffee,Beverages,budget,4.5,Bangalore
+R0116,247,483,19,254.39958592132504,Burger|Wrap|Soft Drink|Milkshake|Fries,Fast Food,mid,3.8,Kolkata
+R0117,310,623,13,497.07865168539325,Pizza|Garlic Bread|Pasta|Risotto|Tiramisu,Italian,premium,3.8,Kolkata
+R0118,226,418,11,215.44258373205741,Chaat|Pav Bhaji|Pani Puri|Vada Pav|Samosa,Street Food,mid,3.9,Chennai
+R0119,293,522,11,554.3007662835249,Chaat|Bhel Puri|Samosa|Vada Pav|Pav Bhaji,Street Food,premium,4.6,Mumbai
+R0120,394,823,14,235.43134872417983,Gulab Jamun|Ice Cream|Brownie|Pastry|Kheer,Desserts,mid,3.6,Bangalore
+R0121,532,1031,16,225.90203685741997,Chai|Juice|Lassi|Water|Soft Drink,Beverages,mid,3.9,Hyderabad
+R0122,277,644,14,553.664596273292,Salad|Smoothie|Wrap|Oats|Fruit Bowl,Healthy,premium,4.6,Bangalore
+R0123,295,580,19,204.75862068965517,Burger|Wrap|Soft Drink|Fries|Milkshake,Fast Food,mid,4.7,Delhi
+R0124,243,457,13,232.6586433260394,Pizza|Risotto|Pasta|Garlic Bread|Tiramisu,Italian,mid,3.9,Mumbai
+R0125,285,706,14,565.1487252124646,Salad|Wrap|Smoothie|Quinoa Bowl|Oats,Healthy,premium,3.5,Bangalore
+R0126,345,732,19,198.42896174863387,Burger|Wrap|Milkshake|Soft Drink|Fries,Fast Food,mid,4.3,Mumbai
+R0127,309,657,16,83.87366818873669,Lassi|Water|Juice|Chai|Soft Drink,Beverages,budget,4.5,Mumbai
+R0128,284,720,14,83.11111111111111,Salad|Smoothie|Wrap|Oats|Fruit Bowl,Healthy,budget,4.4,Pune
+R0129,268,564,16,216.604609929078,Lassi|Chai|Water|Juice|Soft Drink,Beverages,mid,4.0,Chennai
+R0130,355,875,16,589.3371428571429,Noodles|Manchurian|Fried Rice|Spring Roll|Soup,Chinese,premium,3.5,Bangalore
+R0131,279,503,11,107.8727634194831,Chaat|Pani Puri|Samosa|Pav Bhaji|Vada Pav,Street Food,budget,3.8,Delhi
+R0132,399,771,13,102.16601815823606,Pizza|Pasta|Risotto|Garlic Bread|Tiramisu,Italian,budget,3.9,Delhi
+R0133,367,784,16,98.25255102040816,Juice|Lassi|Chai|Water|Coffee,Beverages,budget,4.0,Pune
+R0134,335,820,28,95.6829268292683,Paneer Dish|Rice|Curry|Dal|Bread,North Indian,budget,4.2,Mumbai
+R0135,314,759,14,92.95125164690383,Salad|Wrap|Smoothie|Quinoa Bowl|Oats,Healthy,budget,3.6,Pune
+R0136,239,483,19,232.2049689440994,Burger|Wrap|Soft Drink|Fries|Milkshake,Fast Food,mid,4.7,Kolkata
+R0137,262,634,19,197.1608832807571,Biryani|Gulab Jamun|Shorba|Raita|Kebab,Biryani,mid,3.9,Hyderabad
+R0138,260,557,16,192.2531418312388,Chai|Juice|Lassi|Water|Soft Drink,Beverages,mid,4.3,Chennai
+R0139,457,951,19,204.26919032597266,Burger|Wrap|Milkshake|Fries|Soft Drink,Fast Food,mid,4.7,Bangalore
+R0140,416,1001,19,104.02097902097903,Biryani|Gulab Jamun|Kebab|Salan|Raita,Biryani,budget,3.7,Kolkata
+R0141,184,338,11,87.35207100591715,Chaat|Pani Puri|Bhel Puri|Vada Pav|Pav Bhaji,Street Food,budget,4.1,Chennai
+R0142,211,490,28,92.18367346938776,Paneer Dish|Curry|Rice|Bread|Dal,North Indian,budget,4.6,Delhi
+R0143,316,791,14,215.44247787610618,Salad|Smoothie|Wrap|Quinoa Bowl|Oats,Healthy,mid,4.4,Bangalore
+R0144,382,731,13,101.37482900136798,Pizza|Risotto|Pasta|Garlic Bread|Tiramisu,Italian,budget,3.5,Bangalore
+R0145,315,578,13,93.1401384083045,Pizza|Risotto|Garlic Bread|Pasta|Tiramisu,Italian,budget,4.3,Pune
+R0146,352,846,19,216.90898345153664,Biryani|Gulab Jamun|Shorba|Kebab|Raita,Biryani,mid,4.6,Bangalore
+R0147,392,933,16,99.04072883172562,Noodles|Manchurian|Spring Roll|Fried Rice|Dimsum,Chinese,budget,4.6,Pune
+R0148,350,868,16,72.52880184331798,Manchurian|Noodles|Fried Rice|Spring Roll|Dimsum,Chinese,budget,4.9,Bangalore
+R0149,433,859,19,260.0,Burger|Wrap|Fries|Milkshake|Soft Drink,Fast Food,mid,3.9,Bangalore
+R0150,411,941,28,188.788522848034,Curry|Rice|Paneer Dish|Bread|Raita,North Indian,mid,3.7,Hyderabad
