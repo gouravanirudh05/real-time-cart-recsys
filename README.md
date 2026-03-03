@@ -12,7 +12,7 @@ Conventional approaches (association rules, static collaborative filtering) trea
 
 The system formulates CSAO as a **contextual sequential ranking problem** and uses a two-stage pipeline:
 
-![DCCN](image/DCCN.png)
+![DCCN](images/DCCN.png)
 
 ### Stage 1: Candidate Retrieval
 Reduces the full restaurant menu to ~50–100 candidates using:
@@ -53,6 +53,8 @@ Training proceeds in two stages:
 - **New Items** — Sentence-BERT embeddings capture semantic relationships before any interaction data exists.
 - **New Restaurants** — Representations aggregated from pretrained item embeddings + cuisine-level priors.
 - **New Users** — Model falls back to cart-context encoding and restaurant-level priors.
+
+![Cold Start](images/cold_start.png)
 
 ## Synthetic Data Pipeline
 
