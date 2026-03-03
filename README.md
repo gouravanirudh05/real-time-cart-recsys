@@ -99,6 +99,18 @@ Outputs are written to the `data/` directory. Use `user_item_interactions.csv` a
 - **Primary metrics:** CSAO attach rate, AOV lift
 - **Guardrails:** Cart Abandonment Rate, Cart-to-Order Conversion (with automatic circuit breakers)
 
+## Simulation Results
+
+### Lunch Order
+
+![](images/Lunch_1.jpeg)
+![](images/Lunch_2.jpeg)
+
+### Late-night Order
+
+![](images/Late-night_1.jpeg)
+![](images/Late-night_2.jpeg)
+
 ## Tech Stack
 
 - Python 3, NumPy, Pandas
@@ -119,7 +131,8 @@ Outputs are written to the `data/` directory. Use `user_item_interactions.csv` a
 │   ├── user_item_interactions.csv
 │   ├── user_history_features.csv
 │   └── restaurant_performance_features.csv
-├── Proprosal.pdf                      # Project proposal document
+├── images/
+├── recsys.py                          # Recommendation System
 └── README.md
 ```
 
